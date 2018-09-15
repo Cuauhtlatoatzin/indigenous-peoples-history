@@ -21,6 +21,7 @@ Humans have a very messy story of migration and intermingling with other varieti
 * [Malaspinas, Anna-Sapfo et al. A genomic history of Aboriginal Australia. Nature. 538. 207–214 13 Oct. 2016.](https://www.nature.com/articles/nature18299)
 * [Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep. 2016](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
 * [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
+* [McEvoy, Brian et al. Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American journal of human genetics. 13 Aug. 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
 
 # Pre Clovis (before 11000 BCE)
 
