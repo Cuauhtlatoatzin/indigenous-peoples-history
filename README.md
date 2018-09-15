@@ -1,11 +1,30 @@
 # Research Related to Indigenous Peoples Of The So Called Americas
 
-Just an attempt at documenting a full chronology of the so called Americas since the first settlment up to 60 ka ago.
+This is an attempt at documenting a full chronology of the so called Americas since the first settlment up to 130 ka ago. Below is a timeline for the entire continent not constrained to any particular modern day country -- because modern day country borders are completely artificial and lifeless. They take no account of how people live on the geography of the Earth, they were established by colonization by extractive empire which set the course for the destruction of countless ecosystems and ways of life.
 
+
+# Origin of Modern Humans and other Necessary Background
+
+Humans have a very messy story of migration and intermingling with other varieties of our family tree. We are starting to untangle the story. However, it is necessary to have a picture of what the research currently looks like for the origins of modern humans.
+
+* Somewhere around 400,000 - 300,000 thousand years ago modern humans appeared in the northern part of Africa and in the Middle East.
+* During the next 200,000 years modern humans migrated south through Africa and most likely interbred with our existing relatives already in the continent.
+* 70,000 years ago, a large group left Africa and traveled through SE Asia and Indonesia and down into Austrlia.
+* Many more migrations in different areas and directions occurred. These migrations likely encountered more of our genetic relatives and we likely interbred with them.
+
+* National Geographic has a nice looking, but crude, map which traces the general flow of modern genetics out of Africa and into the rest of the world: [Map of Human Migration](https://genographic.nationalgeographic.com/human-journey/)
+* [Langley, Michelle. World’s scientists turn to Asia and Australia to rewrite human history. The Conversation. 7 Dec. 2017.](http://theconversation.com/worlds-scientists-turn-to-asia-and-australia-to-rewrite-human-history-88697)
+* [Gibbens, Sarah. Humans Arrived in Australia 18,000 Years Earlier Than We Thought. National Geographic. 20 Jul. 2017.](https://news.nationalgeographic.com/2017/07/australia-aboriginal-early-human-evolution-spd/)
+* [Gibbons, Ann. A find in Australia hints at very early human exit from Africa. 19 Jul. 2017.](http://www.sciencemag.org/news/2017/07/find-australia-hints-very-early-human-exit-africa)
+* [Callaway, Ewen. Oldest Homo sapiens fossil claim rewrites our species' history. Nature News. 07 Jun. 2017.](https://www.nature.com/news/oldest-homo-sapiens-fossil-claim-rewrites-our-species-history-1.22114)
+* [Gibbons, Ann. World’s oldest Homo sapiens fossils found in Morocco. Science. 7 Jun. 2017.](http://www.sciencemag.org/news/2017/06/world-s-oldest-homo-sapiens-fossils-found-morocco)
+* [Malaspinas, Anna-Sapfo et al. A genomic history of Aboriginal Australia. Nature. 538. 207–214 13 Oct. 2016.](https://www.nature.com/articles/nature18299)
+* [Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep. 2016](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
+* [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
 
 # Pre Clovis (before 11000 BCE)
 
-These links support discoveries in the PNW and Canada which are around 14 KA ago.
+These links support discoveries on the continent prior to any currently established theories (as of 2018).
 
 ## Overview of new findings
 
