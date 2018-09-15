@@ -140,9 +140,8 @@ These links support discoveries on the continent prior to any currently establis
 
 * [Plano Culture](https://en.wikipedia.org/wiki/Plano_cultures)
 * [Plano Culture. A History of the Native People of Canada. Vol 1.](https://www.historymuseum.ca/cmc/exhibitions/archeo/hnpc/npvol07e.shtml)
-  ```
-  The name 'Plano' derives from the fact that the culture was first recognized on the Plains. In part, the name is a misnomer as Plano culture extends from the Southern Plateau of British Columbia to the Atlantic coast and from Keewatin District in the Northwest Territories to the Gulf of Mexico. More so than the Early Archaic complexes of the east, Plano culture's occupation of a number of markedly different environments mimics that of its Palaeo-Indian ancestors. The core area of the culture, however, was the Plains and whether Plano culture is found on the Gaspé coast of Québec or the Barrengrounds of the Northwest Territories, its origin was originally the Plains.
-  ```
+  `The name 'Plano' derives from the fact that the culture was first recognized on the Plains. In part, the name is a misnomer as Plano culture extends from the Southern Plateau of British Columbia to the Atlantic coast and from Keewatin District in the Northwest Territories to the Gulf of Mexico. More so than the Early Archaic complexes of the east, Plano culture's occupation of a number of markedly different environments mimics that of its Palaeo-Indian ancestors. The core area of the culture, however, was the Plains and whether Plano culture is found on the Gaspé coast of Québec or the Barrengrounds of the Northwest Territories, its origin was originally the Plains.`
+
   Basically, they went through the whole region where the bison roamed.
 * [`The Early Plano culture was primarily based in the Plains of Canada, with offshoots as far east as the Gaspe Peninnsula and as far northwest as the Peace River Valley of Alberta and British Columbia. Plano was also widespread in the United States, extending south to the Gulf of Mexico. Some tools found in the Canadian Plains were made from stone sources in the US`](https://web.archive.org/web/20110713193402/http://www.learnersportal.com/CanadaFP/Ancient/per1.html)
 * Agate Basin Site, WY
