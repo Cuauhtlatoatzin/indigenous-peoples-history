@@ -42,6 +42,18 @@ These links support discoveries on the continent prior to any currently establis
 * [Than, Ker. On Way to New World, First Americans Made a 10,000-Year Pit Stop. National Geographic. 27 Feb. 2014.](https://news.nationalgeographic.com/news/2014/04/140227-native-americans-beringia-bering-strait-pit-stop/)
 * [Langlois, Krista, Heather Pringle. A Sunken Bridge the Size of a Continent. Hakai. 20 Sep. 2016](https://www.hakaimagazine.com/features/sunken-bridge-size-continent/?xid=PS_smithsonian)
 
+## 130 KA BP (130000 BCE)
+
+### Cerutti Mastodon, San Diego County, California, USA
+
+* [Holen, Steven R. et al. A 130,000-year-old archaeological site in southern California, USA. Nature. 544. 479–483 27 Apr. 2017.](https://www.nature.com/articles/nature22065)
+* [Greshko, Michael. Humans in California 130,000 Years Ago? Get the Facts. National Geographic. 26 Apr. 2017.](https://news.nationalgeographic.com/2017/04/mastodons-americas-peopling-migrations-archaeology-science/)
+* [Zimmer, Carl. Humans Lived in North America 130,000 Years Ago, Study Claims. New York Times. 26 Apr. 2017.](https://www.nytimes.com/2017/04/26/science/prehistoric-humans-north-america-california-nature-study.html)
+* [Khan, Amina. 130,000-year-old mastodon bones could rewrite story of how humans first appeared in the Americas. Los Angeles Times. 26 Apr. 2017](http://www.latimes.com/science/sciencenow/la-sci-sn-americas-first-humans-20170426-story.html)
+* [Wong, Kate. Ancient Bones Spark Fresh Debate over First Humans in the Americas. Scientific American. 26 Apr. 2017.](https://www.scientificamerican.com/article/ancient-bones-spark-fresh-debate-over-first-humans-in-the-americas/)
+* [Niler, Eric. A 130,000-Year-Old Mastodon Threatens to Upend Human History. Wired. 26 Apr. 2017.](https://www.wired.com/2017/04/130000-year-old-mastodon-threatens-upend-human-history/)
+* [Benton, Adam. 130,000 year old “first Americans” disproven. Filthy Monkey Men. 19 Oct. 2017.](https://www.filthymonkeymen.com/2017/10/19/130000-first-americans-disproven/)
+
 ## 24,000 BP (22000 BCE)
 
 ### Bluefish Caves, Yukon, Canada
