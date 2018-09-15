@@ -12,6 +12,8 @@ Humans have a very messy story of migration and intermingling with other varieti
 * 70,000 years ago, a large group left Africa and traveled through SE Asia and Indonesia and down into Austrlia.
 * Many more migrations in different areas and directions occurred. These migrations likely encountered more of our genetic relatives and we likely interbred with them.
 
+## Sources
+
 * National Geographic has a nice looking, but crude, map which traces the general flow of modern genetics out of Africa and into the rest of the world: [Map of Human Migration](https://genographic.nationalgeographic.com/human-journey/)
 * [Langley, Michelle. World’s scientists turn to Asia and Australia to rewrite human history. The Conversation. 7 Dec. 2017.](http://theconversation.com/worlds-scientists-turn-to-asia-and-australia-to-rewrite-human-history-88697)
 * [Gibbens, Sarah. Humans Arrived in Australia 18,000 Years Earlier Than We Thought. National Geographic. 20 Jul. 2017.](https://news.nationalgeographic.com/2017/07/australia-aboriginal-early-human-evolution-spd/)
