@@ -162,6 +162,10 @@ These links support discoveries on the continent prior to any currently establis
 
 # Early Archaic (8000 BCE - 6000 BCE)
 
+## Ajuereado Phase, Tehuacán Valley (9000 BCE - 7000 BCE)
+
+* [Ajuereado Phase. The Concise Oxford Dictionary of Archaeology.](http://www.oxfordreference.com/view/10.1093/oi/authority.20110810104328172)
+
 ## Plano Cultures (9000 BCE - 6000 BCE)
 
 * [Plano Culture](https://en.wikipedia.org/wiki/Plano_cultures)
@@ -179,6 +183,14 @@ These links support discoveries on the continent prior to any currently establis
 * Jones-Miller Bison Kill Site in Yuma County, CO
 * Foothills / Mountain Complex, CO
 
+## El Riego Phase, Tehuacán Valley (8650 BCE - 5700 BCE)
+
+* [El Riego Phase](https://en.wikipedia.org/wiki/El_Riego_phase)
+
+### Balsas River Valley (7200 BCE - ?)
+
+* [Balsas River Valley](https://en.wikipedia.org/wiki/Balsas_River)
+
 ## Paleo-Arctic Tradition (8000 BCE - 5000 BCE)
 
 ### Tlingit Petroglyphs
@@ -191,16 +203,30 @@ These links support discoveries on the continent prior to any currently establis
 * [Maritime Archaic](https://en.wikipedia.org/wiki/Maritime_Archaic)
 * Built longhouses.
 
-## Red Paint People (3000 BCE - 1000 CE)
-
-* [Red Paint People](https://en.wikipedia.org/wiki/Red_Paint_People)
-
-
 # Middle Archaic (6000 BCE - 3000 BCE)
 
 ## Old Copper Complex (6050 BCE - 4960 BCE)
 
 * [Beukens, R. P. RADIOCARBON DATING OF COPPER-PRESERVED ORGANICS. RADIOCARBON, VOL. 34, No. 3, 1992, P. 890-897](https://journals.uair.arizona.edu/index.php/radiocarbon/article/viewFile/1543/1547)
+
+## Coxcatlan Phase, Tehuacán Valley (5700 BCE - 3825 BCE)
+
+* [Coxcatlan Phase](https://en.wikipedia.org/wiki/Coxcatlan_Cave)
+
+### El Tajin - Papantla, Veracruz - Totonac (5600 BCE - 1230 BCE)
+
+* [El Tajin](https://en.wikipedia.org/wiki/El_Taj%C3%ADn)
+
+  The Huastec may have been here first. The rise of the civilization seemed to mirror that of the Olmecs.
+
+### Chantuto - Soconusco, Chiapas (5500 BCE - 1500 BCE)
+
+* [Chantuto](https://en.wikipedia.org/wiki/Chantuto_Archaeological_Site)
+
+### San Andrés, Tabasco - Olmec (5300 BCE - 350 BCE)
+
+* [San Andrés](https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(Mesoamerican_site))
+* [Speech Scroll](https://en.wikipedia.org/wiki/Speech_scroll#/media/File:San_Andres_Cylinder_Seal_print_1.svg)
 
 ## Horr's Island archaeological site (4730 - 2030 BCE)
 
@@ -209,6 +235,15 @@ These links support discoveries on the continent prior to any currently establis
 ## Zaña Valley, Peru (4700 BCE or 2500 BCE)
 
 * [Zaña Valley](https://en.wikipedia.org/wiki/Za%C3%B1a_Valley)
+
+## Abejas Phase - Tehuacán Valley (3825 BCE - 2600 BCE)
+
+* [Abejas Phase](https://en.wikipedia.org/wiki/Abejas_Phase)
+
+## Huaricanga, Peru - Norte Chico Culture (3570 BCE - 1800 BCE)
+
+ * [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga)
+ * [Carbon Dating of sites](https://www.fieldmuseum.org/sites/default/files/2003dates.pdf)
 
 ## Mesoamerican Paleo Indian Period Ends (3500 BCE)
 
@@ -223,6 +258,10 @@ These links support discoveries on the continent prior to any currently establis
 ## Kay-Nah-Chi-Wah-Nung (3000 BCE - 1630 CE)
 
 * https://en.wikipedia.org/wiki/Kay-Nah-Chi-Wah-Nung
+
+## Red Paint People (3000 BCE - 1000 CE)
+
+* [Red Paint People](https://en.wikipedia.org/wiki/Red_Paint_People)
 
 ## Waukegan, MI (3000 BCE)
 
@@ -242,6 +281,10 @@ These links support discoveries on the continent prior to any currently establis
 ## Arctic Small Tool Tradition (2500 BCE - 800 BCE)
 
 * [Arctic Small Tool tradition](https://en.wikipedia.org/wiki/Arctic_small_tool_tradition)
+
+## Purron Phase - Tehuacán Valley (2300 BCE - 1500 BCE)
+
+* [Only quick refence to the Purron Phase](https://www.britannica.com/place/Mexico/History#ref394288)
 
 ## Poverty Point (2200 BCE - 700 BCE)
 
@@ -280,15 +323,51 @@ These links support discoveries on the continent prior to any currently establis
 
 * [Capacha](https://en.wikipedia.org/wiki/Capacha)
 
-### Mokaya (1850 BCE - 650 BCE)
+### Mokaya - Soconusco, Chiapas (1850 BCE - 650 BCE)
 
 * [Mokaya](https://en.wikipedia.org/wiki/Mokaya)
 
-### Maya (1800 BCE - Present)
+### Paso de la Amada - Soconusco, Chiapas - Mokaya Culture, Olmec (1800 BCE - ?)
 
-### Olmec (1500 BCE - 400 BCE)
+* [Paso de la Amada](https://en.wikipedia.org/wiki/Paso_de_la_Amada)
+
+  Olmecas arrived around 1150 BCE - ver [Época_prehispánica de Mazatán (Chiapas)](https://es.wikipedia.org/wiki/Mazatán_(Chiapas)#Época_prehispánica)
+
+### Monte Alto Culture - Guatemala (1800 BCE - 200 CE)
+
+* [Monte Alto Culture](https://en.wikipedia.org/wiki/Monte_Alto_culture)
+
+### San Lorenzo Tenochtitlán - San Lorenzo, Veracruz - Olmec (1700 BCE - 900 BCE)
+
+* [San Lorenzo Tenochtitlán](https://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n)
+
+### El Manatí - Hidalgotitlán, Veracruz - Olmec (1600 BCE - 1200 BCE)
+
+* [El Manatí](https://en.wikipedia.org/wiki/El_Manat%C3%AD)
+
+### Lamanai - Orange Walk District, Belieze - Lowland Maya (1600 BCE - 1700 CE)
+
+* [Lamanai](https://en.wikipedia.org/wiki/Lamanai)
+
+  Copper metalurgy began around 950 CE.
+
+### Height of the Olmec (1500 BCE - 400 BCE)
 
 * [Olmecs](https://en.wikipedia.org/wiki/Olmecs)
+
+### Chalcatzingo - Valley of Morelos - Olmec and many others (1500 BCE - 500 BCE)
+
+* [Chalcatzingo](https://en.wikipedia.org/wiki/Chalcatzingo)
+
+  Olmec influence isn't dated until 900 BCE.
+
+### San José Mogote - Valley of Oaxaca - Zapotec (1500 BCE - 500 BCE)
+
+* [San José Mogote](https://en.wikipedia.org/wiki/San_Jos%C3%A9_Mogote)
+
+### Calixtlahuaca - Toluca Valley, Mexico - Otomi, Teotihuacan, Toltec, Matlazinca, Mexica (1500 BCE - 1510 CE)
+
+* [Calixtlahuaca](https://en.wikipedia.org/wiki/Calixtlahuaca)
 
 ### Tlapacoya (archeological site) (1500 BCE - 300 BCE)
 
