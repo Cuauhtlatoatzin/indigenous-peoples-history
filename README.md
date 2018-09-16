@@ -2,7 +2,6 @@
 
 This is an attempt at documenting a full chronology of the so called Americas since the first settlment up to 130 ka ago. Below is a timeline for the entire continent not constrained to any particular modern day country -- because modern day country borders are completely artificial and lifeless. They take no account of how people live on the geography of the Earth, they were established by colonization by extractive empire which set the course for the destruction of countless ecosystems and ways of life.
 
-
 # Origin of Modern Humans and other Necessary Background
 
 Humans have a very messy story of migration and intermingling with other varieties of our family tree. We are starting to untangle the story. However, it is necessary to have a picture of what the research currently looks like for the origins of modern humans.
@@ -67,20 +66,25 @@ These links support discoveries on the continent prior to any currently establis
 * [Cinq-Mars, Jaques. The Significance of the Bluefish Caves in Beringian Prehistory. Translation of the article in  Revista de Arqueología Americana, No. 1, (1990): pp. 9-32.](https://www.historymuseum.ca/learn/research/resources-for-scholars/essays/significance-of-the-bluefish-caves-in-beringian-prehistory/)
 
 
+# Paleo Indians (18000 BCE - 8000 BCE)
 
-# Paleo Indians (18000 - 8000 BCE)
-
-## 18,500 - 14,500 BP (16500 - 12500 BCE)
+## 18,500 - 14,500 BP (16500 BCE - 12500 BCE)
 
 ### Monte Verde, Chile
 
 * 
 
-## 15,500 - 13,200 BP (13500 - 11200 BCE)
+## 15,500 - 13,200 BP (13500 BCE - 11200 BCE)
 
 ### Debra L Fiedkiniste, Texas
 
 * 
+
+## 15,000 - 13,000 BP (14000 BCE - 11000 BCE)
+
+### Wakulla Springs, Florida
+
+* [Stewart, Tamara. Sneak Peak: 15,000 Year-Old Pre-Clovis at Wakulla Springs. American Archeology Magazine. 7 Sep. 2018.](https://www.archaeologicalconservancy.org/sneak-peak-15000-year-old-pre-clovis-at-wakulla-springs/)
 
 ## 14,400 BP (12400 BCE)
 
@@ -120,23 +124,22 @@ These links support discoveries on the continent prior to any currently establis
 
 *
 
-## Clovis (13500 - 11000 BCE)
+## Clovis (13500 BCE - 11000 BCE)
 
-## Western Fluted Point Tradition (11200 - 9000 BCE)
+## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
 
-## Post Pattern (11000 - 7000 BCE)
+## Post Pattern (11000 BCE - 7000 BCE)
 
-## Mesoamerican Paleo Indian (10000 - 3500 BCE)
+## Mesoamerican Paleo Indian (10000 BCE - 3500 BCE)
 
-## Folsom Tradition (9000 - 8000 BCE)
+## Folsom Tradition (9000 BCE - 8000 BCE)
 
-## Dalton Tradition (8500 - 7900 BCE)
+## Dalton Tradition (8500 BCE - 7900 BCE)
 
 
+# Early Archaic (8000 BCE - 6000 BCE)
 
-# Early Archaic (8000 - 6000 BCE)
-
-## Plano Cultures (9000 - 6000 BCE)
+## Plano Cultures (9000 BCE - 6000 BCE)
 
 * [Plano Culture](https://en.wikipedia.org/wiki/Plano_cultures)
 * [Plano Culture. A History of the Native People of Canada. Vol 1.](https://www.historymuseum.ca/cmc/exhibitions/archeo/hnpc/npvol07e.shtml)
@@ -153,9 +156,9 @@ These links support discoveries on the continent prior to any currently establis
 * Jones-Miller Bison Kill Site in Yuma County, CO
 * Foothills / Mountain Complex, CO
 
-## Paleo-Arctic Tradition (8000 - 5000 BCE)
+## Paleo-Arctic Tradition (8000 BCE - 5000 BCE)
 
-## Maritime Archaic (7000 - 1800 BEC)
+## Maritime Archaic (7000 BCE - 1800 BEC)
 
 * [Maritime Archaic](https://en.wikipedia.org/wiki/Maritime_Archaic)
 * Built longhouses.
@@ -165,8 +168,11 @@ These links support discoveries on the continent prior to any currently establis
 * [Red Paint People](https://en.wikipedia.org/wiki/Red_Paint_People)
 
 
+# Middle Archaic (6000 BCE - 3000 BCE)
 
-# Middle Archaic (6000 - 3000 BCE)
+## Old Copper Complex (6050 BCE - 4960 BCE)
+
+* [Beukens, R. P. RADIOCARBON DATING OF COPPER-PRESERVED ORGANICS. RADIOCARBON, VOL. 34, No. 3, 1992, P. 890-897](https://journals.uair.arizona.edu/index.php/radiocarbon/article/viewFile/1543/1547)
 
 ## Horr's Island archaeological site (4730 - 2030 BCE)
 
@@ -178,15 +184,15 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Mesoamerican Paleo Indian Period Ends (3500 BCE)
 
-## Norte Chico (3500 - 1800 BCE)
+## Norte Chico (3500 BCE - 1800 BCE)
 
 * [Norte Chico civilization](https://en.wikipedia.org/wiki/Norte_Chico_civilization)
 
-## Watson Brake (3500 - 2800 BCE)
+## Watson Brake (3500 BCE - 2800 BCE)
 
 * [Watson Brake](https://en.wikipedia.org/wiki/Watson_Brake)
 
-## Kay-Nah-Chi-Wah-Nung (3000 BC - 1630 CE)
+## Kay-Nah-Chi-Wah-Nung (3000 BCE - 1630 CE)
 
 * https://en.wikipedia.org/wiki/Kay-Nah-Chi-Wah-Nung
 
@@ -195,31 +201,34 @@ These links support discoveries on the continent prior to any currently establis
 * [Lucadamo, John. Indian Relics Found In Waukegan May Be 3,000 Years Old. Chicago Tribune. 04 Feb. 1991.](http://articles.chicagotribune.com/1991-02-04/news/9101110053_1_undisturbed-sites-indian-materials-burial-mounds)
 
 
+# Late Archaic (3000 BCE - 1000 BCE)
 
-# Late Archaic (3000 - 1000 BCE)
-
-## Chavin de Hauntar (3000 - 400 BCE)
+## Chavin de Hauntar (3000 BCE - 400 BCE)
 
 * [Chavin de Hauntar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
 
-## Aleutian Tradtion (2500 - 1800 BCE)
+## Aleutian Tradtion (2500 BCE - 1800 BCE)
 
 * [Aleutian tradtion](https://en.wikipedia.org/wiki/Aleutian_tradition)
 
-## Arctic Small Tool Tradition (2500 - 800 BCE)
+## Arctic Small Tool Tradition (2500 BCE - 800 BCE)
 
 * [Arctic Small Tool tradition](https://en.wikipedia.org/wiki/Arctic_small_tool_tradition)
 
-## Poverty Point (2200 - 700 BCE)
+## Poverty Point (2200 BCE - 700 BCE)
 
 * [Poverty Point culture](https://en.wikipedia.org/wiki/Poverty_Point_culture)
 
-## Buena Vista, Peru (2200 - 1500 BCE)
+## Buena Vista, Peru (2200 BCE - 1500 BCE)
 
 * [The New World’s Oldest Calendar](https://www.smithsonianmag.com/science-nature/the-new-worlds-oldest-calendar-152115988/)
 * [Return of the Sun Cult](https://www.smithsonianmag.com/science-nature/return-of-the-sun-cult-152321532/)
 * [Oldest Observatory in Americas Discovered in Peru](https://web.archive.org/web/20160329160647/http://news.nationalgeographic.com:80/news/2006/05/observatory-peru.html)
 * [Celestial Find at Ancient Andes Site](http://articles.latimes.com/2006/may/14/science/sci-observatory14)
+
+## Native Gold in Lake Titicaca Basin, Southern Peru (2155 BCE - 1936 BCE)
+
+* [Aldenderfer, Mark. Four-thousand-year-old gold artifacts from the Lake Titicaca basin, southern Peru. PNAS. 31 Mar. 2008.](http://www.pnas.org/content/105/13/5002.short)
 
 ## Ventarron, Peru (2000 BCE)
 
@@ -233,35 +242,37 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Mesoamerican Formative (Preclassic) (2000 BCE - 250 CE)
 
-### Mesoamerican Early Formative (2000 - 1000 BCE)
+## Mesoamerican Early Formative (2000 BCE - 1000 BCE)
 
-#### Matanchén (2100 - 2000 BCE)
+### Matanchén (2100 BCE - 2000 BCE)
 
 * [Matanchén](https://en.wikipedia.org/wiki/Matanch%C3%A9n)
 
-#### Capacha (2000 - 1000 BCE)
+### Capacha (2000 BCE - 1000 BCE)
 
+* [Capacha](https://en.wikipedia.org/wiki/Capacha)
 
-#### Mokaya (1850 - 650 BCE)
+### Mokaya (1850 BCE - 650 BCE)
 
 * [Mokaya](https://en.wikipedia.org/wiki/Mokaya)
 
-#### Maya (1800 - Present)
+### Maya (1800 BCE - Present)
 
-#### Olmec (1500 - 400 BCE)
+### Olmec (1500 BCE - 400 BCE)
 
 * [Olmecs](https://en.wikipedia.org/wiki/Olmecs)
 
-#### Tlapacoya (archeological site) (1500 - 300 BCE)
+### Tlapacoya (archeological site) (1500 BCE - 300 BCE)
 
 * [Tlapacoya (archeological site)](https://en.wikipedia.org/wiki/Tlapacoya_(archeological_site))
 
+## Ten Thousand Islands (1500 BCE)
+
+* [Rethinking Shell Middens. American Archeological Magazine. 21 Jun. 2018](https://www.archaeologicalconservancy.org/rethinking-shell-middens/)
 
 # Post-archaic (1000 BCE - Present)
 
-## Formative (1000 - 500 BCE)
-
-## Mesoamerican Middle Formative (950 - 400 BCE)
+## Mesoamerican Middle Formative (950 BCE- 400 BCE)
 
 * Part of the Mokaya (see above)
 * Olmec
@@ -270,81 +281,98 @@ These links support discoveries on the continent prior to any currently establis
 
 * [1200 Year Old Mayan Theatre Discovered in Mexico](https://archaeologynewsnetwork.blogspot.com/2012/08/1200-year-old-mayan-theatre-discovered.html#tGhOYGzW0RrPCRVS.97)
 
+### 750 BCE - 1200 BCE
+
+* [Witze, Alexandra. The Mystery Of Hohokam Ballcourts. American Archeology Magazine. 15 Mar. 2018.](https://www.archaeologicalconservancy.org/the-mystery-of-hohokam-ballcourts/)
+`From the Olmec to the Maya to the Aztec, ballgames were one of the defining activities of Mesoamerican cultures. Beginning some time before 1200 B.C., competitors kicked and whacked rubber balls up and down a playing court. These ballgames were rich in symbolism—in some cases the gods were said to have played—and a powerful force that bound communities together. But it’s possible these games weren’t limited to Mesoamerica. Archaeologists have found more than 200 oval-shaped earthen depressions with embankments in central and southern Arizona that resemble the Mesoamerican ballcourts. These features date between roughly A.D. 750 and 1200 and are associated with the Hohokam culture.`
+
+`Though archaeologists continue to debate their purpose, and ethnographic accounts are silent on this matter, most researchers now surmise that the Hohokam courts were used for ballgames, much as the Mesoamerican ones were, according to Henry Wallace, a senior research archaeologist with Desert Archaeology, Inc., in Tucson, Arizona. In doing so the courts played a major role in strengthening Hohokam identity and interactions among villages. “Whenever you have games, you have people coming together,” Wallace said. “It’s a great way of linking social groups.”`
+
+## Copper In South America [1000 BCE]
+
+* [Scattolin, M. Cristina. UNA MÁSCARA DE COBRE DE TRES MIL AÑOS. ESTUDIOS ARQUEOMETALÚRGICOS Y COMPARACIONES REGIONALES (A 3000-YEAR-OLD COPPER MASK. ARCHAEOMETALURGICAL ANALYSIS AND REGIONAL COMPARISONS) Bol. Mus. Chil. Arte Precolomb. v.15 n.1 Santiago. 2010.](https://scielo.conicyt.cl/scielo.php?pid=S0718-68942010000100003&script=sci_arttext)
+
+## Formative (1000 BCE - 500 BCE)
 
 ## Classic (500 BCE - 1200 CE)
 
 ## Mesoamerican Late Formative (400 BCE - 200 CE)
 
-## Mesoamerican Early Classic (200 - 600 CE)
+## Early Woodland (1000 BCE - 1 CE)
 
-## Mesoamerican Late Classic (600 - 900 CE)
+### Adena (1000 BCE - 100 BCE)
 
-## Mesoamerican Terminal Classic (800 - 900/1000 CE)
+### Atlantic Deptford (800 BCE - 700 CE)
 
-## Postclassic (1000 BC - Present)
+### Gulf Deptford (500 BCE - 200 CE)
 
+## Mesoamerican Early Classic (200 CE - 600 CE)
 
-### Early Woodland (1000 BC - 1 CE)
+## Middle Woodland (1 CE - 500 CE)
 
-#### Adena (1000 - 100 BCE)
-
-#### Atlantic Deptford (800 BCE - 700 CE)
-
-#### Gulf Deptford (500 BCE - 200 CE)
-
-
-### Middle Woodland (1 - 500 CE)
-
-#### Havana Hopewell (200 BCE - 400 CE)
+### Havana Hopewell (200 BCE - 400 CE)
 
 * [Goering, Laurie. Burial Site of Indians is Verified. Chicago Tribune. 01 Jul. 1990.](http://articles.chicagotribune.com/1990-07-01/news/9002230055_1_burial-mounds-archeologists-tomb)
 
-#### Kansas City Hopewell (100 BCE - 700 CE)
+### Kansas City Hopewell (100 BCE - 700 CE)
 
-#### Swift Creek Hopewell (100 - 500 CE)
+### Swift Creek Hopewell (100 CE - 500 CE)
 
-#### Santa Rosa Swift Creek (100 - 300 CE)
+### Santa Rosa Swift Creek (100 CE - 300 CE)
 
-#### Marksville (1 - 400 CE)
+### Marksville (1 CE - 400 CE)
 
-#### Fourche Maline (300 BCE - 800 CE)
+### Fourche Maline (300 BCE - 800 CE)
 
-#### Copena (1 - 500 CE)
+### Copena (1 CE - 500 CE)
 
+## Late Woodland (500 CE - 1000 CE)
 
-### Late Woodland (500 - 1000 CE)
+### Baytown (300 CE - 700 CE)
 
-#### Baytown (300 - 700 CE)
+### Plum Bayou (400 CE - 900 CE)
 
-#### Plum Bayou (400 - 900 CE)
+### Troyville (300 CE - 700 CE)
 
-#### Troyville (300 - 700 CE)
+### Coles Creek (700 CE - 1100 CE)
 
-#### Coles Creek (700 - 1100 CE)
+## Mesoamerican Late Classic (600 CE - 900 CE)
 
+## Mesoamerican Terminal Classic (800 CE - 900/1000 CE)
 
-### Mississippian (900 - 1500 CE)
+### Teotihaucan
 
-#### Early (1000 - 1200 CE)
+* [Curtis, Wayne. Rich Man, Poor Man: Archaeologists are taking the study of wealth inequality into the distant past. American Archeology Magazine. 20 Jun. 2018.](https://www.archaeologicalconservancy.org/rich-man-poor-man/)
+`In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
 
-#### Middle (1200 - 1400 CE)
+`But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
 
-#### Late (1400 - 1500 CE or Euro contact)
+## Oneota (900 CE - 1650 CE)
 
+## Mesoamerican Early Postclassic (900 CE - 1200 CE)
 
-### Fort Ancient (1000 - 1550 CE)
+## Postclassic (1200 CE - Present)
 
+## Mississippian (1000 CE - 1500 CE)
 
-### Oneota (900 - 1650 CE)
+## Early Mississippian (1000 CE - 1200 CE)
 
+## Mesoamerican Late Postclassic (1200 CE - 1521 CE)
 
+## Fort Ancient (1000 CE - 1550 CE)
 
+## Mesoamerican Colonial (1521 CE - 1821 CE)
 
-## Mesoamerican Early Postclassic (900 - 1200 CE)
+## Middle Mississippian (1200 CE - 1400 CE)
 
-## Mesoamerican Late Postclassic (1200 - 1521 CE)
+## Late Mississippian (1400 CE - 1500 CE or Euro contact)
 
-## Mesoamerican Colonial (1521 - 1821 CE)
+### Etzanoa
+
+* [Tanner, Beccy. Mysterious 'Lost City' of Etzanoa in south-central Kansas now open to tours. The Wichita Eagle. 28 Apr. 2018.](https://www.kansas.com/news/state/article208617349.html)
+* [Kelly, David. Archaeologists explore a rural field in Kansas, and a lost city emerges. Los Angles Times. 19 Aug. 2018.](http://www.latimes.com/nation/la-na-kansas-lost-city-20180819-htmlstory.html)
+`The early Great Plains had long been imagined as a vast empty space populated by nomadic tribes following buffalo herds. But if Blakeslee is right, at least some of the tribes were urban. They built large towns, raised crops, made fine pottery, processed bison on a massive scale and led a settled existence. There were trade connections all the way to the Aztec capital Tenochtitlan in Mexico.`
+* [Rayado Indians](https://en.wikipedia.org/wiki/Rayado_Indians)
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
 
@@ -383,6 +411,7 @@ These links support discoveries on the continent prior to any currently establis
 * [Odd Pyramid Had Rooftop Homes, Ritual Sacrifices?](https://news.nationalgeographic.com/news/2010/10/101021-moche-pyramid-peru-science-sacrifice-archaeology-ancient/)
 * [Wade, Lizzie. Mummy genomes reveal just how catastrophic European contact was for New World. Science. Apr. 2016.](http://www.sciencemag.org/news/2016/04/mummy-genomes-reveal-just-how-catastrophic-european-contact-was-new-world)
 * [Wade, Lizzie. Inca child mummy reveals lost genetic history of South America. Science. Nov. 2015](http://www.sciencemag.org/news/2015/11/inca-child-mummy-reveals-lost-genetic-history-south-america)
+* [Jopling, Carol F. “The Coppers of the Northwest Coast Indians: Their Origin, Development, and Possible Antecedents.” Transactions of the American Philosophical Society, vol. 79, no. 1, 1989, pp. i-164. JSTOR.](www.jstor.org/stable/1006488)
 
 
 # Compare with your pictures of the Adena and Hopewell cultures
