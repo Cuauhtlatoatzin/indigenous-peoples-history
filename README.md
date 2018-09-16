@@ -181,6 +181,11 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Paleo-Arctic Tradition (8000 BCE - 5000 BCE)
 
+### Tlingit Petroglyphs
+
+* [Petroglyph Beach : Tlingit Art From Before the Time of the Pyramids](http://ianajohnson.com/petroglyph-beach-tlingit-art-time-pyramids/)
+* [A GALLERY OF NORTHWEST PETROGLYPHS: SHAMANIC ART OF THE PACIFIC NORTHWEST](https://www.danielleen.org/petroglyphs.html)
+
 ## Maritime Archaic (7000 BCE - 1800 BEC)
 
 * [Maritime Archaic](https://en.wikipedia.org/wiki/Maritime_Archaic)
