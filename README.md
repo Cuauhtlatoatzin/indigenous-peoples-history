@@ -391,6 +391,10 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Mesoamerican Late Postclassic (1200 CE - 1521 CE)
 
+### Tlaxcallan (1250 CE - 1550 CE)
+
+* [Wade, Lizzie. The Lost History Of Tlaxcallan. American Archeology Magazine. 6 Dec. 2017.](https://www.archaeologicalconservancy.org/lost-history-tlaxcallan/)
+
 ## Fort Ancient (1000 CE - 1550 CE)
 
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
