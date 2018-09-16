@@ -72,13 +72,21 @@ These links support discoveries on the continent prior to any currently establis
 
 ### Monte Verde, Chile
 
-* 
+* [Monte Verde](https://en.wikipedia.org/wiki/Monte_Verde)
+* [Dillehay, Tom D. et al. New Archaeological Evidence for an Early Human Presence at Monte Verde, Chile. PLOS ONE. 18 Nov. 2015.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141923)
+* [Gibbons, Ann. Oldest stone tools in the Americas claimed in Chile. Science.com. 18 Nov. 2015.](http://www.sciencemag.org/news/2015/11/oldest-stone-tools-americas-claimed-chile)
+* [Entman, Liz. New clues emerge about the earliest known Americans. Vanderbuilt University Press Release. 18 Nov. 2015.](https://news.vanderbilt.edu/2015/11/18/new-clues-emerge-about-the-earliest-known-americans/)
+* [Kamrani, Kambiz. Earliest known archaeological evidence of Americans found in Monte Verde, Chile. Archeology.net. 8 May. 2008.](https://anthropology.net/2008/05/08/earliest-known-archaeological-evidence-of-americans-found-in-monte-verde-chile/)
+* [Rose, Mark. The Importance of Monte Verde. Archeology.org. 18 Oct. 1999.](https://archive.archaeology.org/online/features/clovis/rose1.html)
 
 ## 15,500 - 13,200 BP (13500 BCE - 11200 BCE)
 
-### Debra L Fiedkiniste, Texas
+### Debra L Fiedkin Site, Texas
 
-* 
+* [Buttermilk Creek Complex](https://en.wikipedia.org/wiki/Buttermilk_Creek_Complex)
+* [Thomas A. Jennings and Michael R. Waters. PRE-CLOVIS LITHIC TECHNOLOGY AT THE DEBRA L. FRIEDKIN SITE, TEXAS: COMPARISONS TO CLOVIS THROUGH SITE-LEVEL BEHAVIOR, TECHNOLOGICAL TRAIT-LIST, AND CLADISTIC ANALYSES. American Antiquity Vol. 79, No. 1 (January 2014), pp. 25-44](https://www.jstor.org/stable/24712725?seq=1&googleloggedin=true#page_scan_tab_contents)
+* [Watter, Michael L. et al. The Debra L. Friedkin Site, Texas and the origins of Clovis. Science. 331. 1599. (2011)](https://www.researchgate.net/publication/50850836_The_Debra_L_Friedkin_Site_Texas_and_the_origins_of_Clovis)
+* [Bryn, Brandon. Science: Artifacts in Texas Predate Clovis Culture by 2500 Years. AAAS News. 24 Mar. 2011](https://www.aaas.org/news/science-artifacts-texas-predate-clovis-culture-2500-years)
 
 ## 15,000 - 13,000 BP (14000 BCE - 11000 BCE)
 
@@ -90,7 +98,10 @@ These links support discoveries on the continent prior to any currently establis
 
 ### Page-Ladsen site, Aucilla River, Florida
 
-*
+* [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
+* [Hodges, Glenm. Discovery Points to Earlier Arrival of First Americans. National Geographic. 13 May. 2016.](https://news.nationalgeographic.com/2016/05/160513-first-americans-clovis-mastodon-florida-page-ladson/)
+* [Halligan, Jessi J. et al. Pre-Clovis occupation 14,550 years ago at the Page-Ladson site, Florida, and the peopling of the Americas.Science Advances. 13 May 2016: Vol. 2, no. 5, e1600375 DOI: 10.1126/sciadv.1600375](http://advances.sciencemag.org/content/2/5/e1600375)
+* [Weisberger, Mindy. Scarred, Sunken Mastodon Hints at Earlier Human Arrival in Americas. Live Science. 13 May. 2016.](https://www.livescience.com/54735-mastodon-remains-in-underwater-site.html)
 
 ## 14,300 BP (12300 BCE)
 
@@ -114,19 +125,31 @@ These links support discoveries on the continent prior to any currently establis
 * [Taylor, Christie. A 14,000 Year-Old Discovery Emerges From Oral History. Science Friday. 14 Apr. 2017.](https://www.sciencefriday.com/segments/a-14000-year-old-discovery-emerges-from-oral-history/)
 
 
-### Meadowcroft Rock Shleter, Pennsylvania
+### Meadowcroft Rock Shelter, Pennsylvania
 
-* 
+* [Meadowcroft Rockshelter](https://en.wikipedia.org/wiki/Meadowcroft_Rockshelter)
+* [Cheney, Jim. Meadowcroft Rockshelter: North America’s Oldest Human Settlement. Atlas Obscura. 20 May. 2014.](https://www.atlasobscura.com/articles/meadowcroft-rockshelter-north-america-s-oldest-human-settlement)
+* [AP. 16,000-year-old Pa. rock shelter dwelling still divides archaeologists after 40 years. Fox News Science. 12 Aug. 2013.](http://www.foxnews.com/science/2013/08/12/16000-year-old-pa-rock-shelter.html)
+* [J. M. Adovasio, J. Donahue and R. Stuckenrath. The Meadowcroft Rockshelter Radiocarbon Chronology 1975-1990  American Antiquity. Vol. 55, No. 2 (Apr., 1990), pp. 348-354](https://www.jstor.org/stable/281652?seq=1#page_scan_tab_contents)
+* [Shutler, Dr. Richard. Meadowcroft Rockshelter](http://www.sfu.museum/journey/an-en/postsecondaire-postsecondary/meadowcroft)
  
 ## 13,800 BP (11000 BCE)
 
 ### Manis Site, Washington
 
-*
+* [Manis Mastodon Site](https://en.wikipedia.org/wiki/Manis_Mastodon_Site)
+* [Gustafson, Carl E. The Manis Mastodon Site: An Adventure In Prehistory. Washington State Magazine. Summer. 2012.](https://magazine.wsu.edu/web-extra/the-manis-mastodon-site-an-adventure-in-prehistory/)
+* [Waters, Michael R. et al. Pre-Clovis Mastodon Hunting 13,800 Years Ago at the Manis Site, Washington. Science 334(6054):351-3. Oct. 2011.](https://www.researchgate.net/publication/51737194_Pre-Clovis_Mastodon_Hunting_13800_Years_Ago_at_the_Manis_Site_Washington)
+* [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
+* [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
 
 ## Clovis (13500 BCE - 11000 BCE)
 
 ## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
+
+## Quebrada Los Burros, Peru (11000 BCE - 9000 BCE)
+
+* [Arriaza B.T., Standen V.G., Cassman V., Santoro C.M. (2008) Chinchorro Culture: Pioneers of the Coast of the Atacama Desert. In: Silverman H., Isbell W.H. (eds) The Handbook of South American Archaeology. Springer, New York, NY](https://link.springer.com/chapter/10.1007%2F978-0-387-74907-5_3)
 
 ## Post Pattern (11000 BCE - 7000 BCE)
 
@@ -265,6 +288,10 @@ These links support discoveries on the continent prior to any currently establis
 ### Tlapacoya (archeological site) (1500 BCE - 300 BCE)
 
 * [Tlapacoya (archeological site)](https://en.wikipedia.org/wiki/Tlapacoya_(archeological_site))
+
+### Cultural Contact Between Ecuador and West Mexico (1500 BCE - 400 BC)
+
+* [Anawalt, Patricia Rieff. “Ancient Cultural Contacts between Ecuador, West Mexico, and the American Southwest: Clothing Similarities.” Latin American Antiquity, vol. 3, no. 2, 1992, pp. 114–129. JSTOR.](www.jstor.org/stable/971939)
 
 ## Ten Thousand Islands (1500 BCE)
 
