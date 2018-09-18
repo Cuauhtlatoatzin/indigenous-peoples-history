@@ -351,6 +351,10 @@ These links support discoveries on the continent prior to any currently establis
 
   Copper metalurgy began around 950 CE.
 
+### Ajalpan Phase - Tehuacán Valley (1500 BCE - 830 BCE)
+
+ * [Ajalpan Phase](http://www.oxfordreference.com/view/10.1093/oi/authority.20110803095358646)
+
 ### Height of the Olmec (1500 BCE - 400 BCE)
 
 * [Olmecs](https://en.wikipedia.org/wiki/Olmecs)
@@ -365,19 +369,33 @@ These links support discoveries on the continent prior to any currently establis
 
 * [San José Mogote](https://en.wikipedia.org/wiki/San_Jos%C3%A9_Mogote)
 
-### Calixtlahuaca - Toluca Valley, Mexico - Otomi, Teotihuacan, Toltec, Matlazinca, Mexica (1500 BCE - 1510 CE)
+### Cultural Contact Between Ecuador and West Mexico (1500 BCE - 400 BCE)
 
-* [Calixtlahuaca](https://en.wikipedia.org/wiki/Calixtlahuaca)
+* [Anawalt, Patricia Rieff. “Ancient Cultural Contacts between Ecuador, West Mexico, and the American Southwest: Clothing Similarities.” Latin American Antiquity, vol. 3, no. 2, 1992, pp. 114–129. JSTOR.](www.jstor.org/stable/971939)
 
 ### Tlapacoya (archeological site) (1500 BCE - 300 BCE)
 
 * [Tlapacoya (archeological site)](https://en.wikipedia.org/wiki/Tlapacoya_(archeological_site))
 
-### Cultural Contact Between Ecuador and West Mexico (1500 BCE - 400 BC)
+### Kaminaljuyu - Valley of Guatemala - Southern Maya Area (1500 BCE - 1200 CE)
 
-* [Anawalt, Patricia Rieff. “Ancient Cultural Contacts between Ecuador, West Mexico, and the American Southwest: Clothing Similarities.” Latin American Antiquity, vol. 3, no. 2, 1992, pp. 114–129. JSTOR.](www.jstor.org/stable/971939)
+* [Kaminaljuyu](https://en.wikipedia.org/wiki/Kaminaljuyu)
 
-## Ten Thousand Islands (1500 BCE)
+  "Esperanza cultures and a Teotihuacán Intrusion?"
+
+### Calixtlahuaca - Toluca Valley, Mexico - Otomi, Teotihuacan, Toltec, Matlazinca, Mexica (1500 BCE - 1510 CE)
+
+* [Calixtlahuaca](https://en.wikipedia.org/wiki/Calixtlahuaca)
+
+### La Hausteca - Tamaulipas, Veracruz, Puebla, Hidalgo, San Luis Potosí, and Querétaro (1500 BCE - 1533 CE)
+
+* [La Hausteca](https://en.wikipedia.org/wiki/La_Huasteca)
+
+  Split from the Maya. Very few ethnic Huastecs, most are in North Veracruz and San Luis Potosi.
+
+
+
+## Ten Thousand Islands - Everglades, Florida (1500 BCE)
 
 * [Rethinking Shell Middens. American Archeological Magazine. 21 Jun. 2018](https://www.archaeologicalconservancy.org/rethinking-shell-middens/)
 
