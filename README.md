@@ -472,6 +472,12 @@ These links support discoveries on the continent prior to any currently establis
 
 ### Coles Creek (700 CE - 1100 CE)
 
+## Polynesians Bump Into America (500 CE - 700 CE)
+
+* [Swetek, Brian. DNA shows how the sweet potato crossed the sea. Nature News. 21 Jan. 2013.](https://www.nature.com/news/dna-shows-how-the-sweet-potato-crossed-the-sea-1.12257)
+* [Nelson, Brian. Polynesian seafarers discovered America long before Europeans, says DNA study. Mother Nature Network. 22 Jan. 2013.](https://www.mnn.com/earth-matters/wilderness-resources/stories/polynesian-seafarers-discovered-america-long-before)
+* [Davidson, Keay. Did ancient Polynesians visit California? Maybe so. / Scholars revive idea using linguistic ties, Indian headdress. San Francisco Gate Chronicle. 20 Jun. 2005.](https://www.sfgate.com/news/article/Did-ancient-Polynesians-visit-California-Maybe-2661327.php)
+
 ## Mesoamerican Late Classic (600 CE - 900 CE)
 
 ## Mesoamerican Terminal Classic (800 CE - 900/1000 CE)
