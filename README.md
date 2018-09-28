@@ -56,6 +56,13 @@ These links support discoveries on the continent prior to any currently establis
 * [Niler, Eric. A 130,000-Year-Old Mastodon Threatens to Upend Human History. Wired. 26 Apr. 2017.](https://www.wired.com/2017/04/130000-year-old-mastodon-threatens-upend-human-history/)
 * [Benton, Adam. 130,000 year old “first Americans” disproven. Filthy Monkey Men. 19 Oct. 2017.](https://www.filthymonkeymen.com/2017/10/19/130000-first-americans-disproven/)
 
+
+## 70 - 10 KA BP
+
+### [Fildani, Andrea et al. Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. 14 Sep. 8:13839 (2018)](https://www.nature.com/articles/s41598-018-32268-7)
+
+`Here we integrate data from the deepest sediment core drilled by the Deep Sea Drilling Program (DSDP) Leg 96 on the Mississippi fan (Fig. 1) to reveal major modifications to the Mississippi–Missouri drainage by the southern LIS over the past ~70 ka. Growth of the LIS began over the eastern Canadian Arctic ~116 ka (MIS 5d), and experienced punctuated episodes of expansion (~65 ka: MIS 4) and retreat (~50–40 ka: MIS 3) until reaching its maximum extent during the LGM approximately 26–25 ka (MIS 2). Mountain glaciers were near or at their maximum extent by ~30 ka, which is broadly contemporaneous with the interval when global ice sheets first reached their maxima.`
+
 ## 24,000 BP (22000 BCE)
 
 ### Bluefish Caves, Yukon, Canada
