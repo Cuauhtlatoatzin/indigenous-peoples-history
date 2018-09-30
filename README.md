@@ -8,7 +8,7 @@ Humans have a very messy story of migration and intermingling with other varieti
 
 * Somewhere around 400,000 - 300,000 thousand years ago modern humans appeared in the northern part of Africa and in the Middle East.
 * During the next 200,000 years modern humans migrated south through Africa and most likely interbred with our existing relatives already in the continent.
-* 70,000 years ago, a large group left Africa and traveled through SE Asia and Indonesia and down into Austrlia.
+* 70,000 years ago, a large group left Africa and traveled through SE Asia and Indonesia and down into Australia.
 * Many more migrations in different areas and directions occurred. These migrations likely encountered more of our genetic relatives and we likely interbred with them.
 
 ## Sources
@@ -23,10 +23,6 @@ Humans have a very messy story of migration and intermingling with other varieti
 * [Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep. 2016](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
 * [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
 * [McEvoy, Brian et al. Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American journal of human genetics. 13 Aug. 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
-
-# Pre Clovis (before 11000 BCE)
-
-These links support discoveries on the continent prior to any currently established theories (as of 2018).
 
 ## Overview of new findings
 
@@ -43,6 +39,11 @@ These links support discoveries on the continent prior to any currently establis
 
 * [Than, Ker. On Way to New World, First Americans Made a 10,000-Year Pit Stop. National Geographic. 27 Feb. 2014.](https://news.nationalgeographic.com/news/2014/04/140227-native-americans-beringia-bering-strait-pit-stop/)
 * [Langlois, Krista, Heather Pringle. A Sunken Bridge the Size of a Continent. Hakai. 20 Sep. 2016](https://www.hakaimagazine.com/features/sunken-bridge-size-continent/?xid=PS_smithsonian)
+
+
+# Pre Clovis (before 11000 BCE)
+
+These links support discoveries on the continent prior to any currently established theories (as of 2018).
 
 ## 130 KA BP (130000 BCE)
 
