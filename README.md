@@ -493,6 +493,10 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Mesoamerican Early Postclassic (900 CE - 1200 CE)
 
+## Native Woman Travels To Iceland (1000 CE)
+
+* [Watson, Tracy. American Indian Sailed to Europe With Vikings? Scientific American. 26 Nov. 2010.](https://news.nationalgeographic.com/news/2010/11/101123-native-american-indian-vikings-iceland-genetic-dna-science-europe/)
+
 ## Postclassic (1200 CE - Present)
 
 ## Mississippian (1000 CE - 1500 CE)
