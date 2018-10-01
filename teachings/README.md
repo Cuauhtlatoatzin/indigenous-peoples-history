@@ -1,5 +1,6 @@
 # Links
 
+* [The Samuel Proctor Oral History Program Collections](http://oral.history.ufl.edu/collections/)
 * [Wisdom Fellowship Award from Sacred Fire Foundation (list of recognized elders)](https://www.sacredfire.foundation/wisdom-fellowship-award/)
 * [Global Center for Indigenous Leadership &amp; Lifeways](http://gcill.org/)
 * [Wisdom Weavers of the World](https://www.wisdomweavers.world/)
