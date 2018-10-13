@@ -324,6 +324,8 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Ventarron, Peru (2000 BCE)
 
+* [Meneses, Ignacio Alva. Los complejos de Cerro Ventarrón y Collud-Zarpán: del Precerámico al Formativo en el valle de Lambayeque. Boletin de Arqueologia PUCP. No 12 2008. pp 97-117](http://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/viewFile/877/841)
+* [Meneses, Ignacio Alva. Ventarrón y Collud/Origen y auge de la Civilización en la Costa Norte del Perú. Ministerio de Cultura del Perú/ Proyecto Especial Naylamp Lambayeque. Oct. 2013](https://www.scribd.com/document/349702181/Ventarron-Collud-pdf)
 * [Complejo Ventarrón sería el punto de partida de la civilización del antiguo Perú. Andina. 17 Jun. 2014](https://andina.pe/agencia/noticia-complejo-ventarron-seria-punto-partida-de-civilizac-510458.aspx)
 * [Fire Destroys Years of Research at 4,500-year-old Ventarron Site. 13 Nov. 2017.](https://www.peruviantimes.com/13/fire-destroys-years-of-research-at-4500-year-old-ventarron-site/30250/)
 * [Fire Scorches Ancient Peruvian Temple](https://news.nationalgeographic.com/2017/11/peru-temple-fire-ventarron-mural-moche-video-spd/)
@@ -333,6 +335,15 @@ These links support discoveries on the continent prior to any currently establis
 * [The new temples of Collud-Zarpán](http://www.granpaititi.com/index.php?id=148&lang=en)
 
 ## Mesoamerican Formative (Preclassic) (2000 BCE - 250 CE)
+
+## Cupisnique - Peru (1500 BCE - 500 BCE)
+
+Considered a possible predescessor of the Moche culture. There is shared inconography with the Chavin. However, it also appears the Chavin came later to the area.
+
+* [Cupisnique](https://en.wikipedia.org/wiki/Cupisnique)
+
+
+
 
 ## Mesoamerican Early Formative (2000 BCE - 1000 BCE)
 
@@ -444,6 +455,10 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Formative (1000 BCE - 500 BCE)
 
+## Chavín culture (900 BCE - 200 BCE)
+
+* [Chavín culture](https://en.wikipedia.org/wiki/Chav%C3%ADn_culture)
+
 ## Classic (500 BCE - 1200 CE)
 
 ## Mesoamerican Late Formative (400 BCE - 200 CE)
@@ -476,6 +491,60 @@ These links support discoveries on the continent prior to any currently establis
 
 ### Copena (1 CE - 500 CE)
 
+## Moche Culture - Moche Valley, Peru (100 CE - 750AD)
+
+* [Moche Culture](https://en.wikipedia.org/wiki/Moche_culture) - Predecessor of the Chimú culture.
+
+Centered in a few regions:
+* La Libertad
+* Lambayeque
+* Jequetepeque
+* Chicama
+* Moche
+* Virú
+* Chao
+* Santa
+* Nepena
+
+### Huaca del Sol (450 CE)
+
+* [Huaca del Sol](https://en.wikipedia.org/wiki/Huaca_del_Sol)
+
+### Huaca de la Luna
+
+* [Huaca de la Luna](https://en.wikipedia.org/wiki/Huaca_de_la_Luna)
+
+### Sipan
+
+* [Huaca Rajada](https://en.wikipedia.org/wiki/Huaca_Rajada)
+
+### Loma Negra
+
+### Dos Cabezas
+
+### Pacatnamu
+
+* [Pacatnamu](https://en.wikipedia.org/wiki/Pacatnamu)
+
+### El Brujo complex
+
+* [El Brujo](https://en.wikipedia.org/wiki/El_Brujo)
+
+### Mocollope
+
+### Cerro Mayal
+
+### Galindo
+
+### Huanchaco
+
+* [Huanchaco](https://en.wikipedia.org/wiki/Huanchaco) - Origin of Ceviche
+
+### Pañamarka
+
+* [Pañamarca](https://en.wikipedia.org/wiki/Pa%C3%B1amarca)
+
+
 ## Late Woodland (500 CE - 1000 CE)
 
 ### Baytown (300 CE - 700 CE)
@@ -502,6 +571,19 @@ These links support discoveries on the continent prior to any currently establis
   `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
 
   `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
+
+## Chimú Culture (850 CE - 1470 CE)
+
+`The Chimú grew out of the remnants of the Moche culture. The first valleys seem to have joined forces willingly, but the Sican culture was acquired through conquest. They also were significantly influenced by the pre-Incan Cajamarca and Wari cultures. According to legend, its capital of Chan Chan was founded by Taycanamo, who arrived in the area by sea.`
+
+* [Chimú culture](https://en.wikipedia.org/wiki/Chim%C3%BA_culture)
+* [Quingnam language](https://en.wikipedia.org/wiki/Quingnam_language)
+* [Chimor](https://en.wikipedia.org/wiki/Chimor)
+
+### Chan Chan - Moche Valley - Chimú culture (850 CE - 1470 CE)
+
+* [Chan Chan](https://en.wikipedia.org/wiki/Chan_Chan)
+* [West, Michael. Community Settlement Patterns at Chan Chan, Peru. American Antiquity. Vol. 35. No. 1 (Jan 1970) pp. 74-86.](https://www.jstor.org/stable/278179)
 
 ## Oneota (900 CE - 1650 CE)
 
