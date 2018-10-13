@@ -2,6 +2,19 @@
 
 This is an attempt at documenting a full chronology of the so called Americas since the first settlment up to 130 ka ago. Below is a timeline for the entire continent not constrained to any particular modern day country -- because modern day country borders are completely artificial and lifeless. They take no account of how people live on the geography of the Earth, they were established by colonization by extractive empire which set the course for the destruction of countless ecosystems and ways of life.
 
+# Using This Repository
+
+1. Make sure you [have `git-lfs` installed](https://git-lfs.github.com/).
+2. Clone this repository:
+   ```
+   git clone git@github.com:Cuauhtlatoatzin/indigenous-peoples-history.git
+   ```
+3. Make sure you've initialized the hooks and setup for `git-lfs`:
+   ```
+   git lfs install
+   ```
+4. Start contributing using your favorite text editor (I actually recommend using [Visual Studio Code](https://code.visualstudio.com/), because it's relatively snappy).
+
 # Origin of Modern Humans and other Necessary Background
 
 Humans have a very messy story of migration and intermingling with other varieties of our family tree. We are starting to untangle the story. However, it is necessary to have a picture of what the research currently looks like for the origins of modern humans.
