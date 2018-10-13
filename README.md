@@ -176,6 +176,10 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Mesoamerican Paleo Indian (10000 BCE - 3500 BCE)
 
+## Domestication of Potatoes (10000 BCE - 7000 BCE)
+
+* [Potato](https://en.wikipedia.org/wiki/Potato)
+
 ## Folsom Tradition (9000 BCE - 8000 BCE)
 
 ## Dalton Tradition (8500 BCE - 7900 BCE)
@@ -276,6 +280,9 @@ These links support discoveries on the continent prior to any currently establis
 
 * [Watson Brake](https://en.wikipedia.org/wiki/Watson_Brake)
 
+
+# Late Archaic (3000 BCE - 1000 BCE)
+
 ## Kay-Nah-Chi-Wah-Nung (3000 BCE - 1630 CE)
 
 * https://en.wikipedia.org/wiki/Kay-Nah-Chi-Wah-Nung
@@ -288,12 +295,11 @@ These links support discoveries on the continent prior to any currently establis
 
 * [Lucadamo, John. Indian Relics Found In Waukegan May Be 3,000 Years Old. Chicago Tribune. 04 Feb. 1991.](http://articles.chicagotribune.com/1991-02-04/news/9101110053_1_undisturbed-sites-indian-materials-burial-mounds)
 
+## Chavín de Hauntar (3000 BCE - 300 BCE)
 
-# Late Archaic (3000 BCE - 1000 BCE)
+Occupation was carbon dated to at least 3000 BCE. Main Chavín culture articfacts are dated to about 1200 BCE. Social upheaval around 500 BCE - 300 BCE.
 
-## Chavin de Hauntar (3000 BCE - 400 BCE)
-
-* [Chavin de Hauntar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
+* [Chavín de Hauntar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
 
 ## Aleutian Tradtion (2500 BCE - 1800 BCE)
 
@@ -318,6 +324,10 @@ These links support discoveries on the continent prior to any currently establis
 * [Oldest Observatory in Americas Discovered in Peru](https://web.archive.org/web/20160329160647/http://news.nationalgeographic.com:80/news/2006/05/observatory-peru.html)
 * [Celestial Find at Ancient Andes Site](http://articles.latimes.com/2006/may/14/science/sci-observatory14)
 
+## Caballo Muerto, Peru - Moche Valley - Cupisnique culture (2100 BCE - 200 BCE)
+
+* [Caballo Muerto](https://en.wikipedia.org/wiki/Caballo_Muerto)
+
 ## Native Gold in Lake Titicaca Basin, Southern Peru (2155 BCE - 1936 BCE)
 
 * [Aldenderfer, Mark. Four-thousand-year-old gold artifacts from the Lake Titicaca basin, southern Peru. PNAS. 31 Mar. 2008.](http://www.pnas.org/content/105/13/5002.short)
@@ -335,15 +345,6 @@ These links support discoveries on the continent prior to any currently establis
 * [The new temples of Collud-Zarpán](http://www.granpaititi.com/index.php?id=148&lang=en)
 
 ## Mesoamerican Formative (Preclassic) (2000 BCE - 250 CE)
-
-## Cupisnique - Peru (1500 BCE - 500 BCE)
-
-Considered a possible predescessor of the Moche culture. There is shared inconography with the Chavin. However, it also appears the Chavin came later to the area.
-
-* [Cupisnique](https://en.wikipedia.org/wiki/Cupisnique)
-
-
-
 
 ## Mesoamerican Early Formative (2000 BCE - 1000 BCE)
 
@@ -389,7 +390,7 @@ Considered a possible predescessor of the Moche culture. There is shared inconog
 
 ### Height of the Olmec (1500 BCE - 400 BCE)
 
-* [Olmecs](https://en.wikipedia.org/wiki/Olmecs)
+* [Olmecs](https://en.wikipedia.org/wiki/Olmecs) - I've noticed similarities between this culture and Adena, Hopewell, and Missippian cultures in the style of their jewlry.
 
 ### Chalcatzingo - Valley of Morelos - Olmec and many others (1500 BCE - 500 BCE)
 
@@ -431,6 +432,43 @@ Considered a possible predescessor of the Moche culture. There is shared inconog
 
 * [Rethinking Shell Middens. American Archeological Magazine. 21 Jun. 2018](https://www.archaeologicalconservancy.org/rethinking-shell-middens/)
 
+## Cupisnique - Peru (1500 BCE - 500 BCE)
+
+Considered a possible predescessor of the Moche culture. There is shared inconography with the Chavin. However, it also appears the Chavin came later to the area. I've also noticed art similarities with the Adena, Hopewell, and Mississippi cultures.
+
+* [Cupisnique](https://en.wikipedia.org/wiki/Cupisnique)
+
+### Mirrors (900 BCE - 200 BCE)
+
+* [On Precolumbian Optics From Peru (Optica Precolombina del Peru)](https://arxiv.org/pdf/physics/0702024.pdf)
+
+### Arte de las arañas (spiders)
+
+The carbon dating from where the plate was found indicates it was likely from anywhere between 1100 BCE - 800 BCE.
+
+* [Plato con representación de araña bicéfala con cabezas de felino y cabezas de ave. (1250 BCE - 1CE or 800 BCE - 200 BCE)](http://www.museolarco.org/catalogo/ficha.php?id=11893)
+* [Excavaciones en el Templete de Limoncarro,
+valle bajo de Jequetepeque](http://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/viewFile/965/932)
+* [3,000-Year-Old “Spider God” Temple Discovered in Peru](http://www.kimmacquarrie.com/3000-year-old-spider-god-temple-discovered-in-peru/)
+* [Cántaro con representación de arañas. Cuerpo con diseños geométricos de líneas horizontales, puntos y líneas onduladas.](http://www.museolarco.org/catalogo/ficha.php?id=17919) - from the Virú-Gallinazo culture.
+
+
+### Cullud
+
+See above under Ventarron, Peru
+
+### Zarpan
+
+See above under Ventarron, Peru
+
+### Ventarron
+
+See above under Ventarron, Peru
+
+## Kuntur Wasi (1200 BCE - 50 BCE)
+
+* [Kuntur Wasi (Condor House)](https://en.wikipedia.org/wiki/Kuntur_Wasi)
+
 # Post-archaic (1000 BCE - Present)
 
 ## Mesoamerican Middle Formative (950 BCE- 400 BCE)
@@ -457,7 +495,7 @@ Considered a possible predescessor of the Moche culture. There is shared inconog
 
 ## Chavín culture (900 BCE - 200 BCE)
 
-* [Chavín culture](https://en.wikipedia.org/wiki/Chav%C3%ADn_culture)
+* [Chavín culture](https://en.wikipedia.org/wiki/Chav%C3%ADn_culture) - Also see Chavín de Huantar above. I've noticed similarities between this culture and Adena, Hopewell, and Missippian cultures.
 
 ## Classic (500 BCE - 1200 CE)
 
@@ -496,14 +534,14 @@ Considered a possible predescessor of the Moche culture. There is shared inconog
 * [Moche Culture](https://en.wikipedia.org/wiki/Moche_culture) - Predecessor of the Chimú culture.
 
 Centered in a few regions:
-* La Libertad
-* Lambayeque
-* Jequetepeque
-* Chicama
-* Moche
-* Virú
-* Chao
-* Santa
+* [La Libertad](https://en.wikipedia.org/wiki/La_Libertad_Region)
+* [Lambayeque](https://en.wikipedia.org/wiki/Lambayeque_Region)
+* [Jequetepeque](https://en.wikipedia.org/wiki/Jequetepeque_River)
+* [Chicama](https://en.wikipedia.org/wiki/Chicama_Valley)
+* [Moche](https://en.wikipedia.org/wiki/Moche_Valley)
+* [Virú](https://en.wikipedia.org/wiki/Viru_Valley)
+* [Chao](https://en.wikipedia.org/wiki/Chao_Valley)
+* [Santa](https://en.wikipedia.org/wiki/Santa_River)
 * Nepena
 
 ### Huaca del Sol (450 CE)
@@ -562,6 +600,10 @@ Centered in a few regions:
 * [Davidson, Keay. Did ancient Polynesians visit California? Maybe so. / Scholars revive idea using linguistic ties, Indian headdress. San Francisco Gate Chronicle. 20 Jun. 2005.](https://www.sfgate.com/news/article/Did-ancient-Polynesians-visit-California-Maybe-2661327.php)
 
 ## Mesoamerican Late Classic (600 CE - 900 CE)
+
+## Sican culture (750 CE - 1375 CE)
+
+* [Sican culture](https://en.wikipedia.org/wiki/Sican_culture)
 
 ## Mesoamerican Terminal Classic (800 CE - 900/1000 CE)
 
