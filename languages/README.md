@@ -15,7 +15,7 @@ Excluded are sign languages, mixed languages, artificial languages, and other la
 
 There may have been more langauges present on the continent which became extinct before anyone was able to collect proper attestation (evidence of their existance).
 
-Given the timeline of the presence of hominids on the continent and the nature of how modern humans interbred with other hominids, it's quite possible that many of the language families and language isolates that cannot be traced back to other language families may have come from language families which predated modern humans emergence from Africa 70000 years ago(it is more complicated than that).
+Given the timeline of the presence of hominids on the continent and the nature of how modern humans interbred with other hominids, it's quite possible that many of the language families and language isolates that cannot be traced back to other language families may have come from language families which predated modern humans emergence from Africa 70,000 years ago(it is more complicated than that).
 
 * [Where does language come from?](https://www.pri.org/stories/2018-02-21/where-does-language-come)
 * [How to speak Neanderthal: Perhaps we do already](https://www.newscientist.com/article/mg22229690-600-how-to-speak-neanderthal-perhaps-we-do-already/)
@@ -31,6 +31,8 @@ Given the timeline of the presence of hominids on the continent and the nature o
 * [Classification schemes for indigenous languages of the Americas](https://en.wikipedia.org/wiki/Classification_schemes_for_indigenous_languages_of_the_Americas) -- Pretty cool to see the most recent proposal, but there's definitely room for improvement.
 
 ## Language Families
+
+All the names link to [Glottolog](https://glottolog.org/), which display a language tree, map, and references for academic research.
 
 * [Algic](https://glottolog.org/resource/languoid/id/algi1248) - North America - [Wikipedia](https://en.wikipedia.org/wiki/Algic_languages)
 * [Araucanian](https://glottolog.org/resource/languoid/id/arau1255) - South America - [Wikipedia](https://en.wikipedia.org/wiki/Araucanian_languages)
@@ -118,7 +120,7 @@ Given the timeline of the presence of hominids on the continent and the nature o
 
 ## Language Isolates
 
-So far it is unkkown if the following languages are related to any of the above language families. They may be, but not many people are studying them.
+So far it is unkkown if the following languages are related to any of the above language families. They may be, but not many people are studying them. All the names link to [Glottolog](https://glottolog.org/), which display a language tree, map, and references for academic research.
 
 * [Adai](https://glottolog.org/resource/languoid/id/adai1235) - North America - [Wikipedia](https://en.wikipedia.org/wiki/Adai_language)
 * [Aewa](https://glottolog.org/resource/languoid/id/abis1238) - South America - [Wikipedia](https://en.wikipedia.org/wiki/Tequiraca_language)
