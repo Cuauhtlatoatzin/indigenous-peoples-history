@@ -43,7 +43,7 @@ Langauge Name | Geographic Area | Wikipedia Link
 [Athabaskan-Eyak-Tlingit](https://glottolog.org/resource/languoid/id/atha1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Na-Dene_languages)
 [Aymaran](https://glottolog.org/resource/languoid/id/ayma1253) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Aymaran_languages)
 [Barbacoan](https://glottolog.org/resource/languoid/id/barb1265) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Barbacoan_languages)
-[Boran](https://glottolog.org/resource/languoid/id/bora1262) - South America
+[Boran](https://glottolog.org/resource/languoid/id/bora1262) | South America |
 [Bororoan](https://glottolog.org/resource/languoid/id/boro1281) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Bororoan_languages)
 [Caddoan](https://glottolog.org/resource/languoid/id/cadd1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Caddoan_languages)
 [Cahuapanan](https://glottolog.org/resource/languoid/id/cahu1265) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Cahuapanan_languages)
@@ -51,7 +51,7 @@ Langauge Name | Geographic Area | Wikipedia Link
 [Chapacuran](https://glottolog.org/resource/languoid/id/chap1271) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chapacuran_languages)
 [Charruan](https://glottolog.org/resource/languoid/id/char1238) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Charruan_languages)
 [Chibchan](https://glottolog.org/resource/languoid/id/chib1249) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chibchan_languages)
-[Chicham](https://glottolog.org/resource/languoid/id/jiva1245) - South America
+[Chicham](https://glottolog.org/resource/languoid/id/jiva1245) | South America |
 [Chimakuan](https://glottolog.org/resource/languoid/id/chim1311) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chimakuan_languages)
 [Chinookan](https://glottolog.org/resource/languoid/id/chin1490) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chinookan_languages)
 [Chocoan](https://glottolog.org/resource/languoid/id/choc1280) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Choco_languages)
@@ -179,10 +179,10 @@ Langauge Name | Geographic Area | Wikipedia Link
 [Mosetén-Chimané](https://glottolog.org/resource/languoid/id/mose1249) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chimane_language)
 [Movima](https://glottolog.org/resource/languoid/id/movi1243) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Movima_language)
 [Muniche](https://glottolog.org/resource/languoid/id/muni1258) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Munichi_language)
-[Mure](https://glottolog.org/resource/languoid/id/mure1235) - South America
+[Mure](https://glottolog.org/resource/languoid/id/mure1235) | South America |
 [Natchez](https://glottolog.org/resource/languoid/id/natc1249) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Natchez_language)
 [Omurano](https://glottolog.org/resource/languoid/id/omur1241) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Omurano_language)
-[Oti](https://glottolog.org/resource/languoid/id/otii1244) - South America
+[Oti](https://glottolog.org/resource/languoid/id/otii1244) | South America |
 [Otomaco-Taparita](https://glottolog.org/resource/languoid/id/otom1276) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Otom%C3%A1koan_languages)
 [Páez](https://glottolog.org/resource/languoid/id/paez1247) | South America | [Wikipedia](https://en.wikipedia.org/wiki/P%C3%A1ez_language)
 [Pankararú](https://glottolog.org/resource/languoid/id/pank1250) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Pankarar%C3%BA_language)
