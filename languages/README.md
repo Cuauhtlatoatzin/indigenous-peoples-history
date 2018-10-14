@@ -13,6 +13,19 @@ According the to the data over at [Glottolog](https://glottolog.org/glottolog/fa
 
 Excluded are sign languages, mixed languages, artificial languages, and other languages which were not originally indigenous to this continent.
 
+There may have been more langauges present on the continent which became extinct before anyone was able to collect proper attestation (evidence of their existance).
+
+Given the timeline of the presence of hominids on the continent and the nature of how modern humans interbred with other hominids, it's quite possible that many of the language families and language isolates that cannot be traced back to other language families may have come from language families which predated modern humans emergence from Africa (it is more complicated than that) 70000 years ago.
+
+* [Where does language come from?](https://www.pri.org/stories/2018-02-21/where-does-language-come)
+* [How to speak Neanderthal: Perhaps we do already](https://www.newscientist.com/article/mg22229690-600-how-to-speak-neanderthal-perhaps-we-do-already/)
+* [Neanderthals, Denisovans May Have Had Their Own Language, Suggest Scientists](http://www.sci-news.com/othersciences/linguistics/science-neanderthals-denisovans-language-01211.html)
+* [Neanderthals shared speech and language with modern humans, study suggests](https://phys.org/news/2013-07-neanderthals-speech-language-modern-humans.html)
+* [Dediu, Dan, Stephen C. Levinson. On the antiquity of language: the reinterpretation of Neandertal linguistic capacities and its consequences. Front. Psychol., 05 July 2013.](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00397/full) - The article the started it all.
+* [Hillert, Dieter G. On the Evolving Biology of Language. Front Psychol. 2015; 6: 1796.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656830/)
+* [Interbreeding between archaic and modern humans](https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans)
+* [Introduction to the Cuauhtlatoatzin Indigenous Peoples' History Repository](../README.md#origin-of-modern-humans-and-other-necessary-background)
+
 ## Proposed classification schemes for indigenous languages of the Americas
 
 * [Classification schemes for indigenous languages of the Americas](https://en.wikipedia.org/wiki/Classification_schemes_for_indigenous_languages_of_the_Americas) -- Pretty cool to see the most recent proposal, but there's definitely room for improvement.
