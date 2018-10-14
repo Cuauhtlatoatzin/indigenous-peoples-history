@@ -34,91 +34,91 @@ Given the timeline of the presence of hominids on the continent and the nature o
 
 All the names link to [Glottolog](https://glottolog.org/), which display a language tree, map, and references for academic research.
 
-Langauge Name | Geographic Area | Wikipedia Link
---------------|-----------------|---------------
-[Algic](https://glottolog.org/resource/languoid/id/algi1248) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Algic_languages)
-[Araucanian](https://glottolog.org/resource/languoid/id/arau1255) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Araucanian_languages)
-[Arawakan](https://glottolog.org/resource/languoid/id/araw1281) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Arawakan_languages)
-[Arawan](https://glottolog.org/resource/languoid/id/araw1282) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Arawan_languages)
-[Athabaskan-Eyak-Tlingit](https://glottolog.org/resource/languoid/id/atha1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Na-Dene_languages)
-[Aymaran](https://glottolog.org/resource/languoid/id/ayma1253) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Aymaran_languages)
-[Barbacoan](https://glottolog.org/resource/languoid/id/barb1265) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Barbacoan_languages)
-[Boran](https://glottolog.org/resource/languoid/id/bora1262) | South America |
-[Bororoan](https://glottolog.org/resource/languoid/id/boro1281) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Bororoan_languages)
-[Caddoan](https://glottolog.org/resource/languoid/id/cadd1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Caddoan_languages)
-[Cahuapanan](https://glottolog.org/resource/languoid/id/cahu1265) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Cahuapanan_languages)
-[Cariban](https://glottolog.org/resource/languoid/id/cari1283) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Cariban_languages)
-[Chapacuran](https://glottolog.org/resource/languoid/id/chap1271) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chapacuran_languages)
-[Charruan](https://glottolog.org/resource/languoid/id/char1238) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Charruan_languages)
-[Chibchan](https://glottolog.org/resource/languoid/id/chib1249) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chibchan_languages)
-[Chicham](https://glottolog.org/resource/languoid/id/jiva1245) | South America |
-[Chimakuan](https://glottolog.org/resource/languoid/id/chim1311) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chimakuan_languages)
-[Chinookan](https://glottolog.org/resource/languoid/id/chin1490) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chinookan_languages)
-[Chocoan](https://glottolog.org/resource/languoid/id/choc1280) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Choco_languages)
-[Chonan](https://glottolog.org/resource/languoid/id/chon1288) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chonan_languages)
-[Chumashan](https://glottolog.org/resource/languoid/id/chum1262) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chumashan_languages)
-[Cochimi-Yuman](https://glottolog.org/resource/languoid/id/coch1271) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yuman%E2%80%93Cochim%C3%AD_languages)
-[Coosan](https://glottolog.org/resource/languoid/id/coos1248) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Coosan_languages)
-[Eskimo-Aleut](https://glottolog.org/resource/languoid/id/eski1264) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Eskimo%E2%80%93Aleut_languages)
-[Guahiboan](https://glottolog.org/resource/languoid/id/guah1252) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Guajiboan_languages)
-[Guaicuruan](https://glottolog.org/resource/languoid/id/guai1249) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Guaicuruan_languages)
-[Haida](https://glottolog.org/resource/languoid/id/haid1248) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Haida_language)
-[Harakmbut](https://glottolog.org/resource/languoid/id/hara1260) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Har%C3%A1kmbut_languages)
-[Hibito-Cholon](https://glottolog.org/resource/languoid/id/hibi1242) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Hibito%E2%80%93Cholon_languages)
-[Huarpean](https://glottolog.org/resource/languoid/id/huar1251) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Huarpean_languages)
-[Huavean](https://glottolog.org/resource/languoid/id/huav1256) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Huave_language)
-[Huitotoan](https://glottolog.org/resource/languoid/id/huit1251) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Witotoan_languages)
-[Iroquoian](https://glottolog.org/resource/languoid/id/iroq1247) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Iroquoian_languages)
-[Jicaquean](https://glottolog.org/resource/languoid/id/jica1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Jicaquean_languages)
-[Jodi-Saliban](https://glottolog.org/resource/languoid/id/jodi1234) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Piaroa%E2%80%93Saliban_languages)
-[Kakua-Nukak](https://glottolog.org/resource/languoid/id/kaku1242) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nukak_language)
-[Kalapuyan](https://glottolog.org/resource/languoid/id/kala1402) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Kalapuyan_languages)
-[Kamakanan](https://glottolog.org/resource/languoid/id/kama1371) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kamak%C3%A3_languages)
-[Kariri](https://glottolog.org/resource/languoid/id/kari1254) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kariri_languages)
-[Katukinan](https://glottolog.org/resource/languoid/id/katu1274) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Katukinan_languages)
-[Kawesqar](https://glottolog.org/resource/languoid/id/kawe1237) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kaw%C3%A9sqar_language)
-[Keresan](https://glottolog.org/resource/languoid/id/kere1287) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Keres_language)
-[Kiowa-Tanoan](https://glottolog.org/resource/languoid/id/kiow1265) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tanoan_languages)
-[Lencan](https://glottolog.org/resource/languoid/id/lenc1239) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Lencan_languages)
-[Lengua-Mascoy](https://glottolog.org/resource/languoid/id/leng1261) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Mascoian_languages)
-[Maiduan](https://glottolog.org/resource/languoid/id/maid1262) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Maiduan_languages)
-[Matacoan](https://glottolog.org/resource/languoid/id/mata1289) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Matacoan_languages)
-[Mayan](https://glottolog.org/resource/languoid/id/maya1287) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Mayan_languages)
-[Misumalpan](https://glottolog.org/resource/languoid/id/misu1242) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Misumalpan_languages)
-[Miwok-Costanoan](https://glottolog.org/resource/languoid/id/miwo1274) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Utian_languages)
-[Mixe-Zoque](https://glottolog.org/resource/languoid/id/mixe1284) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Mixe%E2%80%93Zoque_languages)
-[Muskogean](https://glottolog.org/resource/languoid/id/musk1252) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Muskogean_languages)
-[Nadahup](https://glottolog.org/resource/languoid/id/nada1235) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nadahup_languages)
-[Nambiquaran](https://glottolog.org/resource/languoid/id/namb1299) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nambikwaran_languages)
-[Nuclear-Macro-Je](https://glottolog.org/resource/languoid/id/nucl1710) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Macro-J%C3%AA_languages)
-[Otomanguean](https://glottolog.org/resource/languoid/id/otom1299) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Oto-Manguean_languages)
-[Palaihnihan](https://glottolog.org/resource/languoid/id/pala1350) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Palaihnihan_languages)
-[Pano-Tacanan](https://glottolog.org/resource/languoid/id/pano1259) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Pano-Tacanan_languages)
-[Peba-Yagua](https://glottolog.org/resource/languoid/id/peba1241) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Peba%E2%80%93Yaguan_languages)
-[Pomoan](https://glottolog.org/resource/languoid/id/pomo1273) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Pomoan_languages)
-[Puri-Coroado](https://glottolog.org/resource/languoid/id/puri1261) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Purian_languages)
-[Quechuan](https://glottolog.org/resource/languoid/id/quec1387) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Quechuan_languages)
-[Sahaptian](https://glottolog.org/resource/languoid/id/saha1239) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Sahaptian_languages)
-[Salishan](https://glottolog.org/resource/languoid/id/sali1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Salishan_languages)
-[Shastan](https://glottolog.org/resource/languoid/id/shas1238) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Shastan_languages)
-[Siouan](https://glottolog.org/resource/languoid/id/siou1252) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Siouan_languages)
-[Tarascan](https://glottolog.org/resource/languoid/id/tara1323) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language)
-[Tequistlatecan](https://glottolog.org/resource/languoid/id/tequ1244) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tequistlatecan_languages)
-[Ticuna-Yuri](https://glottolog.org/resource/languoid/id/ticu1244) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Ticuna%E2%80%93Yuri_languages)
-[Totonacan](https://glottolog.org/resource/languoid/id/toto1251) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Totonacan_languages)
-[Tsimshian](https://glottolog.org/resource/languoid/id/tsim1258) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tsimshianic_languages)
-[Tucanoan](https://glottolog.org/resource/languoid/id/tuca1253) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Tucanoan_languages)
-[Tupian](https://glottolog.org/resource/languoid/id/tupi1275) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Tupian_languages)
-[Uru-Chipaya](https://glottolog.org/resource/languoid/id/uruc1242) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Uru%E2%80%93Chipaya_languages)
-[Uto-Aztecan](https://glottolog.org/resource/languoid/id/utoa1244) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Uto-Aztecan_languages)
-[Wakashan](https://glottolog.org/resource/languoid/id/waka1280) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Wakashan_languages)
-[Wintuan](https://glottolog.org/resource/languoid/id/wint1258) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Wintuan_languages)
-[Xincan](https://glottolog.org/resource/languoid/id/xinc1237) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Xincan_languages)
-[Yanomamic](https://glottolog.org/resource/languoid/id/yano1268) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Yanomaman_languages)
-[Yokutsan](https://glottolog.org/resource/languoid/id/yoku1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yokutsan_languages)
-[Yuki-Wappo](https://glottolog.org/resource/languoid/id/yuki1242) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yuki%E2%80%93Wappo_languages)
-[Zamucoan](https://glottolog.org/resource/languoid/id/zamu1243) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Zamucoan_languages)
-[Zaparoan](https://glottolog.org/resource/languoid/id/zapa1251) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Zaparoan_languages)
+Langauge Name | Geographic Area | Wikipedia Link | Sub-families | Languages
+--------------|-----------------|----------------|--------------|----------
+[Algic](https://glottolog.org/resource/languoid/id/algi1248) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Algic_languages) | |
+[Araucanian](https://glottolog.org/resource/languoid/id/arau1255) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Araucanian_languages) | |
+[Arawakan](https://glottolog.org/resource/languoid/id/araw1281) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Arawakan_languages) | |
+[Arawan](https://glottolog.org/resource/languoid/id/araw1282) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Arawan_languages) | |
+[Athabaskan-Eyak-Tlingit](https://glottolog.org/resource/languoid/id/atha1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Na-Dene_languages) | |
+[Aymaran](https://glottolog.org/resource/languoid/id/ayma1253) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Aymaran_languages) | |
+[Barbacoan](https://glottolog.org/resource/languoid/id/barb1265) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Barbacoan_languages) | |
+[Boran](https://glottolog.org/resource/languoid/id/bora1262) | South America | | |
+[Bororoan](https://glottolog.org/resource/languoid/id/boro1281) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Bororoan_languages) | |
+[Caddoan](https://glottolog.org/resource/languoid/id/cadd1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Caddoan_languages) | |
+[Cahuapanan](https://glottolog.org/resource/languoid/id/cahu1265) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Cahuapanan_languages) | |
+[Cariban](https://glottolog.org/resource/languoid/id/cari1283) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Cariban_languages) | |
+[Chapacuran](https://glottolog.org/resource/languoid/id/chap1271) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chapacuran_languages) | |
+[Charruan](https://glottolog.org/resource/languoid/id/char1238) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Charruan_languages) | |
+[Chibchan](https://glottolog.org/resource/languoid/id/chib1249) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chibchan_languages) | |
+[Chicham](https://glottolog.org/resource/languoid/id/jiva1245) | South America | | |
+[Chimakuan](https://glottolog.org/resource/languoid/id/chim1311) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chimakuan_languages) | |
+[Chinookan](https://glottolog.org/resource/languoid/id/chin1490) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chinookan_languages) | |
+[Chocoan](https://glottolog.org/resource/languoid/id/choc1280) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Choco_languages) | |
+[Chonan](https://glottolog.org/resource/languoid/id/chon1288) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chonan_languages) | |
+[Chumashan](https://glottolog.org/resource/languoid/id/chum1262) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chumashan_languages) | |
+[Cochimi-Yuman](https://glottolog.org/resource/languoid/id/coch1271) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yuman%E2%80%93Cochim%C3%AD_languages) | |
+[Coosan](https://glottolog.org/resource/languoid/id/coos1248) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Coosan_languages) | |
+[Eskimo-Aleut](https://glottolog.org/resource/languoid/id/eski1264) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Eskimo%E2%80%93Aleut_languages) | |
+[Guahiboan](https://glottolog.org/resource/languoid/id/guah1252) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Guajiboan_languages) | |
+[Guaicuruan](https://glottolog.org/resource/languoid/id/guai1249) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Guaicuruan_languages) | |
+[Haida](https://glottolog.org/resource/languoid/id/haid1248) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Haida_language) | |
+[Harakmbut](https://glottolog.org/resource/languoid/id/hara1260) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Har%C3%A1kmbut_languages) | |
+[Hibito-Cholon](https://glottolog.org/resource/languoid/id/hibi1242) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Hibito%E2%80%93Cholon_languages) | |
+[Huarpean](https://glottolog.org/resource/languoid/id/huar1251) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Huarpean_languages) | |
+[Huavean](https://glottolog.org/resource/languoid/id/huav1256) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Huave_language) | |
+[Huitotoan](https://glottolog.org/resource/languoid/id/huit1251) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Witotoan_languages) | |
+[Iroquoian](https://glottolog.org/resource/languoid/id/iroq1247) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Iroquoian_languages) | |
+[Jicaquean](https://glottolog.org/resource/languoid/id/jica1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Jicaquean_languages) | |
+[Jodi-Saliban](https://glottolog.org/resource/languoid/id/jodi1234) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Piaroa%E2%80%93Saliban_languages) | |
+[Kakua-Nukak](https://glottolog.org/resource/languoid/id/kaku1242) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nukak_language) | |
+[Kalapuyan](https://glottolog.org/resource/languoid/id/kala1402) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Kalapuyan_languages) | |
+[Kamakanan](https://glottolog.org/resource/languoid/id/kama1371) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kamak%C3%A3_languages) | |
+[Kariri](https://glottolog.org/resource/languoid/id/kari1254) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kariri_languages) | |
+[Katukinan](https://glottolog.org/resource/languoid/id/katu1274) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Katukinan_languages) | |
+[Kawesqar](https://glottolog.org/resource/languoid/id/kawe1237) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kaw%C3%A9sqar_language) | |
+[Keresan](https://glottolog.org/resource/languoid/id/kere1287) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Keres_language) | |
+[Kiowa-Tanoan](https://glottolog.org/resource/languoid/id/kiow1265) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tanoan_languages) | |
+[Lencan](https://glottolog.org/resource/languoid/id/lenc1239) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Lencan_languages) | |
+[Lengua-Mascoy](https://glottolog.org/resource/languoid/id/leng1261) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Mascoian_languages) | |
+[Maiduan](https://glottolog.org/resource/languoid/id/maid1262) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Maiduan_languages) | |
+[Matacoan](https://glottolog.org/resource/languoid/id/mata1289) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Matacoan_languages) | |
+[Mayan](https://glottolog.org/resource/languoid/id/maya1287) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Mayan_languages) | |
+[Misumalpan](https://glottolog.org/resource/languoid/id/misu1242) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Misumalpan_languages) | |
+[Miwok-Costanoan](https://glottolog.org/resource/languoid/id/miwo1274) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Utian_languages) | |
+[Mixe-Zoque](https://glottolog.org/resource/languoid/id/mixe1284) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Mixe%E2%80%93Zoque_languages) | |
+[Muskogean](https://glottolog.org/resource/languoid/id/musk1252) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Muskogean_languages) | |
+[Nadahup](https://glottolog.org/resource/languoid/id/nada1235) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nadahup_languages) | |
+[Nambiquaran](https://glottolog.org/resource/languoid/id/namb1299) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nambikwaran_languages) | |
+[Nuclear-Macro-Je](https://glottolog.org/resource/languoid/id/nucl1710) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Macro-J%C3%AA_languages) | |
+[Otomanguean](https://glottolog.org/resource/languoid/id/otom1299) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Oto-Manguean_languages) | |
+[Palaihnihan](https://glottolog.org/resource/languoid/id/pala1350) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Palaihnihan_languages) | |
+[Pano-Tacanan](https://glottolog.org/resource/languoid/id/pano1259) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Pano-Tacanan_languages) | |
+[Peba-Yagua](https://glottolog.org/resource/languoid/id/peba1241) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Peba%E2%80%93Yaguan_languages) | |
+[Pomoan](https://glottolog.org/resource/languoid/id/pomo1273) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Pomoan_languages) | |
+[Puri-Coroado](https://glottolog.org/resource/languoid/id/puri1261) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Purian_languages) | |
+[Quechuan](https://glottolog.org/resource/languoid/id/quec1387) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Quechuan_languages) | |
+[Sahaptian](https://glottolog.org/resource/languoid/id/saha1239) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Sahaptian_languages) | |
+[Salishan](https://glottolog.org/resource/languoid/id/sali1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Salishan_languages) | |
+[Shastan](https://glottolog.org/resource/languoid/id/shas1238) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Shastan_languages) | |
+[Siouan](https://glottolog.org/resource/languoid/id/siou1252) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Siouan_languages) | |
+[Tarascan](https://glottolog.org/resource/languoid/id/tara1323) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language) | |
+[Tequistlatecan](https://glottolog.org/resource/languoid/id/tequ1244) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tequistlatecan_languages) | |
+[Ticuna-Yuri](https://glottolog.org/resource/languoid/id/ticu1244) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Ticuna%E2%80%93Yuri_languages) | |
+[Totonacan](https://glottolog.org/resource/languoid/id/toto1251) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Totonacan_languages) | |
+[Tsimshian](https://glottolog.org/resource/languoid/id/tsim1258) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tsimshianic_languages) | |
+[Tucanoan](https://glottolog.org/resource/languoid/id/tuca1253) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Tucanoan_languages) | |
+[Tupian](https://glottolog.org/resource/languoid/id/tupi1275) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Tupian_languages) | |
+[Uru-Chipaya](https://glottolog.org/resource/languoid/id/uruc1242) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Uru%E2%80%93Chipaya_languages) | |
+[Uto-Aztecan](https://glottolog.org/resource/languoid/id/utoa1244) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Uto-Aztecan_languages) | |
+[Wakashan](https://glottolog.org/resource/languoid/id/waka1280) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Wakashan_languages) | |
+[Wintuan](https://glottolog.org/resource/languoid/id/wint1258) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Wintuan_languages) | |
+[Xincan](https://glottolog.org/resource/languoid/id/xinc1237) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Xincan_languages) | |
+[Yanomamic](https://glottolog.org/resource/languoid/id/yano1268) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Yanomaman_languages) | |
+[Yokutsan](https://glottolog.org/resource/languoid/id/yoku1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yokutsan_languages) | |
+[Yuki-Wappo](https://glottolog.org/resource/languoid/id/yuki1242) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yuki%E2%80%93Wappo_languages) | |
+[Zamucoan](https://glottolog.org/resource/languoid/id/zamu1243) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Zamucoan_languages) | |
+[Zaparoan](https://glottolog.org/resource/languoid/id/zapa1251) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Zaparoan_languages) | |
 
 ## Language Isolates
 
