@@ -15,6 +15,10 @@ This is an attempt at documenting a full chronology of the so called Americas si
    ```
 4. Start contributing using your favorite text editor (I actually recommend using [Visual Studio Code](https://code.visualstudio.com/), because it's relatively snappy).
 
+# Overview of Current Lands of Indigenous People
+
+The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually autohoritative, nor does it actually necessarily represent the boudaries at any particular time in history.
+
 # Origin of Modern Humans and other Necessary Background
 
 Humans have a very messy story of migration and intermingling with other varieties of our family tree. We are starting to untangle the story. However, it is necessary to have a picture of what the research currently looks like for the origins of modern humans.
