@@ -24,6 +24,8 @@ Humans have a very messy story of migration and intermingling with other varieti
 * 70,000 years ago, a large group left Africa and traveled through SE Asia and Indonesia and down into Australia.
 * Many more migrations in different areas and directions occurred. These migrations likely encountered more of our genetic relatives and we likely interbred with them.
 
+Also see the [Languages section](languages/README.md) of the repository.
+
 ## Sources
 
 * National Geographic has a nice looking, but crude, map which traces the general flow of modern genetics out of Africa and into the rest of the world: [Map of Human Migration](https://genographic.nationalgeographic.com/human-journey/)
