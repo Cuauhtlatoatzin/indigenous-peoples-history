@@ -315,6 +315,14 @@ Occupation was carbon dated to at least 3000 BCE. Main Chavín culture articfact
 
 * [Arctic Small Tool tradition](https://en.wikipedia.org/wiki/Arctic_small_tool_tradition)
 
+## Canton Corralito - Mazatán, Chiapas - Mokaya, Olmec (2500 BCE - 1000 BCE)
+
+Occupied by Mokaya culture until around 1250 BCE when everything shifts to Olmec. Did my ancestors colonize this place?
+
+* [Canton Corralito](https://en.wikipedia.org/wiki/Mazat%C3%A1n,_Chiapas#Canton_Corralito)
+* [The Americas' First Colony?](https://archive.archaeology.org/0601/abstracts/olmec.html)
+* [Rosenswig, Robert M. "Mesoamerica's First Style Horizons and the 'Olmec Problem'". The Beginnings of Mesoamerican Civilization: Inter-Regional Interaction and the Olmec.](https://books.google.com.mx/books?id=hMMaL4L_vMsC&pg=PA65)
+
 ## Purron Phase - Tehuacán Valley (2300 BCE - 1500 BCE)
 
 * [Only quick refence to the Purron Phase](https://www.britannica.com/place/Mexico/History#ref394288)
@@ -374,7 +382,10 @@ Occupation was carbon dated to at least 3000 BCE. Main Chavín culture articfact
 
 ### Monte Alto Culture - Guatemala (1800 BCE - 200 CE)
 
+They also had large stone heads along with the Olmec. Bacame a cultural center from 400 BCE - 200 CE.
+
 * [Monte Alto Culture](https://en.wikipedia.org/wiki/Monte_Alto_culture)
+  `Many of the Monte Alto sculptures are magnetic as well. Since certain distinctive patterns of magnetism recur with some frequency, it would appear that the sculptures were executed by artisans who were aware of these properties. If this is true, the Monte Alto sculptures no doubt deserve recognition as the oldest known magnetic artifacts in the world.`
 
 ### San Lorenzo Tenochtitlán - San Lorenzo, Veracruz - Olmec (1700 BCE - 900 BCE)
 
@@ -473,6 +484,14 @@ See above under Ventarron, Peru
 
 * [Kuntur Wasi (Condor House)](https://en.wikipedia.org/wiki/Kuntur_Wasi)
 
+## Ojo de Agua - Mazatán, Chiapas - Mokaya, Olmec (1200 BCE - 1526)
+
+* [Ojo de Agua](https://en.wikipedia.org/wiki/Mazat%C3%A1n,_Chiapas#Ojo_de_Agua)  
+  `Ojo de Agua was later replaced by La Blanca and Ujuxte.`  
+  Platform mound are oriented to megnetic north.
+* [Ancient Mesoamerican sculpture uncovered in southern Mexico](https://news.wisc.edu/ancient-mesoamerican-sculpture-uncovered-in-southern-mexico/)
+* [Rosenswig, Robert M. "Mesoamerica's First Style Horizons and the 'Olmec Problem'". The Beginnings of Mesoamerican Civilization: Inter-Regional Interaction and the Olmec.](https://books.google.com.mx/books?id=hMMaL4L_vMsC&pg=PA65)
+
 # Post-archaic (1000 BCE - Present)
 
 ## Mesoamerican Middle Formative (950 BCE- 400 BCE)
@@ -542,6 +561,16 @@ Conduit of many cultures.
 ## Chavín culture (900 BCE - 200 BCE)
 
 * [Chavín culture](https://en.wikipedia.org/wiki/Chav%C3%ADn_culture) - Also see Chavín de Huantar above. I've noticed similarities between this culture and Adena, Hopewell, and Missippian cultures.
+
+## La Blanca - Retalhuleu Department, Guatamala - Mokaya Culture, Monte Alto Culture (900 BCE - 600 BCE)
+
+* [La Blanca](https://en.wikipedia.org/wiki/La_Blanca)
+
+## Takalik Abaj - El Asintal, Retalhuleu Department, Guatemala - Mokaya Culture, Olmec, Maya (900 BCE - 1524 CE)
+
+* [Takalik Abaj](https://en.wikipedia.org/wiki/Takalik_Abaj)
+
+
 
 ## Classic (500 BCE - 1200 CE)
 
