@@ -317,7 +317,7 @@ Occupation was carbon dated to at least 3000 BCE. Main Chavín culture articfact
 
 ## Canton Corralito - Mazatán, Chiapas - Mokaya, Olmec (2500 BCE - 1000 BCE)
 
-Occupied by Mokaya culture until around 1250 BCE when everything shifts to Olmec. Did my ancestors colonize this place?
+Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olmec](#height-of-the-olmec-1500-bce---400-bce). Did my ancestors colonize this place?
 
 * [Canton Corralito](https://en.wikipedia.org/wiki/Mazat%C3%A1n,_Chiapas#Canton_Corralito)
 * [The Americas' First Colony?](https://archive.archaeology.org/0601/abstracts/olmec.html)
@@ -372,17 +372,19 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to Olmec
 
 ### Mokaya - Soconusco, Chiapas (1850 BCE - 650 BCE)
 
+Actually dates back to [Canton Corralito (2500 BCE)](#canton-corralito---mazatán-chiapas---mokaya-olmec-2500-bce---1000-bce)
+
 * [Mokaya](https://en.wikipedia.org/wiki/Mokaya)
 
 ### Paso de la Amada - Soconusco, Chiapas - Mokaya Culture, Olmec (1800 BCE - ?)
 
 * [Paso de la Amada](https://en.wikipedia.org/wiki/Paso_de_la_Amada)
 
-  Olmecas arrived around 1150 BCE - ver [Época_prehispánica de Mazatán (Chiapas)](https://es.wikipedia.org/wiki/Mazatán_(Chiapas)#Época_prehispánica)
+  [Olmecas](#height-of-the-olmec-1500-bce---400-bce) arrived around 1150 BCE - ver [Época_prehispánica de Mazatán (Chiapas)](https://es.wikipedia.org/wiki/Mazatán_(Chiapas)#Época_prehispánica)
 
 ### Monte Alto Culture - Guatemala (1800 BCE - 200 CE)
 
-They also had large stone heads along with the Olmec. Bacame a cultural center from 400 BCE - 200 CE.
+They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500-bce---400-bce). Bacame a cultural center from 400 BCE - 200 CE.
 
 * [Monte Alto Culture](https://en.wikipedia.org/wiki/Monte_Alto_culture)
   `Many of the Monte Alto sculptures are magnetic as well. Since certain distinctive patterns of magnetism recur with some frequency, it would appear that the sculptures were executed by artisans who were aware of these properties. If this is true, the Monte Alto sculptures no doubt deserve recognition as the oldest known magnetic artifacts in the world.`
@@ -470,15 +472,15 @@ valle bajo de Jequetepeque](http://revistas.pucp.edu.pe/index.php/boletindearque
 
 ### Cullud
 
-See above under Ventarron, Peru
+See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
 ### Zarpan
 
-See above under Ventarron, Peru
+See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
 ### Ventarron
 
-See above under Ventarron, Peru
+See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
 ## Kuntur Wasi (1200 BCE - 50 BCE)
 
@@ -496,8 +498,8 @@ See above under Ventarron, Peru
 
 ## Mesoamerican Middle Formative (950 BCE- 400 BCE)
 
-* Part of the Mokaya (see above)
-* Olmec
+* [Mokaya](#mokaya---soconusco-chiapas-1850-bce---650-bce)
+* [Olmec](#height-of-the-olmec-1500-bce---400-bce)
 
 ## El Mesón  - Papaloapn Basin, Veracruz - Olmec, Epi-Olmec, Classic Veracruz (1450 BCE - 1520 CE)
 
