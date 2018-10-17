@@ -432,8 +432,6 @@ Occupation was carbon dated to at least 3000 BCE. Main Chavín culture articfact
 
   Split from the Maya. Very few ethnic Huastecs, most are in North Veracruz and San Luis Potosi.
 
-
-
 ## Ten Thousand Islands - Everglades, Florida (1500 BCE)
 
 * [Rethinking Shell Middens. American Archeological Magazine. 21 Jun. 2018](https://www.archaeologicalconservancy.org/rethinking-shell-middens/)
@@ -482,16 +480,58 @@ See above under Ventarron, Peru
 * Part of the Mokaya (see above)
 * Olmec
 
-### 800 BCE
+## El Mesón  - Papaloapn Basin, Veracruz - Olmec, Epi-Olmec, Classic Veracruz (1450 BCE - 1520 CE)
 
-* [1200 Year Old Mayan Theatre Discovered in Mexico](https://archaeologynewsnetwork.blogspot.com/2012/08/1200-year-old-mayan-theatre-discovered.html#tGhOYGzW0RrPCRVS.97)
+Technically, this still lives on as the town of Ángel R. Cabada. It reached it's height as a cultural center around 400 BCE - 100 CE at which point the cultural center started shifting to La Venta. This is actually the region where my ancestors come from and around where my mom was born.
 
-### 750 BCE - 1200 BCE
+* [Loughlin, Michael L.  Political-economic strategies and settlement ecology in the Mesoamerican Gulf Lowlands: Olmec, Epi-olmec and Classic Period settlement in the El Meson area of the Eastern Lower Papaloapan Basin, Veracruz, Mexico.](https://books.google.com/books?id=VjolDwAAQBAJ&pg=PA113)
+* [Angel R. Cabada - Enciclopedia de los Municipios y Delagaciones de Mexico - Estado de Vaeracruz-Llave](http://siglo.inafed.gob.mx/enciclopedia/EMM30veracruz/municipios/30015a.html)
+* [Ángel R. Cabada](https://en.wikipedia.org/wiki/%C3%81ngel_R._Cabada)
 
-* [Witze, Alexandra. The Mystery Of Hohokam Ballcourts. American Archeology Magazine. 15 Mar. 2018.](https://www.archaeologicalconservancy.org/the-mystery-of-hohokam-ballcourts/)
-  `From the Olmec to the Maya to the Aztec, ballgames were one of the defining activities of Mesoamerican cultures. Beginning some time before 1200 B.C., competitors kicked and whacked rubber balls up and down a playing court. These ballgames were rich in symbolism—in some cases the gods were said to have played—and a powerful force that bound communities together. But it’s possible these games weren’t limited to Mesoamerica. Archaeologists have found more than 200 oval-shaped earthen depressions with embankments in central and southern Arizona that resemble the Mesoamerican ballcourts. These features date between roughly A.D. 750 and 1200 and are associated with the Hohokam culture.`
+## Nakbe - Mirador Basin, Petén, Guatamala - Maya (1400 BCE - 100 BCE)
 
-  `Though archaeologists continue to debate their purpose, and ethnographic accounts are silent on this matter, most researchers now surmise that the Hohokam courts were used for ballgames, much as the Mesoamerican ones were, according to Henry Wallace, a senior research archaeologist with Desert Archaeology, Inc., in Tucson, Arizona. In doing so the courts played a major role in strengthening Hohokam identity and interactions among villages. “Whenever you have games, you have people coming together,” Wallace said. “It’s a great way of linking social groups.”`
+* [Nakbe](https://en.wikipedia.org/wiki/Nakbe)
+
+## Capacha - West coast from Sinaloa to Guerrero, possibly through Ecuador - Nahuatl (1300 BCE - 1521 CE)
+
+* [Capacha](https://en.wikipedia.org/wiki/Capacha)
+
+## La Venta - Tabasco - Olmec (1200 BCE - 400 CE)
+
+* [La Venta](https://en.wikipedia.org/wiki/La_Venta)
+
+## Ujuxte - Guatamala - Preclassic Maya (1200 BCE - 200 CE)
+
+* [Ujuxte](https://en.wikipedia.org/wiki/Ujuxte)
+
+## Cuello - Orange Walk District, Belieze - Lowland Maya (1200 BCE - ?)
+
+* [Cuello](https://en.wikipedia.org/wiki/Cuello)
+
+## Chavín de Huantar - Chavín de Huantar, Peru - Chavín (1200 BCE - 500 CE)
+
+* [Chavín de Huantar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
+
+## Chiapa de Corzo - Chiapas - ?, Olmec, Zoque, Chiapanec (1200 BCE - 700 CE)
+
+Conduit of many cultures.
+
+* [Zona arqueológica de Chiapa de Corzo](https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Chiapa_de_Corzo)
+* [Chiapa de Corzo](https://en.wikipedia.org/wiki/Chiapa_de_Corzo_(Mesoamerican_site))
+
+## Tlatilco - Valley of Mexico - Tlaticans, Olmecs? (1200 BCE - ?)
+
+* [Tlatilco](https://en.wikipedia.org/wiki/Tlatilco)
+
+## Izapa - Chiapas - Olmec, Maya (1100 BCE - 1200 CE)
+
+-1100 is a guess, it's heyday was between -850 and -100.
+
+* [Izapa](https://en.wikipedia.org/wiki/Izapa)
+
+## Tres-Zapotes - Papaloapan River Basin, Veracruz - Olmec, Epi-Olmec, Classic Veracruz (1000 BCE - 900 CE)
+
+* [Tres-Zapotes](https://en.wikipedia.org/wiki/Tres_Zapotes)
 
 ## Copper In South America [1000 BCE]
 
@@ -619,6 +659,17 @@ Centered in a few regions:
   `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
 
   `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
+
+### 750 CE - 1200 CE
+
+* [Witze, Alexandra. The Mystery Of Hohokam Ballcourts. American Archeology Magazine. 15 Mar. 2018.](https://www.archaeologicalconservancy.org/the-mystery-of-hohokam-ballcourts/)
+  `From the Olmec to the Maya to the Aztec, ballgames were one of the defining activities of Mesoamerican cultures. Beginning some time before 1200 B.C., competitors kicked and whacked rubber balls up and down a playing court. These ballgames were rich in symbolism—in some cases the gods were said to have played—and a powerful force that bound communities together. But it’s possible these games weren’t limited to Mesoamerica. Archaeologists have found more than 200 oval-shaped earthen depressions with embankments in central and southern Arizona that resemble the Mesoamerican ballcourts. These features date between roughly A.D. 750 and 1200 and are associated with the Hohokam culture.`
+
+  `Though archaeologists continue to debate their purpose, and ethnographic accounts are silent on this matter, most researchers now surmise that the Hohokam courts were used for ballgames, much as the Mesoamerican ones were, according to Henry Wallace, a senior research archaeologist with Desert Archaeology, Inc., in Tucson, Arizona. In doing so the courts played a major role in strengthening Hohokam identity and interactions among villages. “Whenever you have games, you have people coming together,” Wallace said. “It’s a great way of linking social groups.”`
+
+### 800 CE
+
+* [1200 Year Old Mayan Theatre Discovered in Mexico](https://archaeologynewsnetwork.blogspot.com/2012/08/1200-year-old-mayan-theatre-discovered.html#tGhOYGzW0RrPCRVS.97)
 
 ## Chimú Culture (850 CE - 1470 CE)
 
