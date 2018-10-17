@@ -224,6 +224,7 @@ Langauge Name | Geographic Area | Wikipedia Link
 
 
 # Links Elsewhere
+* [First Voices](https://www.firstvoices.com/explore/FV/sections/Data) - As of 16 Oct. 2018, this site has basic vocabulary and resources for 49 First Nation languages (Canada).
 * [North American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/namerim.htm)
 * [Central American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/mamerim.htm)
 * [South American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/samerim.htm)
