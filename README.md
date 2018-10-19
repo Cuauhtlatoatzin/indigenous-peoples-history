@@ -370,6 +370,11 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 
 * [Capacha](https://en.wikipedia.org/wiki/Capacha)
 
+### Chocolate Domesticated by Mokaya Culture (1900 BCE)
+
+* [Oldest chocolate in the New World](https://www.antiquity.ac.uk/projgall/powis314/)
+  `Our analysis shows that chocolate (Theobroma cacao) was consumed by the Mokaya as early as 1900 BC and by pre-Olmec peoples as early as 1750 BC, pushing back the chemical evidence of cacao use by some 700 years.`
+
 ### Mokaya - Soconusco, Chiapas (1850 BCE - 650 BCE)
 
 Actually dates back to [Canton Corralito (2500 BCE)](#canton-corralito---mazatán-chiapas---mokaya-olmec-2500-bce---1000-bce)
@@ -388,6 +393,12 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
 * [Monte Alto Culture](https://en.wikipedia.org/wiki/Monte_Alto_culture)
   `Many of the Monte Alto sculptures are magnetic as well. Since certain distinctive patterns of magnetism recur with some frequency, it would appear that the sculptures were executed by artisans who were aware of these properties. If this is true, the Monte Alto sculptures no doubt deserve recognition as the oldest known magnetic artifacts in the world.`
+
+### Pre-Olmec People Cultivate Chocolate
+
+* [Oldest chocolate in the New World](https://www.antiquity.ac.uk/projgall/powis314/)
+  `In the Gulf Coast area, pre-Olmec people were consuming liquid chocolate by 1750 BC, suggesting that the later Olmec civilisation centered at the nearby site of San Lorenzo (1200-900 BC) did the same.`
+
 
 ### San Lorenzo Tenochtitlán - San Lorenzo, Veracruz - Olmec (1700 BCE - 900 BCE)
 
@@ -720,6 +731,12 @@ Centered in a few regions:
 
 ### Coles Creek (700 CE - 1100 CE)
 
+## Medicine man burried with bundle of Ilex Guayusa (500 CE)
+
+* [Ilex Gauyusa](https://en.wikipedia.org/wiki/Ilex_guayusa)
+* [Amazonian Guayusa (Ilex guayusa Loes.): A Historical and Ethnobotanical Overview](https://www.researchgate.net/publication/295085067_Amazonian_Guayusa_Ilex_guayusa_Loes_A_Historical_and_Ethnobotanical_Overview)
+  `Archaeological and historical records suggest that guayusa has been used and traded as a medicinal plant in the greater Andes–Amazon region since at least 500 C.E. Guayusa leaves dated to this time were found in a multi–family tomb in Niño Korin, Bautista Saavedra Province of Bolivia and were thought to belong to a Bmedicine man^ of the Kallawaya (Tiwanaku) society (Wassén 1972).`
+
 ## Polynesians Bump Into America (500 CE - 700 CE)
 
 * [Swetek, Brian. DNA shows how the sweet potato crossed the sea. Nature News. 21 Jan. 2013.](https://www.nature.com/news/dna-shows-how-the-sweet-potato-crossed-the-sea-1.12257)
@@ -741,12 +758,19 @@ Centered in a few regions:
 
   `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
 
-### 750 CE - 1200 CE
+### Hohokam Ballcourts (750 CE - 1200 CE)
 
 * [Witze, Alexandra. The Mystery Of Hohokam Ballcourts. American Archeology Magazine. 15 Mar. 2018.](https://www.archaeologicalconservancy.org/the-mystery-of-hohokam-ballcourts/)
   `From the Olmec to the Maya to the Aztec, ballgames were one of the defining activities of Mesoamerican cultures. Beginning some time before 1200 B.C., competitors kicked and whacked rubber balls up and down a playing court. These ballgames were rich in symbolism—in some cases the gods were said to have played—and a powerful force that bound communities together. But it’s possible these games weren’t limited to Mesoamerica. Archaeologists have found more than 200 oval-shaped earthen depressions with embankments in central and southern Arizona that resemble the Mesoamerican ballcourts. These features date between roughly A.D. 750 and 1200 and are associated with the Hohokam culture.`
 
   `Though archaeologists continue to debate their purpose, and ethnographic accounts are silent on this matter, most researchers now surmise that the Hohokam courts were used for ballgames, much as the Mesoamerican ones were, according to Henry Wallace, a senior research archaeologist with Desert Archaeology, Inc., in Tucson, Arizona. In doing so the courts played a major role in strengthening Hohokam identity and interactions among villages. “Whenever you have games, you have people coming together,” Wallace said. “It’s a great way of linking social groups.”`
+
+### Cacao and Holly Based Caffeinated Drinks (750 CE - 1400 CE)
+
+A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (and probably earlier, but we have no evidence). Chocolate (theobroma cacao) was also imported around the same time, becoming more popular by 1200 CE.
+
+* [Ritual drinks in the pre-Hispanic US Southwest and Mexican Northwest](http://www.pnas.org/content/112/37/11436.long)
+* [Evidence of cacao use in the Prehispanic American Southwest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2650116/)
 
 ### 800 CE
 
@@ -778,6 +802,13 @@ Centered in a few regions:
 ## Mississippian (1000 CE - 1500 CE)
 
 ## Early Mississippian (1000 CE - 1200 CE)
+
+### Ritual Black Drink consumption at Cahokia (1050 CE - 1250 CE)
+
+This indicates that there were estalbished trade routes between the natural range of [Ilex vomitoria](https://github.com/Cuauhtlatoatzin/plants/blob/master/README.md#ilex) and Cahokia.
+
+* [Ritual Black Drink consumption at Cahokia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435207/)
+* [Researchers find evidence of ritual use of 'black drink' at Cahokia](https://news.illinois.edu/view/6367/205015)
 
 ## Mesoamerican Late Postclassic (1200 CE - 1521 CE)
 
