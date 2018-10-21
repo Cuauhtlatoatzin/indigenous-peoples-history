@@ -108,7 +108,7 @@ These links support discoveries on the continent prior to any currently establis
 
 ## 15,500 - 13,200 BP (13500 BCE - 11200 BCE)
 
-### Debra L Fiedkin Site, Texas
+### Debra L Fiedkin Site, Texas, USA
 
 * [Buttermilk Creek Complex](https://en.wikipedia.org/wiki/Buttermilk_Creek_Complex)
 * [Thomas A. Jennings and Michael R. Waters. PRE-CLOVIS LITHIC TECHNOLOGY AT THE DEBRA L. FRIEDKIN SITE, TEXAS: COMPARISONS TO CLOVIS THROUGH SITE-LEVEL BEHAVIOR, TECHNOLOGICAL TRAIT-LIST, AND CLADISTIC ANALYSES. American Antiquity Vol. 79, No. 1 (January 2014), pp. 25-44](https://www.jstor.org/stable/24712725?seq=1&googleloggedin=true#page_scan_tab_contents)
@@ -117,13 +117,13 @@ These links support discoveries on the continent prior to any currently establis
 
 ## 15,000 - 13,000 BP (14000 BCE - 11000 BCE)
 
-### Wakulla Springs, Florida
+### Wakulla Springs, Florida, USA
 
 * [Stewart, Tamara. Sneak Peak: 15,000 Year-Old Pre-Clovis at Wakulla Springs. American Archeology Magazine. 7 Sep. 2018.](https://www.archaeologicalconservancy.org/sneak-peak-15000-year-old-pre-clovis-at-wakulla-springs/)
 
 ## 14,400 BP (12400 BCE)
 
-### Page-Ladsen site, Aucilla River, Florida
+### Page-Ladsen site, Aucilla River, Florida, USA
 
 * [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
 * [Hodges, Glenm. Discovery Points to Earlier Arrival of First Americans. National Geographic. 13 May. 2016.](https://news.nationalgeographic.com/2016/05/160513-first-americans-clovis-mastodon-florida-page-ladson/)
@@ -132,7 +132,7 @@ These links support discoveries on the continent prior to any currently establis
 
 ## 14,300 BP (12300 BCE)
 
-### Oregon
+### Oregon, USA
 
 * [Balter, Micheal. "DNA From Fossil Feces Breaks Clovis Barrier." Science  04 Apr. 2008: Vol. 320, Issue 5872, pp. 37](http://science.sciencemag.org/content/320/5872/37.summary)
 * [Pre-Clovis Human DNA Found In 14,300-year-old Feces In Oregon Cave Is Oldest In New World](https://www.sciencedaily.com/releases/2008/04/080403141109.htm)
@@ -140,7 +140,7 @@ These links support discoveries on the continent prior to any currently establis
 
 ## 14,000 BP (12000 BCE)
 
-### Triquet Island, BC
+### Triquet Island, British Columbia, Canada
 
 * [Farand, Chloe. 14,000-year-old village discovered in Canada one of oldest settlements ever found in North America. Independent. 08 Apr. 2017.](https://www.independent.co.uk/news/world/americas/14000-village-discovered-triquet-island-british-columbia-canada-oldest-settlment-north-america-a7673726.html)
 * [14,000-year-old village unearthed on B.C. island by UVic student](https://vancouverisland.ctvnews.ca/14-000-year-old-village-unearthed-on-b-c-island-by-uvic-student-1.3358511#_gus&_gucid=&_gup=twitter&_gsc=CFUBl6c)
@@ -152,7 +152,7 @@ These links support discoveries on the continent prior to any currently establis
 * [Taylor, Christie. A 14,000 Year-Old Discovery Emerges From Oral History. Science Friday. 14 Apr. 2017.](https://www.sciencefriday.com/segments/a-14000-year-old-discovery-emerges-from-oral-history/)
 
 
-### Meadowcroft Rock Shelter, Pennsylvania
+### Meadowcroft Rock Shelter, Pennsylvania, USA
 
 * [Meadowcroft Rockshelter](https://en.wikipedia.org/wiki/Meadowcroft_Rockshelter)
 * [Cheney, Jim. Meadowcroft Rockshelter: North America’s Oldest Human Settlement. Atlas Obscura. 20 May. 2014.](https://www.atlasobscura.com/articles/meadowcroft-rockshelter-north-america-s-oldest-human-settlement)
@@ -162,7 +162,7 @@ These links support discoveries on the continent prior to any currently establis
  
 ## 13,800 BP (11000 BCE)
 
-### Manis Site, Washington
+### Manis Site, Washington, USA
 
 * [Manis Mastodon Site](https://en.wikipedia.org/wiki/Manis_Mastodon_Site)
 * [Gustafson, Carl E. The Manis Mastodon Site: An Adventure In Prehistory. Washington State Magazine. Summer. 2012.](https://magazine.wsu.edu/web-extra/the-manis-mastodon-site-an-adventure-in-prehistory/)
@@ -193,11 +193,11 @@ These links support discoveries on the continent prior to any currently establis
 
 # Early Archaic (8000 BCE - 6000 BCE)
 
-## Ajuereado Phase, Tehuacán Valley (9000 BCE - 7000 BCE)
+## Ajuereado Phase, Tehuacán Valley, MX (9000 BCE - 7000 BCE)
 
 * [Ajuereado Phase. The Concise Oxford Dictionary of Archaeology.](http://www.oxfordreference.com/view/10.1093/oi/authority.20110810104328172)
 
-## Plano Cultures (9000 BCE - 6000 BCE)
+## Plano Cultures - Canada, USA, MX (9000 BCE - 6000 BCE)
 
 * [Plano Culture](https://en.wikipedia.org/wiki/Plano_cultures)
 * [Plano Culture. A History of the Native People of Canada. Vol 1.](https://www.historymuseum.ca/cmc/exhibitions/archeo/hnpc/npvol07e.shtml)
@@ -205,20 +205,20 @@ These links support discoveries on the continent prior to any currently establis
 
   Basically, they went through the whole region where the bison roamed.
 * [`The Early Plano culture was primarily based in the Plains of Canada, with offshoots as far east as the Gaspe Peninnsula and as far northwest as the Peace River Valley of Alberta and British Columbia. Plano was also widespread in the United States, extending south to the Gulf of Mexico. Some tools found in the Canadian Plains were made from stone sources in the US`](https://web.archive.org/web/20110713193402/http://www.learnersportal.com/CanadaFP/Ancient/per1.html)
-* Agate Basin Site, WY
-* Cody Complex near Cody, WY (encompases the following three regions)
-* Lamb Spring in Douglas County, CO
-* Olsen-Chubbuck Bison Kill Site near Kit Carson, CO
-* Jurgens Site near Greeley, CO
-* Hell Gap Complex, WY
-* Jones-Miller Bison Kill Site in Yuma County, CO
-* Foothills / Mountain Complex, CO
+* Agate Basin Site, WY, USA
+* Cody Complex near Cody, WY, USA (encompases the following three regions)
+* Lamb Spring in Douglas County, CO, USA
+* Olsen-Chubbuck Bison Kill Site near Kit Carson, CO, USA
+* Jurgens Site near Greeley, CO, USA
+* Hell Gap Complex, WY, USA
+* Jones-Miller Bison Kill Site in Yuma County, CO, USA
+* Foothills / Mountain Complex, CO, USA
 
-## El Riego Phase, Tehuacán Valley (8650 BCE - 5700 BCE)
+## El Riego Phase - Tehuacán Valley, MX (8650 BCE - 5700 BCE)
 
 * [El Riego Phase](https://en.wikipedia.org/wiki/El_Riego_phase)
 
-### Balsas River Valley (7200 BCE - ?)
+### Balsas River Valley - MX (7200 BCE - ?)
 
 * [Balsas River Valley](https://en.wikipedia.org/wiki/Balsas_River)
 
@@ -226,40 +226,47 @@ These links support discoveries on the continent prior to any currently establis
 
 ### Tlingit Petroglyphs
 
-* [Petroglyph Beach : Tlingit Art From Before the Time of the Pyramids](http://ianajohnson.com/petroglyph-beach-tlingit-art-time-pyramids/)
+* [Petroglyph Beach : Tlingit Art From Before the Time of the Pyramids](http://ianajohnson.com/petroglyph-beach-tlingit-art-time-pyramids/) - Wrangell Petroglyph State Historic Site, Wrangell, Alaska, USA
 * [A GALLERY OF NORTHWEST PETROGLYPHS: SHAMANIC ART OF THE PACIFIC NORTHWEST](https://www.danielleen.org/petroglyphs.html)
 
-## Maritime Archaic (7000 BCE - 1800 BEC)
+### Anangula Site - Aleutian Islands, Alaska, USA (6000 BC)
+
+## Maritime Archaic - Canada: Labrador, Newfoundland, New Brunswick, Prince Edward Island, Nova Scotia; USA: Maine, Vermount, Newhampshire, Massachusetts, Rhode Islnd, Connecticut (7000 BCE - 1800 BEC)
 
 * [Maritime Archaic](https://en.wikipedia.org/wiki/Maritime_Archaic)
 * Built longhouses.
 
 # Middle Archaic (6000 BCE - 3000 BCE)
 
-## Old Copper Complex (6050 BCE - 4960 BCE)
+## Old Copper Complex - USA, Canada (5940 BCE - 4000 BCE)
 
+* [Old Copper Complex](https://en.wikipedia.org/wiki/Old_Copper_Complex)
 * [Beukens, R. P. RADIOCARBON DATING OF COPPER-PRESERVED ORGANICS. RADIOCARBON, VOL. 34, No. 3, 1992, P. 890-897](https://journals.uair.arizona.edu/index.php/radiocarbon/article/viewFile/1543/1547)
 
-## Coxcatlan Phase, Tehuacán Valley (5700 BCE - 3825 BCE)
+## Coxcatlan Phase - Tehuacán Valley, MX (5700 BCE - 3825 BCE)
 
 * [Coxcatlan Phase](https://en.wikipedia.org/wiki/Coxcatlan_Cave)
 
-### El Tajin - Papantla, Veracruz - Totonac (5600 BCE - 1230 BCE)
+### El Tajin - Papantla, Veracruz, MX - Totonac (5600 BCE - 1230 BCE)
 
 * [El Tajin](https://en.wikipedia.org/wiki/El_Taj%C3%ADn)
 
   The Huastec may have been here first. The rise of the civilization seemed to mirror that of the Olmecs.
 
-### Chantuto - Soconusco, Chiapas - Earliest Mokaya? (5500 BCE - 1500 BCE)
+### Chantuto - Soconusco, Chiapas, MX - Earliest Mokaya? (5500 BCE - 1500 BCE)
 
 * [Chantuto](https://en.wikipedia.org/wiki/Chantuto_Archaeological_Site)
 
-### San Andrés, Tabasco - Olmec (5300 BCE - 350 BCE)
+### San Andrés, Tabasco, MX - Olmec (5300 BCE - 350 BCE)
 
 * [San Andrés](https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(Mesoamerican_site))
 * [Speech Scroll](https://en.wikipedia.org/wiki/Speech_scroll#/media/File:San_Andres_Cylinder_Seal_print_1.svg)
 
-## Horr's Island archaeological site (4730 - 2030 BCE)
+## Mount Taylor period - Northeastern Florida, USA (5000 BCE - 2000 BCE)
+
+* [Mount Taylor period](https://en.wikipedia.org/wiki/Mount_Taylor_period)
+
+## Horr's Island archaeological site - Island off Southern Florida, USA (4730 - 2030 BCE)
 
 * [Horr's Island archaeological site](https://en.wikipedia.org/wiki/Horr%27s_Island_archaeological_site)
 
@@ -267,7 +274,7 @@ These links support discoveries on the continent prior to any currently establis
 
 * [Zaña Valley](https://en.wikipedia.org/wiki/Za%C3%B1a_Valley)
 
-## Abejas Phase - Tehuacán Valley (3825 BCE - 2600 BCE)
+## Abejas Phase - Tehuacán Valley, MX (3825 BCE - 2600 BCE)
 
 * [Abejas Phase](https://en.wikipedia.org/wiki/Abejas_Phase)
 
@@ -278,44 +285,52 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Mesoamerican Paleo Indian Period Ends (3500 BCE)
 
-## Norte Chico (3500 BCE - 1800 BCE)
+## Norte Chico, Peru (3500 BCE - 1800 BCE)
 
 * [Norte Chico civilization](https://en.wikipedia.org/wiki/Norte_Chico_civilization)
 
-## Watson Brake (3500 BCE - 2800 BCE)
+## Watson Brake - Ouachita Parish, Louisiana, USA (3500 BCE - 2800 BCE)
 
 * [Watson Brake](https://en.wikipedia.org/wiki/Watson_Brake)
 
 
 # Late Archaic (3000 BCE - 1000 BCE)
 
-## Kay-Nah-Chi-Wah-Nung (3000 BCE - 1630 CE)
+## Kay-Nah-Chi-Wah-Nung (Genwaajiwanaang, Manitou Mounds) - Rainy River District, Northwestern Ontario, Canada - Ojibway (3000 BCE - 1630 CE)
 
 * https://en.wikipedia.org/wiki/Kay-Nah-Chi-Wah-Nung
 
-## Red Paint People (3000 BCE - 1000 CE)
+## Red Paint People - Same range as the Maritime Archaic, USA & Canada (3000 BCE - 1000 CE)
+
+Superseded by the [Susquehannock](https://en.wikipedia.org/wiki/Susquehannock), though it seems no one is actually sure?
 
 * [Red Paint People](https://en.wikipedia.org/wiki/Red_Paint_People)
 
-## Waukegan, MI (3000 BCE)
+## Waukegan, Michigan, USA (3000 BCE)
 
 * [Lucadamo, John. Indian Relics Found In Waukegan May Be 3,000 Years Old. Chicago Tribune. 04 Feb. 1991.](http://articles.chicagotribune.com/1991-02-04/news/9101110053_1_undisturbed-sites-indian-materials-burial-mounds)
 
-## Chavín de Hauntar (3000 BCE - 300 BCE)
+## Chavín de Hauntar - Ancash Region, Peru (3000 BCE - 300 BCE)
 
 Occupation was carbon dated to at least 3000 BCE. Main Chavín culture articfacts are dated to about 1200 BCE. Social upheaval around 500 BCE - 300 BCE.
 
 * [Chavín de Hauntar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
 
-## Aleutian Tradtion (2500 BCE - 1800 BCE)
+## Stallings Island, Georgia, USA (2600 BCE - 14000 BCE)
+
+This island in the Savannah River was occupied over two time periods: 2600 BCE - 2000 BCE and 1800 BCE - 1400 BCE.
+
+* [Stallings Island](https://en.wikipedia.org/wiki/Stallings_Island)
+
+## Aleutian Tradtion, Aleutian Islands, Alaska, USA (2500 BCE - 1800 BCE)
 
 * [Aleutian tradtion](https://en.wikipedia.org/wiki/Aleutian_tradition)
 
-## Arctic Small Tool Tradition (2500 BCE - 800 BCE)
+## Arctic Small Tool Tradition - Alaska, USA; Canada, Greenland (2500 BCE - 800 BCE)
 
 * [Arctic Small Tool tradition](https://en.wikipedia.org/wiki/Arctic_small_tool_tradition)
 
-## Canton Corralito - Mazatán, Chiapas - Mokaya, Olmec (2500 BCE - 1000 BCE)
+## Canton Corralito - Mazatán, Chiapas, MX - Mokaya, Olmec (2500 BCE - 1000 BCE)
 
 Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olmec](#height-of-the-olmec-1500-bce---400-bce). Did my ancestors colonize this place?
 
@@ -323,13 +338,17 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 * [The Americas' First Colony?](https://archive.archaeology.org/0601/abstracts/olmec.html)
 * [Rosenswig, Robert M. "Mesoamerica's First Style Horizons and the 'Olmec Problem'". The Beginnings of Mesoamerican Civilization: Inter-Regional Interaction and the Olmec.](https://books.google.com.mx/books?id=hMMaL4L_vMsC&pg=PA65)
 
-## Purron Phase - Tehuacán Valley (2300 BCE - 1500 BCE)
+## Purron Phase - Tehuacán Valley, MX (2300 BCE - 1500 BCE)
 
 * [Only quick refence to the Purron Phase](https://www.britannica.com/place/Mexico/History#ref394288)
 
-## Poverty Point (2200 BCE - 700 BCE)
+## Poverty Point - Mississippi Valley and surrounding Gulf coast, USA (2200 BCE - 700 BCE)
 
 * [Poverty Point culture](https://en.wikipedia.org/wiki/Poverty_Point_culture)
+  `Many of the raw materials used, such as slate, copper, galena, jasper, quartz, and soapstone, were from as far as 620 miles (1,000 km) away, attesting to the distant reach of the trading culture.`
+* [Poverty Point: The First Complex Delta Culture](https://web.archive.org/web/20131207234411/http://www.deltablues.net/jon.html)
+  - `Poverty Point was the ultimate destination for incoming goods. Poverty Point stone dealers tapped into a wide range of resources from the North American midcontinent: copper from the Great Lakes, galena—a native lead ore—from the Upper Mississippi River in Iowa, soapstone from the Appalachian piedmont, and tons of flint and other materials from the Ouachita Mountains, Missouri's tablerock, southern Illinois's Shawnee Hills, Kentucky's Knobs, Tennessee's Appalachian foothills, and places in-between. There is even a piece of obsidian from Wyoming's Rockies. Practically all stone supply areas could have been reached by express dugout using the Mississippi's net of rivers and creeks.`
+  - `Ingrained in native mythology across the Eastern United States—the land of mound builders—was the time-honored belief that geometric arrangements, circles, arcs, triangles, squares, and other layouts, kept evil spirits at bay and dispelled disharmony built up within. Mesoamerican archaeologist John Clark has found that sacred counts were built into Poverty Point's layout, dimensions, and spacing. Those same numbers, 13, 20, 52, 260, and 365, show up in contemporary monuments in Mexico and Peru and are the basis of the native New World calendar. As cosmic symbols, mounds and embankments provided magical safety and good medicine. So, while good for the whole community, they were just as good for each and every individual—personal desires and public responsibilities indivisible. This is not to say that Poverty Point could have been built without strong leaders, but public construction projects which "kill two birds with one stone" were more likely to win endorsement and gain widespread labor support, freely given. It took smart, strong leaders to recognize the meld and to resist the temptation to assert the power of leadership.`
 
 ## Buena Vista, Peru (2200 BCE - 1500 BCE)
 
@@ -345,6 +364,11 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 ## Native Gold in Lake Titicaca Basin, Southern Peru (2155 BCE - 1936 BCE)
 
 * [Aldenderfer, Mark. Four-thousand-year-old gold artifacts from the Lake Titicaca basin, southern Peru. PNAS. 31 Mar. 2008.](http://www.pnas.org/content/105/13/5002.short)
+
+## Orange Culture - Eastern Florida Peninsula, USA (2000 BCE - 2500 BCE)
+
+* [Orange period](https://en.wikipedia.org/wiki/Orange_period)
+  `The Orange period or culture is defined by the presence of Orange-series ceramics.`
 
 ## Ventarron, Peru (2000 BCE)
 
@@ -362,11 +386,11 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 
 ## Mesoamerican Early Formative (2000 BCE - 1000 BCE)
 
-### Matanchén (2100 BCE - 2000 BCE)
+### Matanchén - San Blas, Nayarit, MX (2100 BCE - 2000 BCE)
 
 * [Matanchén](https://en.wikipedia.org/wiki/Matanch%C3%A9n)
 
-### Capacha (2000 BCE - 1000 BCE)
+### Capacha - Colima, MX (2000 BCE - 1000 BCE)
 
 * [Capacha](https://en.wikipedia.org/wiki/Capacha)
 
@@ -375,13 +399,13 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 * [Oldest chocolate in the New World](https://www.antiquity.ac.uk/projgall/powis314/)
   `Our analysis shows that chocolate (Theobroma cacao) was consumed by the Mokaya as early as 1900 BC and by pre-Olmec peoples as early as 1750 BC, pushing back the chemical evidence of cacao use by some 700 years.`
 
-### Mokaya - Soconusco, Chiapas (1850 BCE - 650 BCE)
+### Mokaya - Soconusco, Chiapas, MX (1850 BCE - 650 BCE)
 
 Actually dates back to [Canton Corralito (2500 BCE)](#canton-corralito---mazatán-chiapas---mokaya-olmec-2500-bce---1000-bce)
 
 * [Mokaya](https://en.wikipedia.org/wiki/Mokaya)
 
-### Paso de la Amada - Soconusco, Chiapas - Mokaya Culture, Olmec (1800 BCE - ?)
+### Paso de la Amada - Soconusco, Chiapas, MX - Mokaya Culture, Olmec (1800 BCE - ?)
 
 * [Paso de la Amada](https://en.wikipedia.org/wiki/Paso_de_la_Amada)
 
@@ -400,11 +424,11 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
   `In the Gulf Coast area, pre-Olmec people were consuming liquid chocolate by 1750 BC, suggesting that the later Olmec civilisation centered at the nearby site of San Lorenzo (1200-900 BC) did the same.`
 
 
-### San Lorenzo Tenochtitlán - San Lorenzo, Veracruz - Olmec (1700 BCE - 900 BCE)
+### San Lorenzo Tenochtitlán - San Lorenzo, Veracruz, MX - Olmec (1700 BCE - 900 BCE)
 
 * [San Lorenzo Tenochtitlán](https://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n)
 
-### El Manatí - Hidalgotitlán, Veracruz - Olmec (1600 BCE - 1200 BCE)
+### El Manatí - Hidalgotitlán, Veracruz, MX - Olmec (1600 BCE - 1200 BCE)
 
 * [El Manatí](https://en.wikipedia.org/wiki/El_Manat%C3%AD)
 
@@ -414,7 +438,7 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
   Copper metalurgy began around 950 CE.
 
-### Ajalpan Phase - Tehuacán Valley (1500 BCE - 830 BCE)
+### Ajalpan Phase - Tehuacán Valley, MX (1500 BCE - 830 BCE)
 
  * [Ajalpan Phase](http://www.oxfordreference.com/view/10.1093/oi/authority.20110803095358646)
 
@@ -422,13 +446,13 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
 * [Olmecs](https://en.wikipedia.org/wiki/Olmecs) - I've noticed similarities between this culture and Adena, Hopewell, and Missippian cultures in the style of their jewlry.
 
-### Chalcatzingo - Valley of Morelos - Olmec and many others (1500 BCE - 500 BCE)
+### Chalcatzingo - Valley of Morelos, MX - Olmec and many others (1500 BCE - 500 BCE)
 
 * [Chalcatzingo](https://en.wikipedia.org/wiki/Chalcatzingo)
 
   Olmec influence isn't dated until 900 BCE.
 
-### San José Mogote - Valley of Oaxaca - Zapotec (1500 BCE - 500 BCE)
+### San José Mogote - Valley of Oaxaca, MX - Zapotec (1500 BCE - 500 BCE)
 
 * [San José Mogote](https://en.wikipedia.org/wiki/San_Jos%C3%A9_Mogote)
 
@@ -436,7 +460,7 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
 * [Anawalt, Patricia Rieff. “Ancient Cultural Contacts between Ecuador, West Mexico, and the American Southwest: Clothing Similarities.” Latin American Antiquity, vol. 3, no. 2, 1992, pp. 114–129. JSTOR.](www.jstor.org/stable/971939)
 
-### Tlapacoya (archeological site) (1500 BCE - 300 BCE)
+### Tlapacoya (archeological site) - Tlapacoya volcano, Mexico, MX - Tlatilco (1500 BCE - 300 BCE)
 
 * [Tlapacoya (archeological site)](https://en.wikipedia.org/wiki/Tlapacoya_(archeological_site))
 
@@ -446,17 +470,17 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
   "Esperanza cultures and a Teotihuacán Intrusion?"
 
-### Calixtlahuaca - Toluca Valley, Mexico - Otomi, Teotihuacan, Toltec, Matlazinca, Mexica (1500 BCE - 1510 CE)
+### Calixtlahuaca - Toluca Valley, MX - Otomi, Teotihuacan, Toltec, Matlazinca, Mexica (1500 BCE - 1510 CE)
 
 * [Calixtlahuaca](https://en.wikipedia.org/wiki/Calixtlahuaca)
 
-### La Hausteca - Tamaulipas, Veracruz, Puebla, Hidalgo, San Luis Potosí, and Querétaro (1500 BCE - 1533 CE)
+### La Hausteca - MX: Tamaulipas, Veracruz, Puebla, Hidalgo, San Luis Potosí, and Querétaro (1500 BCE - 1533 CE)
 
 * [La Hausteca](https://en.wikipedia.org/wiki/La_Huasteca)
 
   Split from the Maya. Very few ethnic Huastecs, most are in North Veracruz and San Luis Potosi.
 
-## Ten Thousand Islands - Everglades, Florida (1500 BCE)
+## Ten Thousand Islands - Everglades, Florida, USA (1500 BCE)
 
 * [Rethinking Shell Middens. American Archeological Magazine. 21 Jun. 2018](https://www.archaeologicalconservancy.org/rethinking-shell-middens/)
 
@@ -505,14 +529,12 @@ See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 * [Ancient Mesoamerican sculpture uncovered in southern Mexico](https://news.wisc.edu/ancient-mesoamerican-sculpture-uncovered-in-southern-mexico/)
 * [Rosenswig, Robert M. "Mesoamerica's First Style Horizons and the 'Olmec Problem'". The Beginnings of Mesoamerican Civilization: Inter-Regional Interaction and the Olmec.](https://books.google.com.mx/books?id=hMMaL4L_vMsC&pg=PA65)
 
-# Post-archaic (1000 BCE - Present)
-
-## Mesoamerican Middle Formative (950 BCE- 400 BCE)
+## Mesoamerican Middle Formative (950 BCE - 400 BCE)
 
 * [Mokaya](#mokaya---soconusco-chiapas-1850-bce---650-bce)
 * [Olmec](#height-of-the-olmec-1500-bce---400-bce)
 
-## El Mesón  - Papaloapn Basin, Veracruz - Olmec, Epi-Olmec, Classic Veracruz (1450 BCE - 1520 CE)
+## El Mesón  - Papaloapn Basin, Veracruz, MX - Olmec, Epi-Olmec, Classic Veracruz (1450 BCE - 1520 CE)
 
 Technically, this still lives on as the town of Ángel R. Cabada. It reached it's height as a cultural center around 400 BCE - 100 CE at which point the cultural center started shifting to La Venta. This is actually the region where my ancestors come from and around where my mom was born.
 
@@ -528,7 +550,7 @@ Technically, this still lives on as the town of Ángel R. Cabada. It reached it'
 
 * [Capacha](https://en.wikipedia.org/wiki/Capacha)
 
-## La Venta - Tabasco - Olmec (1200 BCE - 400 CE)
+## La Venta - Tabasco, MX - Olmec (1200 BCE - 400 CE)
 
 * [La Venta](https://en.wikipedia.org/wiki/La_Venta)
 
@@ -544,24 +566,26 @@ Technically, this still lives on as the town of Ángel R. Cabada. It reached it'
 
 * [Chavín de Huantar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
 
-## Chiapa de Corzo - Chiapas - ?, Olmec, Zoque, Chiapanec (1200 BCE - 700 CE)
+## Chiapa de Corzo - Chiapas, MX - ?, Olmec, Zoque, Chiapanec (1200 BCE - 700 CE)
 
 Conduit of many cultures.
 
 * [Zona arqueológica de Chiapa de Corzo](https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Chiapa_de_Corzo)
 * [Chiapa de Corzo](https://en.wikipedia.org/wiki/Chiapa_de_Corzo_(Mesoamerican_site))
 
-## Tlatilco - Valley of Mexico - Tlaticans, Olmecs? (1200 BCE - ?)
+## Tlatilco - Valley of Mexico, MX - Tlaticans, Olmecs? (1200 BCE - ?)
 
 * [Tlatilco](https://en.wikipedia.org/wiki/Tlatilco)
 
-## Izapa - Chiapas - Olmec, Maya (1100 BCE - 1200 CE)
+## Izapa - Chiapas, MX - Olmec, Maya (1100 BCE - 1200 CE)
 
 -1100 is a guess, it's heyday was between -850 and -100.
 
 * [Izapa](https://en.wikipedia.org/wiki/Izapa)
 
-## Tres-Zapotes - Papaloapan River Basin, Veracruz - Olmec, Epi-Olmec, Classic Veracruz (1000 BCE - 900 CE)
+# Post-archaic (1000 BCE - Present)
+
+## Tres-Zapotes - Papaloapan River Basin, Veracruz, MX - Olmec, Epi-Olmec, Classic Veracruz (1000 BCE - 900 CE)
 
 * [Tres-Zapotes](https://en.wikipedia.org/wiki/Tres_Zapotes)
 
@@ -570,6 +594,20 @@ Conduit of many cultures.
 * [Scattolin, M. Cristina. UNA MÁSCARA DE COBRE DE TRES MIL AÑOS. ESTUDIOS ARQUEOMETALÚRGICOS Y COMPARACIONES REGIONALES (A 3000-YEAR-OLD COPPER MASK. ARCHAEOMETALURGICAL ANALYSIS AND REGIONAL COMPARISONS) Bol. Mus. Chil. Arte Precolomb. v.15 n.1 Santiago. 2010.](https://scielo.conicyt.cl/scielo.php?pid=S0718-68942010000100003&script=sci_arttext)
 
 ## Formative (1000 BCE - 500 BCE)
+
+## Early Woodland (1000 BCE - 200 CE)
+
+### Tchula (800 BCE - 200 CE)
+
+#### Tchefuncte Culture (600 BCE - 200 CE)
+
+* [Tchefuncte Site](https://en.wikipedia.org/wiki/Tchefuncte_Site#Tchefuncte_culture) (500 BCE - 1 BCE)
+
+### Adena (1000 BCE - 100 BCE)
+
+### Atlantic Deptford (800 BCE - 700 CE)
+
+### Gulf Deptford (500 BCE - 200 CE)
 
 ## Chavín culture (900 BCE - 200 BCE)
 
@@ -589,7 +627,7 @@ First known instance of a pyramidal temple dating to 900 BCE and a quatrefoil da
 
 * [Uaxactún](https://es.wikipedia.org/wiki/Uaxact%C3%BAn)
 
-## Chupícuaro culture - Acámbaro, Guanajuato - (800 BCE - 1525 CE)
+## Chupícuaro culture - Acámbaro, Guanajuato, MX - (800 BCE - 1525 CE)
 
 Expanded into Michoacán, Guerrero, Mexico State, Hidalgo, Colima, Nayarit, Querétaro and Zacatecas.
 
@@ -606,19 +644,19 @@ Also occupied by a few other cultures:
 
 * [Xunantunich](https://en.wikipedia.org/wiki/Xunantunich)
 
-## Cuicuilco - Mexico City - Toltec, Mexica? (800 BCE - 250 CE)
+## Cuicuilco - Mexico City, Mexico, MX - Toltec, Mexica? (800 BCE - 250 CE)
 
 * [Cuicuilco](https://es.wikipedia.org/wiki/Cuicuilco)
 
-## Zazacatla - Ceurnavaca, Morelos - Olmec (800 BCE - 500 BCE)
+## Zazacatla - Ceurnavaca, Morelos, MX - Olmec (800 BCE - 500 BCE)
 
 * [Zazacatla](https://en.wikipedia.org/wiki/Zazacatla)
 
-## Dainzú - Valles Centrales de Oaxaca - Zapotec (700 BCE - 350 CE)
+## Dainzú - Valles Centrales de Oaxaca, Oaxaca, MX - Zapotec (700 BCE - 350 CE)
 
 * [Dainzú](https://en.wikipedia.org/wiki/Dainz%C3%BA)
 
-## Lambityeco - Tlacolula, Oaxaca - Zapotec, Mixtec (700 BCE - 750 CE)
+## Lambityeco - Tlacolula, Oaxaca, MX - Zapotec, Mixtec (700 BCE - 750 CE)
 
 * [Lambityeco](https://en.wikipedia.org/wiki/Lambityeco)
 
@@ -626,32 +664,77 @@ Also occupied by a few other cultures:
 
 * [El Mirador](https://en.wikipedia.org/wiki/El_Mirador)
 
-## Cerro de las Mesas - Papaloapan River Basin, Veracruz - Epi-Olmec (600 BCE - 900 CE)
+## Cerro de las Mesas - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (600 BCE - 900 CE)
 
 * [Cerro de las Mesas](https://en.wikipedia.org/wiki/Cerro_de_las_Mesas)
 
-## Tamohi' - Tamuin, San Luis Potosi - Huasteca, Olmec? (600 BCE - 1350 CE)
+## Tamohi' - Tamuin, San Luis Potosi, MX - Huasteca, Olmec? (600 BCE - 1350 CE)
 
 * [Tamtoc, Tamohi'](https://es.wikipedia.org/wiki/Tamtoc)
 
+## Classic Period (500 BCE - 1200 CE)
 
-## Classic (500 BCE - 1200 CE)
+## Naj Tunich - Las Montañas Mayas, Petén, Guatamala - Maya (500 BCE - 900 CE)
 
-## Mesoamerican Late Formative (400 BCE - 200 CE)
+* [Naj Tunich](https://es.wikipedia.org/wiki/Naj_Tunich)
 
-## Early Woodland (1000 BCE - 1 CE)
+## Naranjo - Petén Basin, Guatamala - Maya (500 BCE - 950 CE)
 
-### Adena (1000 BCE - 100 BCE)
+* [Naranjo](https://en.wikipedia.org/wiki/Naranjo)
 
-### Atlantic Deptford (800 BCE - 700 CE)
+## Quelepa - San Miguel, El Salvador - Lenca (500 BCE - 1000 CE)
 
-### Gulf Deptford (500 BCE - 200 CE)
+Shows a trade connection or influence from Veracruz.
+
+* [Quelepa](https://es.wikipedia.org/wiki/Quelepa_(sitio_arqueol%C3%B3gico))
+
+## Monte Albán - Santa Cruz Xoxocotlán, Oaxaca, MX - Zapotec (500 BCE - 750 CE)
+
+* [Monte Albán](https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n)
+
+## St. Johns culture - NE Florida, USA (500 BCE - European contact)
+
+* [St. Johns culture](https://en.wikipedia.org/wiki/St._Johns_culture)
+
+## Mesoamerican Late Formative Period (400 BCE - 200 CE)
+
+## Cerros - Belieze - Lowland Maya (400 BCE - 400 CE)
+
+* [Cerros](https://en.wikipedia.org/wiki/Cerros)
+
+## Teotihuacán - Valley of Mexico, Mexico, MX (300 BCE - 535 CE)
+
+* [Teotihuacan](https://en.wikipedia.org/wiki/Teotihuacan)
+* [Teotihuacán](https://es.wikipedia.org/wiki/Teotihuac%C3%A1n)
+  `"Hay varias hipótesis sobre la identidad étnica y lingüística de los fundadores de Teotihuacán."`
+* [Curtis, Wayne. Rich Man, Poor Man: Archaeologists are taking the study of wealth inequality into the distant past. American Archeology Magazine. 20 Jun. 2018.](https://www.archaeologicalconservancy.org/rich-man-poor-man/)
+  `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
+
+  `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
+
+## La Mojarra - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (300 BCE - 1000 CE)
+
+* [La Mojarra](https://en.wikipedia.org/wiki/La_Mojarra)
+
+## Western Mexican shaft-tomb tradition - Mxico: Jalisco, Nayarit, Colima, not including Capacha culture regions
+
+* [Western Mexican shaft-tomb tradition](https://en.wikipedia.org/wiki/Western_Mexico_shaft_tomb_tradition)
+
+## Remojadas - Golf Coast, Veracruz, MX - Classic Veracruz Culture (100 BCE - 800 CE)
+
+* [Remojadas](https://en.wikipedia.org/wiki/Remojadas)
+
+## Mitla - San Pablo Villa de Mitla, Oaxaca, MX - Zaptotec (100 CE - 1553 CE)
+
+Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixtec means.
+
+* [Mitla](https://en.wikipedia.org/wiki/Mitla)
 
 ## Mesoamerican Early Classic (200 CE - 600 CE)
 
-## Middle Woodland (1 CE - 500 CE)
+## Middle Woodland (200 BCE - 500 CE)
 
-### Havana Hopewell (200 BCE - 400 CE)
+### Havana Hopewell - Illinois, USA (200 BCE - 400 CE)
 
 * [Goering, Laurie. Burial Site of Indians is Verified. Chicago Tribune. 01 Jul. 1990.](http://articles.chicagotribune.com/1990-07-01/news/9002230055_1_burial-mounds-archeologists-tomb)
 
@@ -689,6 +772,7 @@ Centered in a few regions:
 ### Huaca de la Luna
 
 * [Huaca de la Luna](https://en.wikipedia.org/wiki/Huaca_de_la_Luna)
+* [Moche Mural in Peru Revealed in Stunning Detail](https://news.nationalgeographic.com/news/2013/07/130731-moche-mural-huaca-de-la-luna-interactive-photo-gigapixel/)
 
 ### Sipan
 
@@ -721,15 +805,23 @@ Centered in a few regions:
 * [Pañamarca](https://en.wikipedia.org/wiki/Pa%C3%B1amarca)
 
 
-## Late Woodland (500 CE - 1000 CE)
+## Teuchitlan tradition - MX: Jalisco, Nayarit, not including Capacha culture regions (300 CE - 900 CE)
 
-### Baytown (300 CE - 700 CE)
+* [Teuchitlan tradition](https://en.wikipedia.org/wiki/Teuchitlan_tradition)
 
-### Plum Bayou (400 CE - 900 CE)
+## Toltec Empire - Most of southern Mexico and the Tip of the Yucatan (496 CE - 1122 CE)
 
-### Troyville (300 CE - 700 CE)
+* [Toltec Empire](https://en.wikipedia.org/wiki/Toltec_Empire)
 
-### Coles Creek (700 CE - 1100 CE)
+## Yagul - Tlacolula de Matamoros, Oaxaca, MX - Zapotec (500 CE - 1521 CE)
+
+* [Yagul](https://en.wikipedia.org/wiki/Yagul)
+
+## Pipil - El Salvador, Nicaragua, Guatamala - Pipil (500 CE - 1530 CE)
+
+Separated from the Toltec people early on and migrated south through Veracruz. The culture remains in El Slavador.
+
+* [Pipil](https://es.wikipedia.org/wiki/Pipil)
 
 ## Medicine man burried with bundle of Ilex Guayusa (500 CE)
 
@@ -743,29 +835,32 @@ Centered in a few regions:
 * [Nelson, Brian. Polynesian seafarers discovered America long before Europeans, says DNA study. Mother Nature Network. 22 Jan. 2013.](https://www.mnn.com/earth-matters/wilderness-resources/stories/polynesian-seafarers-discovered-america-long-before)
 * [Davidson, Keay. Did ancient Polynesians visit California? Maybe so. / Scholars revive idea using linguistic ties, Indian headdress. San Francisco Gate Chronicle. 20 Jun. 2005.](https://www.sfgate.com/news/article/Did-ancient-Polynesians-visit-California-Maybe-2661327.php)
 
+## Late Woodland (500 CE - 1000 CE)
+
+### Baytown (300 CE - 700 CE)
+
+### Plum Bayou (400 CE - 900 CE)
+
+### Troyville (300 CE - 700 CE)
+
+### Coles Creek (700 CE - 1100 CE)
+
 ## Mesoamerican Late Classic (600 CE - 900 CE)
 
-## Sican culture (750 CE - 1375 CE)
+## Sican culture - Lambayeque, Peru (750 CE - 1375 CE)
 
 * [Sican culture](https://en.wikipedia.org/wiki/Sican_culture)
 
 ## Mesoamerican Terminal Classic (800 CE - 900/1000 CE)
 
-### Teotihaucan
-
-* [Curtis, Wayne. Rich Man, Poor Man: Archaeologists are taking the study of wealth inequality into the distant past. American Archeology Magazine. 20 Jun. 2018.](https://www.archaeologicalconservancy.org/rich-man-poor-man/)
-  `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
-
-  `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
-
-### Hohokam Ballcourts (750 CE - 1200 CE)
+### Hohokam Ballcourts - Arizona, USA (750 CE - 1200 CE)
 
 * [Witze, Alexandra. The Mystery Of Hohokam Ballcourts. American Archeology Magazine. 15 Mar. 2018.](https://www.archaeologicalconservancy.org/the-mystery-of-hohokam-ballcourts/)
   `From the Olmec to the Maya to the Aztec, ballgames were one of the defining activities of Mesoamerican cultures. Beginning some time before 1200 B.C., competitors kicked and whacked rubber balls up and down a playing court. These ballgames were rich in symbolism—in some cases the gods were said to have played—and a powerful force that bound communities together. But it’s possible these games weren’t limited to Mesoamerica. Archaeologists have found more than 200 oval-shaped earthen depressions with embankments in central and southern Arizona that resemble the Mesoamerican ballcourts. These features date between roughly A.D. 750 and 1200 and are associated with the Hohokam culture.`
 
   `Though archaeologists continue to debate their purpose, and ethnographic accounts are silent on this matter, most researchers now surmise that the Hohokam courts were used for ballgames, much as the Mesoamerican ones were, according to Henry Wallace, a senior research archaeologist with Desert Archaeology, Inc., in Tucson, Arizona. In doing so the courts played a major role in strengthening Hohokam identity and interactions among villages. “Whenever you have games, you have people coming together,” Wallace said. “It’s a great way of linking social groups.”`
 
-### Cacao and Holly Based Caffeinated Drinks (750 CE - 1400 CE)
+### Cacao and Holly Based Caffeinated Drinks Traded (750 CE - 1400 CE)
 
 A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (and probably earlier, but we have no evidence). Chocolate (theobroma cacao) was also imported around the same time, becoming more popular by 1200 CE.
 
@@ -776,7 +871,7 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 
 * [1200 Year Old Mayan Theatre Discovered in Mexico](https://archaeologynewsnetwork.blogspot.com/2012/08/1200-year-old-mayan-theatre-discovered.html#tGhOYGzW0RrPCRVS.97)
 
-## Chimú Culture (850 CE - 1470 CE)
+## Chimú Culture -  Moche Valley, Trujillo, Peru (850 CE - 1470 CE)
 
 `The Chimú grew out of the remnants of the Moche culture. The first valleys seem to have joined forces willingly, but the Sican culture was acquired through conquest. They also were significantly influenced by the pre-Incan Cajamarca and Wari cultures. According to legend, its capital of Chan Chan was founded by Taycanamo, who arrived in the area by sea.`
 
@@ -784,7 +879,7 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 * [Quingnam language](https://en.wikipedia.org/wiki/Quingnam_language)
 * [Chimor](https://en.wikipedia.org/wiki/Chimor)
 
-### Chan Chan - Moche Valley - Chimú culture (850 CE - 1470 CE)
+### Chan Chan - Moche Valley, Trujillo, Peru - Chimú culture (850 CE - 1470 CE)
 
 * [Chan Chan](https://en.wikipedia.org/wiki/Chan_Chan)
 * [West, Michael. Community Settlement Patterns at Chan Chan, Peru. American Antiquity. Vol. 35. No. 1 (Jan 1970) pp. 74-86.](https://www.jstor.org/stable/278179)
@@ -803,7 +898,7 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 
 ## Early Mississippian (1000 CE - 1200 CE)
 
-### Ritual Black Drink consumption at Cahokia (1050 CE - 1250 CE)
+### Ritual Black Drink consumption at Cahokia - Illinois, USA (1050 CE - 1250 CE)
 
 This indicates that there were estalbished trade routes between the natural range of [Ilex vomitoria](https://github.com/Cuauhtlatoatzin/plants/blob/master/README.md#ilex) and Cahokia.
 
@@ -812,8 +907,10 @@ This indicates that there were estalbished trade routes between the natural rang
 
 ## Mesoamerican Late Postclassic (1200 CE - 1521 CE)
 
-### Tlaxcallan (1250 CE - 1550 CE)
+### Tlaxcallan - Tlaxcala, MX (1250 CE - 1550 CE)
 
+* [Tlaxcala (Nahua state)](https://en.wikipedia.org/wiki/Tlaxcala_(Nahua_state))
+* [Tlaxcala - History](https://en.wikipedia.org/wiki/Tlaxcala#History)
 * [Wade, Lizzie. The Lost History Of Tlaxcallan. American Archeology Magazine. 6 Dec. 2017.](https://www.archaeologicalconservancy.org/lost-history-tlaxcallan/)
 
 ## Fort Ancient (1000 CE - 1550 CE)
@@ -824,7 +921,7 @@ This indicates that there were estalbished trade routes between the natural rang
 
 ## Late Mississippian (1400 CE - 1500 CE or Euro contact)
 
-### Etzanoa
+### Etzanoa - Kansas, USA
 
 * [Tanner, Beccy. Mysterious 'Lost City' of Etzanoa in south-central Kansas now open to tours. The Wichita Eagle. 28 Apr. 2018.](https://www.kansas.com/news/state/article208617349.html)
 * [Kelly, David. Archaeologists explore a rural field in Kansas, and a lost city emerges. Los Angles Times. 19 Aug. 2018.](http://www.latimes.com/nation/la-na-kansas-lost-city-20180819-htmlstory.html)
@@ -863,8 +960,6 @@ This indicates that there were estalbished trade routes between the natural rang
 * https://www.jstor.org/stable/279044
 * [Some Characteristics of Mexican Indian Folklore](https://www.jstor.org/stable/536611)
 * [Pringle, Heather. Untouched. National Geographic. Jun. 2014. (Peru, Wari, El Castillo)](https://www.nationalgeographic.com/magazine/2014/06/peru-royal-tomb/)
-* https://news.nationalgeographic.com/news/2013/07/130731-moche-mural-huaca-de-la-luna-interactive-photo-gigapixel/
-* [Petroglyphs - PNW](https://www.danielleen.org/petroglyphs.html)
 * [Face of Ancient Queen Revealed for First Time](https://news.nationalgeographic.com/2017/12/wari-noblewoman-queen-el-castillo-face-reconstruction-archaeology/)
 * [CSI Tools Bring a Mummy's Face to Life](https://news.nationalgeographic.com/2017/06/csi-tools-mummy-moche-peru-cao-brujo/)
 * [Ancient Throne and Ceremonial Hall Unearthed in Peru](https://news.nationalgeographic.com/2018/01/ancient-peruvian-moche-civilization-throne-banquet-hall-ceremony-spd/)
