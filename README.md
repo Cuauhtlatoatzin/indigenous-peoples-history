@@ -65,9 +65,7 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 
 These links support discoveries on the continent prior to any currently established theories (as of 2018).
 
-## 130 KA BP (130000 BCE)
-
-### Cerutti Mastodon, San Diego County, California, USA
+## Cerutti Mastodon, San Diego County, California, USA (130000 BCE)
 
 * [Holen, Steven R. et al. A 130,000-year-old archaeological site in southern California, USA. Nature. 544. 479–483 27 Apr. 2017.](https://www.nature.com/articles/nature22065)
 * [Greshko, Michael. Humans in California 130,000 Years Ago? Get the Facts. National Geographic. 26 Apr. 2017.](https://news.nationalgeographic.com/2017/04/mastodons-americas-peopling-migrations-archaeology-science/)
@@ -78,15 +76,13 @@ These links support discoveries on the continent prior to any currently establis
 * [Benton, Adam. 130,000 year old “first Americans” disproven. Filthy Monkey Men. 19 Oct. 2017.](https://www.filthymonkeymen.com/2017/10/19/130000-first-americans-disproven/)
 
 
-## 70 - 10 KA BP
+## 70 - 10 KA BP (68000 BCE - 8000 BCE)
 
-### [Fildani, Andrea et al. Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. 14 Sep. 8:13839 (2018)](https://www.nature.com/articles/s41598-018-32268-7)
+## [Fildani, Andrea et al. Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. 14 Sep. 8:13839 (2018)](https://www.nature.com/articles/s41598-018-32268-7)
 
 `Here we integrate data from the deepest sediment core drilled by the Deep Sea Drilling Program (DSDP) Leg 96 on the Mississippi fan (Fig. 1) to reveal major modifications to the Mississippi–Missouri drainage by the southern LIS over the past ~70 ka. Growth of the LIS began over the eastern Canadian Arctic ~116 ka (MIS 5d), and experienced punctuated episodes of expansion (~65 ka: MIS 4) and retreat (~50–40 ka: MIS 3) until reaching its maximum extent during the LGM approximately 26–25 ka (MIS 2). Mountain glaciers were near or at their maximum extent by ~30 ka, which is broadly contemporaneous with the interval when global ice sheets first reached their maxima.`
 
-## 24,000 BP (22000 BCE)
-
-### Bluefish Caves, Yukon, Canada
+## Bluefish Caves, Yukon, Canada (22000 BCE)
 
 * [Pringle, Heather. What Happens When an Archaeologist Challenges Mainstream Scientific Thinking? Smithsonian.com. 08 Mar. 2017.](https://www.smithsonianmag.com/science-nature/jacques-cinq-mars-bluefish-caves-scientific-progress-180962410/)
 * [Sci-News. Humans Arrived in North America around 24,000 Years Ago. 16 Jan. 2017.](http://www.sci-news.com/archaeology/humans-arrived-north-america-04539.html)
@@ -96,9 +92,7 @@ These links support discoveries on the continent prior to any currently establis
 
 # Paleo Indians (18000 BCE - 8000 BCE)
 
-## 18,500 - 14,500 BP (16500 BCE - 12500 BCE)
-
-### Monte Verde, Chile
+## Monte Verde, Chile (16500 BCE - 12500 BCE)
 
 * [Monte Verde](https://en.wikipedia.org/wiki/Monte_Verde)
 * [Dillehay, Tom D. et al. New Archaeological Evidence for an Early Human Presence at Monte Verde, Chile. PLOS ONE. 18 Nov. 2015.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141923)
@@ -107,41 +101,46 @@ These links support discoveries on the continent prior to any currently establis
 * [Kamrani, Kambiz. Earliest known archaeological evidence of Americans found in Monte Verde, Chile. Archeology.net. 8 May. 2008.](https://anthropology.net/2008/05/08/earliest-known-archaeological-evidence-of-americans-found-in-monte-verde-chile/)
 * [Rose, Mark. The Importance of Monte Verde. Archeology.org. 18 Oct. 1999.](https://archive.archaeology.org/online/features/clovis/rose1.html)
 
-## 15,500 - 13,200 BP (13500 BCE - 11200 BCE)
+## Gault site, Texas, USA (14000 BCE)
 
-### Debra L Fiedkin Site, Texas, USA
+* [16,000-Year-Old Tools Discovered in Texas, Among the Oldest Found in the West](http://westerndigs.org/16000-year-old-tools-discovered-in-texas-among-the-oldest-yet-found-in-the-west/)
+
+## Wakulla Springs, Florida, USA (14000 BCE - 11000 BCE)
+
+* [Stewart, Tamara. Sneak Peak: 15,000 Year-Old Pre-Clovis at Wakulla Springs. American Archeology Magazine. 7 Sep. 2018.](https://www.archaeologicalconservancy.org/sneak-peak-15000-year-old-pre-clovis-at-wakulla-springs/)
+
+## Rimrock Draw Rockshelter, Oregon, USA (13800 BCE)
+
+* [Stone Tool Unearthed in Oregon ‘Hints’ at Oldest Human Occupation in Western U.S.](http://westerndigs.org/stone-tool-unearthed-in-oregon-hints-at-oldest-human-occupation-in-western-u-s/)
+
+## Debra L Fiedkin Site, Texas, USA (13500 BCE - 11200 BCE)
 
 * [Buttermilk Creek Complex](https://en.wikipedia.org/wiki/Buttermilk_Creek_Complex)
 * [Thomas A. Jennings and Michael R. Waters. PRE-CLOVIS LITHIC TECHNOLOGY AT THE DEBRA L. FRIEDKIN SITE, TEXAS: COMPARISONS TO CLOVIS THROUGH SITE-LEVEL BEHAVIOR, TECHNOLOGICAL TRAIT-LIST, AND CLADISTIC ANALYSES. American Antiquity Vol. 79, No. 1 (January 2014), pp. 25-44](https://www.jstor.org/stable/24712725?seq=1&googleloggedin=true#page_scan_tab_contents)
 * [Watter, Michael L. et al. The Debra L. Friedkin Site, Texas and the origins of Clovis. Science. 331. 1599. (2011)](https://www.researchgate.net/publication/50850836_The_Debra_L_Friedkin_Site_Texas_and_the_origins_of_Clovis)
 * [Bryn, Brandon. Science: Artifacts in Texas Predate Clovis Culture by 2500 Years. AAAS News. 24 Mar. 2011](https://www.aaas.org/news/science-artifacts-texas-predate-clovis-culture-2500-years)
 
-## 15,000 - 13,000 BP (14000 BCE - 11000 BCE)
+## El Fin del Mundo, Sonora, Mexico (13390 BCE)
 
-### Wakulla Springs, Florida, USA
+* [Human (Clovis)–gomphothere (Cuvieronius sp.) association ∼13,390 calibrated yBP in Sonora, Mexico](http://www.pnas.org/content/111/30/10972)
+* [Ancient Clovis Elephant-Hunting Camp Discovered in Mexico](http://westerndigs.org/clovis-elephant-hunting-site-discovered-in-mexico/)
 
-* [Stewart, Tamara. Sneak Peak: 15,000 Year-Old Pre-Clovis at Wakulla Springs. American Archeology Magazine. 7 Sep. 2018.](https://www.archaeologicalconservancy.org/sneak-peak-15000-year-old-pre-clovis-at-wakulla-springs/)
 
-## 14,400 BP (12400 BCE)
 
-### Page-Ladsen site, Aucilla River, Florida, USA
+## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
 
 * [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
 * [Hodges, Glenm. Discovery Points to Earlier Arrival of First Americans. National Geographic. 13 May. 2016.](https://news.nationalgeographic.com/2016/05/160513-first-americans-clovis-mastodon-florida-page-ladson/)
 * [Halligan, Jessi J. et al. Pre-Clovis occupation 14,550 years ago at the Page-Ladson site, Florida, and the peopling of the Americas.Science Advances. 13 May 2016: Vol. 2, no. 5, e1600375 DOI: 10.1126/sciadv.1600375](http://advances.sciencemag.org/content/2/5/e1600375)
 * [Weisberger, Mindy. Scarred, Sunken Mastodon Hints at Earlier Human Arrival in Americas. Live Science. 13 May. 2016.](https://www.livescience.com/54735-mastodon-remains-in-underwater-site.html)
 
-## 14,300 BP (12300 BCE)
-
-### Oregon, USA
+## Oregon, USA (12300 BCE)
 
 * [Balter, Micheal. "DNA From Fossil Feces Breaks Clovis Barrier." Science  04 Apr. 2008: Vol. 320, Issue 5872, pp. 37](http://science.sciencemag.org/content/320/5872/37.summary)
 * [Pre-Clovis Human DNA Found In 14,300-year-old Feces In Oregon Cave Is Oldest In New World](https://www.sciencedaily.com/releases/2008/04/080403141109.htm)
 
 
-## 14,000 BP (12000 BCE)
-
-### Triquet Island, British Columbia, Canada
+## Triquet Island, British Columbia, Canada (12000 BCE)
 
 * [Farand, Chloe. 14,000-year-old village discovered in Canada one of oldest settlements ever found in North America. Independent. 08 Apr. 2017.](https://www.independent.co.uk/news/world/americas/14000-village-discovered-triquet-island-british-columbia-canada-oldest-settlment-north-america-a7673726.html)
 * [14,000-year-old village unearthed on B.C. island by UVic student](https://vancouverisland.ctvnews.ca/14-000-year-old-village-unearthed-on-b-c-island-by-uvic-student-1.3358511#_gus&_gucid=&_gup=twitter&_gsc=CFUBl6c)
@@ -153,7 +152,7 @@ These links support discoveries on the continent prior to any currently establis
 * [Taylor, Christie. A 14,000 Year-Old Discovery Emerges From Oral History. Science Friday. 14 Apr. 2017.](https://www.sciencefriday.com/segments/a-14000-year-old-discovery-emerges-from-oral-history/)
 
 
-### Meadowcroft Rock Shelter, Pennsylvania, USA
+### Meadowcroft Rock Shelter, Pennsylvania, USA (12000 BCE)
 
 * [Meadowcroft Rockshelter](https://en.wikipedia.org/wiki/Meadowcroft_Rockshelter)
 * [Cheney, Jim. Meadowcroft Rockshelter: North America’s Oldest Human Settlement. Atlas Obscura. 20 May. 2014.](https://www.atlasobscura.com/articles/meadowcroft-rockshelter-north-america-s-oldest-human-settlement)
@@ -162,13 +161,7 @@ These links support discoveries on the continent prior to any currently establis
 * [Shutler, Dr. Richard. Meadowcroft Rockshelter](http://www.sfu.museum/journey/an-en/postsecondaire-postsecondary/meadowcroft)
 
 
-### Gault site, Texas, USA
-
-* [16,000-Year-Old Tools Discovered in Texas, Among the Oldest Found in the West](http://westerndigs.org/16000-year-old-tools-discovered-in-texas-among-the-oldest-yet-found-in-the-west/)
- 
-## 13,800 BP (11000 BCE)
-
-### Manis Site, Washington, USA
+## Manis Site, Washington, USA (11000 BCE)
 
 * [Manis Mastodon Site](https://en.wikipedia.org/wiki/Manis_Mastodon_Site)
 * [Gustafson, Carl E. The Manis Mastodon Site: An Adventure In Prehistory. Washington State Magazine. Summer. 2012.](https://magazine.wsu.edu/web-extra/the-manis-mastodon-site-an-adventure-in-prehistory/)
@@ -176,14 +169,7 @@ These links support discoveries on the continent prior to any currently establis
 * [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
 * [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
 
-### Rimrock Draw Rockshelter, Oregon, USA
 
-* [Stone Tool Unearthed in Oregon ‘Hints’ at Oldest Human Occupation in Western U.S.](http://westerndigs.org/stone-tool-unearthed-in-oregon-hints-at-oldest-human-occupation-in-western-u-s/)
-
-## El Fin del Mundo, Sonora, Mexico (13390 BCE)
-
-* [Human (Clovis)–gomphothere (Cuvieronius sp.) association ∼13,390 calibrated yBP in Sonora, Mexico](http://www.pnas.org/content/111/30/10972)
-* [Ancient Clovis Elephant-Hunting Camp Discovered in Mexico](http://westerndigs.org/clovis-elephant-hunting-site-discovered-in-mexico/)
 
 ## Clovis (13500 BCE - 11000 BCE)
 
