@@ -42,6 +42,7 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 * [Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep. 2016](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
 * [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
 * [McEvoy, Brian et al. Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American journal of human genetics. 13 Aug. 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
+* [Scientists discover evidence of early human innovation, pushing back evolutionary timeline](https://unews.utah.edu/scientists-discover-evidence-of-early-human-innovation-pushing-back-evolutionary-timeline/)
 
 ## Overview of new findings
 
@@ -159,6 +160,11 @@ These links support discoveries on the continent prior to any currently establis
 * [AP. 16,000-year-old Pa. rock shelter dwelling still divides archaeologists after 40 years. Fox News Science. 12 Aug. 2013.](http://www.foxnews.com/science/2013/08/12/16000-year-old-pa-rock-shelter.html)
 * [J. M. Adovasio, J. Donahue and R. Stuckenrath. The Meadowcroft Rockshelter Radiocarbon Chronology 1975-1990  American Antiquity. Vol. 55, No. 2 (Apr., 1990), pp. 348-354](https://www.jstor.org/stable/281652?seq=1#page_scan_tab_contents)
 * [Shutler, Dr. Richard. Meadowcroft Rockshelter](http://www.sfu.museum/journey/an-en/postsecondaire-postsecondary/meadowcroft)
+
+
+### Gault site, Texas, USA
+
+* [16,000-Year-Old Tools Discovered in Texas, Among the Oldest Found in the West](http://westerndigs.org/16000-year-old-tools-discovered-in-texas-among-the-oldest-yet-found-in-the-west/)
  
 ## 13,800 BP (11000 BCE)
 
@@ -169,6 +175,15 @@ These links support discoveries on the continent prior to any currently establis
 * [Waters, Michael R. et al. Pre-Clovis Mastodon Hunting 13,800 Years Ago at the Manis Site, Washington. Science 334(6054):351-3. Oct. 2011.](https://www.researchgate.net/publication/51737194_Pre-Clovis_Mastodon_Hunting_13800_Years_Ago_at_the_Manis_Site_Washington)
 * [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
 * [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
+
+### Rimrock Draw Rockshelter, Oregon, USA
+
+* [Stone Tool Unearthed in Oregon ‘Hints’ at Oldest Human Occupation in Western U.S.](http://westerndigs.org/stone-tool-unearthed-in-oregon-hints-at-oldest-human-occupation-in-western-u-s/)
+
+## El Fin del Mundo, Sonora, Mexico (13390 BCE)
+
+* [Human (Clovis)–gomphothere (Cuvieronius sp.) association ∼13,390 calibrated yBP in Sonora, Mexico](http://www.pnas.org/content/111/30/10972)
+* [Ancient Clovis Elephant-Hunting Camp Discovered in Mexico](http://westerndigs.org/clovis-elephant-hunting-site-discovered-in-mexico/)
 
 ## Clovis (13500 BCE - 11000 BCE)
 
@@ -182,9 +197,27 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Mesoamerican Paleo Indian (10000 BCE - 3500 BCE)
 
-## Domestication of Potatoes (10000 BCE - 7000 BCE)
+## 12,300-Year-Old Hearth  Unearthed in Utah
 
-* [Potato](https://en.wikipedia.org/wiki/Potato)
+* [Far Western Crew Unearths 12,300-Year-Old Hearth in Utah](http://farwestern.com/12300-year-old-hearth-in-utah/)
+* [Evidence of Great Basin's earliest inhabitants found at Utah training range](https://www.standard.net/news/evidence-of-great-basin-s-earliest-inhabitants-found-at-utah/article_8020c307-7699-5e0e-bfd5-89c64b3be226.html)
+* [Archaeologists discover proof of wetlands, ancient life on the Utah Test and Training Range](https://www.dvidshub.net/news/204768/archaeologists-discover-proof-wetlands-ancient-life-utah-test-and-training-range)
+
+
+## Domestication of Potatoes (9000 BCE - 7000 BCE)
+
+Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history#domestication-of-various-foods-10000-bce---4000-bce)
+
+* [History of the potato](https://en.wikipedia.org/wiki/History_of_the_potato)
+* [Utah home to earliest use of wild potato in North America](https://unews.utah.edu/utah-home-to-earliest-use-of-wild-potato-in-north-america/)
+* [How an ancient potato helped people survive climate shifts](https://www.hcn.org/issues/49.20/scientific-research-escalante-valley-how-an-ancient-potato-helped-indigenous-people-survive-climate-shifts)
+* [Prehistoric mashed potato dating back 10,900 years discovered in Utah](https://www.independent.co.uk/news/science/prehistoric-mashed-potato-10900-years-utah-valley-scientists-escalante-a7820586.html)
+* [Ancient potato that has survived in the wilds of southern Utah for nearly 11,000 years makes its dinner debut](https://www.sltrib.com/news/2018/10/06/ancient-potato-that-has/)
+* [Did potato cultivation begin in Utah's Escalante Valley 11,000 years ago?](http://archive.sltrib.com/article.php?id=5454302&itype=CMSID)
+* [America’s Earliest Traces of Potato Use Found at 10,900-Year-Old Utah Shelter](http://westerndigs.org/americas-earliest-use-of-potatoes-found-at-10900-year-old-shelter-in-utah/)
+* [How the Potato Changed the World](https://www.smithsonianmag.com/history/how-the-potato-changed-the-world-108470605/?fbclid=IwAR0lxd2QJrpQ6jF-M1csSmA3xzMGQ60gDlgqWMsLDehfc8l_D8lBeSOO5fI#DPfygyHbtbwl7PR0.01)
+* [How the Potato Changed the World's History](https://www.jstor.org/stable/40971302?seq=1#page_scan_tab_contents)
+
 
 ## Folsom Tradition (9000 BCE - 8000 BCE)
 
@@ -980,6 +1013,7 @@ This indicates that there were estalbished trade routes between the natural rang
 * [Late Pleistocene and Holocene environmental history of the Iguala Valley, Central Balsas Watershed of Mexico](https://doi.org/10.1073/pnas.0703442104)
 * [Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico](https://doi.org/10.1073/pnas.0812525106)
 * [Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama](https://doi.org/10.1073/pnas.0611605104)
+* [Starch granule evidence for the earliest potato use in North America](https://doi.org/10.1073/pnas.1705540114)
 * [Investigation of the bottleneck leading to the domestication of maize](https://doi.org/10.1073/pnas.95.8.4441)
 * [Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru](http://science.sciencemag.org/content/316/5833/1890?ijkey=4362f3665dd49aebff7191e37064c12b197de9de&keytype2=tf_ipsecsha)
 * [Evidence for maize (Zea mays) in the Late Archaic (3000–1800 B.C.) in the Norte Chico region of Peru](https://doi.org/10.1073/pnas.1219425110)
@@ -995,7 +1029,7 @@ This indicates that there were estalbished trade routes between the natural rang
 * [Prehistoric Decline in Freshwater Mussels Coincident with the Advent of Maize Agriculture](https://www.srs.fs.usda.gov/pubs/ja/ja_peacock001.pdf)
 * [The Origins of Plant Cultivation and Domestication in the New World Tropics](https://www.journals.uchicago.edu/doi/10.1086/659998)
 * [Marginal horticulturalists or maize agriculturalists? Archaeobotanical, paleopathological, and isotopic evidence relating to Langford Tradition maize consumption](https://www.academia.edu/1332730/Marginal_horticulturalists_or_maize_agriculturalists_Archaeobotanical_paleopathological_and_isotopic_evidence_relating_to_Langford_Tradition_maize_consumption)
-
+* [A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping](https://doi.org/10.1073/pnas.0507400102)
 
 # To Add to This List
 
@@ -1034,6 +1068,7 @@ This indicates that there were estalbished trade routes between the natural rang
 * [Wade, Lizzie. Mummy genomes reveal just how catastrophic European contact was for New World. Science. Apr. 2016.](http://www.sciencemag.org/news/2016/04/mummy-genomes-reveal-just-how-catastrophic-european-contact-was-new-world)
 * [Wade, Lizzie. Inca child mummy reveals lost genetic history of South America. Science. Nov. 2015](http://www.sciencemag.org/news/2015/11/inca-child-mummy-reveals-lost-genetic-history-south-america)
 * [Jopling, Carol F. “The Coppers of the Northwest Coast Indians: Their Origin, Development, and Possible Antecedents.” Transactions of the American Philosophical Society, vol. 79, no. 1, 1989, pp. i-164. JSTOR.](www.jstor.org/stable/1006488)
+* [Ancient human parallel lineages within North America contributed to a coastal expansion](http://science.sciencemag.org/content/360/6392/1024)
 
 
 # Compare with your pictures of the Adena and Hopewell cultures
