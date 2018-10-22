@@ -976,7 +976,7 @@ This indicates that there were estalbished trade routes between the natural rang
 * [A single domestication for maize shown by multilocus microsatellite genotyping](https://doi.org/10.1073/pnas.052125199)
 * [The earliest archaeological maize (Zea mays L.) from highland Mexico: New accelerator mass spectrometry dates and their implications](https://doi.org/10.1073/pnas.98.4.2101)
 * [Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca](https://doi.org/10.1073/pnas.98.4.2104)
-* [Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andrés, Tabasco, Mexico](ttps://doi.org/10.1073/pnas.0701425104)
+* [Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andrés, Tabasco, Mexico](https://doi.org/10.1073/pnas.0701425104)
 * [Late Pleistocene and Holocene environmental history of the Iguala Valley, Central Balsas Watershed of Mexico](https://doi.org/10.1073/pnas.0703442104)
 * [Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico](https://doi.org/10.1073/pnas.0812525106)
 * [Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama](https://doi.org/10.1073/pnas.0611605104)
