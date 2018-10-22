@@ -982,6 +982,8 @@ This indicates that there were estalbished trade routes between the natural rang
 * [Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama](https://doi.org/10.1073/pnas.0611605104)
 * [Investigation of the bottleneck leading to the domestication of maize](https://doi.org/10.1073/pnas.95.8.4441)
 * [Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru](http://science.sciencemag.org/content/316/5833/1890?ijkey=4362f3665dd49aebff7191e37064c12b197de9de&keytype2=tf_ipsecsha)
+* [Evidence for maize (Zea mays) in the Late Archaic (3000–1800 B.C.) in the Norte Chico region of Peru](https://doi.org/10.1073/pnas.1219425110)
+* [Gourd and squash artifacts yield starch grains of feasting foods from preceramic Peru](https://doi.org/10.1073/pnas.0903322106)
 * [Origin and Environmental Setting of Ancient Agriculture in the Lowlands of Mesoamerica](http://science.sciencemag.org/content/292/5520/1370?ijkey=aeea2a48ef0a5b00ed8cb29f91294eaa2ec64c2b&keytype2=tf_ipsecsha)
 * [Molecular analysis of crosses between Tripsacum dactyloides and Zea diploperennis (Poaceae)](https://link.springer.com/article/10.1007/s001220050469)
 * [Isoenzymatic Variation in Zea (Gramineae)](https://teosinte.wisc.edu/pdfs/Syst_Bot_1984.pdf)
