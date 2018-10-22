@@ -325,6 +325,8 @@ This island in the Savannah River was occupied over two time periods: 2600 BCE -
 ## Aleutian Tradtion, Aleutian Islands, Alaska, USA (2500 BCE - 1800 BCE)
 
 * [Aleutian tradtion](https://en.wikipedia.org/wiki/Aleutian_tradition)
+* [Preliminary Report of Archaeological Survey and Test Excavations in the Eastern Aleutian Islands, Alaska](https://www.jstor.org/stable/40315780)
+* [Mammalian Remains from Aleutian Archaeological Sites: A Preliminary Report](https://www.jstor.org/stable/40315783)
 
 ## Arctic Small Tool Tradition - Alaska, USA; Canada, Greenland (2500 BCE - 800 BCE)
 
@@ -965,6 +967,33 @@ This indicates that there were estalbished trade routes between the natural rang
 * [Rayado Indians](https://en.wikipedia.org/wiki/Rayado_Indians)
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
+
+# Domestication of Various Foods (10000 BCE - 4000 BCE)
+
+* [Dickau, R., Ranere, A. J., & Cooke, R. G. (2007). Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama. Proceedings of the National Academy of Sciences of the United States of America, 104(9), 3651–3656. http://doi.org/10.1073/pnas.0611605104](http://doi.org/10.1073/pnas.0611605104)
+* [Matsuoka, Y., Vigouroux, Y., Goodman, M. M., Sanchez G., J., Buckler, E., & Doebley, J. (2002). A single domestication for maize shown by multilocus microsatellite genotyping. Proceedings of the National Academy of Sciences of the United States of America, 99(9), 6080–6084. http://doi.org/10.1073/pnas.052125199](http://doi.org/10.1073/pnas.052125199)
+* [The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley, Mexico](https://doi.org/10.1073/pnas.0812590106)
+* [A single domestication for maize shown by multilocus microsatellite genotyping](https://doi.org/10.1073/pnas.052125199)
+* [The earliest archaeological maize (Zea mays L.) from highland Mexico: New accelerator mass spectrometry dates and their implications](https://doi.org/10.1073/pnas.98.4.2101)
+* [Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca](https://doi.org/10.1073/pnas.98.4.2104)
+* [Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andrés, Tabasco, Mexico](ttps://doi.org/10.1073/pnas.0701425104)
+* [Late Pleistocene and Holocene environmental history of the Iguala Valley, Central Balsas Watershed of Mexico](https://doi.org/10.1073/pnas.0703442104)
+* [Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico](https://doi.org/10.1073/pnas.0812525106)
+* [Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama](https://doi.org/10.1073/pnas.0611605104)
+* [Investigation of the bottleneck leading to the domestication of maize](https://doi.org/10.1073/pnas.95.8.4441)
+* [Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru](http://science.sciencemag.org/content/316/5833/1890?ijkey=4362f3665dd49aebff7191e37064c12b197de9de&keytype2=tf_ipsecsha)
+* [Origin and Environmental Setting of Ancient Agriculture in the Lowlands of Mesoamerica](http://science.sciencemag.org/content/292/5520/1370?ijkey=aeea2a48ef0a5b00ed8cb29f91294eaa2ec64c2b&keytype2=tf_ipsecsha)
+* [Molecular analysis of crosses between Tripsacum dactyloides and Zea diploperennis (Poaceae)](https://link.springer.com/article/10.1007/s001220050469)
+* [Isoenzymatic Variation in Zea (Gramineae)](https://teosinte.wisc.edu/pdfs/Syst_Bot_1984.pdf)
+* [Comparative Analysis of the Río Balsas and Tehuacán Models for the Origin of Maize](https://www.jstor.org/stable/1571668)
+* [A Re-Evaluation of the Isotopic and Archaeological Reconstructions of Diet in the Tehuacan Valley](https://www.jstor.org/stable/280636)
+* [The Mysterious Origin of Maize](https://www.jstor.org/stable/425648)
+* [An Interdisciplinary Perspective on the Origin of Maize](https://www.jstor.org/stable/971761)
+* [Studies in Archaeological Maize I: The "Wild" Maize from San Marcos Cave Reexamined](https://www.jstor.org/stable/281280)
+* [Prehistoric Decline in Freshwater Mussels Coincident with the Advent of Maize Agriculture](https://www.srs.fs.usda.gov/pubs/ja/ja_peacock001.pdf)
+* [The Origins of Plant Cultivation and Domestication in the New World Tropics](https://www.journals.uchicago.edu/doi/10.1086/659998)
+* [Marginal horticulturalists or maize agriculturalists? Archaeobotanical, paleopathological, and isotopic evidence relating to Langford Tradition maize consumption](https://www.academia.edu/1332730/Marginal_horticulturalists_or_maize_agriculturalists_Archaeobotanical_paleopathological_and_isotopic_evidence_relating_to_Langford_Tradition_maize_consumption)
+
 
 # To Add to This List
 
