@@ -152,7 +152,7 @@ These links support discoveries on the continent prior to any currently establis
 * [Taylor, Christie. A 14,000 Year-Old Discovery Emerges From Oral History. Science Friday. 14 Apr. 2017.](https://www.sciencefriday.com/segments/a-14000-year-old-discovery-emerges-from-oral-history/)
 
 
-### Meadowcroft Rock Shelter, Pennsylvania, USA (12000 BCE)
+## Meadowcroft Rock Shelter, Pennsylvania, USA (12000 BCE)
 
 * [Meadowcroft Rockshelter](https://en.wikipedia.org/wiki/Meadowcroft_Rockshelter)
 * [Cheney, Jim. Meadowcroft Rockshelter: North America’s Oldest Human Settlement. Atlas Obscura. 20 May. 2014.](https://www.atlasobscura.com/articles/meadowcroft-rockshelter-north-america-s-oldest-human-settlement)
