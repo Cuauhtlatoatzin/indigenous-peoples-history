@@ -49,17 +49,28 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 * [Archeology Page w/ Overview](https://www.archaeology.org/issues/145-1409/features/2366-peopling-the-americas-preclovis)
 * [Wikipedia Clovis Page](https://en.wikipedia.org/wiki/Clovis_culture)
 * [Curry, Andrew. Ancient migration: Coming to America. Nature. 485, 30–32. 03 May. 2012.](https://www.nature.com/news/ancient-migration-coming-to-america-1.10562)
+* [Popular theory on how humans populated North America can't be right, study shows](https://www.cbc.ca/news/technology/ice-free-corridor-north-americans-1.3715397)
+* [Mcelrath, Dale & Emerson, Thomas. (2012). Reenvisioning Eastern Woodlands Archaic Origins. The Oxford Handbook of North American Archaeology. 10.1093/oxfordhb/9780195380118.013.0037.](https://www.researchgate.net/publication/286023289_Reenvisioning_Eastern_Woodlands_Archaic_Origins) - This is a really good overview.
+  `The antiquity of human entry into the New World has been one of the longest- running and most contentious debates in North American archaeology, with little resolution in sight. Scientists in the early 20th century, led by the famed physical anthropologist Ales Hrdlicka, were convinced people entered the New World in very recent times, perhaps a few thousand years BC. It was not until the discovery of extinct megafauna and associated artifacts at Folsom and Clovis, New Mexico and the chronometric analysis of Vance Haynes (1964) that the entry date was pushed back to about 12000 BP. However, South America researchers have for some time now, accepted dates in the 20,000–30,000 year range and have theoretically divorced themselves from their North American colleagues (Gruhn 2005), the ma- jority of whom, until recently, defamed any radiocarbon date that exceeded 12,000 years in age. Now that this Maginot Line has been crossed, it makes sense that much earlier dates should be entertained. Since seagoing vessels were necessary to colo- nize Australia (minimally 45000 BP and possibly 65000 BP) and Japan (minimally 30000 BP), and northern latitude cold-weather-adapted technologies were suffi- ciently well developed to enable occupation of major parts of eastern Siberia by 45000 BP, it would indeed be surprising if colonization of North America’s west coast had not begun by at least 30000 BP, especially since Northeast Asia and North America were joined for lengthy periods after 50,000 years ago. The possibility—in fact, the probability—of an early coastal entry into the New World appears strong.`
+* [Smith, Heather & Goebel, Thomas. Origins and spread of fluted-point technology in the Canadian Ice-Free Corridor and eastern Beringia. Proceedings of the National Academy of Sciences Apr 2018, 115 (16) 4116-4121; DOI: 10.1073/pnas.1800312115](https://doi.org/10.1073/pnas.1800312115)
+  * `Results link morphologies and technologies of Clovis, certain western Canadian, and northern fluted points, suggesting that fluting technology arrived in the Arctic from a proximate source in the interior Ice-Free Corridor and ultimately from the earliest populations in temperate North America, complementing new genomic models explaining the peopling of the Americas.`
+  * `Despite this, the geographic distribution of points in the earliest clades supports the hypothesis that Clovis, early points from the Corridor, and northern fluted points share historical affinity and may represent either Clovis groups moving north through the Ice-Free Corridor to northern Yukon and Alaska, or the interaction of Clovis groups with humans already present in the northwestern Subarctic and Arctic. Both of these processes of fluted-point transmission to the north are supported by latitudinal and chronological trends.`
+  * `Bison were potentially integral to the adaptation of the northward-dispersing fluted-point makers. During the last glacial maximum (ca. 24 ka), bison clades of Beringia were genetically distinct from those living south of the ice sheets (32); however, by 12.3–12 ka, a southern clade of bison had dispersed northward into the Ice-Free Corridor, reaching the Northwest Territories and becoming sympatric with the northern clade (12). Our results suggest an analogous process of human dispersal or information transmission, with humans from the southern Ice-Free Corridor spreading north to Arctic Alaska. As fluting technology spread northward, bison (Bison sp.) were still common in the Corridor, from Charlie Lake Cave in central British Columbia to Engigstciack in northern Yukon (32, 39). In Arctic Alaska, however, bison became locally extinct by 13.5 ka (12, 40), so that fluted-point–using groups in the Far North had to adjust their predatory focus to caribou (Rangifer tarandus), which were better suited to the region’s tussock-tundra communities (41). Not surprisingly, faunal assemblages from the only buried and dated fluted-point sites in northwestern Alaska contain caribou, not bison (9). This shift toward caribou could have occurred in the Corridor, as fluted-point makers were pulled northward and eastward along the margin of the retreating Laurentide ice, resulting in high frequencies of ancestral traits shared by Clovis, the early Ice-Free Corridor, and Great Lakes point forms.`
 
-## Kelp Highway Hypothesis
+### Kelp Highway Hypothesis
 
 * [University Museum of Natural and Cultural Hisory. Kelp Highway Hypothesis.](http://natural-history.uoregon.edu/research/paleocoastal-research-project/kelp-highway-hypothesis)
 * [Erlandson et al. The Kelp Highway Hypothesis: Marine Ecology, the Coastal Migration Theory, and the Peopling of the Americas. The Journal of Island and Coastal Archaeology. 30 Oct. 2007.](http://natural-history.uoregon.edu/sites/default/files/mnch/Erlandson_et_al_2007.pdf)
 
-## Beringia Hypthesis
+### Beringia Hypthesis
 
 * [Than, Ker. On Way to New World, First Americans Made a 10,000-Year Pit Stop. National Geographic. 27 Feb. 2014.](https://news.nationalgeographic.com/news/2014/04/140227-native-americans-beringia-bering-strait-pit-stop/)
 * [Langlois, Krista, Heather Pringle. A Sunken Bridge the Size of a Continent. Hakai. 20 Sep. 2016](https://www.hakaimagazine.com/features/sunken-bridge-size-continent/?xid=PS_smithsonian)
 
+### "[H]uman entry through a pre-coalescence ice-free corridor remains a possibility." (circa 25000 BCE)
+
+* [Mark E. Swisher, Dennis L. Jenkins, Lionel E. Jackson, Jr., Fred M. Phillips. A Reassessment of the Role of the Canadian Ice Free Corridor in Light of New Geological Evidence](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
+  `A human range expansion into the Americas through an ice-free post-coalescence corridor has been hypothesized and tested for more than 75 years. Evidence from Paisley Caves and other archaeology sites support the interpretation that people inhabited the New World during the time of coalescent coast-to-coast ice cover of Canada. As the ages of human occupation sites become increasingly earlier (Holen and Holen, 2013), human entry through a pre-coalescence ice-free corridor remains a possibility.`
 
 # Pre Clovis (before 11000 BCE)
 
@@ -101,6 +112,16 @@ These links support discoveries on the continent prior to any currently establis
 * [Kamrani, Kambiz. Earliest known archaeological evidence of Americans found in Monte Verde, Chile. Archeology.net. 8 May. 2008.](https://anthropology.net/2008/05/08/earliest-known-archaeological-evidence-of-americans-found-in-monte-verde-chile/)
 * [Rose, Mark. The Importance of Monte Verde. Archeology.org. 18 Oct. 1999.](https://archive.archaeology.org/online/features/clovis/rose1.html)
 
+## Meadowcroft Rock Shelter - Washington County, Pennsylvania, USA (15250 BCE)
+
+* [Meadowcroft Rockshelter](https://en.wikipedia.org/wiki/Meadowcroft_Rockshelter)
+* [J. M. Adovasio, J. Donahue and R. Stuckenrath. The Meadowcroft Rockshelter Radiocarbon Chronology 1975-1990. American Antiquity. Vol. 55, No. 2 (Apr., 1990), pp. 348-354](https://www.jstor.org/stable/281652?seq=1#page_scan_tab_contents)
+* [Goldberg, Paul, Trina Arpin. Micromorphological Analysis of Sediments from Meadowcroft Rockshelter, Pennsylvania: Implications for Radiocarbon Dating. Journal of Field Archaeology 26(3):325-342](https://www.researchgate.net/publication/232275107_Micromorphological_Analysis_of_Sediments_from_Meadowcroft_Rockshelter_Pennsylvania_Implications_for_Radiocarbon_Dating)
+* [Cheney, Jim. Meadowcroft Rockshelter: North America’s Oldest Human Settlement. Atlas Obscura. 20 May. 2014.](https://www.atlasobscura.com/articles/meadowcroft-rockshelter-north-america-s-oldest-human-settlement)
+* [AP. 16,000-year-old Pa. rock shelter dwelling still divides archaeologists after 40 years. Fox News Science. 12 Aug. 2013.](http://www.foxnews.com/science/2013/08/12/16000-year-old-pa-rock-shelter.html)
+* [Shutler, Dr. Richard. Meadowcroft Rockshelter](http://www.sfu.museum/journey/an-en/postsecondaire-postsecondary/meadowcroft)
+* [Meadowcroft Rockshelter](https://www.heinzhistorycenter.org/exhibits/meadowcroft-rockshelter)
+
 ## Gault site, Texas, USA (14000 BCE)
 
 * [16,000-Year-Old Tools Discovered in Texas, Among the Oldest Found in the West](http://westerndigs.org/16000-year-old-tools-discovered-in-texas-among-the-oldest-yet-found-in-the-west/)
@@ -126,7 +147,6 @@ These links support discoveries on the continent prior to any currently establis
 * [Ancient Clovis Elephant-Hunting Camp Discovered in Mexico](http://westerndigs.org/clovis-elephant-hunting-site-discovered-in-mexico/)
 
 
-
 ## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
 
 * [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
@@ -150,15 +170,6 @@ These links support discoveries on the continent prior to any currently establis
 * [Thomson, Jimmy. Hakai: The Archaeology Story. 05 Jun. 2015. (includes video w/ high res images of a few artifacts)](https://www.hakai.org/blog/life-at-hakai/hakai-archaeology-story)
 * [Shore, Randy. Heiltsuk First Nation village among oldest in North America: Archeologists. Vancouver Sun. 29 Mar. 2017.](https://vancouversun.com/news/local-news/heiltsuk-first-nation-village-among-oldest-in-north-america-archeologists)
 * [Taylor, Christie. A 14,000 Year-Old Discovery Emerges From Oral History. Science Friday. 14 Apr. 2017.](https://www.sciencefriday.com/segments/a-14000-year-old-discovery-emerges-from-oral-history/)
-
-
-## Meadowcroft Rock Shelter, Pennsylvania, USA (12000 BCE)
-
-* [Meadowcroft Rockshelter](https://en.wikipedia.org/wiki/Meadowcroft_Rockshelter)
-* [Cheney, Jim. Meadowcroft Rockshelter: North America’s Oldest Human Settlement. Atlas Obscura. 20 May. 2014.](https://www.atlasobscura.com/articles/meadowcroft-rockshelter-north-america-s-oldest-human-settlement)
-* [AP. 16,000-year-old Pa. rock shelter dwelling still divides archaeologists after 40 years. Fox News Science. 12 Aug. 2013.](http://www.foxnews.com/science/2013/08/12/16000-year-old-pa-rock-shelter.html)
-* [J. M. Adovasio, J. Donahue and R. Stuckenrath. The Meadowcroft Rockshelter Radiocarbon Chronology 1975-1990  American Antiquity. Vol. 55, No. 2 (Apr., 1990), pp. 348-354](https://www.jstor.org/stable/281652?seq=1#page_scan_tab_contents)
-* [Shutler, Dr. Richard. Meadowcroft Rockshelter](http://www.sfu.museum/journey/an-en/postsecondaire-postsecondary/meadowcroft)
 
 
 ## Manis Site, Washington, USA (11000 BCE)
