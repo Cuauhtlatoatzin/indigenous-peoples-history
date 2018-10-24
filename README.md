@@ -51,7 +51,7 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 * [Curry, Andrew. Ancient migration: Coming to America. Nature. 485, 30–32. 03 May. 2012.](https://www.nature.com/news/ancient-migration-coming-to-america-1.10562)
 * [Popular theory on how humans populated North America can't be right, study shows](https://www.cbc.ca/news/technology/ice-free-corridor-north-americans-1.3715397)
 * [Mcelrath, Dale & Emerson, Thomas. (2012). Reenvisioning Eastern Woodlands Archaic Origins. The Oxford Handbook of North American Archaeology. 10.1093/oxfordhb/9780195380118.013.0037.](https://www.researchgate.net/publication/286023289_Reenvisioning_Eastern_Woodlands_Archaic_Origins) - This is a really good overview.
-  `The antiquity of human entry into the New World has been one of the longest- running and most contentious debates in North American archaeology, with little resolution in sight. Scientists in the early 20th century, led by the famed physical anthropologist Ales Hrdlicka, were convinced people entered the New World in very recent times, perhaps a few thousand years BC. It was not until the discovery of extinct megafauna and associated artifacts at Folsom and Clovis, New Mexico and the chronometric analysis of Vance Haynes (1964) that the entry date was pushed back to about 12000 BP. However, South America researchers have for some time now, accepted dates in the 20,000–30,000 year range and have theoretically divorced themselves from their North American colleagues (Gruhn 2005), the ma- jority of whom, until recently, defamed any radiocarbon date that exceeded 12,000 years in age. Now that this Maginot Line has been crossed, it makes sense that much earlier dates should be entertained. Since seagoing vessels were necessary to colo- nize Australia (minimally 45000 BP and possibly 65000 BP) and Japan (minimally 30000 BP), and northern latitude cold-weather-adapted technologies were suffi- ciently well developed to enable occupation of major parts of eastern Siberia by 45000 BP, it would indeed be surprising if colonization of North America’s west coast had not begun by at least 30000 BP, especially since Northeast Asia and North America were joined for lengthy periods after 50,000 years ago. The possibility—in fact, the probability—of an early coastal entry into the New World appears strong.`
+  * `The antiquity of human entry into the New World has been one of the longest- running and most contentious debates in North American archaeology, with little resolution in sight. Scientists in the early 20th century, led by the famed physical anthropologist Ales Hrdlicka, were convinced people entered the New World in very recent times, perhaps a few thousand years BC. It was not until the discovery of extinct megafauna and associated artifacts at Folsom and Clovis, New Mexico and the chronometric analysis of Vance Haynes (1964) that the entry date was pushed back to about 12000 BP. However, South America researchers have for some time now, accepted dates in the 20,000–30,000 year range and have theoretically divorced themselves from their North American colleagues (Gruhn 2005), the ma- jority of whom, until recently, defamed any radiocarbon date that exceeded 12,000 years in age. Now that this Maginot Line has been crossed, it makes sense that much earlier dates should be entertained. Since seagoing vessels were necessary to colo- nize Australia (minimally 45000 BP and possibly 65000 BP) and Japan (minimally 30000 BP), and northern latitude cold-weather-adapted technologies were suffi- ciently well developed to enable occupation of major parts of eastern Siberia by 45000 BP, it would indeed be surprising if colonization of North America’s west coast had not begun by at least 30000 BP, especially since Northeast Asia and North America were joined for lengthy periods after 50,000 years ago. The possibility—in fact, the probability—of an early coastal entry into the New World appears strong.`
 * [Smith, Heather & Goebel, Thomas. Origins and spread of fluted-point technology in the Canadian Ice-Free Corridor and eastern Beringia. Proceedings of the National Academy of Sciences Apr 2018, 115 (16) 4116-4121; DOI: 10.1073/pnas.1800312115](https://doi.org/10.1073/pnas.1800312115)
   * `Results link morphologies and technologies of Clovis, certain western Canadian, and northern fluted points, suggesting that fluting technology arrived in the Arctic from a proximate source in the interior Ice-Free Corridor and ultimately from the earliest populations in temperate North America, complementing new genomic models explaining the peopling of the Americas.`
   * `Despite this, the geographic distribution of points in the earliest clades supports the hypothesis that Clovis, early points from the Corridor, and northern fluted points share historical affinity and may represent either Clovis groups moving north through the Ice-Free Corridor to northern Yukon and Alaska, or the interaction of Clovis groups with humans already present in the northwestern Subarctic and Arctic. Both of these processes of fluted-point transmission to the north are supported by latitudinal and chronological trends.`
@@ -70,7 +70,9 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 ### "[H]uman entry through a pre-coalescence ice-free corridor remains a possibility." (circa 25000 BCE)
 
 * [Mark E. Swisher, Dennis L. Jenkins, Lionel E. Jackson, Jr., Fred M. Phillips. A Reassessment of the Role of the Canadian Ice Free Corridor in Light of New Geological Evidence](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
-  `A human range expansion into the Americas through an ice-free post-coalescence corridor has been hypothesized and tested for more than 75 years. Evidence from Paisley Caves and other archaeology sites support the interpretation that people inhabited the New World during the time of coalescent coast-to-coast ice cover of Canada. As the ages of human occupation sites become increasingly earlier (Holen and Holen, 2013), human entry through a pre-coalescence ice-free corridor remains a possibility.`
+  * `A human range expansion into the Americas through an ice-free post-coalescence corridor has been hypothesized and tested for more than 75 years. Evidence from Paisley Caves and other archaeology sites support the interpretation that people inhabited the New World during the time of coalescent coast-to-coast ice cover of Canada. As the ages of human occupation sites become increasingly earlier (Holen and Holen, 2013), human entry through a pre-coalescence ice-free corridor remains a possibility.`
+* [Native American mitochondrial DNA analysis indicates that the Amerind and the Nadene populations were founded by two independent migrations.](http://www.genetics.org/content/130/1/153.long)
+  * `The similarity of the sequence divergences of the Amerind clusters A, C, and D suggest that those were the founding linages of the Paleoindians. Using the weighted mean value of 0.084%, the Amerind mtDNA lineages are estimated to have begun radiating betwen 21,000 - 42,000 YBP. If most of this radiation occured after entry into the Americas, this time range would suggest that the Americas were colonized before the dates associated with the oldest Paleoindian skeletal remains (14,00 YBP) and Clovis lithic artifacts (11,500 YBP), and would be consistent with the estimated ages of the oldest American archeological sites.`
 
 # Pre Clovis (before 11000 BCE)
 
@@ -231,9 +233,8 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 
 * [Plano Culture](https://en.wikipedia.org/wiki/Plano_cultures)
 * [Plano Culture. A History of the Native People of Canada. Vol 1.](https://www.historymuseum.ca/cmc/exhibitions/archeo/hnpc/npvol07e.shtml)
-  `The name 'Plano' derives from the fact that the culture was first recognized on the Plains. In part, the name is a misnomer as Plano culture extends from the Southern Plateau of British Columbia to the Atlantic coast and from Keewatin District in the Northwest Territories to the Gulf of Mexico. More so than the Early Archaic complexes of the east, Plano culture's occupation of a number of markedly different environments mimics that of its Palaeo-Indian ancestors. The core area of the culture, however, was the Plains and whether Plano culture is found on the Gaspé coast of Québec or the Barrengrounds of the Northwest Territories, its origin was originally the Plains.`
-
-  Basically, they went through the whole region where the bison roamed.
+  * `The name 'Plano' derives from the fact that the culture was first recognized on the Plains. In part, the name is a misnomer as Plano culture extends from the Southern Plateau of British Columbia to the Atlantic coast and from Keewatin District in the Northwest Territories to the Gulf of Mexico. More so than the Early Archaic complexes of the east, Plano culture's occupation of a number of markedly different environments mimics that of its Palaeo-Indian ancestors. The core area of the culture, however, was the Plains and whether Plano culture is found on the Gaspé coast of Québec or the Barrengrounds of the Northwest Territories, its origin was originally the Plains.`
+  * Basically, they went through the whole region where the bison roamed.
 * [`The Early Plano culture was primarily based in the Plains of Canada, with offshoots as far east as the Gaspe Peninnsula and as far northwest as the Peace River Valley of Alberta and British Columbia. Plano was also widespread in the United States, extending south to the Gulf of Mexico. Some tools found in the Canadian Plains were made from stone sources in the US`](https://web.archive.org/web/20110713193402/http://www.learnersportal.com/CanadaFP/Ancient/per1.html)
 * Agate Basin Site, WY, USA
 * Cody Complex near Cody, WY, USA (encompases the following three regions)
@@ -377,10 +378,10 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 ## Poverty Point - Mississippi Valley and surrounding Gulf coast, USA (2200 BCE - 700 BCE)
 
 * [Poverty Point culture](https://en.wikipedia.org/wiki/Poverty_Point_culture)
-  `Many of the raw materials used, such as slate, copper, galena, jasper, quartz, and soapstone, were from as far as 620 miles (1,000 km) away, attesting to the distant reach of the trading culture.`
+  * `Many of the raw materials used, such as slate, copper, galena, jasper, quartz, and soapstone, were from as far as 620 miles (1,000 km) away, attesting to the distant reach of the trading culture.`
 * [Poverty Point: The First Complex Delta Culture](https://web.archive.org/web/20131207234411/http://www.deltablues.net/jon.html)
-  - `Poverty Point was the ultimate destination for incoming goods. Poverty Point stone dealers tapped into a wide range of resources from the North American midcontinent: copper from the Great Lakes, galena—a native lead ore—from the Upper Mississippi River in Iowa, soapstone from the Appalachian piedmont, and tons of flint and other materials from the Ouachita Mountains, Missouri's tablerock, southern Illinois's Shawnee Hills, Kentucky's Knobs, Tennessee's Appalachian foothills, and places in-between. There is even a piece of obsidian from Wyoming's Rockies. Practically all stone supply areas could have been reached by express dugout using the Mississippi's net of rivers and creeks.`
-  - `Ingrained in native mythology across the Eastern United States—the land of mound builders—was the time-honored belief that geometric arrangements, circles, arcs, triangles, squares, and other layouts, kept evil spirits at bay and dispelled disharmony built up within. Mesoamerican archaeologist John Clark has found that sacred counts were built into Poverty Point's layout, dimensions, and spacing. Those same numbers, 13, 20, 52, 260, and 365, show up in contemporary monuments in Mexico and Peru and are the basis of the native New World calendar. As cosmic symbols, mounds and embankments provided magical safety and good medicine. So, while good for the whole community, they were just as good for each and every individual—personal desires and public responsibilities indivisible. This is not to say that Poverty Point could have been built without strong leaders, but public construction projects which "kill two birds with one stone" were more likely to win endorsement and gain widespread labor support, freely given. It took smart, strong leaders to recognize the meld and to resist the temptation to assert the power of leadership.`
+  * `Poverty Point was the ultimate destination for incoming goods. Poverty Point stone dealers tapped into a wide range of resources from the North American midcontinent: copper from the Great Lakes, galena—a native lead ore—from the Upper Mississippi River in Iowa, soapstone from the Appalachian piedmont, and tons of flint and other materials from the Ouachita Mountains, Missouri's tablerock, southern Illinois's Shawnee Hills, Kentucky's Knobs, Tennessee's Appalachian foothills, and places in-between. There is even a piece of obsidian from Wyoming's Rockies. Practically all stone supply areas could have been reached by express dugout using the Mississippi's net of rivers and creeks.`
+  * `Ingrained in native mythology across the Eastern United States—the land of mound builders—was the time-honored belief that geometric arrangements, circles, arcs, triangles, squares, and other layouts, kept evil spirits at bay and dispelled disharmony built up within. Mesoamerican archaeologist John Clark has found that sacred counts were built into Poverty Point's layout, dimensions, and spacing. Those same numbers, 13, 20, 52, 260, and 365, show up in contemporary monuments in Mexico and Peru and are the basis of the native New World calendar. As cosmic symbols, mounds and embankments provided magical safety and good medicine. So, while good for the whole community, they were just as good for each and every individual—personal desires and public responsibilities indivisible. This is not to say that Poverty Point could have been built without strong leaders, but public construction projects which "kill two birds with one stone" were more likely to win endorsement and gain widespread labor support, freely given. It took smart, strong leaders to recognize the meld and to resist the temptation to assert the power of leadership.`
 
 ## Buena Vista, Peru (2200 BCE - 1500 BCE)
 
@@ -429,7 +430,7 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 ### Chocolate Domesticated by Mokaya Culture (1900 BCE)
 
 * [Oldest chocolate in the New World](https://www.antiquity.ac.uk/projgall/powis314/)
-  `Our analysis shows that chocolate (Theobroma cacao) was consumed by the Mokaya as early as 1900 BC and by pre-Olmec peoples as early as 1750 BC, pushing back the chemical evidence of cacao use by some 700 years.`
+  * `Our analysis shows that chocolate (Theobroma cacao) was consumed by the Mokaya as early as 1900 BC and by pre-Olmec peoples as early as 1750 BC, pushing back the chemical evidence of cacao use by some 700 years.`
 
 ### Mokaya - Soconusco, Chiapas, MX (1850 BCE - 650 BCE)
 
@@ -448,13 +449,12 @@ Actually dates back to [Canton Corralito (2500 BCE)](#canton-corralito---mazatá
 They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500-bce---400-bce). Bacame a cultural center from 400 BCE - 200 CE.
 
 * [Monte Alto Culture](https://en.wikipedia.org/wiki/Monte_Alto_culture)
-  `Many of the Monte Alto sculptures are magnetic as well. Since certain distinctive patterns of magnetism recur with some frequency, it would appear that the sculptures were executed by artisans who were aware of these properties. If this is true, the Monte Alto sculptures no doubt deserve recognition as the oldest known magnetic artifacts in the world.`
+  * `Many of the Monte Alto sculptures are magnetic as well. Since certain distinctive patterns of magnetism recur with some frequency, it would appear that the sculptures were executed by artisans who were aware of these properties. If this is true, the Monte Alto sculptures no doubt deserve recognition as the oldest known magnetic artifacts in the world.`
 
 ### Pre-Olmec People Cultivate Chocolate
 
 * [Oldest chocolate in the New World](https://www.antiquity.ac.uk/projgall/powis314/)
-  `In the Gulf Coast area, pre-Olmec people were consuming liquid chocolate by 1750 BC, suggesting that the later Olmec civilisation centered at the nearby site of San Lorenzo (1200-900 BC) did the same.`
-
+  * `In the Gulf Coast area, pre-Olmec people were consuming liquid chocolate by 1750 BC, suggesting that the later Olmec civilisation centered at the nearby site of San Lorenzo (1200-900 BC) did the same.`
 
 ### San Lorenzo Tenochtitlán - San Lorenzo, Veracruz, MX - Olmec (1700 BCE - 900 BCE)
 
@@ -738,11 +738,10 @@ Shows a trade connection or influence from Veracruz.
 
 * [Teotihuacan](https://en.wikipedia.org/wiki/Teotihuacan)
 * [Teotihuacán](https://es.wikipedia.org/wiki/Teotihuac%C3%A1n)
-  `"Hay varias hipótesis sobre la identidad étnica y lingüística de los fundadores de Teotihuacán."`
+  * `Hay varias hipótesis sobre la identidad étnica y lingüística de los fundadores de Teotihuacán.`
 * [Curtis, Wayne. Rich Man, Poor Man: Archaeologists are taking the study of wealth inequality into the distant past. American Archeology Magazine. 20 Jun. 2018.](https://www.archaeologicalconservancy.org/rich-man-poor-man/)
-  `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
-
-  `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
+  * `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
+  * `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
 
 ## La Mojarra - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (300 BCE - 1000 CE)
 
@@ -785,6 +784,11 @@ Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixt
 ## Moche Culture - Moche Valley, Peru (100 CE - 750AD)
 
 * [Moche Culture](https://en.wikipedia.org/wiki/Moche_culture) - Predecessor of the Chimú culture.
+* [Odd Pyramid Had Rooftop Homes, Ritual Sacrifices?](https://news.nationalgeographic.com/news/2010/10/101021-moche-pyramid-peru-science-sacrifice-archaeology-ancient/) (500 CE - 800 CE)
+* [CSI Tools Bring a Mummy's Face to Life](https://news.nationalgeographic.com/2017/06/csi-tools-mummy-moche-peru-cao-brujo/)
+* [Ancient Throne and Ceremonial Hall Unearthed in Peru](https://news.nationalgeographic.com/2018/01/ancient-peruvian-moche-civilization-throne-banquet-hall-ceremony-spd/)
+* [Tomb of a Powerful Moche Priestess-Queen Found in Peru](https://news.nationalgeographic.com/news/http-/news/news/2013/08/130808-moche-priestess-queen-tomb-discovery-peru-archaeology-science/) - (750 CE)
+* [New Clues About Human Sacrifices at Ancient Peruvian Temple](https://news.nationalgeographic.com/news/2013/11/131119-moche-human-sacrifice-war-victims-burials-archaeology-science/)
 
 Centered in a few regions:
 * [La Libertad](https://en.wikipedia.org/wiki/La_Libertad_Region)
@@ -797,43 +801,24 @@ Centered in a few regions:
 * [Santa](https://en.wikipedia.org/wiki/Santa_River)
 * Nepena
 
-### Huaca del Sol (450 CE)
+These are a few major sites:
+* [Huaca del Sol](https://en.wikipedia.org/wiki/Huaca_del_Sol) - (450 CE)
+* Huaca de la Luna
 
-* [Huaca del Sol](https://en.wikipedia.org/wiki/Huaca_del_Sol)
+  * [Huaca de la Luna](https://en.wikipedia.org/wiki/Huaca_de_la_Luna)
+  * [Moche Mural in Peru Revealed in Stunning Detail](https://news.nationalgeographic.com/news/2013/07/130731-moche-mural-huaca-de-la-luna-interactive-photo-gigapixel/)
 
-### Huaca de la Luna
-
-* [Huaca de la Luna](https://en.wikipedia.org/wiki/Huaca_de_la_Luna)
-* [Moche Mural in Peru Revealed in Stunning Detail](https://news.nationalgeographic.com/news/2013/07/130731-moche-mural-huaca-de-la-luna-interactive-photo-gigapixel/)
-
-### Sipan
-
+* Sipan
 * [Huaca Rajada](https://en.wikipedia.org/wiki/Huaca_Rajada)
-
-### Loma Negra
-
-### Dos Cabezas
-
-### Pacatnamu
-
+* Loma Negra
+* Dos Cabezas
+* Pacatnamu
 * [Pacatnamu](https://en.wikipedia.org/wiki/Pacatnamu)
-
-### El Brujo complex
-
-* [El Brujo](https://en.wikipedia.org/wiki/El_Brujo)
-
-### Mocollope
-
-### Cerro Mayal
-
-### Galindo
-
-### Huanchaco
-
+* [El Brujo complex](https://en.wikipedia.org/wiki/El_Brujo)
+* Mocollope
+* Cerro Mayal
+* Galindo
 * [Huanchaco](https://en.wikipedia.org/wiki/Huanchaco) - Origin of Ceviche
-
-### Pañamarka
-
 * [Pañamarca](https://en.wikipedia.org/wiki/Pa%C3%B1amarca)
 
 
@@ -859,13 +844,16 @@ Separated from the Toltec people early on and migrated south through Veracruz. T
 
 * [Ilex Gauyusa](https://en.wikipedia.org/wiki/Ilex_guayusa)
 * [Amazonian Guayusa (Ilex guayusa Loes.): A Historical and Ethnobotanical Overview](https://www.researchgate.net/publication/295085067_Amazonian_Guayusa_Ilex_guayusa_Loes_A_Historical_and_Ethnobotanical_Overview)
-  `Archaeological and historical records suggest that guayusa has been used and traded as a medicinal plant in the greater Andes–Amazon region since at least 500 C.E. Guayusa leaves dated to this time were found in a multi–family tomb in Niño Korin, Bautista Saavedra Province of Bolivia and were thought to belong to a Bmedicine man^ of the Kallawaya (Tiwanaku) society (Wassén 1972).`
+  * `Archaeological and historical records suggest that guayusa has been used and traded as a medicinal plant in the greater Andes–Amazon region since at least 500 C.E. Guayusa leaves dated to this time were found in a multi–family tomb in Niño Korin, Bautista Saavedra Province of Bolivia and were thought to belong to a Bmedicine man^ of the Kallawaya (Tiwanaku) society (Wassén 1972).`
 
 ## Polynesians Bump Into America (500 CE - 700 CE)
 
 * [Swetek, Brian. DNA shows how the sweet potato crossed the sea. Nature News. 21 Jan. 2013.](https://www.nature.com/news/dna-shows-how-the-sweet-potato-crossed-the-sea-1.12257)
 * [Nelson, Brian. Polynesian seafarers discovered America long before Europeans, says DNA study. Mother Nature Network. 22 Jan. 2013.](https://www.mnn.com/earth-matters/wilderness-resources/stories/polynesian-seafarers-discovered-america-long-before)
 * [Davidson, Keay. Did ancient Polynesians visit California? Maybe so. / Scholars revive idea using linguistic ties, Indian headdress. San Francisco Gate Chronicle. 20 Jun. 2005.](https://www.sfgate.com/news/article/Did-ancient-Polynesians-visit-California-Maybe-2661327.php)
+
+And it wasn't the only time either:
+* [Radiocarbon and DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile](https://doi.org/10.1073/pnas.0703993104) - (1321 CE – 1407 CE)
 
 ## Late Woodland (500 CE - 1000 CE)
 
@@ -900,9 +888,8 @@ First inhabited in 1200BCE, but depopulated by 200BCE, it was later repopulated 
 ## Hohokam Ballcourts - Arizona, USA (750 CE - 1200 CE)
 
 * [Witze, Alexandra. The Mystery Of Hohokam Ballcourts. American Archeology Magazine. 15 Mar. 2018.](https://www.archaeologicalconservancy.org/the-mystery-of-hohokam-ballcourts/)
-  `From the Olmec to the Maya to the Aztec, ballgames were one of the defining activities of Mesoamerican cultures. Beginning some time before 1200 B.C., competitors kicked and whacked rubber balls up and down a playing court. These ballgames were rich in symbolism—in some cases the gods were said to have played—and a powerful force that bound communities together. But it’s possible these games weren’t limited to Mesoamerica. Archaeologists have found more than 200 oval-shaped earthen depressions with embankments in central and southern Arizona that resemble the Mesoamerican ballcourts. These features date between roughly A.D. 750 and 1200 and are associated with the Hohokam culture.`
-
-  `Though archaeologists continue to debate their purpose, and ethnographic accounts are silent on this matter, most researchers now surmise that the Hohokam courts were used for ballgames, much as the Mesoamerican ones were, according to Henry Wallace, a senior research archaeologist with Desert Archaeology, Inc., in Tucson, Arizona. In doing so the courts played a major role in strengthening Hohokam identity and interactions among villages. “Whenever you have games, you have people coming together,” Wallace said. “It’s a great way of linking social groups.”`
+  * `From the Olmec to the Maya to the Aztec, ballgames were one of the defining activities of Mesoamerican cultures. Beginning some time before 1200 B.C., competitors kicked and whacked rubber balls up and down a playing court. These ballgames were rich in symbolism—in some cases the gods were said to have played—and a powerful force that bound communities together. But it’s possible these games weren’t limited to Mesoamerica. Archaeologists have found more than 200 oval-shaped earthen depressions with embankments in central and southern Arizona that resemble the Mesoamerican ballcourts. These features date between roughly A.D. 750 and 1200 and are associated with the Hohokam culture.`
+  * `Though archaeologists continue to debate their purpose, and ethnographic accounts are silent on this matter, most researchers now surmise that the Hohokam courts were used for ballgames, much as the Mesoamerican ones were, according to Henry Wallace, a senior research archaeologist with Desert Archaeology, Inc., in Tucson, Arizona. In doing so the courts played a major role in strengthening Hohokam identity and interactions among villages. “Whenever you have games, you have people coming together,” Wallace said. “It’s a great way of linking social groups.”`
 
 ## Cacao and Holly Based Caffeinated Drinks Traded (750 CE - 1400 CE)
 
@@ -959,8 +946,13 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 
 * [Watson, Tracy. American Indian Sailed to Europe With Vikings? Scientific American. 26 Nov. 2010.](https://news.nationalgeographic.com/news/2010/11/101123-native-american-indian-vikings-iceland-genetic-dna-science-europe/)
 
-
 ## Mississippian (1000 CE - 1500 CE)
+
+## Fort Ancient (1000 CE - 1550 CE)
+
+## Cempoala - Úrsulo Galván, Veracruz, MX - Totonacs, Chinantecas and Zapotecs (1000 CE - 1577 CE)
+
+* [Cempoala](https://es.wikipedia.org/wiki/Cempoala)
 
 ## Early Mississippian (1000 CE - 1200 CE)
 
@@ -973,19 +965,47 @@ This indicates that there were estalbished trade routes between the natural rang
 
 ## Postclassic (1200 CE - Present)
 
+## Middle Mississippian (1200 CE - 1400 CE)
+
 ## Mesoamerican Late Postclassic (1200 CE - 1521 CE)
 
-### Tlaxcallan - Tlaxcala, MX (1250 CE - 1550 CE)
+## El Consuelo - Tamuin, San Luis Potosi, MX - Huasteca, Olmec? (1200 CE - 1519 CE)
+
+*[El Consuelo](https://es.wikipedia.org/wiki/Tamu%C3%ADn_(zona_arqueol%C3%B3gica))
+
+## Zaachila - Villa de Zaachila, Oaxaca, MX - Zapotec, Mixtec (1200 CE - 1521 CE)
+
+* [Zaachila](https://es.wikipedia.org/wiki/Zaachila)
+
+## Papantla - Papantla, Veracruz, MX - Totonac (1200 CE - 1521 CE)
+
+* [Papantla](https://en.wikipedia.org/wiki/Papantla)
+
+## Texcoco - Mexico City, Chichimec, MX - Alcolhua, Tepnec, Nahuatl (1200 CE - 1521 CE)
+
+See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
+
+* [Texcoco](https://en.wikipedia.org/wiki/Texcoco_(altepetl))
+
+## Tlaxcallan - Tlaxcala, MX (1250 CE - 1550 CE)
 
 * [Tlaxcala (Nahua state)](https://en.wikipedia.org/wiki/Tlaxcala_(Nahua_state))
 * [Tlaxcala - History](https://en.wikipedia.org/wiki/Tlaxcala#History)
 * [Wade, Lizzie. The Lost History Of Tlaxcallan. American Archeology Magazine. 6 Dec. 2017.](https://www.archaeologicalconservancy.org/lost-history-tlaxcallan/)
 
-## Fort Ancient (1000 CE - 1550 CE)
+## Xalapa - Xalapa, Veracruz, MX - Totonac, Chichimecas, Toltecs, Teochichimecas (1313 CE - 1521 CE)
+
+* [Xalapa](http://siglo.inafed.gob.mx/enciclopedia/EMM30veracruz/municipios/30087a.html)
+
+## Tenechitlan - Mexico City, Mexico, MX - Mexica, Nahuatl (1325 CE - 1521 CE)
+
+* [Tenechitlan](https://en.wikipedia.org/wiki/Tenochtitlan)
+
+## Tlatelolco - Mexico City, Mexico, MX - Tlatelolca, Nahuatl (1337 CE - 1521 CE)
+
+* [Tlatelolco](https://en.wikipedia.org/wiki/Tlatelolco_(altepetl))
 
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
-
-## Middle Mississippian (1200 CE - 1400 CE)
 
 ## Late Mississippian (1400 CE - 1500 CE or Euro contact)
 
@@ -993,7 +1013,7 @@ This indicates that there were estalbished trade routes between the natural rang
 
 * [Tanner, Beccy. Mysterious 'Lost City' of Etzanoa in south-central Kansas now open to tours. The Wichita Eagle. 28 Apr. 2018.](https://www.kansas.com/news/state/article208617349.html)
 * [Kelly, David. Archaeologists explore a rural field in Kansas, and a lost city emerges. Los Angles Times. 19 Aug. 2018.](http://www.latimes.com/nation/la-na-kansas-lost-city-20180819-htmlstory.html)
-  `The early Great Plains had long been imagined as a vast empty space populated by nomadic tribes following buffalo herds. But if Blakeslee is right, at least some of the tribes were urban. They built large towns, raised crops, made fine pottery, processed bison on a massive scale and led a settled existence. There were trade connections all the way to the Aztec capital Tenochtitlan in Mexico.`
+  * `The early Great Plains had long been imagined as a vast empty space populated by nomadic tribes following buffalo herds. But if Blakeslee is right, at least some of the tribes were urban. They built large towns, raised crops, made fine pottery, processed bison on a massive scale and led a settled existence. There were trade connections all the way to the Aztec capital Tenochtitlan in Mexico.`
 * [Rayado Indians](https://en.wikipedia.org/wiki/Rayado_Indians)
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
@@ -1028,9 +1048,6 @@ This indicates that there were estalbished trade routes between the natural rang
 * [Marginal horticulturalists or maize agriculturalists? Archaeobotanical, paleopathological, and isotopic evidence relating to Langford Tradition maize consumption](https://www.academia.edu/1332730/Marginal_horticulturalists_or_maize_agriculturalists_Archaeobotanical_paleopathological_and_isotopic_evidence_relating_to_Langford_Tradition_maize_consumption)
 * [A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping](https://doi.org/10.1073/pnas.0507400102)
 
-# To Add to This List
-
-* [Burrows, Jill. Pre-Colombian Mesoamerica and Surrounding Areas (Edited)](https://docs.google.com/spreadsheets/d/1Zz3lYyB3G5ZNP85hrrIaQizX86vNfbNVTgpNRKbNbfA/edit?usp=sharing)
 
 # To Organize
 
@@ -1059,13 +1076,11 @@ This indicates that there were estalbished trade routes between the natural rang
 * [Some Characteristics of Mexican Indian Folklore](https://www.jstor.org/stable/536611)
 * [Pringle, Heather. Untouched. National Geographic. Jun. 2014. (Peru, Wari, El Castillo)](https://www.nationalgeographic.com/magazine/2014/06/peru-royal-tomb/)
 * [Face of Ancient Queen Revealed for First Time](https://news.nationalgeographic.com/2017/12/wari-noblewoman-queen-el-castillo-face-reconstruction-archaeology/)
-* [CSI Tools Bring a Mummy's Face to Life](https://news.nationalgeographic.com/2017/06/csi-tools-mummy-moche-peru-cao-brujo/)
-* [Ancient Throne and Ceremonial Hall Unearthed in Peru](https://news.nationalgeographic.com/2018/01/ancient-peruvian-moche-civilization-throne-banquet-hall-ceremony-spd/)
-* [Odd Pyramid Had Rooftop Homes, Ritual Sacrifices?](https://news.nationalgeographic.com/news/2010/10/101021-moche-pyramid-peru-science-sacrifice-archaeology-ancient/)
 * [Wade, Lizzie. Mummy genomes reveal just how catastrophic European contact was for New World. Science. Apr. 2016.](http://www.sciencemag.org/news/2016/04/mummy-genomes-reveal-just-how-catastrophic-european-contact-was-new-world)
 * [Wade, Lizzie. Inca child mummy reveals lost genetic history of South America. Science. Nov. 2015](http://www.sciencemag.org/news/2015/11/inca-child-mummy-reveals-lost-genetic-history-south-america)
 * [Jopling, Carol F. “The Coppers of the Northwest Coast Indians: Their Origin, Development, and Possible Antecedents.” Transactions of the American Philosophical Society, vol. 79, no. 1, 1989, pp. i-164. JSTOR.](www.jstor.org/stable/1006488)
 * [Ancient human parallel lineages within North America contributed to a coastal expansion](http://science.sciencemag.org/content/360/6392/1024)
+* [Confederación chalca](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_chalca)
 
 
 # Compare with your pictures of the Adena and Hopewell cultures
