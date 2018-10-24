@@ -848,9 +848,10 @@ Separated from the Toltec people early on and migrated south through Veracruz. T
 
 ## Polynesians Bump Into America (500 CE - 700 CE)
 
-* [Swetek, Brian. DNA shows how the sweet potato crossed the sea. Nature News. 21 Jan. 2013.](https://www.nature.com/news/dna-shows-how-the-sweet-potato-crossed-the-sea-1.12257)
-* [Nelson, Brian. Polynesian seafarers discovered America long before Europeans, says DNA study. Mother Nature Network. 22 Jan. 2013.](https://www.mnn.com/earth-matters/wilderness-resources/stories/polynesian-seafarers-discovered-america-long-before)
-* [Davidson, Keay. Did ancient Polynesians visit California? Maybe so. / Scholars revive idea using linguistic ties, Indian headdress. San Francisco Gate Chronicle. 20 Jun. 2005.](https://www.sfgate.com/news/article/Did-ancient-Polynesians-visit-California-Maybe-2661327.php)
+* [Historical collections reveal patterns of diffusion of sweet potato in Oceania obscured by modern plant movements and recombination](http://www.pnas.org/content/110/6/2205?ijkey=956ef928b6c6d9e804887e89d6a2061b18795273&keytype2=tf_ipsecsha) - (1000 CE - 1100 CE)
+* [Swetek, Brian. DNA shows how the sweet potato crossed the sea. Nature News. 21 Jan. 2013.](https://www.nature.com/news/dna-shows-how-the-sweet-potato-crossed-the-sea-1.12257) - (1000 CE - 1100 CE)
+* [Nelson, Brian. Polynesian seafarers discovered America long before Europeans, says DNA study. Mother Nature Network. 22 Jan. 2013.](https://www.mnn.com/earth-matters/wilderness-resources/stories/polynesian-seafarers-discovered-america-long-before) (500 CE - 700 CE)
+* [Davidson, Keay. Did ancient Polynesians visit California? Maybe so. / Scholars revive idea using linguistic ties, Indian headdress. San Francisco Gate Chronicle. 20 Jun. 2005.](https://www.sfgate.com/news/article/Did-ancient-Polynesians-visit-California-Maybe-2661327.php) (500 CE - 700 CE)
 
 And it wasn't the only time either:
 * [Radiocarbon and DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile](https://doi.org/10.1073/pnas.0703993104) - (1321 CE – 1407 CE)
