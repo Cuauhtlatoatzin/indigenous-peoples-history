@@ -19,6 +19,14 @@ This is an attempt at documenting a full chronology of the so called Americas si
 
 The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually autohoritative, nor does it actually necessarily represent the boudaries at any particular time in history.
 
+# Authority of Indigenous Histories
+
+In many cases the histories passed down by indigenous peoples contain many truths and actual historical fact. For example, the aboriginal stories of islands being lost matches up with the end of the LGM at 10000 years ago. Shortly after then, the water contained in the glaciers was emptied out into the oceans causing the oceans to rise approximately 60 meters. The islands were submerged from then on.
+
+* [Ancient Sea Rise Tale Told Accurately for 10,000 Years](https://www.scientificamerican.com/article/ancient-sea-rise-tale-told-accurately-for-10-000-years/)
+* [Changing Sea levels During the Past 25,000 Years](https://www.fws.gov/slamm/Changes%20in%20Sea%20Level_expanded%20version_template.pdf)
+* [Terminal Pleistocene/Early Holocene human adaptation in coastal Ecuador: the Las Vegas evidence](https://doi.org/10.1016/S1040-6182(02)00200-8)
+
 # Origin of Modern Humans and other Necessary Background
 
 Humans have a very messy story of migration and intermingling with other varieties of our family tree. We are starting to untangle the story. However, it is necessary to have a picture of what the research currently looks like for the origins of modern humans.
@@ -142,6 +150,7 @@ These links support discoveries on the continent prior to any currently establis
 * [Thomas A. Jennings and Michael R. Waters. PRE-CLOVIS LITHIC TECHNOLOGY AT THE DEBRA L. FRIEDKIN SITE, TEXAS: COMPARISONS TO CLOVIS THROUGH SITE-LEVEL BEHAVIOR, TECHNOLOGICAL TRAIT-LIST, AND CLADISTIC ANALYSES. American Antiquity Vol. 79, No. 1 (January 2014), pp. 25-44](https://www.jstor.org/stable/24712725?seq=1&googleloggedin=true#page_scan_tab_contents)
 * [Watter, Michael L. et al. The Debra L. Friedkin Site, Texas and the origins of Clovis. Science. 331. 1599. (2011)](https://www.researchgate.net/publication/50850836_The_Debra_L_Friedkin_Site_Texas_and_the_origins_of_Clovis)
 * [Bryn, Brandon. Science: Artifacts in Texas Predate Clovis Culture by 2500 Years. AAAS News. 24 Mar. 2011](https://www.aaas.org/news/science-artifacts-texas-predate-clovis-culture-2500-years)
+* [Waters, Michael R., et al. Pre-Clovis projectile points at the Debra L. Friedkin site, Texas—Implications for the Late Pleistocene peopling of the Americas. Science Advances. 24 Oct 2018: Vol. 4, no. 10, eaat4505 DOI: 10.1126/sciadv.aat4505](http://advances.sciencemag.org/content/4/10/eaat4505)
 
 ## El Fin del Mundo, Sonora, Mexico (13390 BCE)
 
@@ -1029,6 +1038,7 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 * [Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca](https://doi.org/10.1073/pnas.98.4.2104)
 * [Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andrés, Tabasco, Mexico](https://doi.org/10.1073/pnas.0701425104)
 * [Late Pleistocene and Holocene environmental history of the Iguala Valley, Central Balsas Watershed of Mexico](https://doi.org/10.1073/pnas.0703442104)
+* [Terminal Pleistocene/Early Holocene human adaptation in coastal Ecuador: the Las Vegas evidence](https://doi.org/10.1016/S1040-6182(02)00200-8)
 * [Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico](https://doi.org/10.1073/pnas.0812525106)
 * [Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama](https://doi.org/10.1073/pnas.0611605104)
 * [Starch granule evidence for the earliest potato use in North America](https://doi.org/10.1073/pnas.1705540114)
