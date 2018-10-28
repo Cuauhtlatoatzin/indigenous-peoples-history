@@ -82,6 +82,7 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 * [Native American mitochondrial DNA analysis indicates that the Amerind and the Nadene populations were founded by two independent migrations.](http://www.genetics.org/content/130/1/153.long)
   * `The similarity of the sequence divergences of the Amerind clusters A, C, and D suggest that those were the founding linages of the Paleoindians. Using the weighted mean value of 0.084%, the Amerind mtDNA lineages are estimated to have begun radiating betwen 21,000 - 42,000 YBP. If most of this radiation occured after entry into the Americas, this time range would suggest that the Americas were colonized before the dates associated with the oldest Paleoindian skeletal remains (14,00 YBP) and Clovis lithic artifacts (11,500 YBP), and would be consistent with the estimated ages of the oldest American archeological sites.`
 
+
 # Pre Clovis (before 11000 BCE)
 
 These links support discoveries on the continent prior to any currently established theories (as of 2018).
@@ -864,6 +865,7 @@ Separated from the Toltec people early on and migrated south through Veracruz. T
 
 And it wasn't the only time either:
 * [Radiocarbon and DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile](https://doi.org/10.1073/pnas.0703993104) - (1321 CE – 1407 CE)
+*[Indo-European and Asian origins for Chilean and Pacific chickens revealed by mtDNA](https://dx.doi.org/10.1073%2Fpnas.0801991105)
 
 ## Late Woodland (500 CE - 1000 CE)
 
@@ -908,6 +910,12 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 * [Ritual drinks in the pre-Hispanic US Southwest and Mexican Northwest](http://www.pnas.org/content/112/37/11436.long)
 * [Evidence of cacao use in the Prehispanic American Southwest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2650116/)
 
+## Speaking of trade:
+
+* [Sean G. Dolan, M. Steven Shackley, Don G. Wyckoff & Craig E. Skinner (2018) Long-distance conveyance of California obsidian at the Hayhurst lithic cache site (34ML168)in Oklahoma, Plains Anthropologist, 63:247, 279-297, DOI: 10.1080/00320447.2017.1352559](https://www.academia.edu/34969784/Long-distance_conveyance_of_California_obsidian_at_the_Hayhurst_lithic_cache_site_34ML168_in_Oklahoma)
+* [Davis, Kaitlyn. (2017) "The Ambassador's Herb": Tobacco Pipes as Evidence for Plains-Pueblo Interaction, Interethnic Negotiation, and Ceremonial Exchange in the Northern Rio Grande. Master's Thesis.](https://www.academia.edu/34126233/_The_Ambassadors_Herb_Tobacco_Pipes_as_Evidence_for_Plains-Pueblo_Interaction_Interethnic_Negotiation_and_Ceremonial_Exchange_in_the_Northern_Rio_Grande._Masters_Thesis)
+* [Sourcing Archaeological Obsidian in the Canadian Plains and Eastern Rocky Mountains](https://www.academia.edu/29469698/Sourcing_Archaeological_Obsidian_in_the_Canadian_Plains_and_Eastern_Rocky_Mountains)
+
 ## 800 CE
 
 * [1200 Year Old Mayan Theatre Discovered in Mexico](https://archaeologynewsnetwork.blogspot.com/2012/08/1200-year-old-mayan-theatre-discovered.html#tGhOYGzW0RrPCRVS.97)
@@ -937,6 +945,10 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 * [West, Michael. Community Settlement Patterns at Chan Chan, Peru. American Antiquity. Vol. 35. No. 1 (Jan 1970) pp. 74-86.](https://www.jstor.org/stable/278179)
 
 ## Oneota (900 CE - 1650 CE)
+
+ * [Lauren W. Ritterbush & Brad Logan (2000) Late Prehistoric Oneota Population Movement into the Central Plains, Plains Anthropologist, 45:173, 257-272, DOI: 10.1080/2052546.2000.11931975](http://www.academia.edu/1393919/9._Late_Prehistoric_Oneota_in_the_Central_Plains)
+ * [Lauren W. Ritterbush (2002) Drawn By The Bison Late Prehistoric Native Migration Into The Central Plains, Great Plains Quarterly Vol. 22, No. 4, Fall 2002, pp. 259-70.](http://digitalcommons.unl.edu/greatplainsquarterly/2308/)
+ * [Directory of Oneota Scholars](http://dos.matrix.msu.edu/index.html)
 
 ## Mesoamerican Early Postclassic (900 CE - 1200 CE)
 
@@ -1026,6 +1038,10 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
   * `The early Great Plains had long been imagined as a vast empty space populated by nomadic tribes following buffalo herds. But if Blakeslee is right, at least some of the tribes were urban. They built large towns, raised crops, made fine pottery, processed bison on a massive scale and led a settled existence. There were trade connections all the way to the Aztec capital Tenochtitlan in Mexico.`
 * [Rayado Indians](https://en.wikipedia.org/wiki/Rayado_Indians)
 
+#### European Contact
+
+* [European-contact and Southwestern Artifacts in the Lower Walnut Focus Sites at Arkansas City, Kansas](https://www.researchgate.net/publication/260468487_European-contact_and_Southwestern_Artifacts_in_the_Lower_Walnut_Focus_Sites_at_Arkansas_City_Kansas)
+
 ## Mesoamerican Postcolonial (1821 CE - Present)
 
 # Domestication of Various Foods (10000 BCE - 4000 BCE)
@@ -1060,6 +1076,121 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 * [A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping](https://doi.org/10.1073/pnas.0507400102)
 
 
+# Genetics
+
+Genetic studies are an area frought with citicism. Some of these criticisms are for good reason, some from fear ([and there can be good reason behind the fear, too](https://en.wikipedia.org/wiki/Human_Genome_Diversity_Project#Potential_problems)). A proper sceintific understanding of genetics is necessary to draw conclusions about the following papers. Any understanding mired in the nonsence of racism is bound to produce futher nonscientific nonsence. Any studies which do not respect that ownership and copyright are not concepts recognized by indigenous peoples sovereign nations. The earth and all of creation "owns" the genetics. No one can retain ownership or copyright over genetics. Those concepts applied to genes and genetics are rendered as nonsense in many indigenous worldviews, including my own.
+
+That being said, here is a the high-level overview of the very basics:
+
+* Each of our 37,200,000,000,000 trillion cells (on average) contain some genetic meterial.
+* The genetic material contains DNA and RNA.
+* Only nucleated cells have DNA.
+* Both of these forms of genetic information are passed on from parents to offsping, but the mechanism for some of the transfer is not fully understood.
+* A complete DNA sequence has over 6,000,000,000 base pairs.
+* Base pairs are two each of (A - adenine, C - cytosine, G - guanine, T - thymine), one pair is part of the sense strand of the DNA and the other pair is part of the anit-sense strand.
+* The DNA is stored in 23 pairs of chromosomes in the nucleous of a cell.
+* Parts of chromosomes are broken down into genes, which code for molecules.
+* The DNA is comprised of sequences which code for molecules (exons) and DNA which typically gets turned into RNA (introns).
+* In exons, every three base pairs codes for a part of a protein. This unit is called a codon.
+* Any gene coding for a kind of protein can have mutations or several options (one might code for brown eyes, another for blue).
+* The different possible options for a gene are called alleles.
+* The differences between alleles are typically reduced to single nucleotide polymorphisms (SNPs). The smallest change one can make to regiong that codes for molecules is swapping out one of the letters that code for a nucleotide. Many times, the alleles will have long sequences of SNPs.
+* The exons (complete set of genetic material that codes for molecules) comprise about 1% of genetic material.
+* Many genetic tests only look at 10% of the exons at the max.
+* Additionally, their is heiritable epigenetic coding. Most tests and research papers ignore this.
+* The complete genetic sequence of any human being has not been sequenced. [Psst, the human genome was never completely sequenced. Some scientists say it should be](https://www.statnews.com/2017/06/20/human-genome-not-fully-sequenced/)
+
+You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wiki/Whole_genome_sequencing) over at Wikipedia for more info.
+
+## General Genetics
+
+### Overview
+
+* [Introduction to genetics](https://en.wikipedia.org/wiki/Introduction_to_genetics)
+* [DNA](https://en.wikipedia.org/wiki/DNA)
+* [RNA](https://en.wikipedia.org/wiki/RNA)
+* [Genetic code](https://en.wikipedia.org/wiki/Genetic_code)
+* [Genome](https://en.wikipedia.org/wiki/Genome)
+* [Gene](https://en.wikipedia.org/wiki/Gene)
+* [Gene expression](https://en.wikipedia.org/wiki/Gene_expression)
+* [Gene–environment interaction](https://en.wikipedia.org/wiki/Gene%E2%80%93environment_interaction)
+* [Epigenetics](https://en.wikipedia.org/wiki/Epigenetics)
+
+### Not overview
+
+* [Formal genetic maps](https://doi.org/10.1016/j.ejmhg.2014.11.006)
+* [Introns: The Functional Benefits of Introns in Genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4742320/)
+* [Population-scale analysis of human microsatellites reveals novel sources of exonic variation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3815531/)
+* [Sequence differences at orthologous microsatellites inflate estimates of human-chimpanzee differentiation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4253012/)
+* [Vaksman Z, Fonville NC, Tae H, Garner HR (2014) Exome-Wide Somatic Microsatellite Variation Is Altered in Cells with DNA Repair Deficiencies. PLoS ONE 9(11): e110263. https://doi.org/10.1371/journal.pone.0110263](https://doi.org/10.1371/journal.pone.0110263)
+* [The Use of Racial, Ethnic, and Ancestral Categories in Human Genetics Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275602/)
+* [A Population-Genetic Perspective on the Similarities and Differences among Worldwide Human Populations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531797/)
+* [Worldwide patterns of human epigenetic variation](https://www.biorxiv.org/content/early/2015/07/05/021931)
+* [Population Structure in a Comprehensive Genomic Data Set on Human Microsatellite Variation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3656735/)
+* [Rosenberg NA, Mahajan S, Ramachandran S, Zhao C, Pritchard JK, Feldman MW (2005) Clines, Clusters, and the Effect of Study Design on the Inference of Human Population Structure. PLoS Genet 1(6): e70. https://doi.org/10.1371/journal.pgen.0010070](https://doi.org/10.1371/journal.pgen.0010070)
+* [Genomic Microsatellites as Evolutionary Chronometers: A Test in Wild Cats](https://www.researchgate.net/publication/11487684_Genomic_Microsatellites_as_Evolutionary_Chronometers_A_Test_in_Wild_Cats)
+* [Genetic Structure of Human Populations](https://www.researchgate.net/publication/10980474_Genetic_Structure_of_Human_Populations) - This is the original paper that started the meme that humans are roughly 99.9% the same. The biggest take away from the paper is that self reporting would likely be a reliable proxy for what genetic conditions they might get. The second take away was the intra-group genetic variation is greater than inter-group genetic variation.
+* [Worldwide Human Relationships Inferred from Genome-Wide Patterns of Variation](https://med.stanford.edu/tanglab/publications/PDFs/WorldwideHumanRelationshipsInferredFromGenome-WidePatternsOfVariation.pdf) - Re-iterates the above finding.
+  * `Together, these results reaffirm that within-population variation accounts for most of the genetic diversity in humans. However, the between-population variance is sufficient to reveal consistent population structure because subtle but nonrandom differences between populations accumulate over a large number of loci and yield principal components that can account for a major portion of the variation (21).`
+* [López Herráez D, Bauchet M, Tang K, Theunert C, Pugach I, Li J, et al. (2009) Genetic Variation and Recent Positive Selection in Worldwide Human Populations: Evidence from Nearly 1 Million SNPs. PLoS ONE 4(11): e7888. https://doi.org/10.1371/journal.pone.0007888](https://doi.org/10.1371/journal.pone.0007888)
+* [Features of Evolution and Expansion of Modern Humans, Inferred from Genomewide Microsatellite Markers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180270/)
+
+## Genetic Evidence for the Peopling of the Americas
+
+* [Ancient human parallel lineages within North America contributed to a coastal expansion](https://www.academia.edu/36866318/Ancient_human_parallel_lineages_within_North_America_contributed_to_a_coastal_expansion)
+* [Amerindian mitochondrial DNAs have rare Asian mutations at high frequencies, suggesting they derived from four primary maternal lineages.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1683611/)
+* [After Anzick: Reconciling new genomic data and models with the archaeological evidence for peopling of the Americas.](https://www.researchgate.net/publication/318442263_After_Anzick_Reconciling_new_genomic_data_and_models_with_the_archaeological_evidence_for_peopling_of_the_Americas)
+* [de Saint Pierre M, Bravi CM, Motti JMB, Fuku N, Tanaka M, Llop E, et al. (2012) An Alternative Model for the Early Peopling of Southern South America Revealed by Analyses of Three Mitochondrial DNA Haplogroups. PLoS ONE 7(9): e43486. https://doi.org/10.1371/journal.pone.0043486](https://doi.org/10.1371/journal.pone.0043486)
+* [An Analysis of Ancient Aztec mtDNA from Tlatelolco: Pre-Columbian Relations and the Spread of Uto-Aztecan.](https://migrationcluster.ucdavis.edu/research/national-identity-shifting-border-texas-and-new-mexico-age-transition-1821-1848-0)
+* [Ancient individuals from the North American Northwest Coast reveal 10,000 years of regional genetic continuity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5402414/)
+* [Asian affinities and continental radiation of the four founding Native American mtDNAs.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682412/)
+* [Clan, Language, and Migration History Has Shaped Genetic Diversity in Haida and Tlingit Populations From Southeast Alaska.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4335652/)
+* [González-Martín A, Gorostiza A, Regalado-Liu L, Arroyo-Peña S, Tirado S, Nuño-Arana I, et al. (2015) Demographic History of Indigenous Populations in Mesoamerica Based on mtDNA Sequence Data. PLoS ONE 10(8): e0131791. https://doi.org/10.1371/journal.pone.0131791](https://doi.org/10.1371/journal.pone.0131791)
+* [Evaluating the Farming/Language Dispersal Hypothesis with genetic variation exhibited by populations in the Southwest and Mesoamerica.](https://doi.org/10.1073/pnas.0905753107)
+* [Extensive mitochondrial diversity within a single Amerindian tribe.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC52581/)
+* [Ochoa-Lugo, Mirna Isabel; de Lourdez Muñoz, Maria; Pérez-Ramírez, Gerardo; Beaty, Kristine G.; López-Armenta, Mauro; Cervini-Silva, Javiera; Moreno-Galeana, Miguel; Martínez Meza, Adrián; Ramos, Eduardo; Crawford, Michael H.; and Romano-Pacheco, Arturo (2016) "Genetic Affiliation of Pre-Hispanic and Contemporary Mayas through Maternal Linage," Human Biology: Vol. 88: Iss. 2, Article 5.](https://www.researchgate.net/publication/313483707_Genetic_Affiliation_of_Pre-Hispanic_and_Contemporary_Mayas_Through_Maternal_Linage)
+* [Genetic and linguistic differentiation in the Americas](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC47837&blobtype=pdf)
+* [Genetic diversity in Puerto Rico and its implications for the peopling of the Island and the West Indies.](https://www.academia.edu/20083458/Genetic_diversity_in_Puerto_Rico_and_its_implications_for_the_peopling_of_the_Island_and_the_West_Indies)
+* [Genetic Diversity in Totonacan-Speaking Populations from Veracruz and Puebla States of Mexico.](http://www.ncurproceedings.org/ojs/index.php/NCUR2014/article/view/1087)
+* [Genetic Diversity in Urban and Rural Indigenous Mexico.](https://dash.harvard.edu/handle/1/33797263)
+* [Genetic history and pre-Columbian Diaspora of Chibchan speaking populations: Molecular genetic evidence.](https://kuscholarworks.ku.edu/handle/1808/4508?show=full)
+* [Genetics and the History of Latin America](https://migrationcluster.ucdavis.edu/research/genetics-and-history-latin-america)
+* [Genetics, Linguistics, and Prehistoric Migrations: An Analysis of California Indian Mitochondrial DNA Lineages](https://escholarship.org/uc/item/6g135010)
+* [Genome-wide insights into the genetic history of human populations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381409/)
+* [Genomic insights on the ethno-history of the Maya and the ‘Ladinos’ from Guatemala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422311/)
+* [High-resolution mitochondrial DNA analysis sheds light on human diversity, cultural interactions, and population mobility in Northwestern Amazonia](https://www.researchgate.net/publication/320654352_High-resolution_mitochondrial_DNA_analysis_sheds_light_on_human_diversity_cultural_interactions_and_population_mobility_in_Northwestern_Amazonia)
+* [HLA Class II Alleles in the Otomi Population of the Mezquital Valley: A Genetic Approach to the History of Interethnic Migrations in the Mexican Central Plateau](https://www.researchgate.net/publication/274396125_HLA_Class_II_Alleles_in_the_Otomi_Population_of_the_Mezquital_Valley_A_Genetic_Approach_to_the_History_of_Interethnic_Migrations_in_the_Mexican_Central_Plateau)
+* [Large scale mitochondrial sequencing in Mexican Americans suggests a reappraisal of Native American origins](https://doi.org/10.1186/1471-2148-11-293)
+* [González-Oliver, Angélica; Garfias-Morales, Ernesto; Smith, David Glenn; and Quinto-Sánchez, Mirsha (2017) "Mitochondrial DNA Analysis of Mazahua and Otomi Indigenous Populations from Estado de México Suggests a Distant Common Ancestry," Human Biology: Vol. 89: Iss. 3, Article 3. Available at: https://digitalcommons.wayne.edu/humbiol/vol89/iss3/3](https://digitalcommons.wayne.edu/humbiol/vol89/iss3/3/)
+* [Mitochondrial DNA and Prehistoric Settlements: Native Migrations on the Western Edge of North America](https://www.researchgate.net/publication/8485114_Mitochondrial_DNA_and_Prehistoric_Settlements_Native_Migrations_on_the_Western_Edge_of_North_America)
+* [Mitochondrial DNA Studies of Native Americans: Conceptions and Misconceptions of the Population Prehistory of the Americas](https://pdfs.semanticscholar.org/a40f/fbea9601cea8b7c973a8cedbea297a6de20a.pdf)
+* [Mitochondrial DNA Diversity in Indigenous Populations of the Southern Extent of Siberia, and the Origins of Native American Haplogroups](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3905771/)
+* [Mitochondrial Population Genomics Supports a Single Pre-Clovis Origin with a Coastal Route for the Peopling of the Americas](https://doi.org/10.1016/j.ajhg.2007.11.013)
+* [mtDNA haplogroup X: An ancient link between Europe/Western Asia and North America?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1377656/)
+* [mtDNA sequences suggest a recent evolutionary divergence for Beringian and northern North American populations.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682422/)
+* [mtDNA Variation among Greenland Eskimos: The Edge of the Beringian Expansion.](https://doi.org/10.1086/303038)
+* [Torroni, A., Sukernik, R. I., Schurr, T. G., Starikorskaya, Y. B., Cabell, M. F., Crawford, M. H., Comuzzie, A. G., … Wallace, D. C. (1993). mtDNA variation of aboriginal Siberians reveals distinct genetic affinities with Native Americans. American journal of human genetics, 53(3), 591-608.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682407/)
+* [Malhi, Ripan S.; Mortensen, Holly M.; Eshleman, Jason A.; Kemp, Brian M.; Lorenz, Joseph G.; Kaestle, Frederika A.; Johnson, John R.; Gorodezky, Clara; Smith, David Glenn (2003)."Native American mtDNA prehistory in the American Southwest." American Journal of Physical Anthropology 120(2): 108-124. <http://hdl.handle.net/2027.42/34277>](http://hdl.handle.net/2027.42/34277)
+* [Origins and genetic legacies of the Caribbean Taino](https://doi.org/10.1073/pnas.1716839115)
+* [Patterns of mtDNA Diversity in Northwestern North America](https://www.researchgate.net/publication/8485113_Patterns_of_mtDNA_Diversity_in_Northwestern_North_America)
+* [Gravel S, Zakharia F, Moreno-Estrada A, Byrnes JK, Muzzio M, Rodriguez-Flores JL, et al. (2013) Reconstructing Native American Migrations from Whole-Genome and Whole-Exome Data. PLoS Genet 9(12): e1004023. https://doi.org/10.1371/journal.pgen.1004023](https://doi.org/10.1371/journal.pgen.1004023)
+* [Gorostiza A, Acunha-Alonzo V, Regalado-Liu L, Tirado S, Granados J, Sámano D, et al. (2012) Reconstructing the History of Mesoamerican Populations through the Study of the Mitochondrial DNA Control Region. PLoS ONE 7(9): e44666. https://doi.org/10.1371/journal.pone.0044666](https://doi.org/10.1371/journal.pone.0044666)
+* [González-Martín A, Gorostiza A, Regalado-Liu L, Arroyo-Peña S, Tirado S, Nuño-Arana I, et al. (2015) Demographic History of Indigenous Populations in Mesoamerica Based on mtDNA Sequence Data. PLoS ONE 10(8): e0131791. https://doi.org/10.1371/journal.pone.0131791](https://doi.org/10.1371/journal.pone.0131791)
+* [The Genetic History Of The Otomi In The Central Mexican Valley](https://repository.upenn.edu/anthro_seniortheses/133/)
+* [The Genetics of Mexico Recapitulates Native American Substructure and Affects Biomedical Traits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156478/)
+* [Achilli A, Perego UA, Bravi CM, Coble MD, Kong Q-P, Woodward SR, et al. (2008) The Phylogeny of the Four Pan-American MtDNA Haplogroups: Implications for Evolutionary and Disease Studies. PLoS ONE 3(3): e1764. https://doi.org/10.1371/journal.pone.0001764](https://doi.org/10.1371/journal.pone.0001764)
+* [The ancestry and affiliations of Kennewick Man](https://www.nature.com/articles/nature14625)
+* [Amorim CEG, Bisso-Machado R, Ramallo V, Bortolini MC, Bonatto SL, Salzano FM, et al. (2013) A Bayesian Approach to Genome/Linguistic Relationships in Native South Americans. PLoS ONE 8(5): e64099. https://doi.org/10.1371/journal.pone.0064099](https://doi.org/10.1371/journal.pone.0064099)
+
+## Early Modern Human Emergency From Africa
+
+* [Malaspinas, Anna-Sapfo et al. A genomic history of Aboriginal Australia. Nature. 538. 207–214 13 Oct. 2016.](https://www.nature.com/articles/nature18299)
+* [Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep. 2016](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
+* [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
+* [McEvoy, Brian et al. Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American journal of human genetics. 13 Aug. 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
+
+
+
 # To Organize
 
 * http://artdaily.com/news/58025/Archaeologists--anthropologists-and-other-experts-meet--Mayas-prophesized--but-not-end-of-world-
@@ -1090,9 +1221,8 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 * [Wade, Lizzie. Mummy genomes reveal just how catastrophic European contact was for New World. Science. Apr. 2016.](http://www.sciencemag.org/news/2016/04/mummy-genomes-reveal-just-how-catastrophic-european-contact-was-new-world)
 * [Wade, Lizzie. Inca child mummy reveals lost genetic history of South America. Science. Nov. 2015](http://www.sciencemag.org/news/2015/11/inca-child-mummy-reveals-lost-genetic-history-south-america)
 * [Jopling, Carol F. “The Coppers of the Northwest Coast Indians: Their Origin, Development, and Possible Antecedents.” Transactions of the American Philosophical Society, vol. 79, no. 1, 1989, pp. i-164. JSTOR.](www.jstor.org/stable/1006488)
-* [Ancient human parallel lineages within North America contributed to a coastal expansion](http://science.sciencemag.org/content/360/6392/1024)
 * [Confederación chalca](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_chalca)
-
+* [Core/Biface Ratios, Mobility, Refitting, and Artifact Use-Lives: A Paleoindian Example](https://www.researchgate.net/publication/260468488_CoreBiface_Ratios_Mobility_Refitting_and_Artifact_Use-Lives_A_Paleoindian_Example)
 
 # Compare with your pictures of the Adena and Hopewell cultures
 
