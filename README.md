@@ -51,6 +51,16 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 * [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
 * [McEvoy, Brian et al. Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American journal of human genetics. 13 Aug. 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
 * [Scientists discover evidence of early human innovation, pushing back evolutionary timeline](https://unews.utah.edu/scientists-discover-evidence-of-early-human-innovation-pushing-back-evolutionary-timeline/)
+* [Neanderthals cared for each other and survived into old age – new research](https://www.heritagedaily.com/2018/04/neanderthals-cared-for-each-other-and-survived-into-old-age-new-research/118812)
+* [First human migration out of Africa much more geographically widespread than previously thought](https://www.shh.mpg.de/891823/wusta)
+* [Groucutt, H. S., Grün, R., Zalmout, I. A. S., Drake, N. A., Armitage, S. J., Candy, I., et al. (2018). Homo sapiens in Arabia by 85,000 years ago. Nature Ecology & Evolution. doi:10.1038/s41559-018-0518-2](https://doi.org/10.1038/s41559-018-0518-2)
+* [DNA of early Neanderthal gives timeline for new modern human-related dispersal from Africa](https://www.heritagedaily.com/2017/07/dna-early-neanderthal-gives-timeline-new-modern-human-related-dispersal-africa/115826)
+* [‘Humanlike’ ways of thinking evolved 1.8 million years ago, suggests new study](https://www.heritagedaily.com/2017/05/humanlike-ways-of-thinking-evolved-1-8-million-years-ago-suggests-new-study/114789)
+* [400,000-year-old fossil human cranium is oldest ever found in Portugal](https://www.heritagedaily.com/2017/03/400000-year-old-fossil-human-cranium-is-oldest-ever-found-in-portugal/114346)
+* [Ancient Humans Lived in China 2.1 Million Years Ago](https://www.theatlantic.com/science/archive/2018/07/early-humans-left-africa-250000-years-earlier-than-thought/564896/)
+* [Hominin occupation of the Chinese Loess Plateau since about 2.1 million years ago](https://www.nature.com/articles/s41586-018-0299-4)
+* [Evidence for precision grasping in Neandertal daily activities](http://advances.sciencemag.org/content/4/9/eaat2369)
+* [Symbolic use of marine shells and mineral pigments by Iberian Neandertals 115,000 years ago](http://advances.sciencemag.org/content/4/2/eaar5255)
 
 ## Overview of new findings
 
@@ -195,6 +205,8 @@ These links support discoveries on the continent prior to any currently establis
 
 
 ## Clovis (13500 BCE - 11000 BCE)
+
+ * [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
 
 ## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
 
@@ -407,6 +419,12 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 ## Native Gold in Lake Titicaca Basin, Southern Peru (2155 BCE - 1936 BCE)
 
 * [Aldenderfer, Mark. Four-thousand-year-old gold artifacts from the Lake Titicaca basin, southern Peru. PNAS. 31 Mar. 2008.](http://www.pnas.org/content/105/13/5002.short)
+
+## Copper band shows trade between Georgia coastal region and the great lakes copper complex (2000 BCE)
+
+* [Discovery of copper band shows Native Americans engaged in trade more extensively than previously thought](https://www.binghamton.edu/news/story/1260/discovery-of-copper-band-shows-native-americans-engaged-in-trade-more-exten)
+* [Find shows 4,000-year-old trade routes stretched from Carolinas to Great Lakes](https://arstechnica.com/science/2018/07/ancient-north-american-trade-networks-reached-farther-than-we-thought/)
+* [Early metal use and crematory practices in the American Southeast](https://www.researchgate.net/publication/326708551_Early_metal_use_and_crematory_practices_in_the_American_Southeast)
 
 ## Orange Culture - Eastern Florida Peninsula, USA (2000 BCE - 2500 BCE)
 
@@ -647,6 +665,8 @@ Conduit of many cultures.
 
 ### Adena (1000 BCE - 100 BCE)
 
+* [UC anthropologist rewrites history using science, art](https://www.heritagedaily.com/2018/10/uc-anthropologist-rewrites-history-using-science-art/121827)
+
 ### Atlantic Deptford (800 BCE - 700 CE)
 
 ### Gulf Deptford (500 BCE - 200 CE)
@@ -879,6 +899,10 @@ And it wasn't the only time either:
 
 ## Mesoamerican Late Classic (600 CE - 900 CE)
 
+## Cara Blanca (600 CE - 900 CE)
+
+* [Maya Rituals Unearthed](https://www.heritagedaily.com/2018/08/maya-rituals-unearthed/121319)
+
 ## Toluca - Toluca Valley, Mexico, MX - Toltec, Matlazinca, Otomi, Mazahua, Malinalca, Ocuilteca, Tlahuica (600 CE - 1521 CE)
 
 First inhabited in 1200BCE, but depopulated by 200BCE, it was later repopulated by 200CE. City founded by Toltecas.
@@ -952,9 +976,15 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 
 ## Mesoamerican Early Postclassic (900 CE - 1200 CE)
 
+### Colapse of Maya classic civilization begins (900 CE)
+
+* [Scientists measure severity of drought during the Maya collapse](https://www.heritagedaily.com/2018/08/scientists-measure-severity-of-drought-during-the-maya-collapse/121384)
+* [Quantification of drought during the collapse of the classic Maya civilization](https://doi.org/10.1126/science.aas9871)
+
 ## Chaco Canyon - New Mexico, USA (900 CE - 1150 CE)
 
 * [Chaco Canyon](https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park)
+* [McCool J-PP, Fladd SG, Scarborough VL, Plog S, Dunning NP, Owen LA, et al. (2018) Soil analysis in discussions of agricultural feasibility for ancient civilizations: A critical review and reanalysis of the data and debate from Chaco Canyon, New Mexico. PLoS ONE 13(6): e0198290. https://doi.org/10.1371/journal.pone.0198290](https://doi.org/10.1371/journal.pone.0198290)
 
 ## Fajada Butte - New Mexico, USA (900 CE - 1200 CE)
 
@@ -977,6 +1007,8 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 * [Cempoala](https://es.wikipedia.org/wiki/Cempoala)
 
 ## Early Mississippian (1000 CE - 1200 CE)
+
+* [Ancient mound builders carefully timed their occupation of coastal Louisiana site](https://www.heritagedaily.com/2018/05/ancient-mound-builders-carefully-timed-their-occupation-of-coastal-louisiana-site/119826)
 
 ### Ritual Black Drink consumption at Cahokia - Illinois, USA (1050 CE - 1250 CE)
 
@@ -1082,7 +1114,7 @@ Genetic studies are an area frought with citicism. Some of these criticisms are 
 
 That being said, here is a the high-level overview of the very basics:
 
-* Each of our 37,200,000,000,000 trillion cells (on average) contain some genetic meterial.
+* Each of our 37,200,000,000,000 cells (on average) contain some genetic meterial.
 * The genetic material contains DNA and RNA.
 * Only nucleated cells have DNA.
 * Both of these forms of genetic information are passed on from parents to offsping, but the mechanism for some of the transfer is not fully understood.
@@ -1096,9 +1128,10 @@ That being said, here is a the high-level overview of the very basics:
 * The different possible options for a gene are called alleles.
 * The differences between alleles are typically reduced to single nucleotide polymorphisms (SNPs). The smallest change one can make to regiong that codes for molecules is swapping out one of the letters that code for a nucleotide. Many times, the alleles will have long sequences of SNPs.
 * The exons (complete set of genetic material that codes for molecules) comprise about 1% of genetic material.
-* Many genetic tests only look at 10% of the exons at the max.
+* Many genetic tests check a maximum of 10% of the exon SNPs.
+* This means genetic tests only check a maximum of 0.1% of genetic material.
 * Additionally, their is heiritable epigenetic coding. Most tests and research papers ignore this.
-* The complete genetic sequence of any human being has not been sequenced. [Psst, the human genome was never completely sequenced. Some scientists say it should be](https://www.statnews.com/2017/06/20/human-genome-not-fully-sequenced/)
+* The complete genetic sequence of any human being has not been sequenced. See the article: [Psst, the human genome was never completely sequenced. Some scientists say it should be](https://www.statnews.com/2017/06/20/human-genome-not-fully-sequenced/).
 
 You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wiki/Whole_genome_sequencing) over at Wikipedia for more info.
 
@@ -1139,6 +1172,7 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 
 * [Ancient human parallel lineages within North America contributed to a coastal expansion](https://www.academia.edu/36866318/Ancient_human_parallel_lineages_within_North_America_contributed_to_a_coastal_expansion)
 * [Amerindian mitochondrial DNAs have rare Asian mutations at high frequencies, suggesting they derived from four primary maternal lineages.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1683611/)
+* [Hamilton-Brehm SD, Hristova LT, Edwards SR, Wedding JR, Snow M, Kruger BR, et al. (2018) Ancient human mitochondrial DNA and radiocarbon analysis of archived quids from the Mule Spring Rockshelter, Nevada, USA. PLoS ONE 13(3): e0194223. https://doi.org/10.1371/journal.pone.0194223](https://doi.org/10.1371/journal.pone.0194223)
 * [After Anzick: Reconciling new genomic data and models with the archaeological evidence for peopling of the Americas.](https://www.researchgate.net/publication/318442263_After_Anzick_Reconciling_new_genomic_data_and_models_with_the_archaeological_evidence_for_peopling_of_the_Americas)
 * [de Saint Pierre M, Bravi CM, Motti JMB, Fuku N, Tanaka M, Llop E, et al. (2012) An Alternative Model for the Early Peopling of Southern South America Revealed by Analyses of Three Mitochondrial DNA Haplogroups. PLoS ONE 7(9): e43486. https://doi.org/10.1371/journal.pone.0043486](https://doi.org/10.1371/journal.pone.0043486)
 * [An Analysis of Ancient Aztec mtDNA from Tlatelolco: Pre-Columbian Relations and the Spread of Uto-Aztecan.](https://migrationcluster.ucdavis.edu/research/national-identity-shifting-border-texas-and-new-mexico-age-transition-1821-1848-0)
@@ -1199,23 +1233,34 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * http://artdaily.com/news/60129/In-new-study--Mexican-researchers-extract-intact-DNA-from-Palenque-s-Red-Queen
 * http://artdaily.com/news/80741/Archaeologists-report-Kukulkan-Pyramid-at-Chichen-Itza-built-over-an-underground-river
 * http://artdaily.com/news/35667/1000-Year-Old-Monument-with-Image-of-Mayan-Ruler-Found
-* http://artdaily.com/news/57418/Mayan-theater--used-by-elite-characters-of-Mayan-society-approximately-1-200-years-ago--discovered
-* http://artdaily.com/news/63718/Mexican-archaeologists-find-a-pyramid-and-30-pre-hispanic-burials-in-the-State-of-Veracruz
-* https://www.livescience.com/38155-ancient-graves-pyramid-mexico.html
-* https://www.livescience.com/63063-surprise-temple-mexico.html
-* https://www.livescience.com/29055-images-ceibal-maya-excavations.html
-* https://www.livescience.com/26609-mass-human-sacrifice-pile-of-ancient-skulls-found.html
+* [(2012) Ancient Mayan theater was political tool](https://www.archaeology.wiki/blog/2012/09/06/ancient-mayan-theater-was-political-tool/)
+* [(2012) Encuentran antiguo teatro maya en Ocosingo.](http://www.inah.gob.mx/boletines/3420-encuentran-antiguo-teatro-maya-en-ocosingo)
+* [Geggel, Laura. (2018) 1,500-Year-Old Maya Altar Reveals Amazing Secrets of the 'Snake Kings'. Live Science.](https://www.livescience.com/63652-maya-altar-discovered.html)
+* [Gannon, Megan. (2013) Mysterious 2,000-year-old graves, pyramid ruins found in Mexico. NBC News.](https://www.nbcnews.com/sciencemain/mysterious-2-000-year-old-graves-pyramid-ruins-found-mexico-6C10626146)
+* [Entierros prehispánicos y pirámide en Veracruz](http://www.inah.gob.mx/boletines/1971-entierros-prehispanicos-y-piramide-en-veracruz)
+* [Arqueólogos mexicanos encuentran 30 entierros y una pirámide en Veracruz](https://expansion.mx/entretenimiento/2013/07/10/arqueologos-mexicanos-encuentran-30-entierros-y-una-piramide-en-veracruz)
+* [Shurkin, Joel N. (2013) Clamshells Reveal Secrets of Pre-Columbian Society's Decline. Live Science.](https://www.livescience.com/28452-clamshells-reveal-secrets-of-pre-columbian-society-s-decline.html)
+* [Thompson, Andrea. (2008) Oldest Gold Artifact in Americas Found. Live Science.](https://www.livescience.com/2415-oldest-gold-artifact-americas.html)
+* [Choi, Charles Q. (2009) Ancient Mayans Likely Had Fountains and Toilets. Live Science.](https://www.livescience.com/5959-ancient-mayans-fountains-toilets.html)
+* [Jarus, Owen. (2015) Mysterious Jade Artifact May Have Been Offering to Ancient Gods. Live Science.](https://www.livescience.com/50080-mysterious-jade-artifact-discovered-in-mexico.html)
+* [Gannon, Megan. (2013) Ancient Graves, Pyramid Ruins Found in Mexico. Live Science](https://www.livescience.com/38155-ancient-graves-pyramid-mexico.html)
+* [Pappas, Stephanie. (2018) Big Cats and 'Ritual' Dogs Lived in Maya Captivity. Live Science.](https://www.livescience.com/62061-ritual-dogs-mayan-pyramid.html)
+* [Weisberger, Mindy. (2018) Earthquake in Mexico Cracked a Pyramid and Revealed an Ancient Temple. Live Science.](https://www.livescience.com/63063-surprise-temple-mexico.html)
+* [Jarus, Owen. (2017) The Maya: History, Culture & Religion. Live Science.](https://www.livescience.com/41781-the-maya.html)
+* [Pappas, Stephanie. (2013) Oldest Maya Sun Observatory Hints at Origin of Civilization. Live Science.](https://www.livescience.com/29053-oldest-maya-observatory-ceibal.html) - Ceibal (1000 BCE)
+* [Gallery: Excavating the Oldest Maya Observatory](https://www.livescience.com/29055-images-ceibal-maya-excavations.html)
+* [Ghose, Tia. (2013) Mass Human Sacrifice? Pile of Ancient Skulls Found. Live Science.](https://www.livescience.com/26609-mass-human-sacrifice-pile-of-ancient-skulls-found.html)
 * http://artdaily.com/news/63370/Team-of-international-archaeologists-finds-Mayan-city-believed-to-be-1-400-years-old
 * http://artdaily.com/news/68690/Mexican-archaeologists-find-ancient-ball-game-court-on-construction-site-of-basketball-court
 * http://artdaily.com/news/57759/Mexican-archaeologists-enter--for-the-first-time--a-1-500-year-old-tomb-in-Palenque-
 * http://artdaily.com/news/39979/Funerary-Masks-of-Six-Maya-Rulers-on-View-at-the-National-Museum-of-Anthropology-
 * http://artdaily.com/news/39254/Prehispanic-Sexuality-Uncovered-in-the-Latest-Issue-of-Magazine
-* https://www.jstor.org/stable/26307298
-* https://www.jstor.org/stable/663096
-* https://www.jstor.org/stable/415477
-* https://www.jstor.org/stable/26308030
-* https://www.jstor.org/stable/279044
-* [Some Characteristics of Mexican Indian Folklore](https://www.jstor.org/stable/536611)
+* [Arnold, P. (1994). AN OVERVIEW OF SOUTHERN VERACRUZ ARCHAEOLOGY. Ancient Mesoamerica, 5(2), 215-221. Retrieved from http://www.jstor.org/stable/26307298](https://www.jstor.org/stable/26307298)
+* [Steggerda, M. (1944). Animal Traps and Snares Used by the Maya Indians of Yucatan, Mexico. American Anthropologist, 46(2), new series, 269-272. Retrieved from http://www.jstor.org/stable/663096](https://www.jstor.org/stable/663096)
+* [Campbell, L., Kaufman, T., & Smith-Stark, T. (1986). Meso-America as a Linguistic Area. Language, 62(3), 530-570. doi:10.2307/415477](https://www.jstor.org/stable/415477)
+* [Dakin, K., & Wichmann, S. (2000). CACAO AND CHOCOLATE: A Uto-Aztecan perspective. Ancient Mesoamerica, 11(1), 55-75. Retrieved from http://www.jstor.org/stable/26308030](https://www.academia.edu/3093787/Cacao_and_chocolate_A_Uto-Aztecan_perspective)
+* [Campbell, L., & Kaufman, T. (1976). A Linguistic Look at the Olmecs. American Antiquity, 41(1), 80-89. doi:10.2307/279044](https://www.jstor.org/stable/279044)
+* [Foster, G. (1945). Some Characteristics of Mexican Indian Folklore. The Journal of American Folklore, 58(229), 225-235. doi:10.2307/536611](https://www.jstor.org/stable/536611)
 * [Pringle, Heather. Untouched. National Geographic. Jun. 2014. (Peru, Wari, El Castillo)](https://www.nationalgeographic.com/magazine/2014/06/peru-royal-tomb/)
 * [Face of Ancient Queen Revealed for First Time](https://news.nationalgeographic.com/2017/12/wari-noblewoman-queen-el-castillo-face-reconstruction-archaeology/)
 * [Wade, Lizzie. Mummy genomes reveal just how catastrophic European contact was for New World. Science. Apr. 2016.](http://www.sciencemag.org/news/2016/04/mummy-genomes-reveal-just-how-catastrophic-european-contact-was-new-world)
@@ -1223,6 +1268,16 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * [Jopling, Carol F. “The Coppers of the Northwest Coast Indians: Their Origin, Development, and Possible Antecedents.” Transactions of the American Philosophical Society, vol. 79, no. 1, 1989, pp. i-164. JSTOR.](www.jstor.org/stable/1006488)
 * [Confederación chalca](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_chalca)
 * [Core/Biface Ratios, Mobility, Refitting, and Artifact Use-Lives: A Paleoindian Example](https://www.researchgate.net/publication/260468488_CoreBiface_Ratios_Mobility_Refitting_and_Artifact_Use-Lives_A_Paleoindian_Example)
+* [Dylan S. Davis, Matthew C. Sanger & Carl P. Lipo (2018) Automated mound detection using lidar and object-based image analysis in Beaufort County, South Carolina, Southeastern Archaeology, DOI: 10.1080/0734578X.2018.1482186](https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1002&context=anthro_data)
+* [A new technique makes it possible to extract the DNA from hominids preserved in sediments](https://www.heritagedaily.com/2017/05/a-new-technique-makes-it-possible-to-extract-the-dna-from-hominids-preserved-in-sediments/114683)
+* [Parts of the Amazon thought uninhabited were actually home to up to a million people](https://www.heritagedaily.com/2018/03/parts-of-the-amazon-thought-uninhabited-were-actually-home-to-up-to-a-million-peopl/118681)
+* [New Nasca lines found in Peru](https://www.heritagedaily.com/2018/04/new-nasca-lines-found-in-peru/118794)
+* [Sugiyama N, Fash WL, France CAM (2018) Jaguar and puma captivity and trade among the Maya: Stable isotope data from Copan, Honduras. PLoS ONE 13(9): e0202958. https://doi.org/10.1371/journal.pone.0202958](https://doi.org/10.1371/journal.pone.0202958)
+* [Ancient lowland Maya complexity as revealed by airborne laser scanning of northern Guatemala](http://science.sciencemag.org/content/361/6409/eaau0137)
+* [Salt: Mover and shaker in ancient Maya society](https://www.heritagedaily.com/2018/10/salt-mover-and-shaker-in-ancient-maya-society/121840)
+* [Venezuelan rock art mapped in unprecedented detail](https://www.heritagedaily.com/2017/12/venezuelan-rock-art-mapped-unprecedented-detail/117741)
+* [Archaeologist says fire, not corn, key to prehistoric survival in arid Southwest](https://www.heritagedaily.com/2017/12/archaeologist-says-fire-not-corn-key-prehistoric-survival-arid-southwest/117660)
+* [Trepanation Procedures/Outcomes: Comparison of Prehistoric Peru with Other Ancient, Medieval, and American Civil War Cranial Surgery](https://www.sciencedirect.com/science/article/pii/S1878875018306259)
 
 # Compare with your pictures of the Adena and Hopewell cultures
 
