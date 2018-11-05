@@ -1130,8 +1130,9 @@ That being said, here is a the high-level overview of the very basics:
 * The exons (complete set of genetic material that codes for molecules) comprise about 1% of genetic material.
 * Many genetic tests check a maximum of 10% of the exon SNPs.
 * This means genetic tests only check a maximum of 0.1% of genetic material.
-* Additionally, their is heiritable epigenetic coding. Most tests and research papers ignore this.
+* Additionally, there is heiritable epigenetic coding. Most tests and research papers ignore this. Also, we don't fully understand how this happens since the epigenetic coding is wiped and reprogrammed through an as of yet undiscovered process.
 * The complete genetic sequence of any human being has not been sequenced. See the article: [Psst, the human genome was never completely sequenced. Some scientists say it should be](https://www.statnews.com/2017/06/20/human-genome-not-fully-sequenced/).
+* Additionally, only populations which are sedentary and not traveling and continually mixing DNA develop distinct statistical differences. Those traveling together will likely receive similar mutations to SNPs through interacting with a similar environment.
 
 You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wiki/Whole_genome_sequencing) over at Wikipedia for more info.
 
@@ -1216,7 +1217,7 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * [The ancestry and affiliations of Kennewick Man](https://www.nature.com/articles/nature14625)
 * [Amorim CEG, Bisso-Machado R, Ramallo V, Bortolini MC, Bonatto SL, Salzano FM, et al. (2013) A Bayesian Approach to Genome/Linguistic Relationships in Native South Americans. PLoS ONE 8(5): e64099. https://doi.org/10.1371/journal.pone.0064099](https://doi.org/10.1371/journal.pone.0064099)
 
-## Early Modern Human Emergency From Africa
+## Early Modern Human Emergence From Africa
 
 * [Malaspinas, Anna-Sapfo et al. A genomic history of Aboriginal Australia. Nature. 538. 207–214 13 Oct. 2016.](https://www.nature.com/articles/nature18299)
 * [Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep. 2016](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
