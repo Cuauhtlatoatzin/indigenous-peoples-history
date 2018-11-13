@@ -61,6 +61,7 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 * [Hominin occupation of the Chinese Loess Plateau since about 2.1 million years ago](https://www.nature.com/articles/s41586-018-0299-4)
 * [Evidence for precision grasping in Neandertal daily activities](http://advances.sciencemag.org/content/4/9/eaat2369)
 * [Symbolic use of marine shells and mineral pigments by Iberian Neandertals 115,000 years ago](http://advances.sciencemag.org/content/4/2/eaar5255)
+* [Traces of mystery ancient humans found lurking in our genomes](https://www.newscientist.com/article/mg24031992-600-traces-of-mystery-ancient-humans-found-lurking-in-our-genomes/)
 
 ## Overview of new findings
 
@@ -282,7 +283,11 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 * [Petroglyph Beach : Tlingit Art From Before the Time of the Pyramids](http://ianajohnson.com/petroglyph-beach-tlingit-art-time-pyramids/) - Wrangell Petroglyph State Historic Site, Wrangell, Alaska, USA
 * [A GALLERY OF NORTHWEST PETROGLYPHS: SHAMANIC ART OF THE PACIFIC NORTHWEST](https://www.danielleen.org/petroglyphs.html)
 
-### Anangula Site - Aleutian Islands, Alaska, USA (6000 BC)
+### Anangula Site - Aleutian Islands, Alaska, USA (6400 BC)
+
+* [Anangula Archeological District](https://en.wikipedia.org/wiki/Anangula_Archeological_District)
+* [Anangula Island](https://en.wikipedia.org/wiki/Anangula_Island)
+* [Anangula National Historic Landmark. NPS.](https://www.nps.gov/places/anangula-site.htm)
 
 ## Maritime Archaic - Canada: Labrador, Newfoundland, New Brunswick, Prince Edward Island, Nova Scotia; USA: Maine, Vermount, Newhampshire, Massachusetts, Rhode Islnd, Connecticut (7000 BCE - 1800 BEC)
 
@@ -927,6 +932,18 @@ First inhabited in 1200BCE, but depopulated by 200BCE, it was later repopulated 
   * `From the Olmec to the Maya to the Aztec, ballgames were one of the defining activities of Mesoamerican cultures. Beginning some time before 1200 B.C., competitors kicked and whacked rubber balls up and down a playing court. These ballgames were rich in symbolism—in some cases the gods were said to have played—and a powerful force that bound communities together. But it’s possible these games weren’t limited to Mesoamerica. Archaeologists have found more than 200 oval-shaped earthen depressions with embankments in central and southern Arizona that resemble the Mesoamerican ballcourts. These features date between roughly A.D. 750 and 1200 and are associated with the Hohokam culture.`
   * `Though archaeologists continue to debate their purpose, and ethnographic accounts are silent on this matter, most researchers now surmise that the Hohokam courts were used for ballgames, much as the Mesoamerican ones were, according to Henry Wallace, a senior research archaeologist with Desert Archaeology, Inc., in Tucson, Arizona. In doing so the courts played a major role in strengthening Hohokam identity and interactions among villages. “Whenever you have games, you have people coming together,” Wallace said. “It’s a great way of linking social groups.”`
 
+### Speaking of Ballgames
+
+Many ball games have been played throughout the Americas. In a testament to a possible connection to the Mesoamerican ballgame, the Ojibwe call their version of lacross, baaga`adowe -- which means "bump hips". Other names: dehuntshigwa'es ("men hit a rounded object") - Onondaga, da-nah-wah'uwsdi ("little war") - Eastern Cherokee, begadwe ("little brother of war") - Mohawk, ká:lahse - Oneida, and kapucha toli ("stickball player") - Choctaw
+
+* [History of lacrosse](https://en.wikipedia.org/wiki/History_of_lacrosse)
+* [Indigenous North American stickball](https://en.wikipedia.org/wiki/Indigenous_North_American_stickball)
+* [Ká:lahse a Haudeneshonee Tradition](https://www.oneidanationlacrosse.com/)
+* [Choctaw Stickball: A Game of History, Passion and Pride](https://newsmaven.io/indiancountrytoday/archive/choctaw-stickball-a-game-of-history-passion-and-pride-L4tYhhheoUKit4eYYLgDVQ/)
+* [Uarhukua](http://www.jcarlosmacias.com/autoctonoytradicional/Deportes/RPelota.html)
+  * Uarhukua is P’urhépecha for "stick". It is a game dated to at least 1500 BCE played with a faming ball of wood and pine pitch.
+* [Games. Mississippi Valley Archaeology Center (MVAC) at the University of Wisconsin-La Crosse (UW-L).](http://mvac.uwlax.edu/past-cultures/native-knowledge/games/)
+
 ## Cacao and Holly Based Caffeinated Drinks Traded (750 CE - 1400 CE)
 
 A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (and probably earlier, but we have no evidence). Chocolate (theobroma cacao) was also imported around the same time, becoming more popular by 1200 CE.
@@ -934,7 +951,7 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 * [Ritual drinks in the pre-Hispanic US Southwest and Mexican Northwest](http://www.pnas.org/content/112/37/11436.long)
 * [Evidence of cacao use in the Prehispanic American Southwest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2650116/)
 
-## Speaking of trade:
+### Speaking of trade:
 
 * [Sean G. Dolan, M. Steven Shackley, Don G. Wyckoff & Craig E. Skinner (2018) Long-distance conveyance of California obsidian at the Hayhurst lithic cache site (34ML168)in Oklahoma, Plains Anthropologist, 63:247, 279-297, DOI: 10.1080/00320447.2017.1352559](https://www.academia.edu/34969784/Long-distance_conveyance_of_California_obsidian_at_the_Hayhurst_lithic_cache_site_34ML168_in_Oklahoma)
 * [Davis, Kaitlyn. (2017) "The Ambassador's Herb": Tobacco Pipes as Evidence for Plains-Pueblo Interaction, Interethnic Negotiation, and Ceremonial Exchange in the Northern Rio Grande. Master's Thesis.](https://www.academia.edu/34126233/_The_Ambassadors_Herb_Tobacco_Pipes_as_Evidence_for_Plains-Pueblo_Interaction_Interethnic_Negotiation_and_Ceremonial_Exchange_in_the_Northern_Rio_Grande._Masters_Thesis)
@@ -1025,7 +1042,7 @@ This indicates that there were estalbished trade routes between the natural rang
 
 ## El Consuelo - Tamuin, San Luis Potosi, MX - Huasteca, Olmec? (1200 CE - 1519 CE)
 
-*[El Consuelo](https://es.wikipedia.org/wiki/Tamu%C3%ADn_(zona_arqueol%C3%B3gica))
+* [El Consuelo](https://es.wikipedia.org/wiki/Tamu%C3%ADn_(zona_arqueol%C3%B3gica))
 
 ## Zaachila - Villa de Zaachila, Oaxaca, MX - Zapotec, Mixtec (1200 CE - 1521 CE)
 
@@ -1063,12 +1080,23 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 
 ## Late Mississippian (1400 CE - 1500 CE or Euro contact)
 
-### Etzanoa - Kansas, USA
+### Etzanoa - Kansas, USA (1450 CE - 1700 CE)
+
+Visited by the Spanish in 1601. These are the ancestors of the Present day Wichita Tribe.
 
 * [Tanner, Beccy. Mysterious 'Lost City' of Etzanoa in south-central Kansas now open to tours. The Wichita Eagle. 28 Apr. 2018.](https://www.kansas.com/news/state/article208617349.html)
 * [Kelly, David. Archaeologists explore a rural field in Kansas, and a lost city emerges. Los Angles Times. 19 Aug. 2018.](http://www.latimes.com/nation/la-na-kansas-lost-city-20180819-htmlstory.html)
   * `The early Great Plains had long been imagined as a vast empty space populated by nomadic tribes following buffalo herds. But if Blakeslee is right, at least some of the tribes were urban. They built large towns, raised crops, made fine pottery, processed bison on a massive scale and led a settled existence. There were trade connections all the way to the Aztec capital Tenochtitlan in Mexico.`
 * [Rayado Indians](https://en.wikipedia.org/wiki/Rayado_Indians)
+  * `Rayados was the Spanish name for a Native American group visited by Umana and Leyba in 1594 and Juan de Oñate in 1601. The Rayado village, called Etzanoa, the "Great Settlement," was probably in southern Kansas near the Arkansas River. The Rayados were Wichita Indians related to those visited in Quivira by Francisco Vásquez de Coronado in 1541.`
+  * `Most authorities agree that the Rayados were Caddoan speaking and members of one of several sub-tribes of the Wichita people. Their grass houses, dispersed mode of settlement, a chief named Catarax, a Wichita title, the description of their granaries, and their location all agree with descriptions of the Wichita. As Wichita, the Rayados were related to the people Coronado discovered in Quivira 60 years earlier.[2] One scholar, however, dissents, calling them "Jumanos."[3] Jumano seems to have been a generic term for Plains Indians with painted or tattooed faces, as was Rayados.`
+  * `In 1601, Juan de Oñate, founder and governor of New Mexico, led an expedition that followed in the footsteps of Leyba and Umana. Jusepe guided Oñate, more than 70 Spanish soldiers and priests, an unknown number of Indian soldiers and servants, and seven hundred horses and mules across the plains.[11]`
+    `Oñate met Apache Indians in the Texas Panhandle and, later, a large encampment of Escanjaques. The Escanjaques showed him the way to a large settlement about 30 miles away of a people Oñate called "Rayados." Rayados means "striped" in Spanish, referring to their custom of painting or tattooing their faces. The Escanjaques, enemies of the Rayados, attempted to enlist the help of the Spanish to attack the Rayados, who they alleged were responsible for the deaths of Leyba and Umana a few years earlier.`
+    `The Escanjaques guided Oñate to a nearby river, surely the Arkansas, where they saw three or four hundred Rayados on a hill. The Rayados advanced, throwing dirt into the air as a sign that they were ready for war. Oñate indicated that he did not wish to fight and made peace with this group of Rayados who proved to be friendly and generous. Unlike the Escanjaques, Oñate said the Rayados were "united, peaceful, and settled." They showed deference to their chief, named Catarax, whom Oñate detained as a guide and hostage, although "treating him well."[12]`
+    `Catarax led Oñate and the Escanjaques across the Arkansas and to a settlement on the eastern bank, one or two miles from the river. The settlement was deserted, the inhabitants having fled. It contained "more than twelve hundred houses, all established along the bank of another good-sized river which flowed into the large one [the Arkansas]." The settlement of the Rayados was similar to those seen by Coronado in Quivira sixty years before. The homesteads were dispersed; the houses round, thatched with grass and surrounded by large granaries to store the corn, beans, and squash they grew in their fields. Oñate restrained his Escanjaque guides from looting the town and sent them home. Catarax, who had been chained, was rescued by the Rayados in a bold raid.[12]`
+* Also see:
+  * [Jumanos](https://en.wikipedia.org/wiki/Jumanos)
+  * [Escanjaque Indians](https://en.wikipedia.org/wiki/Escanjaque_Indians)
 
 #### European Contact
 
@@ -1171,6 +1199,9 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 
 ## Genetic Evidence for the Peopling of the Americas
 
+* [Ancient DNA confirms Native Americans’ deep roots in North and South America](https://www.sciencemag.org/news/2018/11/ancient-dna-confirms-native-americans-deep-roots-north-and-south-america?fbclid=IwAR21oJI6ch48j-xRr5OlOn7Cyco9GKaDEqOpNAsrdhcfF3bD2tfGqpG6jx8)
+* [Posth, Cosimo et al. (2018) Reconstructing the Deep Population History of Central and South America. Cell. DOI:https://doi.org/10.1016/j.cell.2018.10.027](https://www.cell.com/cell/fulltext/S0092-8674(18)31380-1)
+* [J. V. Moreno-Mayar et al. (2018) Early human dispersals within the Americas. Science. 10.1126/science.aav2621](https://www.researchgate.net/publication/328815661_Early_human_dispersals_within_the_Americas)
 * [Ancient human parallel lineages within North America contributed to a coastal expansion](https://www.academia.edu/36866318/Ancient_human_parallel_lineages_within_North_America_contributed_to_a_coastal_expansion)
 * [Amerindian mitochondrial DNAs have rare Asian mutations at high frequencies, suggesting they derived from four primary maternal lineages.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1683611/)
 * [Hamilton-Brehm SD, Hristova LT, Edwards SR, Wedding JR, Snow M, Kruger BR, et al. (2018) Ancient human mitochondrial DNA and radiocarbon analysis of archived quids from the Mule Spring Rockshelter, Nevada, USA. PLoS ONE 13(3): e0194223. https://doi.org/10.1371/journal.pone.0194223](https://doi.org/10.1371/journal.pone.0194223)
@@ -1181,6 +1212,8 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * [Asian affinities and continental radiation of the four founding Native American mtDNAs.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682412/)
 * [Clan, Language, and Migration History Has Shaped Genetic Diversity in Haida and Tlingit Populations From Southeast Alaska.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4335652/)
 * [González-Martín A, Gorostiza A, Regalado-Liu L, Arroyo-Peña S, Tirado S, Nuño-Arana I, et al. (2015) Demographic History of Indigenous Populations in Mesoamerica Based on mtDNA Sequence Data. PLoS ONE 10(8): e0131791. https://doi.org/10.1371/journal.pone.0131791](https://doi.org/10.1371/journal.pone.0131791)
+* [DNA of Indigenous peoples explained](http://www.kinyradio.com/news/news-of-the-north/dna-of-indigenous-peoples-explained/?fbclid=IwAR0_VYafbGYaKQsvQaGldUY5lLVn3g9uhYzhy1tgWiN-xHupxOoG80Q4k1A)
+* [DNA, oral tradition indicate 10,000 years of Native history in Southeast. Juneau Empire.](https://www.juneauempire.com/news/dna-oral-tradition-indicate-10000-years-of-native-history-in-southeast/)
 * [Evaluating the Farming/Language Dispersal Hypothesis with genetic variation exhibited by populations in the Southwest and Mesoamerica.](https://doi.org/10.1073/pnas.0905753107)
 * [Extensive mitochondrial diversity within a single Amerindian tribe.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC52581/)
 * [Ochoa-Lugo, Mirna Isabel; de Lourdez Muñoz, Maria; Pérez-Ramírez, Gerardo; Beaty, Kristine G.; López-Armenta, Mauro; Cervini-Silva, Javiera; Moreno-Galeana, Miguel; Martínez Meza, Adrián; Ramos, Eduardo; Crawford, Michael H.; and Romano-Pacheco, Arturo (2016) "Genetic Affiliation of Pre-Hispanic and Contemporary Mayas through Maternal Linage," Human Biology: Vol. 88: Iss. 2, Article 5.](https://www.researchgate.net/publication/313483707_Genetic_Affiliation_of_Pre-Hispanic_and_Contemporary_Mayas_Through_Maternal_Linage)
@@ -1279,6 +1312,14 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * [Venezuelan rock art mapped in unprecedented detail](https://www.heritagedaily.com/2017/12/venezuelan-rock-art-mapped-unprecedented-detail/117741)
 * [Archaeologist says fire, not corn, key to prehistoric survival in arid Southwest](https://www.heritagedaily.com/2017/12/archaeologist-says-fire-not-corn-key-prehistoric-survival-arid-southwest/117660)
 * [Trepanation Procedures/Outcomes: Comparison of Prehistoric Peru with Other Ancient, Medieval, and American Civil War Cranial Surgery](https://www.sciencedirect.com/science/article/pii/S1878875018306259)
+* [Buffalohead, E. (2004). Dhegihan History: A Personal Journey. Plains Anthropologist, 49(192), 327-343. Retrieved from http://www.jstor.org/stable/25670769](https://www.jstor.org/stable/25670769)
+* [Thiessen, T. (2004). Traditional and Historical Summary. Plains Anthropologist, 49(192), 355-380. Retrieved from http://www.jstor.org/stable/25670773](http://www.jstor.org/stable/25670773)
+* [Henning, D., & Thiessen, T. (2004). Regional Prehistory. Plains Anthropologist, 49(192), 381-398. Retrieved from http://www.jstor.org/stable/25670774](http://www.jstor.org/stable/25670774)
+* [Dhegihan History and Separation](https://en.wikipedia.org/wiki/Dhegihan_History_and_Separation)
+* [R. Bruce McMillan. (2014) Migration Legends and the Origins of Missouri’s Siouan-Speaking Tribes. The Missouri Archaeologist.](https://www.academia.edu/11993884/Migration_Legends_and_the_Origins_of_Missouris_Siouan-Speaking_Tribes)
+* [Kind of a bad article, but has links - The Oneota Culture - Last Prehistoric Culture of the American Midwest](https://www.thoughtco.com/oneota-culture-of-the-american-midwest-167045)
+* [A HISTORY OF THE KANSA PEOPLE THROUGH 1873](https://www.academia.edu/29472190/A_HISTORY_OF_THE_KANSA_PEOPLE_THROUGH_1873)
+* [There Were Once More Than 425 Shellmounds in the Bay Area. Where Did They Go?](https://www.kqed.org/news/11704679/there-were-once-more-than-425-shellmounds-in-the-bay-area-where-did-they-go?fbclid=IwAR2NZinZLugUBWMtEle5UBIZfJ4pOdbSu_fpLQNlpcORcvyyWEvsHsFXp84)
 
 # Compare with your pictures of the Adena and Hopewell cultures
 
