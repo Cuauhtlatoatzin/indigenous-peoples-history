@@ -1064,6 +1064,17 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 * [Tlaxcala - History](https://en.wikipedia.org/wiki/Tlaxcala#History)
 * [Wade, Lizzie. The Lost History Of Tlaxcallan. American Archeology Magazine. 6 Dec. 2017.](https://www.archaeologicalconservancy.org/lost-history-tlaxcallan/)
 
+
+## Blood Run - South Dakota/Iowa, USA (1300 CE - 1700 CE)
+
+* [Native history, Bakken pipeline clash in Iowa's Blood Run area](https://www.desmoinesregister.com/story/news/2016/06/06/native-history-bakken-pipeline-clash-iowas-blood-run-area/85360706/)
+* [Good Earth State Park at Blood Run](https://visitsiouxfalls.com/things-to-do/sports-recreation/directory/good-earth-state-park-at-blood-run/)
+* [Blood Run National Historic Landmark](https://www.lyonedia.com/blood-run/)
+* [Blood Run National Historic Landmark](https://iowaculture.gov/history/sites/blood-run-national-historic-landmark)
+* [Blood Run Site](https://en.wikipedia.org/wiki/Blood_Run_Site)
+* [Blood Run by Allison Adelle Hedge Coke](https://www.saltpublishing.com/products/blood-run-9781844712663)
+
+
 ## Xalapa - Xalapa, Veracruz, MX - Totonac, Chichimecas, Toltecs, Teochichimecas (1313 CE - 1521 CE)
 
 * [Xalapa](http://siglo.inafed.gob.mx/enciclopedia/EMM30veracruz/municipios/30087a.html)
@@ -1075,8 +1086,6 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 ## Tlatelolco - Mexico City, Mexico, MX - Tlatelolca, Nahuatl (1337 CE - 1521 CE)
 
 * [Tlatelolco](https://en.wikipedia.org/wiki/Tlatelolco_(altepetl))
-
-## Mesoamerican Colonial (1521 CE - 1821 CE)
 
 ## Late Mississippian (1400 CE - 1500 CE or Euro contact)
 
@@ -1101,6 +1110,8 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 #### European Contact
 
 * [European-contact and Southwestern Artifacts in the Lower Walnut Focus Sites at Arkansas City, Kansas](https://www.researchgate.net/publication/260468487_European-contact_and_Southwestern_Artifacts_in_the_Lower_Walnut_Focus_Sites_at_Arkansas_City_Kansas)
+
+## Mesoamerican Colonial (1521 CE - 1821 CE)
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
 
