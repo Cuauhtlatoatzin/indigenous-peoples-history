@@ -1191,6 +1191,7 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 
 ### Not overview
 
+* [Reich, David. The Genomic Ancient DNA Revolution. Edge. Feb. 2016.](https://www.edge.org/conversation/david_reich-the-genomic-ancient-dna-revolution)
 * [Formal genetic maps](https://doi.org/10.1016/j.ejmhg.2014.11.006)
 * [Introns: The Functional Benefits of Introns in Genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4742320/)
 * [Population-scale analysis of human microsatellites reveals novel sources of exonic variation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3815531/)
