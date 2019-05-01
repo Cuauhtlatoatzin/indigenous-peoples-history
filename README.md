@@ -2,7 +2,7 @@
 
 This is an attempt at documenting a full chronology of the so called Americas since the first settlment up to 130 ka ago. Below is a timeline for the entire continent not constrained to any particular modern day country -- because modern day country borders are completely artificial and lifeless. They take no account of how people live on the geography of the Earth, they were established by colonization by extractive empire which set the course for the destruction of countless ecosystems and ways of life.
 
-# Using This Repository
+## Using This Repository
 
 1. Make sure you [have `git-lfs` installed](https://git-lfs.github.com/).
 2. Clone this repository:
@@ -15,11 +15,11 @@ This is an attempt at documenting a full chronology of the so called Americas si
    ```
 4. Start contributing using your favorite text editor (I actually recommend using [Visual Studio Code](https://code.visualstudio.com/), because it's relatively snappy).
 
-# Overview of Current Lands of Indigenous People
+## Overview of Current Lands of Indigenous People
 
 The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually autohoritative, nor does it actually necessarily represent the boudaries at any particular time in history.
 
-# Authority of Indigenous Histories
+## Authority of Indigenous Histories
 
 In many cases the histories passed down by indigenous peoples contain many truths and actual historical fact. For example, the aboriginal stories of islands being lost matches up with the end of the LGM at 10000 years ago. Shortly after then, the water contained in the glaciers was emptied out into the oceans causing the oceans to rise approximately 60 meters. The islands were submerged from then on.
 
@@ -27,7 +27,7 @@ In many cases the histories passed down by indigenous peoples contain many truth
 * [Changing Sea levels During the Past 25,000 Years](https://www.fws.gov/slamm/Changes%20in%20Sea%20Level_expanded%20version_template.pdf)
 * [Terminal Pleistocene/Early Holocene human adaptation in coastal Ecuador: the Las Vegas evidence](https://doi.org/10.1016/S1040-6182(02)00200-8)
 
-# Origin of Modern Humans and other Necessary Background
+## Origin of Modern Humans and other Necessary Background
 
 Humans have a very messy story of migration and intermingling with other varieties of our family tree. We are starting to untangle the story. However, it is necessary to have a picture of what the research currently looks like for the origins of modern humans.
 
@@ -38,7 +38,7 @@ Humans have a very messy story of migration and intermingling with other varieti
 
 Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master/README.md) repository.
 
-## Sources
+### Sources
 
 * National Geographic has a nice looking, but crude, map which traces the general flow of modern genetics out of Africa and into the rest of the world: [Map of Human Migration](https://genographic.nationalgeographic.com/human-journey/)
 * [Langley, Michelle. World’s scientists turn to Asia and Australia to rewrite human history. The Conversation. 7 Dec. 2017.](http://theconversation.com/worlds-scientists-turn-to-asia-and-australia-to-rewrite-human-history-88697)
@@ -93,12 +93,25 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 * [Native American mitochondrial DNA analysis indicates that the Amerind and the Nadene populations were founded by two independent migrations.](http://www.genetics.org/content/130/1/153.long)
   * `The similarity of the sequence divergences of the Amerind clusters A, C, and D suggest that those were the founding linages of the Paleoindians. Using the weighted mean value of 0.084%, the Amerind mtDNA lineages are estimated to have begun radiating betwen 21,000 - 42,000 YBP. If most of this radiation occured after entry into the Americas, this time range would suggest that the Americas were colonized before the dates associated with the oldest Paleoindian skeletal remains (14,00 YBP) and Clovis lithic artifacts (11,500 YBP), and would be consistent with the estimated ages of the oldest American archeological sites.`
 
-
 # Pre Clovis (before 11000 BCE)
 
 These links support discoveries on the continent prior to any currently established theories (as of 2018).
 
 ## Hueyatlaco, Puebla, Mexico (250 KA BP, ~248000 BCE)
+
+* [Hueyatlaco](https://en.wikipedia.org/wiki/Hueyatlaco#Aftermath)
+* [VanLandingham, SL. 2006. Diatom evidence for autochthonous artifact deposition in the Valsequillo region, Puebla, Mexico during the Sangamonian (sensu lato = 80,000 to ca. 220,000 yr BP and Illinoian (220,000 to 430,000 yr BP)). Journal of Paleolimnology 36: 101– 116 [DOI: 10.1007/s10933‐006‐0008‐4]](https://doi.org/10.1007/s10933-006-0008-4)
+* [ Sam L. VanLandingham "Corroboration of Sangamonian age of artifacts from the Valsequillo region, Puebla, Mexico by means of diatom biostratigraphy," Micropaleontology 50(4), (1 December 2004).](https://doi.org/10.1661/0026-2803(2004)050[0313:COSAOA]2.0.CO;2)
+* [Metcalfe, S. E., Leng, M. J., Kirby, J. R., Huddart, D. , Vane, C. H. and Gonzalez, S. (2016), Early–Mid Pleistocene environments in the Valsequillo Basin, Central Mexico: a reassessment. J. Quaternary Sci., 31: 325-336. doi:10.1002/jqs.2851](https://doi.org/10.1002/jqs.2851)
+
+## The Highly Disputed Calico Early Man Site, San Bernardino County, California, USA (135 KA BP)
+
+There was a rock ring discovered beneath a 100000 year old soil profile -- but there is controversy over potential contamination. There are potentially some tools from then, too. However, most of the tools discovered here come from later times 30 KA BP and 14.4 KA BP.
+
+* [Calico Early Man Site](https://en.wikipedia.org/wiki/Calico_Early_Man_Site)
+* [Lake Manix](https://en.wikipedia.org/wiki/Lake_Manix)
+* [BLM closes Early Man Site](https://www.vvdailypress.com/news/20190427/blm-closes-early-man-site)
+* [A Visit to the Weirdest Archaeological Site in North America](https://gizmodo.com/a-visit-to-the-weirdest-archaeological-site-in-north-am-1505014963)
 
 ## Cerutti Mastodon, San Diego County, California, USA (130 KA BP, ~128000 BCE)
 
