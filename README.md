@@ -98,7 +98,9 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 
 These links support discoveries on the continent prior to any currently established theories (as of 2018).
 
-## Cerutti Mastodon, San Diego County, California, USA (130000 BCE)
+## Hueyatlaco, Puebla, Mexico (250 KA BP, ~248000 BCE)
+
+## Cerutti Mastodon, San Diego County, California, USA (130 KA BP, ~128000 BCE)
 
 * [Holen, Steven R. et al. A 130,000-year-old archaeological site in southern California, USA. Nature. 544. 479–483 27 Apr. 2017.](https://www.nature.com/articles/nature22065)
 * [Greshko, Michael. Humans in California 130,000 Years Ago? Get the Facts. National Geographic. 26 Apr. 2017.](https://news.nationalgeographic.com/2017/04/mastodons-americas-peopling-migrations-archaeology-science/)
