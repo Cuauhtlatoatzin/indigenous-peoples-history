@@ -792,6 +792,15 @@ Shows a trade connection or influence from Veracruz.
 * [Curtis, Wayne. Rich Man, Poor Man: Archaeologists are taking the study of wealth inequality into the distant past. American Archeology Magazine. 20 Jun. 2018.](https://www.archaeologicalconservancy.org/rich-man-poor-man/)
   * `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
   * `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
+* [Teotihuacan](https://www.khanacademy.org/humanities/art-americas/early-cultures/teotihuacan/a/teotihuacan)
+* [Pre-Hispanic City of Teotihuacan](https://whc.unesco.org/en/list/414/gallery/&maxrows=26)
+* [Infographic: Dig deeper into Teotihuacán](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-teotihuacan-site/3035/)
+* [Teotihuacán, the City of the Gods -- video](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-teotihuacan-city-gods/3019/)
+* [Archaeologists explore the tunnel below the Pyramid of the Feathered Serpent -- video](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-archaeologists-explore-tunnel-pyramid-feathered-serpent/3022/)
+* [Archeologist Sounds Bummed to Find No Royal Tomb at Teotihuacán This Year](https://pictorial.jezebel.com/archeologist-sounds-bummed-to-find-no-royal-tomb-at-teo-1794596857)
+* [Where did the ancient Teotihuacanos come from?](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-ancient-teotihuacanos-come/3025/)
+* [The History of the Native Peoples of the Americas/Mesoamerican Cultures/Teotihuacanos](https://en.wikibooks.org/wiki/The_History_of_the_Native_Peoples_of_the_Americas/Mesoamerican_Cultures/Teotihuacanos)
+* [Totonac](https://en.wikipedia.org/wiki/Totonac)
 
 ## La Mojarra - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (300 BCE - 1000 CE)
 
