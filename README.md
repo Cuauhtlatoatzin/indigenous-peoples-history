@@ -511,6 +511,7 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 ### El Manatí - Hidalgotitlán, Veracruz, MX - Olmec (1600 BCE - 1200 BCE)
 
 * [El Manatí](https://en.wikipedia.org/wiki/El_Manat%C3%AD)
+* [Dorothy Hosler, Sandra L. Burkett, Michael J. Tarkanian. Prehistoric Polymers: Rubber Processing in Ancient Mesoamerica. Science. 18 Jun 1999 : 1988-1991](https://science.sciencemag.org/content/284/5422/1988)
 
 ### Lamanai - Orange Walk District, Belieze - Lowland Maya (1600 BCE - 1700 CE)
 
