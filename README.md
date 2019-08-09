@@ -5,19 +5,24 @@ This is an attempt at documenting a full chronology of the so called Americas si
 ## Using This Repository
 
 1. Make sure you [have `git-lfs` installed](https://git-lfs.github.com/).
+
 2. Clone this repository:
-   ```
+
+   ```sh
    git clone git@github.com:Cuauhtlatoatzin/indigenous-peoples-history.git
    ```
+
 3. Make sure you've initialized the hooks and setup for `git-lfs`:
-   ```
+
+   ```sh
    git lfs install
    ```
+
 4. Start contributing using your favorite text editor (I actually recommend using [Visual Studio Code](https://code.visualstudio.com/), because it's relatively snappy).
 
 ## Overview of Current Lands of Indigenous People
 
-The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually autohoritative, nor does it actually necessarily represent the boudaries at any particular time in history.
+The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually authoritative, nor does it actually necessarily represent the boundaries at any particular time in history.
 
 ## Authority of Indigenous Histories
 
@@ -75,25 +80,31 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
   * `Results link morphologies and technologies of Clovis, certain western Canadian, and northern fluted points, suggesting that fluting technology arrived in the Arctic from a proximate source in the interior Ice-Free Corridor and ultimately from the earliest populations in temperate North America, complementing new genomic models explaining the peopling of the Americas.`
   * `Despite this, the geographic distribution of points in the earliest clades supports the hypothesis that Clovis, early points from the Corridor, and northern fluted points share historical affinity and may represent either Clovis groups moving north through the Ice-Free Corridor to northern Yukon and Alaska, or the interaction of Clovis groups with humans already present in the northwestern Subarctic and Arctic. Both of these processes of fluted-point transmission to the north are supported by latitudinal and chronological trends.`
   * `Bison were potentially integral to the adaptation of the northward-dispersing fluted-point makers. During the last glacial maximum (ca. 24 ka), bison clades of Beringia were genetically distinct from those living south of the ice sheets (32); however, by 12.3–12 ka, a southern clade of bison had dispersed northward into the Ice-Free Corridor, reaching the Northwest Territories and becoming sympatric with the northern clade (12). Our results suggest an analogous process of human dispersal or information transmission, with humans from the southern Ice-Free Corridor spreading north to Arctic Alaska. As fluting technology spread northward, bison (Bison sp.) were still common in the Corridor, from Charlie Lake Cave in central British Columbia to Engigstciack in northern Yukon (32, 39). In Arctic Alaska, however, bison became locally extinct by 13.5 ka (12, 40), so that fluted-point–using groups in the Far North had to adjust their predatory focus to caribou (Rangifer tarandus), which were better suited to the region’s tussock-tundra communities (41). Not surprisingly, faunal assemblages from the only buried and dated fluted-point sites in northwestern Alaska contain caribou, not bison (9). This shift toward caribou could have occurred in the Corridor, as fluted-point makers were pulled northward and eastward along the margin of the retreating Laurentide ice, resulting in high frequencies of ancestral traits shared by Clovis, the early Ice-Free Corridor, and Great Lakes point forms.`
+* **Kelp Highway Hypothesis**
+  * [University Museum of Natural and Cultural Hisory. Kelp Highway Hypothesis.](http://natural-history.uoregon.edu/research/paleocoastal-research-project/kelp-highway-hypothesis)
+  * [Erlandson et al. The Kelp Highway Hypothesis: Marine Ecology, the Coastal Migration Theory, and the Peopling of the Americas. The Journal of Island and Coastal Archaeology. 30 Oct. 2007.](http://natural-history.uoregon.edu/sites/default/files/mnch/Erlandson_et_al_2007.pdf)
+* **Beringia Hypthesis**
+  * [Than, Ker. On Way to New World, First Americans Made a 10,000-Year Pit Stop. National Geographic. 27 Feb. 2014.](https://news.nationalgeographic.com/news/2014/04/140227-native-americans-beringia-bering-strait-pit-stop/)
+  * [Langlois, Krista, Heather Pringle. A Sunken Bridge the Size of a Continent. Hakai. 20 Sep. 2016](https://www.hakaimagazine.com/features/sunken-bridge-size-continent/?xid=PS_smithsonian)
+* **"[H]uman entry through a pre-coalescence ice-free corridor remains a possibility." (circa 25000 BCE)**
+  * [Mark E. Swisher, Dennis L. Jenkins, Lionel E. Jackson, Jr., Fred M. Phillips. A Reassessment of the Role of the Canadian Ice Free Corridor in Light of New Geological Evidence](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
+    * `A human range expansion into the Americas through an ice-free post-coalescence corridor has been hypothesized and tested for more than 75 years. Evidence from Paisley Caves and other archaeology sites support the interpretation that people inhabited the New World during the time of coalescent coast-to-coast ice cover of Canada. As the ages of human occupation sites become increasingly earlier (Holen and Holen, 2013), human entry through a pre-coalescence ice-free corridor remains a possibility.`
+  * [Native American mitochondrial DNA analysis indicates that the Amerind and the Nadene populations were founded by two independent migrations.](http://www.genetics.org/content/130/1/153.long)
+    * `The similarity of the sequence divergences of the Amerind clusters A, C, and D suggest that those were the founding linages of the Paleoindians. Using the weighted mean value of 0.084%, the Amerind mtDNA lineages are estimated to have begun radiating betwen 21,000 - 42,000 YBP. If most of this radiation occured after entry into the Americas, this time range would suggest that the Americas were colonized before the dates associated with the oldest Paleoindian skeletal remains (14,00 YBP) and Clovis lithic artifacts (11,500 YBP), and would be consistent with the estimated ages of the oldest American archeological sites.`
+* [Bastien Llamas. Ancient mitochondrial DNA provides high-resolution time scale of the peopling of the Americas. Science Advances. 2(4). 01 April. 2016.](https://advances.sciencemag.org/content/2/4/e1501385)
+* [Ted Goebel, Michael R. Waters, Dennis H. O'Rourke. The Late Pleistocene Dispersal of Modern Humans in the Americas. Science. 319(5869): 1497-1502. 14 March. 2008.](https://science.sciencemag.org/content/319/5869/1497)
+* [Peter D. Heintzman. Bison phylogeography constrains dispersal and viability of the Ice Free Corridor in western Canada. PNAS. 113(29): 8057-8063. 19 July. 2016.](https://www.pnas.org/content/113/29/8057)
+* **Glaciers, Corridors, Ocean Levels, and Erosion**
+  * [Andrea Fildani, Angela M. Hessler, Cody C. Mason, Matthew P. McKay & Daniel F. Stockli. Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. (8) 13839. 14 September. 2018.](https://doi.org/10.1038/s41598-018-32268-7)
+  * [B. Menounos, B. M. Goehring, G. Osborn, M. Margold, B. Ward, J. Bond, G. K. C. Clarke, J. J. Clague, T. Lakeman, J. Koch, M. W. Caffee, J. Gosse, A. P. Stroeven, J. Seguinot, J. Heyman. Cordilleran Ice Sheet mass loss preceded climate reversals near the Pleistocene Termination. Science. 358(6364): 781-784. 10 November. 2017.](https://doi.org/10.1126/science.aan3001)
+  * [Kurt Lambeck, Hélène Rouby, Anthony Purcell, Yiying Sun, and Malcolm Sambridge. Sea level and global ice volumes from the Last Glacial Maximum to the Holocene. PNAS. 111(43): 15296-15303. 28 October. 2014.](https://doi.org/10.1073/pnas.1411762111)
+  * [Alexander Robinson, Reinhard Calov, Andrey Ganopolski. Multistability and critical thresholds of the Greenland ice sheet. Nature Climate Change. (2): 429–432. 11 March. 2012](https://doi.org/10.1038/nclimate1449)
+  * [Andrew C. Kemp, Benjamin P. Horton, Jeffrey P. Donnelly, Michael E. Mann, Martin Vermeer, and Stefan Rahmstorf. Climate related sea-level variations over the past two millennia. PNAS. 108(27) 11017-11022. 5 July. 2011.](https://doi.org/10.1073/pnas.1015619108)
+  * [J.D.Stanford, R.Hemingway, E.J.Rohling, P.G.Challenor, M.Medina-Elizalde, A.J.Lester. Sea-level probability for the last deglaciation: A statistical analysis of far-field records. Global and Planetary Change. 79(3-4): 193-203. Decamber. 2011.](https://doi.org/10.1016/j.gloplacha.2010.11.002)
+  * [Peter U. Clark, Arthur S. Dyke, Jeremy D. Shakun, Anders E. Carlson, Jorie Clark, Barbara Wohlfarth, Jerry X. Mitrovica, Steven W. Hostetler, A. Marshall McCabe. The Last Glacial Maximum. Science. 325(5941): 710-714. 7 August. 2009.](https://doi.org/10.1126/science.1172873)
+  * [Philip A. Allen. From landscapes into geological history. Nature. (451): 274–276. 17 January. 2008.](https://doi.org/10.1038/nature06586)
 
-### Kelp Highway Hypothesis
-
-* [University Museum of Natural and Cultural Hisory. Kelp Highway Hypothesis.](http://natural-history.uoregon.edu/research/paleocoastal-research-project/kelp-highway-hypothesis)
-* [Erlandson et al. The Kelp Highway Hypothesis: Marine Ecology, the Coastal Migration Theory, and the Peopling of the Americas. The Journal of Island and Coastal Archaeology. 30 Oct. 2007.](http://natural-history.uoregon.edu/sites/default/files/mnch/Erlandson_et_al_2007.pdf)
-
-### Beringia Hypthesis
-
-* [Than, Ker. On Way to New World, First Americans Made a 10,000-Year Pit Stop. National Geographic. 27 Feb. 2014.](https://news.nationalgeographic.com/news/2014/04/140227-native-americans-beringia-bering-strait-pit-stop/)
-* [Langlois, Krista, Heather Pringle. A Sunken Bridge the Size of a Continent. Hakai. 20 Sep. 2016](https://www.hakaimagazine.com/features/sunken-bridge-size-continent/?xid=PS_smithsonian)
-
-### "[H]uman entry through a pre-coalescence ice-free corridor remains a possibility." (circa 25000 BCE)
-
-* [Mark E. Swisher, Dennis L. Jenkins, Lionel E. Jackson, Jr., Fred M. Phillips. A Reassessment of the Role of the Canadian Ice Free Corridor in Light of New Geological Evidence](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
-  * `A human range expansion into the Americas through an ice-free post-coalescence corridor has been hypothesized and tested for more than 75 years. Evidence from Paisley Caves and other archaeology sites support the interpretation that people inhabited the New World during the time of coalescent coast-to-coast ice cover of Canada. As the ages of human occupation sites become increasingly earlier (Holen and Holen, 2013), human entry through a pre-coalescence ice-free corridor remains a possibility.`
-* [Native American mitochondrial DNA analysis indicates that the Amerind and the Nadene populations were founded by two independent migrations.](http://www.genetics.org/content/130/1/153.long)
-  * `The similarity of the sequence divergences of the Amerind clusters A, C, and D suggest that those were the founding linages of the Paleoindians. Using the weighted mean value of 0.084%, the Amerind mtDNA lineages are estimated to have begun radiating betwen 21,000 - 42,000 YBP. If most of this radiation occured after entry into the Americas, this time range would suggest that the Americas were colonized before the dates associated with the oldest Paleoindian skeletal remains (14,00 YBP) and Clovis lithic artifacts (11,500 YBP), and would be consistent with the estimated ages of the oldest American archeological sites.`
-
-# Pre Clovis (before 11000 BCE)
+## Pre Clovis (before 11000 BCE)
 
 These links support discoveries on the continent prior to any currently established theories (as of 2018).
 
@@ -101,7 +112,7 @@ These links support discoveries on the continent prior to any currently establis
 
 * [Hueyatlaco](https://en.wikipedia.org/wiki/Hueyatlaco#Aftermath)
 * [VanLandingham, SL. 2006. Diatom evidence for autochthonous artifact deposition in the Valsequillo region, Puebla, Mexico during the Sangamonian (sensu lato = 80,000 to ca. 220,000 yr BP and Illinoian (220,000 to 430,000 yr BP)). Journal of Paleolimnology 36: 101– 116 [DOI: 10.1007/s10933‐006‐0008‐4]](https://doi.org/10.1007/s10933-006-0008-4)
-* [ Sam L. VanLandingham "Corroboration of Sangamonian age of artifacts from the Valsequillo region, Puebla, Mexico by means of diatom biostratigraphy," Micropaleontology 50(4), (1 December 2004).](https://doi.org/10.1661/0026-2803(2004)050[0313:COSAOA]2.0.CO;2)
+* [Sam L. VanLandingham "Corroboration of Sangamonian age of artifacts from the Valsequillo region, Puebla, Mexico by means of diatom biostratigraphy," Micropaleontology 50(4), (1 December 2004).](https://doi.org/10.1661/0026-2803(2004)050[0313:COSAOA]2.0.CO;2)
 * [Metcalfe, S. E., Leng, M. J., Kirby, J. R., Huddart, D. , Vane, C. H. and Gonzalez, S. (2016), Early–Mid Pleistocene environments in the Valsequillo Basin, Central Mexico: a reassessment. J. Quaternary Sci., 31: 325-336. doi:10.1002/jqs.2851](https://doi.org/10.1002/jqs.2851)
 
 ## The Highly Disputed Calico Early Man Site, San Bernardino County, California, USA (135 KA BP)
@@ -123,7 +134,6 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Niler, Eric. A 130,000-Year-Old Mastodon Threatens to Upend Human History. Wired. 26 Apr. 2017.](https://www.wired.com/2017/04/130000-year-old-mastodon-threatens-upend-human-history/)
 * [Benton, Adam. 130,000 year old “first Americans” disproven. Filthy Monkey Men. 19 Oct. 2017.](https://www.filthymonkeymen.com/2017/10/19/130000-first-americans-disproven/)
 
-
 ## 70 - 10 KA BP (68000 BCE - 8000 BCE)
 
 ## [Fildani, Andrea et al. Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. 14 Sep. 8:13839 (2018)](https://www.nature.com/articles/s41598-018-32268-7)
@@ -137,8 +147,7 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Bourgeon L, Burke A, Higham T (2017) Earliest Human Presence in North America Dated to the Last Glacial Maximum: New Radiocarbon Dates from Bluefish Caves, Canada. PLoS ONE 12(1): e0169486. https://doi.org/10.1371/journal.pone.0169486](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5218561/)
 * [Cinq-Mars, Jaques. The Significance of the Bluefish Caves in Beringian Prehistory. Translation of the article in  Revista de Arqueología Americana, No. 1, (1990): pp. 9-32.](https://www.historymuseum.ca/learn/research/resources-for-scholars/essays/significance-of-the-bluefish-caves-in-beringian-prehistory/)
 
-
-# Paleo Indians (18000 BCE - 8000 BCE)
+## Paleo Indians (18000 BCE - 8000 BCE)
 
 ## Monte Verde, Chile (16500 BCE - 12500 BCE)
 
@@ -184,7 +193,6 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Human (Clovis)–gomphothere (Cuvieronius sp.) association ∼13,390 calibrated yBP in Sonora, Mexico](http://www.pnas.org/content/111/30/10972)
 * [Ancient Clovis Elephant-Hunting Camp Discovered in Mexico](http://westerndigs.org/clovis-elephant-hunting-site-discovered-in-mexico/)
 
-
 ## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
 
 * [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
@@ -197,7 +205,6 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Balter, Micheal. "DNA From Fossil Feces Breaks Clovis Barrier." Science  04 Apr. 2008: Vol. 320, Issue 5872, pp. 37](http://science.sciencemag.org/content/320/5872/37.summary)
 * [Pre-Clovis Human DNA Found In 14,300-year-old Feces In Oregon Cave Is Oldest In New World](https://www.sciencedaily.com/releases/2008/04/080403141109.htm)
 
-
 ## Triquet Island, British Columbia, Canada (12000 BCE)
 
 * [Farand, Chloe. 14,000-year-old village discovered in Canada one of oldest settlements ever found in North America. Independent. 08 Apr. 2017.](https://www.independent.co.uk/news/world/americas/14000-village-discovered-triquet-island-british-columbia-canada-oldest-settlment-north-america-a7673726.html)
@@ -209,7 +216,6 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Shore, Randy. Heiltsuk First Nation village among oldest in North America: Archeologists. Vancouver Sun. 29 Mar. 2017.](https://vancouversun.com/news/local-news/heiltsuk-first-nation-village-among-oldest-in-north-america-archeologists)
 * [Taylor, Christie. A 14,000 Year-Old Discovery Emerges From Oral History. Science Friday. 14 Apr. 2017.](https://www.sciencefriday.com/segments/a-14000-year-old-discovery-emerges-from-oral-history/)
 
-
 ## Manis Site, Washington, USA (11000 BCE)
 
 * [Manis Mastodon Site](https://en.wikipedia.org/wiki/Manis_Mastodon_Site)
@@ -218,11 +224,12 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
 * [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
 
-
-
 ## Clovis (13500 BCE - 11000 BCE)
 
- * [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
+* [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
+* [Michael Balter. Native Americans Descend From Ancient Montana Boy. Science News. Science. 12 February. 2014.](https://www.sciencemag.org/news/2014/02/native-americans-descend-ancient-montana-boy)
+* [Morten Rasmussen, Sarah L. Anzick, Micheal R. Waters, et al. The genome of a Late Pleistocene human from a Clovis burial site in western Montana. Nature. 12 February. 2014](https://www.nature.com/articles/nature13025)
+* [Micheal Balter. Critics Assail Notion That Europeans Settled Americas. Science. 16 March. 2012.](https://science.sciencemag.org/content/335/6074/1289.full)
 
 ## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
 
@@ -240,7 +247,6 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Evidence of Great Basin's earliest inhabitants found at Utah training range](https://www.standard.net/news/evidence-of-great-basin-s-earliest-inhabitants-found-at-utah/article_8020c307-7699-5e0e-bfd5-89c64b3be226.html)
 * [Archaeologists discover proof of wetlands, ancient life on the Utah Test and Training Range](https://www.dvidshub.net/news/204768/archaeologists-discover-proof-wetlands-ancient-life-utah-test-and-training-range)
 
-
 ## Domestication of Potatoes (9000 BCE - 7000 BCE)
 
 Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history#domestication-of-various-foods-10000-bce---4000-bce)
@@ -255,13 +261,11 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 * [How the Potato Changed the World](https://www.smithsonianmag.com/history/how-the-potato-changed-the-world-108470605/?fbclid=IwAR0lxd2QJrpQ6jF-M1csSmA3xzMGQ60gDlgqWMsLDehfc8l_D8lBeSOO5fI#DPfygyHbtbwl7PR0.01)
 * [How the Potato Changed the World's History](https://www.jstor.org/stable/40971302?seq=1#page_scan_tab_contents)
 
-
 ## Folsom Tradition (9000 BCE - 8000 BCE)
 
 ## Dalton Tradition (8500 BCE - 7900 BCE)
 
-
-# Early Archaic (8000 BCE - 6000 BCE)
+## Early Archaic (8000 BCE - 6000 BCE)
 
 ## Ajuereado Phase, Tehuacán Valley, MX (9000 BCE - 7000 BCE)
 
@@ -309,7 +313,7 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 * [Maritime Archaic](https://en.wikipedia.org/wiki/Maritime_Archaic)
 * Built longhouses.
 
-# Middle Archaic (6000 BCE - 3000 BCE)
+## Middle Archaic (6000 BCE - 3000 BCE)
 
 ## Old Copper Complex - USA, Canada (5940 BCE - 4000 BCE)
 
@@ -353,8 +357,8 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 
 ## Huaricanga, Peru - Norte Chico Culture (3570 BCE - 1800 BCE)
 
- * [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga)
- * [Carbon Dating of sites](https://www.fieldmuseum.org/sites/default/files/2003dates.pdf)
+* [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga)
+* [Carbon Dating of sites](https://www.fieldmuseum.org/sites/default/files/2003dates.pdf)
 
 ## Mesoamerican Paleo Indian Period Ends (3500 BCE)
 
@@ -366,8 +370,7 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 
 * [Watson Brake](https://en.wikipedia.org/wiki/Watson_Brake)
 
-
-# Late Archaic (3000 BCE - 1000 BCE)
+## Late Archaic (3000 BCE - 1000 BCE)
 
 ## Kay-Nah-Chi-Wah-Nung (Genwaajiwanaang, Manitou Mounds) - Rainy River District, Northwestern Ontario, Canada - Ojibway (3000 BCE - 1630 CE)
 
@@ -521,7 +524,7 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
 ### Ajalpan Phase - Tehuacán Valley, MX (1500 BCE - 830 BCE)
 
- * [Ajalpan Phase](http://www.oxfordreference.com/view/10.1093/oi/authority.20110803095358646)
+* [Ajalpan Phase](http://www.oxfordreference.com/view/10.1093/oi/authority.20110803095358646)
 
 ### Height of the Olmec (1500 BCE - 400 BCE)
 
@@ -584,7 +587,6 @@ The carbon dating from where the plate was found indicates it was likely from an
 valle bajo de Jequetepeque](http://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/viewFile/965/932)
 * [3,000-Year-Old “Spider God” Temple Discovered in Peru](http://www.kimmacquarrie.com/3000-year-old-spider-god-temple-discovered-in-peru/)
 * [Cántaro con representación de arañas. Cuerpo con diseños geométricos de líneas horizontales, puntos y líneas onduladas.](http://www.museolarco.org/catalogo/ficha.php?id=17919) - from the Virú-Gallinazo culture.
-
 
 ### Cullud
 
@@ -851,6 +853,7 @@ Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixt
 * [New Clues About Human Sacrifices at Ancient Peruvian Temple](https://news.nationalgeographic.com/news/2013/11/131119-moche-human-sacrifice-war-victims-burials-archaeology-science/)
 
 Centered in a few regions:
+
 * [La Libertad](https://en.wikipedia.org/wiki/La_Libertad_Region)
 * [Lambayeque](https://en.wikipedia.org/wiki/Lambayeque_Region)
 * [Jequetepeque](https://en.wikipedia.org/wiki/Jequetepeque_River)
@@ -862,6 +865,7 @@ Centered in a few regions:
 * Nepena
 
 These are a few major sites:
+
 * [Huaca del Sol](https://en.wikipedia.org/wiki/Huaca_del_Sol) - (450 CE)
 * Huaca de la Luna
 
@@ -880,7 +884,6 @@ These are a few major sites:
 * Galindo
 * [Huanchaco](https://en.wikipedia.org/wiki/Huanchaco) - Origin of Ceviche
 * [Pañamarca](https://en.wikipedia.org/wiki/Pa%C3%B1amarca)
-
 
 ## Teuchitlan tradition - MX: Jalisco, Nayarit, not including Capacha culture regions (300 CE - 900 CE)
 
@@ -914,6 +917,7 @@ Separated from the Toltec people early on and migrated south through Veracruz. T
 * [Davidson, Keay. Did ancient Polynesians visit California? Maybe so. / Scholars revive idea using linguistic ties, Indian headdress. San Francisco Gate Chronicle. 20 Jun. 2005.](https://www.sfgate.com/news/article/Did-ancient-Polynesians-visit-California-Maybe-2661327.php) (500 CE - 700 CE)
 
 And it wasn't the only time either:
+
 * [Radiocarbon and DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile](https://doi.org/10.1073/pnas.0703993104) - (1321 CE – 1407 CE)
 *[Indo-European and Asian origins for Chilean and Pacific chickens revealed by mtDNA](https://dx.doi.org/10.1073%2Fpnas.0801991105)
 
@@ -976,7 +980,7 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 * [Ritual drinks in the pre-Hispanic US Southwest and Mexican Northwest](http://www.pnas.org/content/112/37/11436.long)
 * [Evidence of cacao use in the Prehispanic American Southwest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2650116/)
 
-### Speaking of trade:
+### Speaking of trade
 
 * [Sean G. Dolan, M. Steven Shackley, Don G. Wyckoff & Craig E. Skinner (2018) Long-distance conveyance of California obsidian at the Hayhurst lithic cache site (34ML168)in Oklahoma, Plains Anthropologist, 63:247, 279-297, DOI: 10.1080/00320447.2017.1352559](https://www.academia.edu/34969784/Long-distance_conveyance_of_California_obsidian_at_the_Hayhurst_lithic_cache_site_34ML168_in_Oklahoma)
 * [Davis, Kaitlyn. (2017) "The Ambassador's Herb": Tobacco Pipes as Evidence for Plains-Pueblo Interaction, Interethnic Negotiation, and Ceremonial Exchange in the Northern Rio Grande. Master's Thesis.](https://www.academia.edu/34126233/_The_Ambassadors_Herb_Tobacco_Pipes_as_Evidence_for_Plains-Pueblo_Interaction_Interethnic_Negotiation_and_Ceremonial_Exchange_in_the_Northern_Rio_Grande._Masters_Thesis)
@@ -1012,9 +1016,9 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 
 ## Oneota (900 CE - 1650 CE)
 
- * [Lauren W. Ritterbush & Brad Logan (2000) Late Prehistoric Oneota Population Movement into the Central Plains, Plains Anthropologist, 45:173, 257-272, DOI: 10.1080/2052546.2000.11931975](http://www.academia.edu/1393919/9._Late_Prehistoric_Oneota_in_the_Central_Plains)
- * [Lauren W. Ritterbush (2002) Drawn By The Bison Late Prehistoric Native Migration Into The Central Plains, Great Plains Quarterly Vol. 22, No. 4, Fall 2002, pp. 259-70.](http://digitalcommons.unl.edu/greatplainsquarterly/2308/)
- * [Directory of Oneota Scholars](http://dos.matrix.msu.edu/index.html)
+* [Lauren W. Ritterbush & Brad Logan (2000) Late Prehistoric Oneota Population Movement into the Central Plains, Plains Anthropologist, 45:173, 257-272, DOI: 10.1080/2052546.2000.11931975](http://www.academia.edu/1393919/9._Late_Prehistoric_Oneota_in_the_Central_Plains)
+* [Lauren W. Ritterbush (2002) Drawn By The Bison Late Prehistoric Native Migration Into The Central Plains, Great Plains Quarterly Vol. 22, No. 4, Fall 2002, pp. 259-70.](http://digitalcommons.unl.edu/greatplainsquarterly/2308/)
+* [Directory of Oneota Scholars](http://dos.matrix.msu.edu/index.html)
 
 ## Mesoamerican Early Postclassic (900 CE - 1200 CE)
 
@@ -1089,7 +1093,6 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 * [Tlaxcala - History](https://en.wikipedia.org/wiki/Tlaxcala#History)
 * [Wade, Lizzie. The Lost History Of Tlaxcallan. American Archeology Magazine. 6 Dec. 2017.](https://www.archaeologicalconservancy.org/lost-history-tlaxcallan/)
 
-
 ## Blood Run - South Dakota/Iowa, USA (1300 CE - 1700 CE)
 
 * [Native history, Bakken pipeline clash in Iowa's Blood Run area](https://www.desmoinesregister.com/story/news/2016/06/06/native-history-bakken-pipeline-clash-iowas-blood-run-area/85360706/)
@@ -1098,7 +1101,6 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 * [Blood Run National Historic Landmark](https://iowaculture.gov/history/sites/blood-run-national-historic-landmark)
 * [Blood Run Site](https://en.wikipedia.org/wiki/Blood_Run_Site)
 * [Blood Run by Allison Adelle Hedge Coke](https://www.saltpublishing.com/products/blood-run-9781844712663)
-
 
 ## Xalapa - Xalapa, Veracruz, MX - Totonac, Chichimecas, Toltecs, Teochichimecas (1313 CE - 1521 CE)
 
@@ -1170,7 +1172,6 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 * [The Origins of Plant Cultivation and Domestication in the New World Tropics](https://www.journals.uchicago.edu/doi/10.1086/659998)
 * [Marginal horticulturalists or maize agriculturalists? Archaeobotanical, paleopathological, and isotopic evidence relating to Langford Tradition maize consumption](https://www.academia.edu/1332730/Marginal_horticulturalists_or_maize_agriculturalists_Archaeobotanical_paleopathological_and_isotopic_evidence_relating_to_Langford_Tradition_maize_consumption)
 * [A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping](https://doi.org/10.1073/pnas.0507400102)
-
 
 # Genetics
 
@@ -1294,8 +1295,6 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
 * [McEvoy, Brian et al. Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American journal of human genetics. 13 Aug. 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
 
-
-
 # To Organize
 
 * http://artdaily.com/news/58025/Archaeologists--anthropologists-and-other-experts-meet--Mayas-prophesized--but-not-end-of-world-
@@ -1389,4 +1388,3 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * [Gulf Coast Post-Classic Period Ceramic Stamp](https://www.flickr.com/photos/101561334@N08/9765547811/in/album-72157635547085731/)
 * [Gulf Coast Post-Classic Period Ceramic Stamp](https://www.flickr.com/photos/101561334@N08/9765546131/in/album-72157635547085731/)
 * [Gulf Coast Post-Classic Period Ceramic Stamp](https://www.flickr.com/photos/101561334@N08/9765519082/in/album-72157635547085731/)
-* 
