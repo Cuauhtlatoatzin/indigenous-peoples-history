@@ -76,7 +76,7 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 * [Popular theory on how humans populated North America can't be right, study shows](https://www.cbc.ca/news/technology/ice-free-corridor-north-americans-1.3715397)
 * [Mcelrath, Dale & Emerson, Thomas. (2012). Reenvisioning Eastern Woodlands Archaic Origins. The Oxford Handbook of North American Archaeology. 10.1093/oxfordhb/9780195380118.013.0037.](https://www.researchgate.net/publication/286023289_Reenvisioning_Eastern_Woodlands_Archaic_Origins) - This is a really good overview.
   * `The antiquity of human entry into the New World has been one of the longest- running and most contentious debates in North American archaeology, with little resolution in sight. Scientists in the early 20th century, led by the famed physical anthropologist Ales Hrdlicka, were convinced people entered the New World in very recent times, perhaps a few thousand years BC. It was not until the discovery of extinct megafauna and associated artifacts at Folsom and Clovis, New Mexico and the chronometric analysis of Vance Haynes (1964) that the entry date was pushed back to about 12000 BP. However, South America researchers have for some time now, accepted dates in the 20,000–30,000 year range and have theoretically divorced themselves from their North American colleagues (Gruhn 2005), the ma- jority of whom, until recently, defamed any radiocarbon date that exceeded 12,000 years in age. Now that this Maginot Line has been crossed, it makes sense that much earlier dates should be entertained. Since seagoing vessels were necessary to colo- nize Australia (minimally 45000 BP and possibly 65000 BP) and Japan (minimally 30000 BP), and northern latitude cold-weather-adapted technologies were suffi- ciently well developed to enable occupation of major parts of eastern Siberia by 45000 BP, it would indeed be surprising if colonization of North America’s west coast had not begun by at least 30000 BP, especially since Northeast Asia and North America were joined for lengthy periods after 50,000 years ago. The possibility—in fact, the probability—of an early coastal entry into the New World appears strong.`
-* [Smith, Heather & Goebel, Thomas. Origins and spread of fluted-point technology in the Canadian Ice-Free Corridor and eastern Beringia. Proceedings of the National Academy of Sciences Apr 2018, 115 (16) 4116-4121; DOI: 10.1073/pnas.1800312115](https://doi.org/10.1073/pnas.1800312115)
+* [Smith, Heather & Goebel, Thomas. Origins and spread of fluted-point technology in the Canadian Ice-Free Corridor and eastern Beringia. Proceedings of the National Academy of Sciences. 17 April. 2018. 115(16): 4116-4121. DOI: 10.1073/pnas.1800312115](https://doi.org/10.1073/pnas.1800312115)
   * `Results link morphologies and technologies of Clovis, certain western Canadian, and northern fluted points, suggesting that fluting technology arrived in the Arctic from a proximate source in the interior Ice-Free Corridor and ultimately from the earliest populations in temperate North America, complementing new genomic models explaining the peopling of the Americas.`
   * `Despite this, the geographic distribution of points in the earliest clades supports the hypothesis that Clovis, early points from the Corridor, and northern fluted points share historical affinity and may represent either Clovis groups moving north through the Ice-Free Corridor to northern Yukon and Alaska, or the interaction of Clovis groups with humans already present in the northwestern Subarctic and Arctic. Both of these processes of fluted-point transmission to the north are supported by latitudinal and chronological trends.`
   * `Bison were potentially integral to the adaptation of the northward-dispersing fluted-point makers. During the last glacial maximum (ca. 24 ka), bison clades of Beringia were genetically distinct from those living south of the ice sheets (32); however, by 12.3–12 ka, a southern clade of bison had dispersed northward into the Ice-Free Corridor, reaching the Northwest Territories and becoming sympatric with the northern clade (12). Our results suggest an analogous process of human dispersal or information transmission, with humans from the southern Ice-Free Corridor spreading north to Arctic Alaska. As fluting technology spread northward, bison (Bison sp.) were still common in the Corridor, from Charlie Lake Cave in central British Columbia to Engigstciack in northern Yukon (32, 39). In Arctic Alaska, however, bison became locally extinct by 13.5 ka (12, 40), so that fluted-point–using groups in the Far North had to adjust their predatory focus to caribou (Rangifer tarandus), which were better suited to the region’s tussock-tundra communities (41). Not surprisingly, faunal assemblages from the only buried and dated fluted-point sites in northwestern Alaska contain caribou, not bison (9). This shift toward caribou could have occurred in the Corridor, as fluted-point makers were pulled northward and eastward along the margin of the retreating Laurentide ice, resulting in high frequencies of ancestral traits shared by Clovis, the early Ice-Free Corridor, and Great Lakes point forms.`
@@ -87,21 +87,26 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
   * [Than, Ker. On Way to New World, First Americans Made a 10,000-Year Pit Stop. National Geographic. 27 Feb. 2014.](https://news.nationalgeographic.com/news/2014/04/140227-native-americans-beringia-bering-strait-pit-stop/)
   * [Langlois, Krista, Heather Pringle. A Sunken Bridge the Size of a Continent. Hakai. 20 Sep. 2016](https://www.hakaimagazine.com/features/sunken-bridge-size-continent/?xid=PS_smithsonian)
 * **"[H]uman entry through a pre-coalescence ice-free corridor remains a possibility." (circa 25000 BCE)**
-  * [Mark E. Swisher, Dennis L. Jenkins, Lionel E. Jackson, Jr., Fred M. Phillips. A Reassessment of the Role of the Canadian Ice Free Corridor in Light of New Geological Evidence](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
+  * [Mark E. Swisher, Dennis L. Jenkins, Lionel E. Jackson, Jr., Fred M. Phillips. A Reassessment of the Role of the Canadian Ice Free Corridor in Light of New Geological Evidence. Current Archaeological Happenings in Oregon. 2013. 38(4): 9-14.](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
     * `A human range expansion into the Americas through an ice-free post-coalescence corridor has been hypothesized and tested for more than 75 years. Evidence from Paisley Caves and other archaeology sites support the interpretation that people inhabited the New World during the time of coalescent coast-to-coast ice cover of Canada. As the ages of human occupation sites become increasingly earlier (Holen and Holen, 2013), human entry through a pre-coalescence ice-free corridor remains a possibility.`
-  * [Native American mitochondrial DNA analysis indicates that the Amerind and the Nadene populations were founded by two independent migrations.](http://www.genetics.org/content/130/1/153.long)
+  * [A Torroni, T G Schurr, C C Yang, E J Szathmary, R C Williams, M S Schanfield, G A Troup, W C Knowler, D N Lawrence and K M Weiss. Native American mitochondrial DNA analysis indicates that the Amerind and the Nadene populations were founded by two independent migrations. Genetics. 1 January. 1992. 130(1): 153-162.](http://www.genetics.org/content/130/1/153.long)
     * `The similarity of the sequence divergences of the Amerind clusters A, C, and D suggest that those were the founding linages of the Paleoindians. Using the weighted mean value of 0.084%, the Amerind mtDNA lineages are estimated to have begun radiating betwen 21,000 - 42,000 YBP. If most of this radiation occured after entry into the Americas, this time range would suggest that the Americas were colonized before the dates associated with the oldest Paleoindian skeletal remains (14,00 YBP) and Clovis lithic artifacts (11,500 YBP), and would be consistent with the estimated ages of the oldest American archeological sites.`
 * [Bastien Llamas. Ancient mitochondrial DNA provides high-resolution time scale of the peopling of the Americas. Science Advances. 2(4). 01 April. 2016.](https://advances.sciencemag.org/content/2/4/e1501385)
 * [Ted Goebel, Michael R. Waters, Dennis H. O'Rourke. The Late Pleistocene Dispersal of Modern Humans in the Americas. Science. 319(5869): 1497-1502. 14 March. 2008.](https://science.sciencemag.org/content/319/5869/1497)
 * [Peter D. Heintzman. Bison phylogeography constrains dispersal and viability of the Ice Free Corridor in western Canada. PNAS. 113(29): 8057-8063. 19 July. 2016.](https://www.pnas.org/content/113/29/8057)
-* **Glaciers, Corridors, Ocean Levels, and Erosion**
+* **Glaciers, Corridors, Ocean Levels, Erosion, and Climate Change**
   * [Andrea Fildani, Angela M. Hessler, Cody C. Mason, Matthew P. McKay & Daniel F. Stockli. Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. (8) 13839. 14 September. 2018.](https://doi.org/10.1038/s41598-018-32268-7)
   * [B. Menounos, B. M. Goehring, G. Osborn, M. Margold, B. Ward, J. Bond, G. K. C. Clarke, J. J. Clague, T. Lakeman, J. Koch, M. W. Caffee, J. Gosse, A. P. Stroeven, J. Seguinot, J. Heyman. Cordilleran Ice Sheet mass loss preceded climate reversals near the Pleistocene Termination. Science. 358(6364): 781-784. 10 November. 2017.](https://doi.org/10.1126/science.aan3001)
+  * [Daniel E. Platt, Marc Haber, Magda Bou Dagher-Kharrat, Bouchra Douaihy, Georges Khazen, Maziar Ashrafian Bonab, Angélique Salloum, Francis Mouzaya, Donata Luiselli, Chris Tyler-Smith, Colin Renfrew, Elizabeth Matisoo-Smith & Pierre A. Zalloua. Mapping Post-Glacial expansions: The Peopling of Southwest Asia. Scientific Reports. 6 January. 2017. 7.](https://www.nature.com/articles/srep40338)
   * [Kurt Lambeck, Hélène Rouby, Anthony Purcell, Yiying Sun, and Malcolm Sambridge. Sea level and global ice volumes from the Last Glacial Maximum to the Holocene. PNAS. 111(43): 15296-15303. 28 October. 2014.](https://doi.org/10.1073/pnas.1411762111)
   * [Alexander Robinson, Reinhard Calov, Andrey Ganopolski. Multistability and critical thresholds of the Greenland ice sheet. Nature Climate Change. (2): 429–432. 11 March. 2012](https://doi.org/10.1038/nclimate1449)
+  * [Mark E. Swisher, Dennis L. Jenkins, Lionel E. Jackson, Jr., and Fred M. Phillips. A Reassessment of the Role of the Canadian Ice-free Corridor in Light of New Geological Evidence. Current Archaeological Happenings in Oregon. 2013. 38(4): 9-14.](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
   * [Andrew C. Kemp, Benjamin P. Horton, Jeffrey P. Donnelly, Michael E. Mann, Martin Vermeer, and Stefan Rahmstorf. Climate related sea-level variations over the past two millennia. PNAS. 108(27) 11017-11022. 5 July. 2011.](https://doi.org/10.1073/pnas.1015619108)
-  * [J.D.Stanford, R.Hemingway, E.J.Rohling, P.G.Challenor, M.Medina-Elizalde, A.J.Lester. Sea-level probability for the last deglaciation: A statistical analysis of far-field records. Global and Planetary Change. 79(3-4): 193-203. Decamber. 2011.](https://doi.org/10.1016/j.gloplacha.2010.11.002)
+  * [J.D. Stanford, R. Hemingway, E.J. Rohling, P.G. Challenor, M. Medina-Elizalde, A.J. Lester. Sea-level probability for the last deglaciation: A statistical analysis of far-field records. Global and Planetary Change. 79(3-4): 193-203. Decamber. 2011.](https://doi.org/10.1016/j.gloplacha.2010.11.002)
+  * [Brian Switek. Mastodon fossil throws up questions over 'rapid' extinction. Nature News. 20 October. 2011.](https://www.nature.com/news/2011/111020/full/news.2011.606.html)
+  * [J. TylerFaith. Late Pleistocene climate change, nutrient cycling, and the megafaunal extinctions in North America. Quaternary Science Reviews. June. 2011. 30(13-14): 1675-1680.](https://doi.org/10.1016/j.quascirev.2011.03.011)
   * [Peter U. Clark, Arthur S. Dyke, Jeremy D. Shakun, Anders E. Carlson, Jorie Clark, Barbara Wohlfarth, Jerry X. Mitrovica, Steven W. Hostetler, A. Marshall McCabe. The Last Glacial Maximum. Science. 325(5941): 710-714. 7 August. 2009.](https://doi.org/10.1126/science.1172873)
+  * [Jacquelyn L. Gill, John W. Williams, Stephen T. Jackson, Katherine B. Lininger, Guy S. Robinson. Pleistocene Megafaunal Collapse, Novel Plant Communities, and Enhanced Fire Regimes in North America. Science. 20 November. 2009. 326: 1100-1103.](http://www.blc.arizona.edu/courses/schaffer/182h/Mass%20Extinction/Gill%20Plaistocene%20Megafaunal%20Collapse.pdf)
   * [Philip A. Allen. From landscapes into geological history. Nature. (451): 274–276. 17 January. 2008.](https://doi.org/10.1038/nature06586)
 
 ## Pre Clovis (before 11000 BCE)
@@ -156,6 +161,7 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Gibbons, Ann. Oldest stone tools in the Americas claimed in Chile. Science.com. 18 Nov. 2015.](http://www.sciencemag.org/news/2015/11/oldest-stone-tools-americas-claimed-chile)
 * [Entman, Liz. New clues emerge about the earliest known Americans. Vanderbuilt University Press Release. 18 Nov. 2015.](https://news.vanderbilt.edu/2015/11/18/new-clues-emerge-about-the-earliest-known-americans/)
 * [Kamrani, Kambiz. Earliest known archaeological evidence of Americans found in Monte Verde, Chile. Archeology.net. 8 May. 2008.](https://anthropology.net/2008/05/08/earliest-known-archaeological-evidence-of-americans-found-in-monte-verde-chile/)
+* [Tom D. Dillehay, C. Ramírez, M. Pino, M. B. Collins, J. Rossen, J. D. Pino-Navarro. Monte Verde: Seaweed, Food, Medicine, and the Peopling of South America. 9 May. 2008. 320(5877): 784-786.](https://science.sciencemag.org/content/320/5877/784)
 * [Rose, Mark. The Importance of Monte Verde. Archeology.org. 18 Oct. 1999.](https://archive.archaeology.org/online/features/clovis/rose1.html)
 
 ## Meadowcroft Rock Shelter - Washington County, Pennsylvania, USA (15250 BCE)
@@ -183,8 +189,9 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 ## Debra L Fiedkin Site, Texas, USA (13500 BCE - 11200 BCE)
 
 * [Buttermilk Creek Complex](https://en.wikipedia.org/wiki/Buttermilk_Creek_Complex)
-* [Thomas A. Jennings and Michael R. Waters. PRE-CLOVIS LITHIC TECHNOLOGY AT THE DEBRA L. FRIEDKIN SITE, TEXAS: COMPARISONS TO CLOVIS THROUGH SITE-LEVEL BEHAVIOR, TECHNOLOGICAL TRAIT-LIST, AND CLADISTIC ANALYSES. American Antiquity Vol. 79, No. 1 (January 2014), pp. 25-44](https://www.jstor.org/stable/24712725?seq=1&googleloggedin=true#page_scan_tab_contents)
-* [Watter, Michael L. et al. The Debra L. Friedkin Site, Texas and the origins of Clovis. Science. 331. 1599. (2011)](https://www.researchgate.net/publication/50850836_The_Debra_L_Friedkin_Site_Texas_and_the_origins_of_Clovis)
+* [Thomas A. Jennings and Michael R. Waters. PRE-CLOVIS LITHIC TECHNOLOGY AT THE DEBRA L. FRIEDKIN SITE, TEXAS: COMPARISONS TO CLOVIS THROUGH SITE-LEVEL BEHAVIOR, TECHNOLOGICAL TRAIT-LIST, AND CLADISTIC ANALYSES. American Antiquity. January. 2014. 79(1): 25-44](https://www.jstor.org/stable/24712725?seq=1&googleloggedin=true#page_scan_tab_contents)
+* [Matt Kaplan. Stone tools cut swathe through Clovis history. Nature News. 24 March. 2011.](https://www.nature.com/news/2011/110324/full/news.2011.185.html)
+* [Watter, Michael L. et al. The Buttermilk Creek Complex and the Origins of Clovis at the Debra L. Friedkin Site, Texas. Science. 25 March. 2011. 331(6024): 1599-1603.](https://science.sciencemag.org/content/331/6024/1599) &mdash; [Research Gate](https://www.researchgate.net/publication/50850836_The_Debra_L_Friedkin_Site_Texas_and_the_origins_of_Clovis)
 * [Bryn, Brandon. Science: Artifacts in Texas Predate Clovis Culture by 2500 Years. AAAS News. 24 Mar. 2011](https://www.aaas.org/news/science-artifacts-texas-predate-clovis-culture-2500-years)
 * [Waters, Michael R., et al. Pre-Clovis projectile points at the Debra L. Friedkin site, Texas—Implications for the Late Pleistocene peopling of the Americas. Science Advances. 24 Oct 2018: Vol. 4, no. 10, eaat4505 DOI: 10.1126/sciadv.aat4505](http://advances.sciencemag.org/content/4/10/eaat4505)
 
@@ -193,16 +200,43 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Human (Clovis)–gomphothere (Cuvieronius sp.) association ∼13,390 calibrated yBP in Sonora, Mexico](http://www.pnas.org/content/111/30/10972)
 * [Ancient Clovis Elephant-Hunting Camp Discovered in Mexico](http://westerndigs.org/clovis-elephant-hunting-site-discovered-in-mexico/)
 
+## Ållerød–Younger Dryas boundary (13000 BCE - 12900 BCE)
+
+* [J. R. Marlon, P. J. Bartlein, M. K. Walsh, S. P. Harrison, K. J. Brown, M. E. Edwards, P. E. Higuera, M. J. Power, R. S. Anderson, C. Briles, A. Brunelle, C. Carcaillet, M. Daniels, F. S. Hu, M. Lavoie, C. Long, T. Minckley, P. J. H. Richard, A. C. Scott, D. S. Shafer,r W. Tinner, C. E. Umbanhowar, Jr, and C. Whitlock. Wildfire responses to abrupt climate change in North America. Proceedings of the National Academy of Sciences of the USA. 24 February. 2009. 106(8): 2519-2524.](https://dx.doi.org/10.1073%2Fpnas.0808212106)
+* [D.J. Kennett, J.P. Kennett, G.J. West, J.M. Erlandson, J.R. Johnson, I.L. Hendy, A. West, B.J. Culleton, T.L. Jones, Thomas W. Stafford,Jr. Wildfire and abrupt ecosystem disruption on California’s Northern Channel Islands at the Ållerød–Younger Dryas boundary (13.0–12.9 ka). Quat. Sci. Rev. 27, 2530 (2008). doi:10.1016/j.quascirev.2008.09.006](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1025&context=ssci_fac)
+
+* **Younger Dryas Impact Hypothesis**
+  * [Sonia Fernandez. Earth-changing asteroid impact theory gets new evidence. Futurity. 20 March. 2019.](https://www.futurity.org/younger-dryas-impact-hypothesis-evidence-2013702/)
+  * [Mario Pino, Ana M. Abarzúa, Giselle Astorga, Alejandra Martel-Cea, Nathalie Cossio-Montecinos, R. Ximena Navarro, Maria Paz Lira, Rafael Labarca, Malcolm A. LeCompte, Victor Adedeji, Christopher R. Moore, Ted E. Bunch, Charles Mooney, Wendy S. Wolbach, Allen West, and James P. Kennett. Sedimentary record from Patagonia, southern Chile supports cosmic-impact triggering of biomass burning, climate change, and megafaunal extinctions at 12.8 ka. Scientific Reports. 13 March. 2019. 9: 4413.](https://dx.doi.org/10.1038%2Fs41598-018-38089-y)
+  * [Wendy S. Wolbach, Joanne P. Ballard, Paul A. Mayewski, Victor Adedeji, Ted E. Bunch, Richard B. Firestone, Timothy A. French, George A. Howard, Isabel Israde-Alcántara, John R. Johnson, David Kimbel, Charles R. Kinzie, Andrei Kurbatov, Gunther Kletetschka, Malcolm A. LeCompte, William C. Mahaney, Adrian L. Melott, Abigail Maiorana-Boutilier, Siddhartha Mitra, Christopher R. Moore, William M. Napier, Jennifer Parlier, Kenneth B. Tankersley, Brian C. Thomas, James H. Wittke, Allen West, and James P. Kennett. Extraordinary Biomass-Burning Episode and Impact Winter Triggered by the Younger Dryas Cosmic Impact ∼12,800 Years Ago. 1. Ice Cores and Glaciers. March. 2018. 126(2)](https://www.journals.uchicago.edu/doi/10.1086/695703) &mdash; [PDF](https://cosmictusk.com/wp-content/uploads/Wolbach-2018-Fire-Part-1-MS.pdf)
+  * [Paul Voosen. Ice age impact. Science. 16 November. 2018. 362(6416): 738-742.](https://science.sciencemag.org/content/362/6416/738)
+  * [Paul Voosen. Massive crater under Greenland’s ice points to climate-altering impact in the time of humans. Science News. 14 November. 2018.](https://www.sciencemag.org/news/2018/11/massive-crater-under-greenland-s-ice-points-climate-altering-impact-time-humans)
+  * [Kurt H. Kjær, Nicolaj K. Larsen, Tobias Binder, Anders A. Bjørk, Olaf Eisen, Mark A. Fahnestock, Svend Funder, Adam A. Garde, Henning Haack, Veit Helm, Michael Houmark-Nielsen, Kristian K. Kjeldsen, Shfaqat A. Khan, Horst Machguth, Iain McDonald, Mathieu Morlighem, Jérémie Mouginot, John D. Paden, Tod E. Waight, Christian Weikusat, Eske Willerslev, and Joseph A. MacGregor. A large impact crater beneath Hiawatha Glacier in northwest Greenland. Science Advances. 2 November. 2018. 4(11)](https://advances.sciencemag.org/content/4/11/eaar8173)
+  * [Wendy S. Wolbach, Joanne P. Ballard, Paul A. Mayewski, Victor Adedeji, Ted E. Bunch, Richard B. Firestone, Timothy A. French, George A. Howard, Isabel Israde-Alcántara, John R. Johnson, David Kimbel, Charles R. Kinzie, Andrei Kurbatov, Gunther Kletetschka, Malcolm A. LeCompte, William C. Mahaney, Adrian L. Melott, Abigail Maiorana-Boutilier, Siddhartha Mitra, Christopher R. Moore, William M. Napier, Jennifer Parlier, Kenneth B. Tankersley, Brian C. Thomas, James H. Wittke, Allen West, and James P. Kennett. Extraordinary Biomass-Burning Episode and Impact Winter Triggered by the Younger Dryas Cosmic Impact ∼12,800 Years Ago. 2. Lake, Marine, and Terrestrial Sediments March. 2018. 126(2)](https://www.journals.uchicago.edu/doi/10.1086/695703) &mdash; [PDF](https://cosmictusk.com/wp-content/uploads/Wolbach-2018-Fire-Part-2-MS.pdf)
+  * [Christopher R. Moore, Allen West, Malcolm A. LeCompte, Mark J. Brooks, I. Randolph Daniel, Jr., Albert C. Goodyear, Terry A. Ferguson, Andrew H. Ivester, James K. Feathers, James P. Kennett, Kenneth B. Tankersley, A. Victor Adedeji, and Ted E. Bunch. Widespread platinum anomaly documented at the Younger Dryas onset in North American sedimentary sequences. Scientific Reports. 9 March. 2017. 7: 44031.](https://dx.doi.org/10.1038%2Fsrep44031)
+  * [Péter Németh, Laurence A. J. Garvie, and Peter R. Buseck. Twinning of cubic diamond explains reported nanodiamond polymorphs. Scientific Reports. 2015. 5: 18381.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4680963/)
+  * [James P. Kennett, Douglas J. Kennett, Brendan J. Culleton, J. Emili Aura Tortosa, James L. Bischoff, Ted E. Bunch, I. Randolph Daniel, Jr., Jon M. Erlandson, David Ferraro, Richard B. Firestone, Albert C. Goodyear, Isabel Israde-Alcántara, John R. Johnson, Jesús F. Jordá Pardo, David R. Kimbel, Malcolm A. LeCompte, Neal H. Lopinot, William C. Mahaney, Andrew M. T. Moore, Christopher R. Moore, Jack H. Ray, Thomas W. Stafford, Jr., Kenneth Barnett Tankersley, James H. Wittke, Wendy S. Wolbach, and Allen West. Bayesian chronological analyses consistent with synchronous age of 12,835–12,735 Cal B.P. for Younger Dryas boundary on four continents. PNAS. 11 August. 2015. 112(32): E4344–E4353.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538614/)
+  * [David J. Meltzer, Vance T. Holliday, Michael D. Cannon, and D. Shane Miller. Chronological evidence fails to support claim of an isochronous widespread layer of cosmic impact indicators dated to 12,800 years ago. PNAS. 27 May. 2014. 111(21): E2162–E2171](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4040610/)
+  * [Mark Boslough. Greenland Pt anomaly may point to noncataclysmic Cape York meteorite entry. Proceedings of the National Academy of Sciences of the United States of America. 24 December. 2013. 110(52): E5035.](https://dx.doi.org/10.1073%2Fpnas.1320328111)
+  * [Mark Boslough, Alan W. Harris, Clark Chapman, and David Morrison. Younger Dryas impact model confuses comet facts, defies airburst physics. PNAS. 5 November. 2013. 110(45) E4170.](https://doi.org/10.1073/pnas.1313495110)
+  * [H. Tian, D. Schryvers, and Ph. Claeys. Nanodiamonds do not provide unique evidence for a Younger Dryas impact. PNAS. 4 January. 2011. 108(1): 40-44.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3017148/)
+  * [Vance T. Holliday, David J. Meltzer. The 12.9-ka ET Impact Hypothesis and North American Paleoindians. Current Anthropology. October. 2010. 51(5): 575-607.](https://doi.org/10.1086/656015)
+  * [Briggs Buchanan,* Mark Collard, and Kevan Edinborough. Paleoindian demography and the extraterrestrial impact hypothesis. Proc Natl Acad Sci USA. 19 August. 2008. 105(33): 11651-11654.](https://dx.doi.org/10.1073%2Fpnas.0803762105)
+
 ## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
 
 * [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
 * [Hodges, Glenm. Discovery Points to Earlier Arrival of First Americans. National Geographic. 13 May. 2016.](https://news.nationalgeographic.com/2016/05/160513-first-americans-clovis-mastodon-florida-page-ladson/)
-* [Halligan, Jessi J. et al. Pre-Clovis occupation 14,550 years ago at the Page-Ladson site, Florida, and the peopling of the Americas.Science Advances. 13 May 2016: Vol. 2, no. 5, e1600375 DOI: 10.1126/sciadv.1600375](http://advances.sciencemag.org/content/2/5/e1600375)
+* [Halligan, Jessi J. et al. Pre-Clovis occupation 14,550 years ago at the Page-Ladson site, Florida, and the peopling of the Americas. Science Advances. 13 May. 2016. 2(5), e1600375 DOI: 10.1126/sciadv.1600375](http://advances.sciencemag.org/content/2/5/e1600375)
 * [Weisberger, Mindy. Scarred, Sunken Mastodon Hints at Earlier Human Arrival in Americas. Live Science. 13 May. 2016.](https://www.livescience.com/54735-mastodon-remains-in-underwater-site.html)
 
-## Oregon, USA (12300 BCE)
+## Paisley 5 Mile Point Caves, Oregon, USA (12300 BCE)
 
-* [Balter, Micheal. "DNA From Fossil Feces Breaks Clovis Barrier." Science  04 Apr. 2008: Vol. 320, Issue 5872, pp. 37](http://science.sciencemag.org/content/320/5872/37.summary)
+* [Lisa-Marie Shillito, John C. Blong, Dennis L. Jenkins, Thomas W. Stafford Jr, Helen Whelton, Katelyn McDonough & Ian D. Bull. New Research at Paisley Caves: Applying New Integrated Analytical Approaches to Understanding Stratigraphy, Taphonomy, and Site Formation Processes. PaleoAmerica. 9 January. 2018. 4(1): 82-86, DOI: 10.1080/20555563.2017.1396167](https://www.tandfonline.com/doi/full/10.1080/20555563.2017.1396167) &mdash; [PDF](https://pdfs.semanticscholar.org/5a21/0be907c13daf56964efa814a8934a88c405d.pdf)
+* [Jenkins DL, Davis LG, Stafford TW, Connolly TJ, Jones GT, Rondeau M et al. Younger dryas archaeology and human experience at the Paisley Caves in the Northern Great Basin. In Kornfeld M, Huckell BB, editors, Stones, bones and profiles: exploring archaeological context, early American hunter-gatherers, and bison. Utah State University Press. 2016. p. 127-204 https://doi.org/10.5876/9781607324539.c006](https://www.researchgate.net/profile/Thomas_Stafford_Jr/publication/304010612_Younger_Dryas_Archaeology_and_Human_Experience_at_the_Paisley_Caves_in_the_Northern_Great_Basin/links/5cbba338299bf12097747ae2/Younger-Dryas-Archaeology-and-Human-Experience-at-the-Paisley-Caves-in-the-Northern-Great-Basin.pdf)
+* [Katelyn McDonough, Ian Luthe, Mark E. Swisher, Dennis L. Jenkins, Patrick O'Grady, Frances White. ABCs at the Paisley Caves: Artifact, Bone, and Coprolite Distributions in Pre-Mazama Deposits. Current Archaeological Happenings in Oregon. 2012. 37(2-3): 7-12.](https://pdfs.semanticscholar.org/fa00/d1c5bbef3b4d415e36b52527aee8de60cd47.pdf?_ga=2.251507206.1430381601.1565417974-133447924.1565417974)
+* [Balter, Micheal. "DNA From Fossil Feces Breaks Clovis Barrier." Science. 04 April. 2008. 320(5872): 37](http://science.sciencemag.org/content/320/5872/37.summary)
+* [M. Thomas. P. Gilbert, Dennis L. Jenkins, et al. DNA from Pre-Clovis Human Coprolites in Oregon, North America. Science. 09 May. 2008. 320(5877): 786-789.](https://science.sciencemag.org/content/320/5877/786)
 * [Pre-Clovis Human DNA Found In 14,300-year-old Feces In Oregon Cave Is Oldest In New World](https://www.sciencedaily.com/releases/2008/04/080403141109.htm)
 
 ## Triquet Island, British Columbia, Canada (12000 BCE)
@@ -216,13 +250,17 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Shore, Randy. Heiltsuk First Nation village among oldest in North America: Archeologists. Vancouver Sun. 29 Mar. 2017.](https://vancouversun.com/news/local-news/heiltsuk-first-nation-village-among-oldest-in-north-america-archeologists)
 * [Taylor, Christie. A 14,000 Year-Old Discovery Emerges From Oral History. Science Friday. 14 Apr. 2017.](https://www.sciencefriday.com/segments/a-14000-year-old-discovery-emerges-from-oral-history/)
 
-## Manis Site, Washington, USA (11000 BCE)
+## Manis Site, Washington, USA (12000 BCE)
 
 * [Manis Mastodon Site](https://en.wikipedia.org/wiki/Manis_Mastodon_Site)
 * [Gustafson, Carl E. The Manis Mastodon Site: An Adventure In Prehistory. Washington State Magazine. Summer. 2012.](https://magazine.wsu.edu/web-extra/the-manis-mastodon-site-an-adventure-in-prehistory/)
-* [Waters, Michael R. et al. Pre-Clovis Mastodon Hunting 13,800 Years Ago at the Manis Site, Washington. Science 334(6054):351-3. Oct. 2011.](https://www.researchgate.net/publication/51737194_Pre-Clovis_Mastodon_Hunting_13800_Years_Ago_at_the_Manis_Site_Washington)
+* [Waters, Michael R. et al. Pre-Clovis Mastodon Hunting 13,800 Years Ago at the Manis Site, Washington. Science. 21 October. 2011. 334(6054):351-3.](https://www.researchgate.net/publication/51737194_Pre-Clovis_Mastodon_Hunting_13800_Years_Ago_at_the_Manis_Site_Washington)
 * [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
 * [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
+
+## Northern Channel Islands, California, USA (11000 BCE)
+
+* [Jon M. Erlandson, Torben C. Rick, Todd J. Braje, Molly Casperson, Brendan Culleton, Brian Fulfrost, Tracy Garcia, Daniel A. Guthrie, Nicholas Jew, Douglas J. Kennett, Madonna L. Moss, Leslie Reeder, Craig Skinner, Jack Watts, Lauren Willis. Paleoindian Seafaring, Maritime Technologies, and Coastal Foraging on California’s Channel Islands. Science. 04 March. 2011. 331(6021): 1181-1185.](https://science.sciencemag.org/content/331/6021/1181)
 
 ## Clovis (13500 BCE - 11000 BCE)
 
@@ -241,7 +279,7 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 
 ## Mesoamerican Paleo Indian (10000 BCE - 3500 BCE)
 
-## 12,300-Year-Old Hearth  Unearthed in Utah
+## 12,300-Year-Old Hearth Unearthed in Utah
 
 * [Far Western Crew Unearths 12,300-Year-Old Hearth in Utah](http://farwestern.com/12300-year-old-hearth-in-utah/)
 * [Evidence of Great Basin's earliest inhabitants found at Utah training range](https://www.standard.net/news/evidence-of-great-basin-s-earliest-inhabitants-found-at-utah/article_8020c307-7699-5e0e-bfd5-89c64b3be226.html)
@@ -294,6 +332,10 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 ### Balsas River Valley - MX (7200 BCE - ?)
 
 * [Balsas River Valley](https://en.wikipedia.org/wiki/Balsas_River)
+
+## An 8000-year record of vegetation, climate, and human disturbance from the Sierra de Apaneca, El Salvador (8000 BCE)
+
+* [Robert A. Dull. An 8000-year record of vegetation, climate, and human disturbance from the Sierra de Apaneca, El Salvador. March. 2004. 61(2): 159-167](https://www.cambridge.org/core/journals/quaternary-research/article/an-8000year-record-of-vegetation-climate-and-human-disturbance-from-the-sierra-de-apaneca-el-salvador/5D6ADDABA882A1E6C826BF8C5A22E1EE)
 
 ## Paleo-Arctic Tradition (8000 BCE - 5000 BCE)
 
@@ -759,6 +801,10 @@ Also occupied by a few other cultures:
 
 ## Classic Period (500 BCE - 1200 CE)
 
+## Timing and climate forcing of volcanic eruptions for the past 2,500 years (500 BCE)
+
+* [M. Sigl, M. Winstrup, J. R. McConnell, K. C. Welten, G. Plunkett, F. Ludlow, U. Büntgen, M. Caffee, N. Chellman, D. Dahl-Jensen, H. Fischer, S. Kipfstuhl, C. Kostick, O. J. Maselli, F. Mekhaldi, R. Mulvaney, R. Muscheler, D. R. Pasteris, J. R. Pilcher, M. Salzer, S. Schüpbach, J. P. Steffensen, B. M. Vinther & T. E. Woodruff. Timing and climate forcing of volcanic eruptions for the past 2,500 years. Nature. 30 July. 2019. 523: 543-549](https://www.nature.com/articles/nature14565) &mdash; [PDF](https://pure.qub.ac.uk/portal/files/16135501/258284_3_high_res_merged_1429871467.pdf)
+
 ## Naj Tunich - Las Montañas Mayas, Petén, Guatamala - Maya (500 BCE - 900 CE)
 
 * [Naj Tunich](https://es.wikipedia.org/wiki/Naj_Tunich)
@@ -804,6 +850,7 @@ Shows a trade connection or influence from Veracruz.
 * [Where did the ancient Teotihuacanos come from?](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-ancient-teotihuacanos-come/3025/)
 * [The History of the Native Peoples of the Americas/Mesoamerican Cultures/Teotihuacanos](https://en.wikibooks.org/wiki/The_History_of_the_Native_Peoples_of_the_Americas/Mesoamerican_Cultures/Teotihuacanos)
 * [Totonac](https://en.wikipedia.org/wiki/Totonac)
+* [de Young Museum Curators. "Teotihuacan: City of Water, City of Fire." Digital Stories. de Young Museum.](https://digitalstories.famsf.org/teo/#start)
 
 ## La Mojarra - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (300 BCE - 1000 CE)
 
@@ -921,6 +968,17 @@ And it wasn't the only time either:
 * [Radiocarbon and DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile](https://doi.org/10.1073/pnas.0703993104) - (1321 CE – 1407 CE)
 *[Indo-European and Asian origins for Chilean and Pacific chickens revealed by mtDNA](https://dx.doi.org/10.1073%2Fpnas.0801991105)
 
+## "Worst Year to Be Alive" (536 CE)
+
+* [Wikipedia contributors. "Extreme weather events of 535–536." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 22 May. 2019. Web. 11 Aug. 2019.](https://en.wikipedia.org/w/index.php?title=Extreme_weather_events_of_535%E2%80%93536&oldid=898207589)
+* [Ann Gibbons. Why 536 was "the worst years to be alive". Science News. 15 November. 2018.](https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive)
+* [Sarah Zielinski. Sixth-Century Misery Tied to Not One, But Two, Volcanic Eruptions. Smithsonian.com. 8 July. 2015.](https://www.smithsonianmag.com/science-nature/sixth-century-misery-tied-not-one-two-volcanic-eruptions-180955858/)
+* [Dallas H. Abbott, Dee Breger, Pierre E. Biscaye, John A. Barron, Robert A. Juhl, Patrick McCafferty. "What caused terrestrial dust loading and climate downturns between A.D. 533 and 540?", Volcanism, Impacts, and Mass Extinctions: Causes and Effects. Gerta Keller, Andrew C. Kerr, ed. The Geological Society of America. vol 505. September. 2014.](https://pubs.geoscienceworld.org/books/book/674/chapter/3808140/What-caused-terrestrial-dust-loading-and-climate)
+* [Cadell Last. Supervolcanoes in the Ancient World. Scientific American. 17 April. 2013.](https://blogs.scientificamerican.com/guest-blog/supervolcanoes-in-the-ancient-world/)
+* [Sara E. Pratt. AAG: Eruption of El Salvador's Ilopango explains A.D. 536 cooling. Earth Magazine. 25 February. 2012.](https://www.earthmagazine.org/article/aag-eruption-el-salvadors-ilopango-explains-ad-536-cooling)
+* [Ker Than. Comet smashes triggered ancient famine. New Scientist. 30 December. 2008.](https://www.newscientist.com/article/mg20126882-900-comet-smashes-triggered-ancient-famine/)
+* [Robert A. Dull, John R. Southon, and Payson Sheets. Volcanism, Ecology and Culture: A Reassessment of the Volcán Ilopango TBJ Eruption in the Southern Maya Realm. Latin American Antiquity. March. 2001. 12(1): 25-44](https://doi.org/10.2307/971755) &mdash; [PDF](https://www.researchgate.net/publication/272154145_Volcanism_Ecology_and_Culture_a_Reassessment_of_the_Volcan_Ilopango_TBJ_Eruption_in_the_Southern_Maya_Realm)
+
 ## Late Woodland (500 CE - 1000 CE)
 
 ### Baytown (300 CE - 700 CE)
@@ -932,6 +990,10 @@ And it wasn't the only time either:
 ### Coles Creek (700 CE - 1100 CE)
 
 ## Mesoamerican Late Classic (600 CE - 900 CE)
+
+## Human versus climatic influences on late-Holocene fire regimes in southwestern Nicaragua (600 BCE - 2000 CE)
+
+* [Shiri Avnery, Robert A. Dull and Timothy H. Keitt. Human versus climatic influences on late-Holocene fire regimes in southwestern Nicaragua. The Holocene. 21 April. 2011. 1-8. Sage. DOI: 10.1177/0959683610391314](https://doi.org/10.1177%2F0959683610391314) &mdash; [PDF](https://sites.cns.utexas.edu/sites/default/files/keittlab/files/the_holocene-2011-avnery-0959683610391314.pdf)
 
 ## Cara Blanca (600 CE - 900 CE)
 
@@ -1137,6 +1199,9 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 #### European Contact
 
 * [European-contact and Southwestern Artifacts in the Lower Walnut Focus Sites at Arkansas City, Kansas](https://www.researchgate.net/publication/260468487_European-contact_and_Southwestern_Artifacts_in_the_Lower_Walnut_Focus_Sites_at_Arkansas_City_Kansas)
+* **Genocide Induced Climate Change**
+  * [R.J. Nevle, D.K. Bird, W.F. Ruddiman and R.A. Dull (2011) Neotropical human–landscape interactions, fire, and atmospheric CO2 during European conquest. The Holocene. Sage. DOI: 10.1177/0959683611404578](https://www.researchgate.net/profile/Robert_Dull/publication/254097445_Neotropical_human-landscape_interactions_fire_and_atmospheric_CO2_during_European_conquest/links/54de2fc40cf2814662ee17af.pdf)
+  * [Robert A. Dull , Richard J. Nevle , William I. Woods , Dennis K. Bird , Shiri Avnery & William M. Denevan (2010) The Columbian Encounter and the Little Ice Age: Abrupt LandUse Change, Fire, and Greenhouse Forcing, Annals of the Association of American Geographers,100:4, 755-771, DOI: 10.1080/00045608.2010.502432](https://doi.org/10.1080/00045608.2010.502432) &mdash; [PDF](https://www.bushdoctor.com.au/imagesDB/documents/Dull.EtAl_ColumbianEncounterAndLittleIceAge.AbruptLandUseChangeFireGreenhouseForcing.pdf)
 
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
 
@@ -1276,7 +1341,9 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * [mtDNA sequences suggest a recent evolutionary divergence for Beringian and northern North American populations.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682422/)
 * [mtDNA Variation among Greenland Eskimos: The Edge of the Beringian Expansion.](https://doi.org/10.1086/303038)
 * [Torroni, A., Sukernik, R. I., Schurr, T. G., Starikorskaya, Y. B., Cabell, M. F., Crawford, M. H., Comuzzie, A. G., … Wallace, D. C. (1993). mtDNA variation of aboriginal Siberians reveals distinct genetic affinities with Native Americans. American journal of human genetics, 53(3), 591-608.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682407/)
+* [Tamm E, Kivisild T, Reidla M, Metspalu M, Smith DG, Mulligan CJ, et al. (2007) Beringian Standstill and Spread of Native American Founders. PLoS ONE 2(9): e829.](https://doi.org/10.1371/journal.pone.0000829)
 * [Malhi, Ripan S.; Mortensen, Holly M.; Eshleman, Jason A.; Kemp, Brian M.; Lorenz, Joseph G.; Kaestle, Frederika A.; Johnson, John R.; Gorodezky, Clara; Smith, David Glenn (2003)."Native American mtDNA prehistory in the American Southwest." American Journal of Physical Anthropology 120(2): 108-124. <http://hdl.handle.net/2027.42/34277>](http://hdl.handle.net/2027.42/34277)
+* [Morten Rasmussen, Yingrui Li, Stinus Lindgreen, Jakob Skou Pedersen, Anders Albrechtsen, Ida Moltke, Mait Metspalu, Ene Metspalu, Toomas Kivisild, Ramneek Gupta, Marcelo Bertalan, Kasper Nielsen, M. Thomas P. Gilbert, Yong Wang, Maanasa Raghavan, Paula F. Campos, Hanne Munkholm Kamp, Andrew S. Wilson, Andrew Gledhill, Silvana Tridico, Michael Bunce, Eline D. Lorenzen, Jonas Binladen, Xiaosen Guo, Jing Zhao, Xiuqing Zhang, Hao Zhang, Zhuo Li, Minfeng Chen, Ludovic Orlando, Karsten Kristiansen, Mads Bak, Niels Tommerup, Christian Bendixen, Tracey L. Pierre, Bjarne Grønnow, Morten Meldgaard, Claus Andreasen, Sardana A. Fedorova, Ludmila P. Osipova, Thomas F. G. Higham, Christopher Bronk Ramsey, Thomas v. O. Hansen, Finn C. Nielsen, Michael H. Crawford, Søren Brunak, Thomas Sicheritz-Pontén, Richard Villems, Rasmus Nielsen, Anders Krogh, Jun Wang & Eske Willerslev. Ancient human genome sequence of an extinct Palaeo-Eskimo. Nature. 11 February. 2010. 463: 757-762.](https://rdcu.be/bOjbe)
 * [Origins and genetic legacies of the Caribbean Taino](https://doi.org/10.1073/pnas.1716839115)
 * [Patterns of mtDNA Diversity in Northwestern North America](https://www.researchgate.net/publication/8485113_Patterns_of_mtDNA_Diversity_in_Northwestern_North_America)
 * [Gravel S, Zakharia F, Moreno-Estrada A, Byrnes JK, Muzzio M, Rodriguez-Flores JL, et al. (2013) Reconstructing Native American Migrations from Whole-Genome and Whole-Exome Data. PLoS Genet 9(12): e1004023. https://doi.org/10.1371/journal.pgen.1004023](https://doi.org/10.1371/journal.pgen.1004023)
