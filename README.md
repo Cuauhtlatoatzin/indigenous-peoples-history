@@ -1,8 +1,20 @@
 # Research Related to Indigenous Peoples Of The So Called Americas
 
-This is an attempt at documenting a full chronology of the so called Americas since the first settlment up to 130 ka ago. Below is a timeline for the entire continent not constrained to any particular modern day country -- because modern day country borders are completely artificial and lifeless. They take no account of how people live on the geography of the Earth, they were established by colonization by extractive empire which set the course for the destruction of countless ecosystems and ways of life.
+This is an attempt at documenting a full chronology of the so called "Americas" since the first settlement up to 250000 years ago. Below is a timeline for the entire continent not constrained to any particular modern day country -- because modern day country borders are completely artificial and lifeless. They take no account of how people live on the geography of the Earth, they were established by colonization by extractive empire which set the course for the destruction of countless ecosystems and ways of life.
 
-## Using This Repository
+## Overview of Current Lands of Indigenous People
+
+The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually authoritative, nor does it actually necessarily represent the boundaries at any particular time in history.
+
+## Authority of Indigenous Histories
+
+In many cases the histories passed down by indigenous peoples contain many truths and actual historical fact. For example, the aboriginal stories of islands being lost matches up with the end of the LGM at 10000 years ago. Shortly after then, the water contained in the glaciers was emptied out into the oceans causing the oceans to rise approximately 60 meters. The islands were submerged from then on.
+
+* [Ancient Sea Rise Tale Told Accurately for 10,000 Years](https://www.scientificamerican.com/article/ancient-sea-rise-tale-told-accurately-for-10-000-years/)
+* [Changing Sea levels During the Past 25,000 Years](https://www.fws.gov/slamm/Changes%20in%20Sea%20Level_expanded%20version_template.pdf)
+* [Terminal Pleistocene/Early Holocene human adaptation in coastal Ecuador: the Las Vegas evidence](https://doi.org/10.1016/S1040-6182(02)00200-8)
+
+## Cloning and Contributing to This Repository
 
 1. Make sure you [have `git-lfs` installed](https://git-lfs.github.com/).
 
@@ -19,18 +31,6 @@ This is an attempt at documenting a full chronology of the so called Americas si
    ```
 
 4. Start contributing using your favorite text editor (I actually recommend using [Visual Studio Code](https://code.visualstudio.com/), because it's relatively snappy).
-
-## Overview of Current Lands of Indigenous People
-
-The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually authoritative, nor does it actually necessarily represent the boundaries at any particular time in history.
-
-## Authority of Indigenous Histories
-
-In many cases the histories passed down by indigenous peoples contain many truths and actual historical fact. For example, the aboriginal stories of islands being lost matches up with the end of the LGM at 10000 years ago. Shortly after then, the water contained in the glaciers was emptied out into the oceans causing the oceans to rise approximately 60 meters. The islands were submerged from then on.
-
-* [Ancient Sea Rise Tale Told Accurately for 10,000 Years](https://www.scientificamerican.com/article/ancient-sea-rise-tale-told-accurately-for-10-000-years/)
-* [Changing Sea levels During the Past 25,000 Years](https://www.fws.gov/slamm/Changes%20in%20Sea%20Level_expanded%20version_template.pdf)
-* [Terminal Pleistocene/Early Holocene human adaptation in coastal Ecuador: the Las Vegas evidence](https://doi.org/10.1016/S1040-6182(02)00200-8)
 
 ## Origin of Modern Humans and other Necessary Background
 
@@ -1216,10 +1216,36 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 
 * [European-contact and Southwestern Artifacts in the Lower Walnut Focus Sites at Arkansas City, Kansas](https://www.researchgate.net/publication/260468487_European-contact_and_Southwestern_Artifacts_in_the_Lower_Walnut_Focus_Sites_at_Arkansas_City_Kansas)
 * **Genocide Induced Climate Change**
+  * [Alexander Kocha, Chris Brierley, Mark M. Maslin, Simon L. Lewis (2019) Earth system impacts of the European arrival and Great Dying in the Americas after 1492. Quarternery Science Reviews. 207: 13-36.](https://doi.org/10.1016/j.quascirev.2018.12.004)
+  * [Matthew J. Liebmann, Joshua Farella, Christopher I. Roos, Adam Stack, Sarah Martini, and Thomas W. Swetnam. Native American depopulation, reforestation, and fire regimes in the Southwest United States, 1492–1900 CE. PNAS. 9 February. 2016 113(6): E696-E704.](https://doi.org/10.1073/pnas.1521744113)
   * [R.J. Nevle, D.K. Bird, W.F. Ruddiman and R.A. Dull (2011) Neotropical human–landscape interactions, fire, and atmospheric CO2 during European conquest. The Holocene. Sage. DOI: 10.1177/0959683611404578](https://www.researchgate.net/profile/Robert_Dull/publication/254097445_Neotropical_human-landscape_interactions_fire_and_atmospheric_CO2_during_European_conquest/links/54de2fc40cf2814662ee17af.pdf)
-  * [Robert A. Dull , Richard J. Nevle , William I. Woods , Dennis K. Bird , Shiri Avnery & William M. Denevan (2010) The Columbian Encounter and the Little Ice Age: Abrupt LandUse Change, Fire, and Greenhouse Forcing, Annals of the Association of American Geographers,100:4, 755-771, DOI: 10.1080/00045608.2010.502432](https://doi.org/10.1080/00045608.2010.502432) &mdash; [PDF](https://www.bushdoctor.com.au/imagesDB/documents/Dull.EtAl_ColumbianEncounterAndLittleIceAge.AbruptLandUseChangeFireGreenhouseForcing.pdf)
+  * [Robert A. Dull , Richard J. Nevle , William I. Woods , Dennis K. Bird , Shiri Avnery & William M. Denevan (2010) The Columbian Encounter and the Little Ice Age: Abrupt Land Use Change, Fire, and Greenhouse Forcing, Annals of the Association of American Geographers,100:4, 755-771, DOI: 10.1080/00045608.2010.502432](https://doi.org/10.1080/00045608.2010.502432) &mdash; [PDF](https://www.bushdoctor.com.au/imagesDB/documents/Dull.EtAl_ColumbianEncounterAndLittleIceAge.AbruptLandUseChangeFireGreenhouseForcing.pdf)
+  * [Richard J. Nevle, Dennis K. Bird (2008) Effects of Syn-Pandemic Reforestation on Atmospheric Carbon Dioxide From 1500 to 1700 A.D. Palaeogeography, Palaeoclimatology, Palaeoecology. 264(1-2): 25-38.](https://doi.org/10.1016/j.palaeo.2008.03.008) &mdash; [PDF](https://www.researchgate.net/publication/252077825_Effects_of_Syn-Pandemic_Reforestation_on_Atmospheric_Carbon_Dioxide_From_1500_to_1700_AD)
+* **Forest Management**
+  * [D.R. Piperno, C.N.H. McMichael, M.B. Bush (2019) Finding forest management in prehistoric Amazonia. Anthropocene. 26: 100211.](https://doi.org/10.1016/j.ancene.2019.100211) &mdash; [PDF](https://repository.si.edu/bitstream/handle/10088/97862/Piperno%20et%20al.%202019%20Finding%20forest%20management.pdf?sequence=1&isAllowed=y)
+  * [Caetano Andrade VL, Flores BM, Levis C, Clement CR, Roberts P, Schöngart J (2019) Growth rings of Brazil nut trees (Bertholletia excelsa) as a living record of historical human disturbance in Central Amazonia. PLoS ONE 14(4): e0214128.](https://doi.org/10.1371/journal.pone.0214128)
+  * [Fulton, A.E. & Yansa, C.H. (2019) Characterization of Native American vegetation disturbance in the forests of central New York State, USA during the late 18th century ce. Veget Hist Archaeobot.](https://doi.org/10.1007/s00334-019-00741-6)
+  * [Coughlan MR, Nelson DR (2018) Influences of Native American land use on the Colonial Euro-American settlement of the South Carolina Piedmont. PLoSONE 13(3):e0195036.](https://doi.org/10.1371/journal.pone.0195036)
+  * [M.W. Palace, C.N.H. McMichael, B.H. Braswell, S.C. Hagen, M.B. Bush, E. Neves, E. Tamanaha, C. Herrick, S. Frolking (2017) Ancient Amazonian populations left lasting impacts on forest structure. Ecosphere. 8(12): e02035.](https://doi.org/10.1002/ecs2.2035)
+  * [A.B. Junqueira, C. Levis, F. Bongers, M. Peña-Claros, C.R. Clement, F. Costa, Hans ter Steege (2017) Response to Comment on “Persistent effects of pre-Columbian plant domestication on Amazonian forest composition”. Science. 358(6361): eaan8347.](https://science.sciencemag.org/content/358/6361/eaan8837.abstract)
+  * [C.W. Dick (2017) A critical take on “Persistent effects of pre-Columbian plant domestication on Amazonian forest composition”. Professional Blog.](https://sites.lsa.umich.edu/cwdick-lab/2017/03/18/a-critical-take-on-persistent-effects-of-pre-columbian-plant-domestication-on-amazonian-forest-composition/)
+  * [C.H. McMichael, K.J. Feeley, C.W. Dick, D.R. Piperno, M.B. Bush (2017) Comment on “Persistent effects of pre-Columbian plant domestication on Amazonian forest composition”. Science. 358(6361): eaan8347.](https://science.sciencemag.org/content/358/6361/eaan8347)
+  * [C. Lewis et al. (2017) Persistent effects of pre-Columbian plant domestication on Amazonian forest composition. Science. 355(6328): 925-931.](https://science.sciencemag.org/content/355/6328/925)
+  * [C.N.H. McMichael, Frazer Matthews-Bird, William Farfan-Rios, and K.J. Feeley (2017) Ancient human disturbances may be skewing our understanding of Amazonian forests. PNAS. 114(3): 522-527.](https://doi.org/10.1073/pnas.1614577114)
+  * [C.R. Clement, W.M. Denevan, M.J. Heckenberger, A.B. Junqueira, E.G. Neves, W.G. Teixeira, W.I. Woods (2015) The domestication of Amazonia before European conquest. Royal Society Proceedings B. 282(1812)](https://doi.org/10.1098/rspb.2015.0813)
+  * [Stephen J. Tulowiecki, Chris P. S. Larsen (2015) Native American impact on past forest composition inferred from species distribution models, Chautauqua County, New York. Ecological Monographs. 85(4): 557-581.](https://doi.org/10.1890/14-2259.1)
+  * [Thompson JR, Carpenter DN, Cogbill CV, Foster DR (2013) Four Centuries of Change in Northeastern United States Forests. PLoS ONE 8(9): e72540.](https://doi.org/10.1371/journal.pone.0072540)
+  * [Cynthia Fowler, Evelyn Konopik (2007) The History of Fire in the Southern United States. Human Ecology Review 14(2): 165-176.](https://www.humanecologyreview.org/pastissues/her142/fowlerandkonopik.pdf)
+  * [Bryan A Black, , Charles M Ruffner, and , Marc D Abrams (2006) Native American influences on the forest composition of the Allegheny Plateau, northwest Pennsylvania. Canadian Journal of Forest Research. 36(5): 1266-1275.](https://doi.org/10.1139/x06-027) &mdash; [PDF](http://personal.psu.edu/faculty/a/g/agl/Black_CJFR_2006_NAI.pdf)
+  * [Foster, H.T., Black, B. & Abrams, M.D. (2004) A Witness Tree Analysis of the Effects of Native American Indians on the Pre-European Settlement Forests in East-Central Alabama. Human Ecology 32: 27.](https://doi.org/10.1023/B:HUEC.0000015211.98991.9c) &mdash; [PDF](http://test.scripts.psu.edu/users/a/g/agl/Human%20ecology%202005.pdf)
+  * [Andrew S Macdougall (2003) Did Native Americans influence the northward migration of plants during the Holocene? Journal of Biogeography. 30(5): 633-647](https://doi.org/10.1046/j.1365-2699.2003.00842.x) &mdash; Also an account of trade networks.
+  * [Russell, E.W. & Davis, R.B. (2001) Five centuries of changing forest vegetation in the Northeastern United States. Plant Ecology. 155: 1.](https://doi.org/10.1023/A:1013252117853) &mdash; [PDF](http://www.colby.edu/geology/GE354/Russell_and_Davis_2001.pdf)
+  * [William M. Denevan. The Pristine Myth: The Landscape of the Americas in 1492. Notes for Indigenous Conservation Knowledge.](http://jan.ucc.nau.edu/~alcoze/for398/class/pristinemyth.html)
 
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
+
+* Lisa Brooks. Our Beloved Kin: A New History of King Phillip's War. Yale University Press. 2018.
+* Lisa Brooks. The Common Pot: The Recovery of Native Space in the Northeast. University of Minnesota Press. 2008.
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
 
