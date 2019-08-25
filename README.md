@@ -2,6 +2,8 @@
 
 This is an attempt at documenting a full chronology of the so called "Americas" since the first settlement up to 250000 years ago. Below is a timeline for the entire continent not constrained to any particular modern day country -- because modern day country borders are completely artificial and lifeless. They take no account of how people live on the geography of the Earth, they were established by colonization by extractive empire which set the course for the destruction of countless ecosystems and ways of life.
 
+Any Wikipedia articles are placeholders until more research is done to gather primary and secondary sources.
+
 ## Overview of Current Lands of Indigenous People
 
 The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually authoritative, nor does it actually necessarily represent the boundaries at any particular time in history.
@@ -152,6 +154,11 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Bourgeon L, Burke A, Higham T (2017) Earliest Human Presence in North America Dated to the Last Glacial Maximum: New Radiocarbon Dates from Bluefish Caves, Canada. PLoS ONE 12(1): e0169486. https://doi.org/10.1371/journal.pone.0169486](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5218561/)
 * [Cinq-Mars, Jaques. The Significance of the Bluefish Caves in Beringian Prehistory. Translation of the article in  Revista de Arqueología Americana, No. 1, (1990): pp. 9-32.](https://www.historymuseum.ca/learn/research/resources-for-scholars/essays/significance-of-the-bluefish-caves-in-beringian-prehistory/)
 
+## Toca de Tira Peia, Piauí, Brazil (20000 BCE - 2000 BCE)
+
+* [Toca de Tira Peia](https://en.wikipedia.org/wiki/Toca_da_Tira_Peia)
+* [C. Lahaye et al. Human occupation in South America by 20,000 BC: The Toca da Tira Peia site, Piaui, Brazil. Journal of Archaeological Science. Doi: 10.1016/j.jas.2013.02.019](https://www.sciencedirect.com/science/article/pii/S0305440313000733) &mdash; [PDF](https://www.researchgate.net/publication/257155314_Human_occupation_in_South_America_by_20000_BC_The_Toca_da_Tira_Peia_site_Piaui_Brazil)
+
 ## Paleo Indians (18000 BCE - 8000 BCE)
 
 ## Monte Verde, Chile (16500 BCE - 12500 BCE)
@@ -300,6 +307,28 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Far Western Crew Unearths 12,300-Year-Old Hearth in Utah](http://farwestern.com/12300-year-old-hearth-in-utah/)
 * [Evidence of Great Basin's earliest inhabitants found at Utah training range](https://www.standard.net/news/evidence-of-great-basin-s-earliest-inhabitants-found-at-utah/article_8020c307-7699-5e0e-bfd5-89c64b3be226.html)
 * [Archaeologists discover proof of wetlands, ancient life on the Utah Test and Training Range](https://www.dvidshub.net/news/204768/archaeologists-discover-proof-wetlands-ancient-life-utah-test-and-training-range)
+
+## Toca do Boqueirão da Pedra Furada, Piauí, Brazil (11822 BCE - 6150 BCE)
+
+* [Leidiana Mota, Rita Scheel-Ybert (2019) Landscape and firewood use in Toca do Boqueirão da Pedra Furada (Piauí, Brazil) during early and Mid-Holocene. Journal of Archeological Science: Reports. 23: 281-290.](https://doi.org/10.1016/j.jasrep.2018.10.034)
+
+## Sítio do Meio (10500 BCE)
+
+* [Wikipedia contributors. (2019, June 6). Serra da Capivara National Park. In Wikipedia, The Free Encyclopedia. Retrieved 08:06, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=Serra_da_Capivara_National_Park&oldid=900595553)
+
+## El Abra, Columbia (10400 BCE)
+
+* [Wikipedia contributors. (2019, July 14). El Abra. In Wikipedia, The Free Encyclopedia. Retrieved 07:45, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=El_Abra&oldid=906175337)
+* [Giulia Aimola, Camila Andrade,  Leidiana Mota, Fabio Parenti (2014) Final Pleistocene and Early Holocene at Sitio do Meio, Piauí, Brazil: Stratigraphy and comparison with Pedra Furada. Journal of Lithic Studies. 1(2): 5-24](https://doi.org/10.2218/jls.v1i2.1125)
+
+### Mentioned in the article
+
+* Fúquene stadial (12988 BCE - 10488 BCE)
+* Guantivá interstadial (10488 BCE)
+* [Tibitó (9740 BCE)](https://en.wikipedia.org/wiki/Tibit%C3%B3)
+* [Tequendama (9000 BCE)](https://en.wikipedia.org/wiki/Tequendama)
+* El Abra stadial (8988 BCE)
+* [Aguazuque (3000 BCE - 700 BCE)](https://en.wikipedia.org/wiki/Aguazuque)
 
 ## Domestication of Potatoes (9000 BCE - 7000 BCE)
 
@@ -735,6 +764,11 @@ Conduit of many cultures.
 * [Scattolin, M. Cristina. UNA MÁSCARA DE COBRE DE TRES MIL AÑOS. ESTUDIOS ARQUEOMETALÚRGICOS Y COMPARACIONES REGIONALES (A 3000-YEAR-OLD COPPER MASK. ARCHAEOMETALURGICAL ANALYSIS AND REGIONAL COMPARISONS) Bol. Mus. Chil. Arte Precolomb. v.15 n.1 Santiago. 2010.](https://scielo.conicyt.cl/scielo.php?pid=S0718-68942010000100003&script=sci_arttext)
 
 ## Formative (1000 BCE - 500 BCE)
+
+## Olmec Style Cave paintings assumed to be from 900 BCE
+
+* [Wikipedia contributors. (2019, May 8). Oxtotitlán. In Wikipedia, The Free Encyclopedia. Retrieved 08:01, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=Oxtotitl%C3%A1n&oldid=896083193)
+* [Wikipedia contributors. (2018, October 26). Juxtlahuaca. In Wikipedia, The Free Encyclopedia. Retrieved 08:02, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=Juxtlahuaca&oldid=865788875)
 
 ## Early Woodland (1000 BCE - 200 CE)
 
