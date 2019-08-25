@@ -147,6 +147,12 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 
 `Here we integrate data from the deepest sediment core drilled by the Deep Sea Drilling Program (DSDP) Leg 96 on the Mississippi fan (Fig. 1) to reveal major modifications to the Mississippi–Missouri drainage by the southern LIS over the past ~70 ka. Growth of the LIS began over the eastern Canadian Arctic ~116 ka (MIS 5d), and experienced punctuated episodes of expansion (~65 ka: MIS 4) and retreat (~50–40 ka: MIS 3) until reaching its maximum extent during the LGM approximately 26–25 ka (MIS 2). Mountain glaciers were near or at their maximum extent by ~30 ka, which is broadly contemporaneous with the interval when global ice sheets first reached their maxima.`
 
+## Pedra Furada (58000, 46000, 30000 BCE - 7000 BCE)
+
+* [Wikipedia contributors. (2019, March 9). Pedra Furada. In Wikipedia, The Free Encyclopedia. Retrieved 08:20, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=Pedra_Furada&oldid=886938182)
+
+* [N. Guidon & G. Delibrias (1986) Carbon-14 dates point to man in the Americas 32,000 years ago. Nature. 321: 769-771.](https://www.nature.com/articles/321769a0)
+
 ## Bluefish Caves, Yukon, Canada (22000 BCE)
 
 * [Pringle, Heather. What Happens When an Archaeologist Challenges Mainstream Scientific Thinking? Smithsonian.com. 08 Mar. 2017.](https://www.smithsonianmag.com/science-nature/jacques-cinq-mars-bluefish-caves-scientific-progress-180962410/)
