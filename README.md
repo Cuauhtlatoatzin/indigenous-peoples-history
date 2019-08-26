@@ -76,12 +76,15 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 * [Wikipedia Clovis Page](https://en.wikipedia.org/wiki/Clovis_culture)
 * [Curry, Andrew. Ancient migration: Coming to America. Nature. 485, 30–32. 03 May. 2012.](https://www.nature.com/news/ancient-migration-coming-to-america-1.10562)
 * [Popular theory on how humans populated North America can't be right, study shows](https://www.cbc.ca/news/technology/ice-free-corridor-north-americans-1.3715397)
+* [Micheal Balter. Critics Assail Notion That Europeans Settled Americas. Science. 16 March. 2012.](https://science.sciencemag.org/content/335/6074/1289.full)
 * [Mcelrath, Dale & Emerson, Thomas. (2012). Reenvisioning Eastern Woodlands Archaic Origins. The Oxford Handbook of North American Archaeology. 10.1093/oxfordhb/9780195380118.013.0037.](https://www.researchgate.net/publication/286023289_Reenvisioning_Eastern_Woodlands_Archaic_Origins) - This is a really good overview.
   * `The antiquity of human entry into the New World has been one of the longest- running and most contentious debates in North American archaeology, with little resolution in sight. Scientists in the early 20th century, led by the famed physical anthropologist Ales Hrdlicka, were convinced people entered the New World in very recent times, perhaps a few thousand years BC. It was not until the discovery of extinct megafauna and associated artifacts at Folsom and Clovis, New Mexico and the chronometric analysis of Vance Haynes (1964) that the entry date was pushed back to about 12000 BP. However, South America researchers have for some time now, accepted dates in the 20,000–30,000 year range and have theoretically divorced themselves from their North American colleagues (Gruhn 2005), the ma- jority of whom, until recently, defamed any radiocarbon date that exceeded 12,000 years in age. Now that this Maginot Line has been crossed, it makes sense that much earlier dates should be entertained. Since seagoing vessels were necessary to colo- nize Australia (minimally 45000 BP and possibly 65000 BP) and Japan (minimally 30000 BP), and northern latitude cold-weather-adapted technologies were suffi- ciently well developed to enable occupation of major parts of eastern Siberia by 45000 BP, it would indeed be surprising if colonization of North America’s west coast had not begun by at least 30000 BP, especially since Northeast Asia and North America were joined for lengthy periods after 50,000 years ago. The possibility—in fact, the probability—of an early coastal entry into the New World appears strong.`
 * [Smith, Heather & Goebel, Thomas. Origins and spread of fluted-point technology in the Canadian Ice-Free Corridor and eastern Beringia. Proceedings of the National Academy of Sciences. 17 April. 2018. 115(16): 4116-4121. DOI: 10.1073/pnas.1800312115](https://doi.org/10.1073/pnas.1800312115)
   * `Results link morphologies and technologies of Clovis, certain western Canadian, and northern fluted points, suggesting that fluting technology arrived in the Arctic from a proximate source in the interior Ice-Free Corridor and ultimately from the earliest populations in temperate North America, complementing new genomic models explaining the peopling of the Americas.`
   * `Despite this, the geographic distribution of points in the earliest clades supports the hypothesis that Clovis, early points from the Corridor, and northern fluted points share historical affinity and may represent either Clovis groups moving north through the Ice-Free Corridor to northern Yukon and Alaska, or the interaction of Clovis groups with humans already present in the northwestern Subarctic and Arctic. Both of these processes of fluted-point transmission to the north are supported by latitudinal and chronological trends.`
   * `Bison were potentially integral to the adaptation of the northward-dispersing fluted-point makers. During the last glacial maximum (ca. 24 ka), bison clades of Beringia were genetically distinct from those living south of the ice sheets (32); however, by 12.3–12 ka, a southern clade of bison had dispersed northward into the Ice-Free Corridor, reaching the Northwest Territories and becoming sympatric with the northern clade (12). Our results suggest an analogous process of human dispersal or information transmission, with humans from the southern Ice-Free Corridor spreading north to Arctic Alaska. As fluting technology spread northward, bison (Bison sp.) were still common in the Corridor, from Charlie Lake Cave in central British Columbia to Engigstciack in northern Yukon (32, 39). In Arctic Alaska, however, bison became locally extinct by 13.5 ka (12, 40), so that fluted-point–using groups in the Far North had to adjust their predatory focus to caribou (Rangifer tarandus), which were better suited to the region’s tussock-tundra communities (41). Not surprisingly, faunal assemblages from the only buried and dated fluted-point sites in northwestern Alaska contain caribou, not bison (9). This shift toward caribou could have occurred in the Corridor, as fluted-point makers were pulled northward and eastward along the margin of the retreating Laurentide ice, resulting in high frequencies of ancestral traits shared by Clovis, the early Ice-Free Corridor, and Great Lakes point forms.`
+* [Prufer KM, Alsgaard AV, Robinson M, Meredith CR, Culleton BJ, Dennehy T, et al. (2019) Linking late Paleoindian stone tool technologies and populations in North, Central and South America. PLoS ONE 14(7): e0219812.](https://doi.org/10.1371/journal.pone.0219812)
+  * `We document a late Pleistocene/early Holocene stone tool tradition from Belize, located in southern Mesoamerica. This represents the first endogenous Paleoindian stone tool technocomplex recovered from well dated stratigraphic contexts for Mesoamerica. Previously designated Lowe, these artifacts share multiple features with contemporary North and South American Paleoindian tool types. Once hafted, these bifaces appear to have served multiple functions for cutting, hooking, thrusting, or throwing. The tools were developed at a time of technological regionalization reflecting the diverse demands of a period of pronounced environmental change and population movement. Combined stratigraphic, technological, and population paleogenetic data suggests that there were strong ties between lowland neotropic regions at the onset of the Holocene.`
 * **Kelp Highway Hypothesis**
   * [University Museum of Natural and Cultural Hisory. Kelp Highway Hypothesis.](http://natural-history.uoregon.edu/research/paleocoastal-research-project/kelp-highway-hypothesis)
   * [Erlandson et al. The Kelp Highway Hypothesis: Marine Ecology, the Coastal Migration Theory, and the Peopling of the Americas. The Journal of Island and Coastal Archaeology. 30 Oct. 2007.](http://natural-history.uoregon.edu/sites/default/files/mnch/Erlandson_et_al_2007.pdf)
@@ -203,6 +206,7 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 
 * [Buttermilk Creek Complex](https://en.wikipedia.org/wiki/Buttermilk_Creek_Complex)
 * [Thomas A. Jennings and Michael R. Waters. PRE-CLOVIS LITHIC TECHNOLOGY AT THE DEBRA L. FRIEDKIN SITE, TEXAS: COMPARISONS TO CLOVIS THROUGH SITE-LEVEL BEHAVIOR, TECHNOLOGICAL TRAIT-LIST, AND CLADISTIC ANALYSES. American Antiquity. January. 2014. 79(1): 25-44](https://www.jstor.org/stable/24712725?seq=1&googleloggedin=true#page_scan_tab_contents)
+* [Heather Pringle (2011) Texas Site Confirms Pre-Clovis Settlement of the Americas. Science. 331(6024): 1512.](https://science.sciencemag.org/content/331/6024/1512.full?_ga=2.266830537.61086061.1566785266-478062606.1565127902)
 * [Matt Kaplan. Stone tools cut swathe through Clovis history. Nature News. 24 March. 2011.](https://www.nature.com/news/2011/110324/full/news.2011.185.html)
 * [Watter, Michael L. et al. The Buttermilk Creek Complex and the Origins of Clovis at the Debra L. Friedkin Site, Texas. Science. 25 March. 2011. 331(6024): 1599-1603.](https://science.sciencemag.org/content/331/6024/1599) &mdash; [Research Gate](https://www.researchgate.net/publication/50850836_The_Debra_L_Friedkin_Site_Texas_and_the_origins_of_Clovis)
 * [Bryn, Brandon. Science: Artifacts in Texas Predate Clovis Culture by 2500 Years. AAAS News. 24 Mar. 2011](https://www.aaas.org/news/science-artifacts-texas-predate-clovis-culture-2500-years)
@@ -213,11 +217,17 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Human (Clovis)–gomphothere (Cuvieronius sp.) association ∼13,390 calibrated yBP in Sonora, Mexico](http://www.pnas.org/content/111/30/10972)
 * [Ancient Clovis Elephant-Hunting Camp Discovered in Mexico](http://westerndigs.org/clovis-elephant-hunting-site-discovered-in-mexico/)
 
+## Cactus Hill, Virginia, USA (14940, 1467013070 BCE)
+
+* [Richard I. Macphail, Joseph M. McAvoy (2008) A micromorphological analysis of stratigraphic integrity and site formation at Cactus Hill, an Early Paleoindian and hypothesized pre‐Clovis occupation in south‐central Virginia, USA. Geoarcheology. 23(5): 675-694.](https://doi.org/10.1002/gea.20234)
+* [Mark Rose (2000) Cactus Hill Update. Archeology. 10 April.](https://archive.archaeology.org/online/news/cactus.html)
+* [Joseph M. McAvoy, Lynn D. McAvoy (1997) Archeological Investigations of Site 44SX202, Cactus Hill, Sussex County Virginia. Virginia Department of Historic Resources. Research Report Series No. 8.](https://www.dhr.virginia.gov/pdf_files/Archeo_Reports/SX-019_AE_Investigations_44SX202_Cactus_Hill_1997_NRSAR_report.pdf)
+* [Pre-Clovis Occupation on the Nottoway River in Virginia](https://web.archive.org/web/20071017032525/http://www.athenapub.com/cacthill.htm)
+
 ## Ållerød–Younger Dryas boundary (13000 BCE - 12900 BCE)
 
 * [J. R. Marlon, P. J. Bartlein, M. K. Walsh, S. P. Harrison, K. J. Brown, M. E. Edwards, P. E. Higuera, M. J. Power, R. S. Anderson, C. Briles, A. Brunelle, C. Carcaillet, M. Daniels, F. S. Hu, M. Lavoie, C. Long, T. Minckley, P. J. H. Richard, A. C. Scott, D. S. Shafer,r W. Tinner, C. E. Umbanhowar, Jr, and C. Whitlock. Wildfire responses to abrupt climate change in North America. Proceedings of the National Academy of Sciences of the USA. 24 February. 2009. 106(8): 2519-2524.](https://dx.doi.org/10.1073%2Fpnas.0808212106)
 * [D.J. Kennett, J.P. Kennett, G.J. West, J.M. Erlandson, J.R. Johnson, I.L. Hendy, A. West, B.J. Culleton, T.L. Jones, Thomas W. Stafford,Jr. Wildfire and abrupt ecosystem disruption on California’s Northern Channel Islands at the Ållerød–Younger Dryas boundary (13.0–12.9 ka). Quat. Sci. Rev. 27, 2530 (2008). doi:10.1016/j.quascirev.2008.09.006](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1025&context=ssci_fac)
-
 * **Younger Dryas Impact Hypothesis**
   * [Sonia Fernandez. Earth-changing asteroid impact theory gets new evidence. Futurity. 20 March. 2019.](https://www.futurity.org/younger-dryas-impact-hypothesis-evidence-2013702/)
   * [Mario Pino, Ana M. Abarzúa, Giselle Astorga, Alejandra Martel-Cea, Nathalie Cossio-Montecinos, R. Ximena Navarro, Maria Paz Lira, Rafael Labarca, Malcolm A. LeCompte, Victor Adedeji, Christopher R. Moore, Ted E. Bunch, Charles Mooney, Wendy S. Wolbach, Allen West, and James P. Kennett. Sedimentary record from Patagonia, southern Chile supports cosmic-impact triggering of biomass burning, climate change, and megafaunal extinctions at 12.8 ka. Scientific Reports. 13 March. 2019. 9: 4413.](https://dx.doi.org/10.1038%2Fs41598-018-38089-y)
@@ -246,15 +256,27 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
   * [M. Boslough, K. Nicoll, V. Holliday, T. L. Daulton, D. Meltzer, N. Pinter, A. C. Scott, T. Surovell, P. Claeys, J. Gill, F. Paquay, J. Marlon, P. Bartlein, C. Whitlock, D. Grayson, A.J.T. Jull. "Arguments and Evidence Against a Younger Dryas Impact Event." Climates, Landscapes, and Civilizations. Liviu Giosan, Dorian Q. Fuller, Kathleen Nicoll, Rowan K. Flad, Peter D. Clift, ed. Volume 198. January. 2012.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2012GM001209)
   * [H. Tian, D. Schryvers, and Ph. Claeys. Nanodiamonds do not provide unique evidence for a Younger Dryas impact. PNAS. 4 January. 2011. 108(1): 40-44.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3017148/)
   * [Vance T. Holliday, David J. Meltzer. The 12.9-ka ET Impact Hypothesis and North American Paleoindians. Current Anthropology. October. 2010. 51(5): 575-607.](https://doi.org/10.1086/656015)
-  * [yrone L. Daulton, Nicholas Pinter, and Andrew C. Scott. No evidence of nanodiamonds in Younger–Dryas sediments to support an impact event. PNAS. 14 September. 2010. 107(37): 16043-16047.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2941276/)
+  * [Tyrone L. Daulton, Nicholas Pinter, and Andrew C. Scott. No evidence of nanodiamonds in Younger–Dryas sediments to support an impact event. PNAS. 14 September. 2010. 107(37): 16043-16047.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2941276/)
+  * [Todd A. Surovell, Vance T. Holliday, Joseph A. M. Gingerich, Caroline Ketron, C. Vance Haynes Jr, Ilene Hilman, Daniel P. Wagner, Eileen Johnson, and Philippe Claeys (2009). An independent evaluation of the Younger Dryas extraterrestrial impact hypothesis. PNAS. 106(43): 18155-18158](https://doi.org/10.1073/pnas.0907857106)
   * [François S. Paquay, Steven Goderis, Greg Ravizza, Frank Vanhaeck, Matthew Boyd, Todd A. Surovell, Vance T. Holliday, C. Vance Haynes, Jr., and Philippe Claeys. Absence of geochemical evidence for an impact event at the Bølling–Allerød/Younger Dryas transition. PNAS. 22 December. 2009. 106(51): 21505-21510.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2799824/)
   * [D. J. Kennett, J. P. Kennett, A. West, C. Mercer, S. S. Que Hee, L. Bement, T. E. Bunch, M. Sellers, W. S. Wolbach. Nanodiamonds in the Younger Dryas Boundary Sediment Layer. Science. 2 January. 2009. 323(5910): 94.](https://science.sciencemag.org/content/323/5910/94)
   * [Richard A. Kerr. Did the Mammoth Slayer Leave a Diamond Calling Card? Science. 2 January. 2009. 323(5910): 26.](https://science.sciencemag.org/content/323/5910/26)
   * [Briggs Buchanan, Mark Collard, and Kevan Edinborough. Paleoindian demography and the extraterrestrial impact hypothesis. Proc Natl Acad Sci USA. 19 August. 2008. 105(33): 11651-11654.](https://dx.doi.org/10.1073%2Fpnas.0803762105)
+* **Megafuana Extinction**
+  * [Sergey Zimov, Nikita Zimov (2014). Role of Megafauna and Frozen Soil in the Atmospheric CH4 Dynamics. 9(4): e93331.](https://dx.doi.org/10.1371%2Fjournal.pone.0093331)
+  * [Eric Scott (2010). Extinctions, scenarios, and assumptions: Changes in latest Pleistocene large herbivore abundance and distribution in western North America. 217(1-2): 225-239.](https://doi.org/10.1016/j.quaint.2009.11.003)
+  * [Jacquelyn L. Gill, John W. Williams, Stephen T. Jackson, Katherine B. Lininger, Guy S. Robinson (2009). Pleistocene Megafaunal Collapse, Novel Plant Communities, and Enhanced Fire Regimes in North America. Science. 326(5956): 1100-1103.](https://science.sciencemag.org/content/326/5956/1100)
+  * [Marc A. Carrasco, Anthony D. Barnosky, and Russell W. Graham (2009). Quantifying the Extent of North American Mammal Extinction Relative to the Pre-Anthropogenic Baseline. 4(12): e8331.](https://dx.doi.org/10.1371%2Fjournal.pone.0008331)
+  * [Anthony D. Barnosky (2008). Megafauna biomass tradeoff as a driver of Quaternary and future extinctions. PNAS. 105: 11543-11548](https://doi.org/10.1073/pnas.0801918105)
+  * [A. Hubbe, M. Hubbe, W. Neves (2007). Early Holocene survival of megafauna in South America. Journal of Biogeography. 34(9): 1642-1646.](https://doi.org/10.1111/j.1365-2699.2007.01744.x)
+  * [A. J. Stuart, P. A. Kosintsev, T. F. G. Higham & A. M. Lister (2004). Pleistocene to Holocene extinction dynamics in giant deer and woolly mammoth. Nature. 431: 684–689](https://www.nature.com/articles/nature02890)
+* **Relation to current fire dynamics with climate change**
+  * [Ryan Kelly, Melissa L. Chipman, Philip E. Higuera, Ivanka Stefanova, Linda B. Brubaker, and Feng Sheng Hua (2013). Recent burning of boreal forests exceeds fire regime limits of the past 10,000 years. 110(32): 13055–13060.](https://dx.doi.org/10.1073%2Fpnas.1305069110)
 
 ## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
 
 * [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
+* [Annalee Newitz (2013). Underwater discovery reveals 14,550 year-old Florida mastodon hunters. Ars Technica. 13 May.](https://arstechnica.com/science/2016/05/underwater-discovery-reveals-14550-year-old-florida-mastodon-hunters/)
 * [Hodges, Glenm. Discovery Points to Earlier Arrival of First Americans. National Geographic. 13 May. 2016.](https://news.nationalgeographic.com/2016/05/160513-first-americans-clovis-mastodon-florida-page-ladson/)
 * [Halligan, Jessi J. et al. Pre-Clovis occupation 14,550 years ago at the Page-Ladson site, Florida, and the peopling of the Americas. Science Advances. 13 May. 2016. 2(5), e1600375 DOI: 10.1126/sciadv.1600375](http://advances.sciencemag.org/content/2/5/e1600375)
 * [Weisberger, Mindy. Scarred, Sunken Mastodon Hints at Earlier Human Arrival in Americas. Live Science. 13 May. 2016.](https://www.livescience.com/54735-mastodon-remains-in-underwater-site.html)
@@ -287,18 +309,22 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
 * [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
 
+## Schaefer and Hebior Kill Sites, Illinois, USA (12500 BCE)
+
+* [Nikhil Swaminathan (2014) Schaefer and Hebior Kill Sites. Archaeology. September/October.](https://www.archaeology.org/issues/145-1409/features/2372-peopling-the-americas-schaefer-hebior)
+
+## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
+
 ## Northern Channel Islands, California, USA (11000 BCE)
 
 * [Jon M. Erlandson, Torben C. Rick, Todd J. Braje, Molly Casperson, Brendan Culleton, Brian Fulfrost, Tracy Garcia, Daniel A. Guthrie, Nicholas Jew, Douglas J. Kennett, Madonna L. Moss, Leslie Reeder, Craig Skinner, Jack Watts, Lauren Willis. Paleoindian Seafaring, Maritime Technologies, and Coastal Foraging on California’s Channel Islands. Science. 04 March. 2011. 331(6021): 1181-1185.](https://science.sciencemag.org/content/331/6021/1181)
 
-## Clovis (13500 BCE - 11000 BCE)
+## Topper-Allendale, South Carolina, USA (11000 BCE)
 
-* [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
-* [Michael Balter. Native Americans Descend From Ancient Montana Boy. Science News. Science. 12 February. 2014.](https://www.sciencemag.org/news/2014/02/native-americans-descend-ancient-montana-boy)
-* [Morten Rasmussen, Sarah L. Anzick, Micheal R. Waters, et al. The genome of a Late Pleistocene human from a Clovis burial site in western Montana. Nature. 12 February. 2014](https://www.nature.com/articles/nature13025)
-* [Micheal Balter. Critics Assail Notion That Europeans Settled Americas. Science. 16 March. 2012.](https://science.sciencemag.org/content/335/6074/1289.full)
-
-## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
+* [Ashley M. Smallwood (2015) Context and spatial organization of the Clovis assemblage from the Topper site, South Carolina. Journal of Field Archeology. 40(1): 69-88.](https://doi.org/10.1179/0093469014Z.000000000106) &mdash; [PDF](https://www.researchgate.net/publication/273311766_Context_and_spatial_organization_of_the_Clovis_assemblage_from_the_Topper_site_South_Carolina)
+* [Dan Conover (2013) Rethinking Clovis at Topper: June 2012. Xark Media. Originally published as "The Cutting Edge" in the Charleston City Paper.](https://xark.typepad.com/my_weblog/2013/05/rethinking-clovis-at-topper-june-2012.html)
+* [Albert C. Goodyear III (2016). "The Search for the Earliest Humans in the Land Recently Called South Carolina
+The Search for the Earliest Humans in the Land Recently Called South Carolina" Archaeology in South Carolina: Exploring the Hidden Heritage of the Palmetto State. Adam King, ed. University of South Carolina Press.]
 
 ## Quebrada Los Burros, Peru (11000 BCE - 9000 BCE)
 
@@ -331,10 +357,26 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 
 * Fúquene stadial (12988 BCE - 10488 BCE)
 * Guantivá interstadial (10488 BCE)
+* [Piedra Museo (10000 BCE)](https://en.wikipedia.org/wiki/Piedra_Museo)
 * [Tibitó (9740 BCE)](https://en.wikipedia.org/wiki/Tibit%C3%B3)
 * [Tequendama (9000 BCE)](https://en.wikipedia.org/wiki/Tequendama)
 * El Abra stadial (8988 BCE)
 * [Aguazuque (3000 BCE - 700 BCE)](https://en.wikipedia.org/wiki/Aguazuque)
+
+## Caverna da Pedra Pintada, Pará, Brazil (9200 BCE)
+
+* [John Noble Wilford (1996) "SCIENTIST AT WORK: Anna C. Roosevelt;Sharp and To the Point In Amazonia", New York Times. 23 April. Section C: 1.](https://www.nytimes.com/1996/04/23/science/scientist-at-work-anna-c-roosevelt-sharp-and-to-the-point-in-amazonia.html?src=pm)
+* [Jessica E. Saraceni and Adriana Franco de Sá (1996). Peopling of South America. Archeology. 49(4).](https://archive.archaeology.org/9607/newsbriefs/brazil.html)
+
+## Clovis (9000 BCE)
+
+* [Michael R. Waters, Thomas W. Stafford Jr (2007) Redefining the Age of Clovis: Implications for the Peopling of the Americas. Science. 315(5815): 1122-1126.](https://science.sciencemag.org/content/315/5815/1122.long)
+
+# Anzick burial ()
+* [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
+* [Michael Balter. Native Americans Descend From Ancient Montana Boy. Science News. Science. 12 February. 2014.](https://www.sciencemag.org/news/2014/02/native-americans-descend-ancient-montana-boy)
+* [Morten Rasmussen, Sarah L. Anzick, Micheal R. Waters, et al. The genome of a Late Pleistocene human from a Clovis burial site in western Montana. Nature. 12 February. 2014](https://www.nature.com/articles/nature13025)
+
 
 ## Domestication of Potatoes (9000 BCE - 7000 BCE)
 
@@ -383,6 +425,10 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 ### Balsas River Valley - MX (7200 BCE - ?)
 
 * [Balsas River Valley](https://en.wikipedia.org/wiki/Balsas_River)
+
+## Shawnee Minnisink, Pennsylvania, USA (8600 BCE)
+
+* [C. Vance Haynes, D.J. Donahue, A.J.T. Jull and T.H. Zabel (1984) Application of Accelerator Dating to Fluted Point Paleoindian Sites. Archeology of Eastern North America. 12:184-191.](https://www.jstor.org/stable/40914238?seq=1#page_scan_tab_contents)
 
 ## An 8000-year record of vegetation, climate, and human disturbance from the Sierra de Apaneca, El Salvador (8000 BCE)
 
