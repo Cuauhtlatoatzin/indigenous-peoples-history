@@ -72,11 +72,14 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 
 ## Overview of new findings
 
+* [Ben A. Potter, James F. Baichtal, Alwynne B. Beaudoin, Lars Fehren-Schmitz, C. Vance Haynes, Vance T. Holliday, Charles E. Holmes, John W. Ives, Robert L. Kelly, Bastien Llamas, Ripan S. Malhi, D. Shane Miller, David Reich, Joshua D. Reuther, Stephan Schiffels, Todd A. Surovell (2018) Current evidence allows multiple models for the peopling of the Americas. Science Advances. 4(8), eaat5473 DOI: 10.1126/sciadv.aat5473](https://advances.sciencemag.org/content/4/8/eaat5473.full)
 * [Archeology Page w/ Overview](https://www.archaeology.org/issues/145-1409/features/2366-peopling-the-americas-preclovis)
-* [Wikipedia Clovis Page](https://en.wikipedia.org/wiki/Clovis_culture)
-* [Curry, Andrew. Ancient migration: Coming to America. Nature. 485, 30–32. 03 May. 2012.](https://www.nature.com/news/ancient-migration-coming-to-america-1.10562)
+* [Morlan, Richard E. (2017) Current perspectives on the Pleistocene archaeology of eastern Beringia. Quarternary Research. 60(1): 123-132.](https://doi.org/10.1016/S0033-5894(03)00070-X)
+* [Curry, Andrew (2012) Ancient migration: Coming to America. Nature. 485, 30–32. 03 May.](https://www.nature.com/news/ancient-migration-coming-to-america-1.10562)
 * [Popular theory on how humans populated North America can't be right, study shows](https://www.cbc.ca/news/technology/ice-free-corridor-north-americans-1.3715397)
-* [Micheal Balter. Critics Assail Notion That Europeans Settled Americas. Science. 16 March. 2012.](https://science.sciencemag.org/content/335/6074/1289.full)
+* [Balter, Micheal (2012) Critics Assail Notion That Europeans Settled Americas. Science. 16 March.](https://science.sciencemag.org/content/335/6074/1289.full)
+* [Waters, Michael R., Stafford, Thomas W. Jr. (2007) Redefining the Age of Clovis: Implications for the Peopling of the Americas. Science. 315(5815): 1122-1126](https://science.sciencemag.org/content/315/5815/1122.long) &mdash; Has lots of date for sites.
+* [Fiedel, S. J. (2000). The peopling of the New World: present evidence, new theories, and future directions. Journal of Archaeological Research, 8(1), 39-103.](http://www.academia.edu/download/32369033/peopling2000.pdf)
 * [Mcelrath, Dale & Emerson, Thomas. (2012). Reenvisioning Eastern Woodlands Archaic Origins. The Oxford Handbook of North American Archaeology. 10.1093/oxfordhb/9780195380118.013.0037.](https://www.researchgate.net/publication/286023289_Reenvisioning_Eastern_Woodlands_Archaic_Origins) - This is a really good overview.
   * `The antiquity of human entry into the New World has been one of the longest- running and most contentious debates in North American archaeology, with little resolution in sight. Scientists in the early 20th century, led by the famed physical anthropologist Ales Hrdlicka, were convinced people entered the New World in very recent times, perhaps a few thousand years BC. It was not until the discovery of extinct megafauna and associated artifacts at Folsom and Clovis, New Mexico and the chronometric analysis of Vance Haynes (1964) that the entry date was pushed back to about 12000 BP. However, South America researchers have for some time now, accepted dates in the 20,000–30,000 year range and have theoretically divorced themselves from their North American colleagues (Gruhn 2005), the ma- jority of whom, until recently, defamed any radiocarbon date that exceeded 12,000 years in age. Now that this Maginot Line has been crossed, it makes sense that much earlier dates should be entertained. Since seagoing vessels were necessary to colo- nize Australia (minimally 45000 BP and possibly 65000 BP) and Japan (minimally 30000 BP), and northern latitude cold-weather-adapted technologies were suffi- ciently well developed to enable occupation of major parts of eastern Siberia by 45000 BP, it would indeed be surprising if colonization of North America’s west coast had not begun by at least 30000 BP, especially since Northeast Asia and North America were joined for lengthy periods after 50,000 years ago. The possibility—in fact, the probability—of an early coastal entry into the New World appears strong.`
 * [Smith, Heather & Goebel, Thomas. Origins and spread of fluted-point technology in the Canadian Ice-Free Corridor and eastern Beringia. Proceedings of the National Academy of Sciences. 17 April. 2018. 115(16): 4116-4121. DOI: 10.1073/pnas.1800312115](https://doi.org/10.1073/pnas.1800312115)
@@ -150,11 +153,19 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 
 `Here we integrate data from the deepest sediment core drilled by the Deep Sea Drilling Program (DSDP) Leg 96 on the Mississippi fan (Fig. 1) to reveal major modifications to the Mississippi–Missouri drainage by the southern LIS over the past ~70 ka. Growth of the LIS began over the eastern Canadian Arctic ~116 ka (MIS 5d), and experienced punctuated episodes of expansion (~65 ka: MIS 4) and retreat (~50–40 ka: MIS 3) until reaching its maximum extent during the LGM approximately 26–25 ka (MIS 2). Mountain glaciers were near or at their maximum extent by ~30 ka, which is broadly contemporaneous with the interval when global ice sheets first reached their maxima.`
 
+## Old Crow Basin, Yukon, Canada (40000 BCE - 34500 BCE)
+
+* [Holen, S. R. (2006). Taphonomy of two last glacial maximum mammoth sites in the central Great Plains of North America: A preliminary report on La Sena and Lovewell. Quaternary International, 142, 30-43.](https://doi.org/10.1016/j.quaint.2005.03.003) &mdash; [PDF](http://capr.tdcart.com/uploads/Holen%20QI%202006.pdf) &mdash; Cites Bonnichsen and then multiple Morlan papers showing that people were already hunting and using mamoth bones in "eastern Beringia" and that "the hypothesis that humans were in eastern Beringia by 40,000rcybp has not been falsified. Instead it is generally ignored in the literature."
+
 ## Pedra Furada (58000, 46000, 30000 BCE - 7000 BCE)
 
 * [Wikipedia contributors. (2019, March 9). Pedra Furada. In Wikipedia, The Free Encyclopedia. Retrieved 08:20, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=Pedra_Furada&oldid=886938182)
-
 * [N. Guidon & G. Delibrias (1986) Carbon-14 dates point to man in the Americas 32,000 years ago. Nature. 321: 769-771.](https://www.nature.com/articles/321769a0)
+
+## Yana RHS, Siberia (28000 BCE)
+
+* [Pringle, H. (2014) Welcome to Beringia. Science. 343(6174): 961-963.](https://science.sciencemag.org/content/343/6174/961)
+* [By V. V. Pitulko, P. A. Nikolsky, E. Yu. Girya, A. E. Basilyan, V. E. Tumskoy, S. A. Koulakov, S. N. Astakhov, E. Yu. Pavlova, M. A. Anisimov (2004) The Yana RHS Site: Humans in the Arctic Before the Last Glacial Maximum. Science. 303(5654): 52-56.](https://science.sciencemag.org/content/303/5654/52.full?_ga=2.223773532.61086061.1566785266-478062606.1565127902) &mdash; [PDF](https://www.academia.edu/17919797/The_Yana_RHS_Site_Humans_in_the_Arctic_Before_the_Last_Glacial_Maximum) &mdash; Clovis like tools. Would be considered western Beringia.
 
 ## Bluefish Caves, Yukon, Canada (22000 BCE)
 
@@ -169,6 +180,10 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [C. Lahaye et al. Human occupation in South America by 20,000 BC: The Toca da Tira Peia site, Piaui, Brazil. Journal of Archaeological Science. Doi: 10.1016/j.jas.2013.02.019](https://www.sciencedirect.com/science/article/pii/S0305440313000733) &mdash; [PDF](https://www.researchgate.net/publication/257155314_Human_occupation_in_South_America_by_20000_BC_The_Toca_da_Tira_Peia_site_Piaui_Brazil)
 
 ## Paleo Indians (18000 BCE - 8000 BCE)
+
+## La Senna and Lovewell, Kansas & Nebraska, USA (19000 BCE - 16000 BCE)
+
+* [Holen, S. R. (2006). Taphonomy of two last glacial maximum mammoth sites in the central Great Plains of North America: A preliminary report on La Sena and Lovewell. Quaternary International, 142, 30-43.](https://doi.org/10.1016/j.quaint.2005.03.003) &mdash; [PDF](http://capr.tdcart.com/uploads/Holen%20QI%202006.pdf)
 
 ## Monte Verde, Chile (16500 BCE - 12500 BCE)
 
@@ -217,15 +232,91 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Human (Clovis)–gomphothere (Cuvieronius sp.) association ∼13,390 calibrated yBP in Sonora, Mexico](http://www.pnas.org/content/111/30/10972)
 * [Ancient Clovis Elephant-Hunting Camp Discovered in Mexico](http://westerndigs.org/clovis-elephant-hunting-site-discovered-in-mexico/)
 
-## Cactus Hill, Virginia, USA (14940, 1467013070 BCE)
+## Cactus Hill, Virginia, USA (14940, 14670, 13070 BCE)
 
 * [Richard I. Macphail, Joseph M. McAvoy (2008) A micromorphological analysis of stratigraphic integrity and site formation at Cactus Hill, an Early Paleoindian and hypothesized pre‐Clovis occupation in south‐central Virginia, USA. Geoarcheology. 23(5): 675-694.](https://doi.org/10.1002/gea.20234)
+* [Feathers, J. K., Rhodes, E. J., Huot, S., & Mcavoy, J. M. (2006). Luminescence dating of sand deposits related to late Pleistocene human occupation at the Cactus Hill Site, Virginia, USA. Quaternary Geochronology, 1(3), 167-187.](https://doi.org/10.1016/j.quageo.2006.05.011)
 * [Mark Rose (2000) Cactus Hill Update. Archeology. 10 April.](https://archive.archaeology.org/online/news/cactus.html)
 * [Joseph M. McAvoy, Lynn D. McAvoy (1997) Archeological Investigations of Site 44SX202, Cactus Hill, Sussex County Virginia. Virginia Department of Historic Resources. Research Report Series No. 8.](https://www.dhr.virginia.gov/pdf_files/Archeo_Reports/SX-019_AE_Investigations_44SX202_Cactus_Hill_1997_NRSAR_report.pdf)
 * [Pre-Clovis Occupation on the Nottoway River in Virginia](https://web.archive.org/web/20071017032525/http://www.athenapub.com/cacthill.htm)
 
-## Ållerød–Younger Dryas boundary (13000 BCE - 12900 BCE)
+## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
 
+* [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
+* [Annalee Newitz (2013). Underwater discovery reveals 14,550 year-old Florida mastodon hunters. Ars Technica. 13 May.](https://arstechnica.com/science/2016/05/underwater-discovery-reveals-14550-year-old-florida-mastodon-hunters/)
+* [Hodges, Glenm. Discovery Points to Earlier Arrival of First Americans. National Geographic. 13 May. 2016.](https://news.nationalgeographic.com/2016/05/160513-first-americans-clovis-mastodon-florida-page-ladson/)
+* [Halligan, Jessi J. et al. Pre-Clovis occupation 14,550 years ago at the Page-Ladson site, Florida, and the peopling of the Americas. Science Advances. 13 May. 2016. 2(5), e1600375 DOI: 10.1126/sciadv.1600375](http://advances.sciencemag.org/content/2/5/e1600375)
+* [Weisberger, Mindy. Scarred, Sunken Mastodon Hints at Earlier Human Arrival in Americas. Live Science. 13 May. 2016.](https://www.livescience.com/54735-mastodon-remains-in-underwater-site.html)
+
+## Paisley 5 Mile Point Caves, Oregon, USA (12300 BCE)
+
+* [Lisa-Marie Shillito, John C. Blong, Dennis L. Jenkins, Thomas W. Stafford Jr, Helen Whelton, Katelyn McDonough & Ian D. Bull. New Research at Paisley Caves: Applying New Integrated Analytical Approaches to Understanding Stratigraphy, Taphonomy, and Site Formation Processes. PaleoAmerica. 9 January. 2018. 4(1): 82-86, DOI: 10.1080/20555563.2017.1396167](https://www.tandfonline.com/doi/full/10.1080/20555563.2017.1396167) &mdash; [PDF](https://pdfs.semanticscholar.org/5a21/0be907c13daf56964efa814a8934a88c405d.pdf)
+* [Jenkins DL, Davis LG, Stafford TW, Connolly TJ, Jones GT, Rondeau M et al. Younger dryas archaeology and human experience at the Paisley Caves in the Northern Great Basin. In Kornfeld M, Huckell BB, editors, Stones, bones and profiles: exploring archaeological context, early American hunter-gatherers, and bison. Utah State University Press. 2016. p. 127-204 https://doi.org/10.5876/9781607324539.c006](https://www.researchgate.net/profile/Thomas_Stafford_Jr/publication/304010612_Younger_Dryas_Archaeology_and_Human_Experience_at_the_Paisley_Caves_in_the_Northern_Great_Basin/links/5cbba338299bf12097747ae2/Younger-Dryas-Archaeology-and-Human-Experience-at-the-Paisley-Caves-in-the-Northern-Great-Basin.pdf)
+* [Katelyn McDonough, Ian Luthe, Mark E. Swisher, Dennis L. Jenkins, Patrick O'Grady, Frances White. ABCs at the Paisley Caves: Artifact, Bone, and Coprolite Distributions in Pre-Mazama Deposits. Current Archaeological Happenings in Oregon. 2012. 37(2-3): 7-12.](https://pdfs.semanticscholar.org/fa00/d1c5bbef3b4d415e36b52527aee8de60cd47.pdf?_ga=2.251507206.1430381601.1565417974-133447924.1565417974)
+* [Balter, Micheal. "DNA From Fossil Feces Breaks Clovis Barrier." Science. 04 April. 2008. 320(5872): 37](http://science.sciencemag.org/content/320/5872/37.summary)
+* [M. Thomas. P. Gilbert, Dennis L. Jenkins, et al. DNA from Pre-Clovis Human Coprolites in Oregon, North America. Science. 09 May. 2008. 320(5877): 786-789.](https://science.sciencemag.org/content/320/5877/786)
+* [Pre-Clovis Human DNA Found In 14,300-year-old Feces In Oregon Cave Is Oldest In New World](https://www.sciencedaily.com/releases/2008/04/080403141109.htm)
+
+## Triquet Island, British Columbia, Canada (12000 BCE)
+
+* [Farand, Chloe. 14,000-year-old village discovered in Canada one of oldest settlements ever found in North America. Independent. 08 Apr. 2017.](https://www.independent.co.uk/news/world/americas/14000-village-discovered-triquet-island-british-columbia-canada-oldest-settlment-north-america-a7673726.html)
+* [14,000-year-old village unearthed on B.C. island by UVic student](https://vancouverisland.ctvnews.ca/14-000-year-old-village-unearthed-on-b-c-island-by-uvic-student-1.3358511#_gus&_gucid=&_gup=twitter&_gsc=CFUBl6c)
+* [Nair, Roshni. Archeological find affirms Heiltsuk Nation's oral history. CBC News. 30 Mar. 2017.](https://www.cbc.ca/news/canada/british-columbia/archeological-find-affirms-heiltsuk-nation-s-oral-history-1.4046088)
+* [de Ryk, Caroline. Settlement dating back 14,000 years found in Heiltsuk land on B.C.'s north coast. Daybreak North (podcast). 30 Mar. 2017.}](http://www.cbc.ca/listen/shows/daybreak-north/segment/12151821)
+* [Franz, Julia. From oral history, a 14,000-year-old archaeological discovery. PRI Culture. 07 May. 2017.](https://www.pri.org/stories/2017-05-07/oral-history-14000-year-old-archaeological-discovery)
+* [Thomson, Jimmy. Hakai: The Archaeology Story. 05 Jun. 2015. (includes video w/ high res images of a few artifacts)](https://www.hakai.org/blog/life-at-hakai/hakai-archaeology-story)
+* [Shore, Randy. Heiltsuk First Nation village among oldest in North America: Archeologists. Vancouver Sun. 29 Mar. 2017.](https://vancouversun.com/news/local-news/heiltsuk-first-nation-village-among-oldest-in-north-america-archeologists)
+* [Taylor, Christie. A 14,000 Year-Old Discovery Emerges From Oral History. Science Friday. 14 Apr. 2017.](https://www.sciencefriday.com/segments/a-14000-year-old-discovery-emerges-from-oral-history/)
+
+## Manis Site, Washington, USA (12000 BCE)
+
+* [Manis Mastodon Site](https://en.wikipedia.org/wiki/Manis_Mastodon_Site)
+* [Gustafson, Carl E. The Manis Mastodon Site: An Adventure In Prehistory. Washington State Magazine. Summer. 2012.](https://magazine.wsu.edu/web-extra/the-manis-mastodon-site-an-adventure-in-prehistory/)
+* [Waters, Michael R. et al. Pre-Clovis Mastodon Hunting 13,800 Years Ago at the Manis Site, Washington. Science. 21 October. 2011. 334(6054):351-3.](https://www.researchgate.net/publication/51737194_Pre-Clovis_Mastodon_Hunting_13800_Years_Ago_at_the_Manis_Site_Washington)
+* [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
+* [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
+
+## Schaefer and Hebior Kill Sites, Illinois, USA (12500 BCE)
+
+* [Nikhil Swaminathan (2014) Schaefer and Hebior Kill Sites. Archaeology. September/October.](https://www.archaeology.org/issues/145-1409/features/2372-peopling-the-americas-schaefer-hebior)
+
+## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
+
+## Toca do Boqueirão da Pedra Furada, Piauí, Brazil (11822 BCE - 6150 BCE)
+
+* [Leidiana Mota, Rita Scheel-Ybert (2019) Landscape and firewood use in Toca do Boqueirão da Pedra Furada (Piauí, Brazil) during early and Mid-Holocene. Journal of Archeological Science: Reports. 23: 281-290.](https://doi.org/10.1016/j.jasrep.2018.10.034)
+
+## Clovis (11100 BCE)
+
+* [Michael R. Waters, Thomas W. Stafford Jr (2007) Redefining the Age of Clovis: Implications for the Peopling of the Americas. Science. 315(5815): 1122-1126.](https://science.sciencemag.org/content/315/5815/1122.long)
+
+## Anzick burial (10700 BCE)
+
+* [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
+* [Balter M (2014) Native Americans Descend From Ancient Montana Boy. Science News. Science. 12 February.](https://www.sciencemag.org/news/2014/02/native-americans-descend-ancient-montana-boy)
+* [Morten Rasmussen, Sarah L. Anzick, Micheal R. Waters, et al. The genome of a Late Pleistocene human from a Clovis burial site in western Montana. Nature. 12 February. 2014](https://www.nature.com/articles/nature13025)
+
+## Northern Channel Islands, California, USA (11000 BCE)
+
+* [Jon M. Erlandson, Torben C. Rick, Todd J. Braje, Molly Casperson, Brendan Culleton, Brian Fulfrost, Tracy Garcia, Daniel A. Guthrie, Nicholas Jew, Douglas J. Kennett, Madonna L. Moss, Leslie Reeder, Craig Skinner, Jack Watts, Lauren Willis. Paleoindian Seafaring, Maritime Technologies, and Coastal Foraging on California’s Channel Islands. Science. 04 March. 2011. 331(6021): 1181-1185.](https://science.sciencemag.org/content/331/6021/1181)
+
+## Topper-Allendale, South Carolina, USA (11000 BCE)
+
+* [Anderson, Derek T. North American Archeologist/Outreach Coordinator. Topper Site, SC Updates. Professional Blog.](http://stoneandbone.cobb.msstate.edu/topper.html)
+* [Hanks, Micah (2018) Topper: South Carolina’s Most Controversial Archaeological Site May Be Its Oldest. Seven Ages.](https://sevenages.org/archaeology/topper-south-carolinas-most-controversial-archaeological-site-may-be-its-oldest/) &mdash; video with Goodyear states the lithic cores might go back to ~50000ybp.
+* [Ashley M. Smallwood (2015) Context and spatial organization of the Clovis assemblage from the Topper site, South Carolina. Journal of Field Archeology. 40(1): 69-88.](https://doi.org/10.1179/0093469014Z.000000000106) &mdash; [PDF](https://www.researchgate.net/publication/273311766_Context_and_spatial_organization_of_the_Clovis_assemblage_from_the_Topper_site_South_Carolina)
+* [Dan Conover (2013) Rethinking Clovis at Topper: June 2012. Xark Media. Originally published as "The Cutting Edge" in the Charleston City Paper.](https://xark.typepad.com/my_weblog/2013/05/rethinking-clovis-at-topper-june-2012.html)
+* [Albert C. Goodyear III (2016). "The Search for the Earliest Humans in the Land Recently Called South Carolina
+The Search for the Earliest Humans in the Land Recently Called South Carolina" Archaeology in South Carolina: Exploring the Hidden Heritage of the Palmetto State. Adam King, ed. University of South Carolina Press.]
+
+## Quebrada Los Burros, Peru (11000 BCE - 9000 BCE)
+
+* [Arriaza B.T., Standen V.G., Cassman V., Santoro C.M. (2008) Chinchorro Culture: Pioneers of the Coast of the Atacama Desert. In: Silverman H., Isbell W.H. (eds) The Handbook of South American Archaeology. Springer, New York, NY](https://link.springer.com/chapter/10.1007%2F978-0-387-74907-5_3)
+
+## Ållerød–Younger Dryas boundary (11000 BCE - 10900 BCE)
+
+* [Carlson A.E. (2013) The Younger Dryas Climate Event. In: Elias S.A. (ed.) The Encyclopedia of Quaternary Science, vol. 3, pp. 126-134. Amsterdam: Elsevier.](http://people.oregonstate.edu/~carlsand/carlson_encyclopedia_Quat_2013_YD.pdf)
+* [Fiedel, S. (1999). Older Than We Thought: Implications of Corrected Dates for Paleoindians. American Antiquity, 64(1), 95-115. doi:10.2307/2694348](https://www.jstor.org/stable/2694348?read-now=1&seq=1#page_scan_tab_contents)
 * [J. R. Marlon, P. J. Bartlein, M. K. Walsh, S. P. Harrison, K. J. Brown, M. E. Edwards, P. E. Higuera, M. J. Power, R. S. Anderson, C. Briles, A. Brunelle, C. Carcaillet, M. Daniels, F. S. Hu, M. Lavoie, C. Long, T. Minckley, P. J. H. Richard, A. C. Scott, D. S. Shafer,r W. Tinner, C. E. Umbanhowar, Jr, and C. Whitlock. Wildfire responses to abrupt climate change in North America. Proceedings of the National Academy of Sciences of the USA. 24 February. 2009. 106(8): 2519-2524.](https://dx.doi.org/10.1073%2Fpnas.0808212106)
 * [D.J. Kennett, J.P. Kennett, G.J. West, J.M. Erlandson, J.R. Johnson, I.L. Hendy, A. West, B.J. Culleton, T.L. Jones, Thomas W. Stafford,Jr. Wildfire and abrupt ecosystem disruption on California’s Northern Channel Islands at the Ållerød–Younger Dryas boundary (13.0–12.9 ka). Quat. Sci. Rev. 27, 2530 (2008). doi:10.1016/j.quascirev.2008.09.006](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1025&context=ssci_fac)
 * **Younger Dryas Impact Hypothesis**
@@ -273,76 +364,15 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * **Relation to current fire dynamics with climate change**
   * [Ryan Kelly, Melissa L. Chipman, Philip E. Higuera, Ivanka Stefanova, Linda B. Brubaker, and Feng Sheng Hua (2013). Recent burning of boreal forests exceeds fire regime limits of the past 10,000 years. 110(32): 13055–13060.](https://dx.doi.org/10.1073%2Fpnas.1305069110)
 
-## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
-
-* [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
-* [Annalee Newitz (2013). Underwater discovery reveals 14,550 year-old Florida mastodon hunters. Ars Technica. 13 May.](https://arstechnica.com/science/2016/05/underwater-discovery-reveals-14550-year-old-florida-mastodon-hunters/)
-* [Hodges, Glenm. Discovery Points to Earlier Arrival of First Americans. National Geographic. 13 May. 2016.](https://news.nationalgeographic.com/2016/05/160513-first-americans-clovis-mastodon-florida-page-ladson/)
-* [Halligan, Jessi J. et al. Pre-Clovis occupation 14,550 years ago at the Page-Ladson site, Florida, and the peopling of the Americas. Science Advances. 13 May. 2016. 2(5), e1600375 DOI: 10.1126/sciadv.1600375](http://advances.sciencemag.org/content/2/5/e1600375)
-* [Weisberger, Mindy. Scarred, Sunken Mastodon Hints at Earlier Human Arrival in Americas. Live Science. 13 May. 2016.](https://www.livescience.com/54735-mastodon-remains-in-underwater-site.html)
-
-## Paisley 5 Mile Point Caves, Oregon, USA (12300 BCE)
-
-* [Lisa-Marie Shillito, John C. Blong, Dennis L. Jenkins, Thomas W. Stafford Jr, Helen Whelton, Katelyn McDonough & Ian D. Bull. New Research at Paisley Caves: Applying New Integrated Analytical Approaches to Understanding Stratigraphy, Taphonomy, and Site Formation Processes. PaleoAmerica. 9 January. 2018. 4(1): 82-86, DOI: 10.1080/20555563.2017.1396167](https://www.tandfonline.com/doi/full/10.1080/20555563.2017.1396167) &mdash; [PDF](https://pdfs.semanticscholar.org/5a21/0be907c13daf56964efa814a8934a88c405d.pdf)
-* [Jenkins DL, Davis LG, Stafford TW, Connolly TJ, Jones GT, Rondeau M et al. Younger dryas archaeology and human experience at the Paisley Caves in the Northern Great Basin. In Kornfeld M, Huckell BB, editors, Stones, bones and profiles: exploring archaeological context, early American hunter-gatherers, and bison. Utah State University Press. 2016. p. 127-204 https://doi.org/10.5876/9781607324539.c006](https://www.researchgate.net/profile/Thomas_Stafford_Jr/publication/304010612_Younger_Dryas_Archaeology_and_Human_Experience_at_the_Paisley_Caves_in_the_Northern_Great_Basin/links/5cbba338299bf12097747ae2/Younger-Dryas-Archaeology-and-Human-Experience-at-the-Paisley-Caves-in-the-Northern-Great-Basin.pdf)
-* [Katelyn McDonough, Ian Luthe, Mark E. Swisher, Dennis L. Jenkins, Patrick O'Grady, Frances White. ABCs at the Paisley Caves: Artifact, Bone, and Coprolite Distributions in Pre-Mazama Deposits. Current Archaeological Happenings in Oregon. 2012. 37(2-3): 7-12.](https://pdfs.semanticscholar.org/fa00/d1c5bbef3b4d415e36b52527aee8de60cd47.pdf?_ga=2.251507206.1430381601.1565417974-133447924.1565417974)
-* [Balter, Micheal. "DNA From Fossil Feces Breaks Clovis Barrier." Science. 04 April. 2008. 320(5872): 37](http://science.sciencemag.org/content/320/5872/37.summary)
-* [M. Thomas. P. Gilbert, Dennis L. Jenkins, et al. DNA from Pre-Clovis Human Coprolites in Oregon, North America. Science. 09 May. 2008. 320(5877): 786-789.](https://science.sciencemag.org/content/320/5877/786)
-* [Pre-Clovis Human DNA Found In 14,300-year-old Feces In Oregon Cave Is Oldest In New World](https://www.sciencedaily.com/releases/2008/04/080403141109.htm)
-
-## Triquet Island, British Columbia, Canada (12000 BCE)
-
-* [Farand, Chloe. 14,000-year-old village discovered in Canada one of oldest settlements ever found in North America. Independent. 08 Apr. 2017.](https://www.independent.co.uk/news/world/americas/14000-village-discovered-triquet-island-british-columbia-canada-oldest-settlment-north-america-a7673726.html)
-* [14,000-year-old village unearthed on B.C. island by UVic student](https://vancouverisland.ctvnews.ca/14-000-year-old-village-unearthed-on-b-c-island-by-uvic-student-1.3358511#_gus&_gucid=&_gup=twitter&_gsc=CFUBl6c)
-* [Nair, Roshni. Archeological find affirms Heiltsuk Nation's oral history. CBC News. 30 Mar. 2017.](https://www.cbc.ca/news/canada/british-columbia/archeological-find-affirms-heiltsuk-nation-s-oral-history-1.4046088)
-* [de Ryk, Caroline. Settlement dating back 14,000 years found in Heiltsuk land on B.C.'s north coast. Daybreak North (podcast). 30 Mar. 2017.}](http://www.cbc.ca/listen/shows/daybreak-north/segment/12151821)
-* [Franz, Julia. From oral history, a 14,000-year-old archaeological discovery. PRI Culture. 07 May. 2017.](https://www.pri.org/stories/2017-05-07/oral-history-14000-year-old-archaeological-discovery)
-* [Thomson, Jimmy. Hakai: The Archaeology Story. 05 Jun. 2015. (includes video w/ high res images of a few artifacts)](https://www.hakai.org/blog/life-at-hakai/hakai-archaeology-story)
-* [Shore, Randy. Heiltsuk First Nation village among oldest in North America: Archeologists. Vancouver Sun. 29 Mar. 2017.](https://vancouversun.com/news/local-news/heiltsuk-first-nation-village-among-oldest-in-north-america-archeologists)
-* [Taylor, Christie. A 14,000 Year-Old Discovery Emerges From Oral History. Science Friday. 14 Apr. 2017.](https://www.sciencefriday.com/segments/a-14000-year-old-discovery-emerges-from-oral-history/)
-
-## Manis Site, Washington, USA (12000 BCE)
-
-* [Manis Mastodon Site](https://en.wikipedia.org/wiki/Manis_Mastodon_Site)
-* [Gustafson, Carl E. The Manis Mastodon Site: An Adventure In Prehistory. Washington State Magazine. Summer. 2012.](https://magazine.wsu.edu/web-extra/the-manis-mastodon-site-an-adventure-in-prehistory/)
-* [Waters, Michael R. et al. Pre-Clovis Mastodon Hunting 13,800 Years Ago at the Manis Site, Washington. Science. 21 October. 2011. 334(6054):351-3.](https://www.researchgate.net/publication/51737194_Pre-Clovis_Mastodon_Hunting_13800_Years_Ago_at_the_Manis_Site_Washington)
-* [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
-* [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
-
-## Schaefer and Hebior Kill Sites, Illinois, USA (12500 BCE)
-
-* [Nikhil Swaminathan (2014) Schaefer and Hebior Kill Sites. Archaeology. September/October.](https://www.archaeology.org/issues/145-1409/features/2372-peopling-the-americas-schaefer-hebior)
-
-## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
-
-## Northern Channel Islands, California, USA (11000 BCE)
-
-* [Jon M. Erlandson, Torben C. Rick, Todd J. Braje, Molly Casperson, Brendan Culleton, Brian Fulfrost, Tracy Garcia, Daniel A. Guthrie, Nicholas Jew, Douglas J. Kennett, Madonna L. Moss, Leslie Reeder, Craig Skinner, Jack Watts, Lauren Willis. Paleoindian Seafaring, Maritime Technologies, and Coastal Foraging on California’s Channel Islands. Science. 04 March. 2011. 331(6021): 1181-1185.](https://science.sciencemag.org/content/331/6021/1181)
-
-## Topper-Allendale, South Carolina, USA (11000 BCE)
-
-* [Ashley M. Smallwood (2015) Context and spatial organization of the Clovis assemblage from the Topper site, South Carolina. Journal of Field Archeology. 40(1): 69-88.](https://doi.org/10.1179/0093469014Z.000000000106) &mdash; [PDF](https://www.researchgate.net/publication/273311766_Context_and_spatial_organization_of_the_Clovis_assemblage_from_the_Topper_site_South_Carolina)
-* [Dan Conover (2013) Rethinking Clovis at Topper: June 2012. Xark Media. Originally published as "The Cutting Edge" in the Charleston City Paper.](https://xark.typepad.com/my_weblog/2013/05/rethinking-clovis-at-topper-june-2012.html)
-* [Albert C. Goodyear III (2016). "The Search for the Earliest Humans in the Land Recently Called South Carolina
-The Search for the Earliest Humans in the Land Recently Called South Carolina" Archaeology in South Carolina: Exploring the Hidden Heritage of the Palmetto State. Adam King, ed. University of South Carolina Press.]
-
-## Quebrada Los Burros, Peru (11000 BCE - 9000 BCE)
-
-* [Arriaza B.T., Standen V.G., Cassman V., Santoro C.M. (2008) Chinchorro Culture: Pioneers of the Coast of the Atacama Desert. In: Silverman H., Isbell W.H. (eds) The Handbook of South American Archaeology. Springer, New York, NY](https://link.springer.com/chapter/10.1007%2F978-0-387-74907-5_3)
-
 ## Post Pattern (11000 BCE - 7000 BCE)
 
 ## Mesoamerican Paleo Indian (10000 BCE - 3500 BCE)
 
-## 12,300-Year-Old Hearth Unearthed in Utah
+## 12,300-Year-Old Hearth Unearthed in Utah (10300 BCE)
 
 * [Far Western Crew Unearths 12,300-Year-Old Hearth in Utah](http://farwestern.com/12300-year-old-hearth-in-utah/)
 * [Evidence of Great Basin's earliest inhabitants found at Utah training range](https://www.standard.net/news/evidence-of-great-basin-s-earliest-inhabitants-found-at-utah/article_8020c307-7699-5e0e-bfd5-89c64b3be226.html)
 * [Archaeologists discover proof of wetlands, ancient life on the Utah Test and Training Range](https://www.dvidshub.net/news/204768/archaeologists-discover-proof-wetlands-ancient-life-utah-test-and-training-range)
-
-## Toca do Boqueirão da Pedra Furada, Piauí, Brazil (11822 BCE - 6150 BCE)
-
-* [Leidiana Mota, Rita Scheel-Ybert (2019) Landscape and firewood use in Toca do Boqueirão da Pedra Furada (Piauí, Brazil) during early and Mid-Holocene. Journal of Archeological Science: Reports. 23: 281-290.](https://doi.org/10.1016/j.jasrep.2018.10.034)
 
 ## Sítio do Meio (10500 BCE)
 
@@ -363,20 +393,19 @@ The Search for the Earliest Humans in the Land Recently Called South Carolina" A
 * El Abra stadial (8988 BCE)
 * [Aguazuque (3000 BCE - 700 BCE)](https://en.wikipedia.org/wiki/Aguazuque)
 
+## Upper Sun River Burial (9600 BCE - 9270 BCE)
+
+* [Ben A. Potter, Joel D. Irish, Joshua D. Reuther, Holly J. McKinney (2014) New insights into Beringian mortuary behavior. Proceedings of the National Academy of Sciences.111(48): 17060-17065; DOI: 10.1073/pnas.1413131111](https://doi.org/10.1073/pnas.1413131111)
+* [Kemp, B. M., Malhi, R. S., McDonough, J. , Bolnick, D. A., Eshleman, J. A., Rickards, O. , Martinez‐Labarga, C. , Johnson, J. R., Lorenz, J. G., Dixon, E. J., Fifield, T. E., Heaton, T. H., Worl, R. and Smith, D. G. (2007), Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. Am. J. Phys. Anthropol., 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
+
 ## Caverna da Pedra Pintada, Pará, Brazil (9200 BCE)
 
 * [John Noble Wilford (1996) "SCIENTIST AT WORK: Anna C. Roosevelt;Sharp and To the Point In Amazonia", New York Times. 23 April. Section C: 1.](https://www.nytimes.com/1996/04/23/science/scientist-at-work-anna-c-roosevelt-sharp-and-to-the-point-in-amazonia.html?src=pm)
 * [Jessica E. Saraceni and Adriana Franco de Sá (1996). Peopling of South America. Archeology. 49(4).](https://archive.archaeology.org/9607/newsbriefs/brazil.html)
 
-## Clovis (9000 BCE)
+## Cueva Fell, Patagonia, Chile (9000 BCE)
 
-* [Michael R. Waters, Thomas W. Stafford Jr (2007) Redefining the Age of Clovis: Implications for the Peopling of the Americas. Science. 315(5815): 1122-1126.](https://science.sciencemag.org/content/315/5815/1122.long)
-
-# Anzick burial ()
-* [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
-* [Michael Balter. Native Americans Descend From Ancient Montana Boy. Science News. Science. 12 February. 2014.](https://www.sciencemag.org/news/2014/02/native-americans-descend-ancient-montana-boy)
-* [Morten Rasmussen, Sarah L. Anzick, Micheal R. Waters, et al. The genome of a Late Pleistocene human from a Clovis burial site in western Montana. Nature. 12 February. 2014](https://www.nature.com/articles/nature13025)
-
+* [Cueva Fell, Wikipedia](https://en.wikipedia.org/wiki/Cueva_Fell)
 
 ## Domestication of Potatoes (9000 BCE - 7000 BCE)
 
@@ -395,6 +424,11 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 ## Folsom Tradition (9000 BCE - 8000 BCE)
 
 ## Dalton Tradition (8500 BCE - 7900 BCE)
+
+## On Your Knees Cave, Tongass National Forest, Alaska, USA (8300 BCE)
+
+* [Lawler, A. (2010) A Tale of Two Skeletons. Science. 330(6001): 171-172. DOI: 10.1126/science.330.6001.171](https://science.sciencemag.org/content/330/6001/171)
+* [Kemp, B. M., Malhi, R. S., McDonough, J. , Bolnick, D. A., Eshleman, J. A., Rickards, O. , Martinez‐Labarga, C. , Johnson, J. R., Lorenz, J. G., Dixon, E. J., Fifield, T. E., Heaton, T. H., Worl, R. and Smith, D. G. (2007), Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. Am. J. Phys. Anthropol., 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
 
 ## Early Archaic (8000 BCE - 6000 BCE)
 
@@ -436,7 +470,11 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 
 ## Paleo-Arctic Tradition (8000 BCE - 5000 BCE)
 
-### Tlingit Petroglyphs
+## Trail Creek Caves, Seward Peninsula, Alaska, USA (7000 BCE)
+
+* [J. V. Moreno-Mayar et al. (2018) Early human dispersals within the Americas. Science. 10.1126/science.aav2621](https://www.researchgate.net/publication/328815661_Early_human_dispersals_within_the_Americas)
+
+## Tlingit Petroglyphs
 
 * [Petroglyph Beach : Tlingit Art From Before the Time of the Pyramids](http://ianajohnson.com/petroglyph-beach-tlingit-art-time-pyramids/) - Wrangell Petroglyph State Historic Site, Wrangell, Alaska, USA
 * [A GALLERY OF NORTHWEST PETROGLYPHS: SHAMANIC ART OF THE PACIFIC NORTHWEST](https://www.danielleen.org/petroglyphs.html)
@@ -805,7 +843,7 @@ Conduit of many cultures.
 
 * [Izapa](https://en.wikipedia.org/wiki/Izapa)
 
-# Post-archaic (1000 BCE - Present)
+## Post-archaic (1000 BCE - Present)
 
 ## Tres-Zapotes - Papaloapan River Basin, Veracruz, MX - Olmec, Epi-Olmec, Classic Veracruz (1000 BCE - 900 CE)
 
@@ -1430,9 +1468,11 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 
 ## Genetic Evidence for the Peopling of the Americas
 
+* [Guido Alberto Gnecchi-Ruscone, Stefania Sarno, Sara De Fanti, Laura Gianvincenzo, Cristina Giuliani, Alessio Boattini, Eugenio Bortolini, Tullia Di Corcia, Cesar Sanchez Mellado, Taylor Jesus Dàvila Francia, Davide Gentilini, Anna Maria Di Blasio, Patrizia Di Cosimo, Elisabetta Cilli, Antonio Gonzalez-Martin, Claudio Franceschi, Zelda Alice Franceschi, Olga Rickards, Marco Sazzini, Donata Luiselli, Davide Pettener (2019) Dissecting the Pre-Columbian Genomic Ancestry of Native Americans along the Andes–Amazonia Divide, Molecular Biology and Evolution. 36(6): 1254–1269](https://doi.org/10.1093/molbev/msz066)
 * [Ancient DNA confirms Native Americans’ deep roots in North and South America](https://www.sciencemag.org/news/2018/11/ancient-dna-confirms-native-americans-deep-roots-north-and-south-america?fbclid=IwAR21oJI6ch48j-xRr5OlOn7Cyco9GKaDEqOpNAsrdhcfF3bD2tfGqpG6jx8)
+* [Chiara Barbieri, Rodrigo Barquera, Leonardo Arias, José R. Sandoval, Oscar Acosta, Camilo Zurita, Abraham Aguilar-Campos, Ana M. Tito-Álvarez, Ricardo Serrano-Osuna, Russell Gray, Paul Heggarty, Kentaro K. Shimizu, Ricardo Fujita, Mark Stoneking, Irina Pugach, Lars Fehren-Schmitz (2018) The genomic landscape of western South America: Andes, Amazonia and Pacific Coast. bioRXiv preprint.](https://www.biorxiv.org/content/10.1101/505628v1.full)
 * [Posth, Cosimo et al. (2018) Reconstructing the Deep Population History of Central and South America. Cell. DOI:https://doi.org/10.1016/j.cell.2018.10.027](https://www.cell.com/cell/fulltext/S0092-8674(18)31380-1)
-* [J. V. Moreno-Mayar et al. (2018) Early human dispersals within the Americas. Science. 10.1126/science.aav2621](https://www.researchgate.net/publication/328815661_Early_human_dispersals_within_the_Americas)
+* [J. V. Moreno-Mayar et al. (2018) Early human dispersals within the Americas. Science. 10.1126/science.aav2621](https://www.researchgate.net/publication/328815661_Early_human_dispersals_within_the_Americas) &mdash; This is a fantasic paper. I'd love to apply it's techniques to a broader sample of populations and early DNA sequences.
 * [Ancient human parallel lineages within North America contributed to a coastal expansion](https://www.academia.edu/36866318/Ancient_human_parallel_lineages_within_North_America_contributed_to_a_coastal_expansion)
 * [Amerindian mitochondrial DNAs have rare Asian mutations at high frequencies, suggesting they derived from four primary maternal lineages.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1683611/)
 * [Hamilton-Brehm SD, Hristova LT, Edwards SR, Wedding JR, Snow M, Kruger BR, et al. (2018) Ancient human mitochondrial DNA and radiocarbon analysis of archived quids from the Mule Spring Rockshelter, Nevada, USA. PLoS ONE 13(3): e0194223. https://doi.org/10.1371/journal.pone.0194223](https://doi.org/10.1371/journal.pone.0194223)
@@ -1470,6 +1510,7 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * [mtDNA Variation among Greenland Eskimos: The Edge of the Beringian Expansion.](https://doi.org/10.1086/303038)
 * [Torroni, A., Sukernik, R. I., Schurr, T. G., Starikorskaya, Y. B., Cabell, M. F., Crawford, M. H., Comuzzie, A. G., … Wallace, D. C. (1993). mtDNA variation of aboriginal Siberians reveals distinct genetic affinities with Native Americans. American journal of human genetics, 53(3), 591-608.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682407/)
 * [Tamm E, Kivisild T, Reidla M, Metspalu M, Smith DG, Mulligan CJ, et al. (2007) Beringian Standstill and Spread of Native American Founders. PLoS ONE 2(9): e829.](https://doi.org/10.1371/journal.pone.0000829)
+* [Kemp, B. M., Malhi, R. S., McDonough, J. , Bolnick, D. A., Eshleman, J. A., Rickards, O. , Martinez‐Labarga, C. , Johnson, J. R., Lorenz, J. G., Dixon, E. J., Fifield, T. E., Heaton, T. H., Worl, R. and Smith, D. G. (2007), Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. Am. J. Phys. Anthropol., 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
 * [Malhi, Ripan S.; Mortensen, Holly M.; Eshleman, Jason A.; Kemp, Brian M.; Lorenz, Joseph G.; Kaestle, Frederika A.; Johnson, John R.; Gorodezky, Clara; Smith, David Glenn (2003)."Native American mtDNA prehistory in the American Southwest." American Journal of Physical Anthropology 120(2): 108-124. <http://hdl.handle.net/2027.42/34277>](http://hdl.handle.net/2027.42/34277)
 * [Morten Rasmussen, Yingrui Li, Stinus Lindgreen, Jakob Skou Pedersen, Anders Albrechtsen, Ida Moltke, Mait Metspalu, Ene Metspalu, Toomas Kivisild, Ramneek Gupta, Marcelo Bertalan, Kasper Nielsen, M. Thomas P. Gilbert, Yong Wang, Maanasa Raghavan, Paula F. Campos, Hanne Munkholm Kamp, Andrew S. Wilson, Andrew Gledhill, Silvana Tridico, Michael Bunce, Eline D. Lorenzen, Jonas Binladen, Xiaosen Guo, Jing Zhao, Xiuqing Zhang, Hao Zhang, Zhuo Li, Minfeng Chen, Ludovic Orlando, Karsten Kristiansen, Mads Bak, Niels Tommerup, Christian Bendixen, Tracey L. Pierre, Bjarne Grønnow, Morten Meldgaard, Claus Andreasen, Sardana A. Fedorova, Ludmila P. Osipova, Thomas F. G. Higham, Christopher Bronk Ramsey, Thomas v. O. Hansen, Finn C. Nielsen, Michael H. Crawford, Søren Brunak, Thomas Sicheritz-Pontén, Richard Villems, Rasmus Nielsen, Anders Krogh, Jun Wang & Eske Willerslev. Ancient human genome sequence of an extinct Palaeo-Eskimo. Nature. 11 February. 2010. 463: 757-762.](https://rdcu.be/bOjbe)
 * [Origins and genetic legacies of the Caribbean Taino](https://doi.org/10.1073/pnas.1716839115)
