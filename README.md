@@ -47,28 +47,7 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 
 ### Sources
 
-* National Geographic has a nice looking, but crude, map which traces the general flow of modern genetics out of Africa and into the rest of the world: [Map of Human Migration](https://genographic.nationalgeographic.com/human-journey/)
-* [Langley, Michelle. World’s scientists turn to Asia and Australia to rewrite human history. The Conversation. 7 Dec. 2017.](http://theconversation.com/worlds-scientists-turn-to-asia-and-australia-to-rewrite-human-history-88697)
-* [Gibbens, Sarah. Humans Arrived in Australia 18,000 Years Earlier Than We Thought. National Geographic. 20 Jul. 2017.](https://news.nationalgeographic.com/2017/07/australia-aboriginal-early-human-evolution-spd/)
-* [Gibbons, Ann. A find in Australia hints at very early human exit from Africa. 19 Jul. 2017.](http://www.sciencemag.org/news/2017/07/find-australia-hints-very-early-human-exit-africa)
-* [Callaway, Ewen. Oldest Homo sapiens fossil claim rewrites our species' history. Nature News. 07 Jun. 2017.](https://www.nature.com/news/oldest-homo-sapiens-fossil-claim-rewrites-our-species-history-1.22114)
-* [Gibbons, Ann. World’s oldest Homo sapiens fossils found in Morocco. Science. 7 Jun. 2017.](http://www.sciencemag.org/news/2017/06/world-s-oldest-homo-sapiens-fossils-found-morocco)
-* [Malaspinas, Anna-Sapfo et al. A genomic history of Aboriginal Australia. Nature. 538. 207–214 13 Oct. 2016.](https://www.nature.com/articles/nature18299)
-* [Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep. 2016](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
-* [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
-* [McEvoy, Brian et al. Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American journal of human genetics. 13 Aug. 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
-* [Scientists discover evidence of early human innovation, pushing back evolutionary timeline](https://unews.utah.edu/scientists-discover-evidence-of-early-human-innovation-pushing-back-evolutionary-timeline/)
-* [Neanderthals cared for each other and survived into old age – new research](https://www.heritagedaily.com/2018/04/neanderthals-cared-for-each-other-and-survived-into-old-age-new-research/118812)
-* [First human migration out of Africa much more geographically widespread than previously thought](https://www.shh.mpg.de/891823/wusta)
-* [Groucutt, H. S., Grün, R., Zalmout, I. A. S., Drake, N. A., Armitage, S. J., Candy, I., et al. (2018). Homo sapiens in Arabia by 85,000 years ago. Nature Ecology & Evolution. doi:10.1038/s41559-018-0518-2](https://doi.org/10.1038/s41559-018-0518-2)
-* [DNA of early Neanderthal gives timeline for new modern human-related dispersal from Africa](https://www.heritagedaily.com/2017/07/dna-early-neanderthal-gives-timeline-new-modern-human-related-dispersal-africa/115826)
-* [‘Humanlike’ ways of thinking evolved 1.8 million years ago, suggests new study](https://www.heritagedaily.com/2017/05/humanlike-ways-of-thinking-evolved-1-8-million-years-ago-suggests-new-study/114789)
-* [400,000-year-old fossil human cranium is oldest ever found in Portugal](https://www.heritagedaily.com/2017/03/400000-year-old-fossil-human-cranium-is-oldest-ever-found-in-portugal/114346)
-* [Ancient Humans Lived in China 2.1 Million Years Ago](https://www.theatlantic.com/science/archive/2018/07/early-humans-left-africa-250000-years-earlier-than-thought/564896/)
-* [Hominin occupation of the Chinese Loess Plateau since about 2.1 million years ago](https://www.nature.com/articles/s41586-018-0299-4)
-* [Evidence for precision grasping in Neandertal daily activities](http://advances.sciencemag.org/content/4/9/eaat2369)
-* [Symbolic use of marine shells and mineral pigments by Iberian Neandertals 115,000 years ago](http://advances.sciencemag.org/content/4/2/eaar5255)
-* [Traces of mystery ancient humans found lurking in our genomes](https://www.newscientist.com/article/mg24031992-600-traces-of-mystery-ancient-humans-found-lurking-in-our-genomes/)
+See the links under [Genetics](#genetics).
 
 ## Overview of new findings
 
@@ -1526,12 +1505,34 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 
 ## Early Modern Human Emergence From Africa
 
+* National Geographic has a nice looking, but crude, map which traces the general flow of modern genetics out of Africa and into the rest of the world: [Map of Human Migration](https://genographic.nationalgeographic.com/human-journey/)
 * [Malaspinas, Anna-Sapfo et al. A genomic history of Aboriginal Australia. Nature. 538. 207–214 13 Oct. 2016.](https://www.nature.com/articles/nature18299)
 * [Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep. 2016](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
 * [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
 * [McEvoy, Brian et al. Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American journal of human genetics. 13 Aug. 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
+* [Langley, Michelle. World’s scientists turn to Asia and Australia to rewrite human history. The Conversation. 7 Dec. 2017.](http://theconversation.com/worlds-scientists-turn-to-asia-and-australia-to-rewrite-human-history-88697)
+* [Gibbens, Sarah. Humans Arrived in Australia 18,000 Years Earlier Than We Thought. National Geographic. 20 Jul. 2017.](https://news.nationalgeographic.com/2017/07/australia-aboriginal-early-human-evolution-spd/)
+* [Gibbons, Ann. A find in Australia hints at very early human exit from Africa. 19 Jul. 2017.](http://www.sciencemag.org/news/2017/07/find-australia-hints-very-early-human-exit-africa)
+* [Callaway, Ewen. Oldest Homo sapiens fossil claim rewrites our species' history. Nature News. 07 Jun. 2017.](https://www.nature.com/news/oldest-homo-sapiens-fossil-claim-rewrites-our-species-history-1.22114)
+* [Gibbons, Ann. World’s oldest Homo sapiens fossils found in Morocco. Science. 7 Jun. 2017.](http://www.sciencemag.org/news/2017/06/world-s-oldest-homo-sapiens-fossils-found-morocco)
+* [Malaspinas, Anna-Sapfo et al. A genomic history of Aboriginal Australia. Nature. 538. 207–214 13 Oct. 2016.](https://www.nature.com/articles/nature18299)
+* [Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep. 2016](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
+* [Qiu, Jane. How China is rewriting the book on human origins. Nature News. 12 Jul. 2016.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
+* [McEvoy, Brian et al. Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American journal of human genetics. 13 Aug. 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
+* [Scientists discover evidence of early human innovation, pushing back evolutionary timeline](https://unews.utah.edu/scientists-discover-evidence-of-early-human-innovation-pushing-back-evolutionary-timeline/)
+* [Neanderthals cared for each other and survived into old age – new research](https://www.heritagedaily.com/2018/04/neanderthals-cared-for-each-other-and-survived-into-old-age-new-research/118812)
+* [First human migration out of Africa much more geographically widespread than previously thought](https://www.shh.mpg.de/891823/wusta)
+* [Groucutt, H. S., Grün, R., Zalmout, I. A. S., Drake, N. A., Armitage, S. J., Candy, I., et al. (2018). Homo sapiens in Arabia by 85,000 years ago. Nature Ecology & Evolution. doi:10.1038/s41559-018-0518-2](https://doi.org/10.1038/s41559-018-0518-2)
+* [DNA of early Neanderthal gives timeline for new modern human-related dispersal from Africa](https://www.heritagedaily.com/2017/07/dna-early-neanderthal-gives-timeline-new-modern-human-related-dispersal-africa/115826)
+* [‘Humanlike’ ways of thinking evolved 1.8 million years ago, suggests new study](https://www.heritagedaily.com/2017/05/humanlike-ways-of-thinking-evolved-1-8-million-years-ago-suggests-new-study/114789)
+* [400,000-year-old fossil human cranium is oldest ever found in Portugal](https://www.heritagedaily.com/2017/03/400000-year-old-fossil-human-cranium-is-oldest-ever-found-in-portugal/114346)
+* [Ancient Humans Lived in China 2.1 Million Years Ago](https://www.theatlantic.com/science/archive/2018/07/early-humans-left-africa-250000-years-earlier-than-thought/564896/)
+* [Hominin occupation of the Chinese Loess Plateau since about 2.1 million years ago](https://www.nature.com/articles/s41586-018-0299-4)
+* [Evidence for precision grasping in Neandertal daily activities](http://advances.sciencemag.org/content/4/9/eaat2369)
+* [Symbolic use of marine shells and mineral pigments by Iberian Neandertals 115,000 years ago](http://advances.sciencemag.org/content/4/2/eaar5255)
+* [Traces of mystery ancient humans found lurking in our genomes](https://www.newscientist.com/article/mg24031992-600-traces-of-mystery-ancient-humans-found-lurking-in-our-genomes/)
 
-# To Organize
+## To Organize
 
 * http://artdaily.com/news/58025/Archaeologists--anthropologists-and-other-experts-meet--Mayas-prophesized--but-not-end-of-world-
 * http://artdaily.com/news/55294/Archaeologists-find-ancient-Mayan-workshop-for-astronomers-in-northeastern-Guatemala
@@ -1593,7 +1594,7 @@ You should take a look at [Whole genome sequencing](https://en.wikipedia.org/wik
 * [A HISTORY OF THE KANSA PEOPLE THROUGH 1873](https://www.academia.edu/29472190/A_HISTORY_OF_THE_KANSA_PEOPLE_THROUGH_1873)
 * [There Were Once More Than 425 Shellmounds in the Bay Area. Where Did They Go?](https://www.kqed.org/news/11704679/there-were-once-more-than-425-shellmounds-in-the-bay-area-where-did-they-go?fbclid=IwAR2NZinZLugUBWMtEle5UBIZfJ4pOdbSu_fpLQNlpcORcvyyWEvsHsFXp84)
 
-# Compare with your pictures of the Adena and Hopewell cultures
+## Compare with your pictures of the Adena and Hopewell cultures
 
 ## From Olmec and Gulf Coast Gallery, INAH, National Museum of Anthropology, Mexico City.
 
