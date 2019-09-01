@@ -16,6 +16,21 @@ In many cases the histories passed down by indigenous peoples contain many truth
 * [Changing Sea levels During the Past 25,000 Years](https://www.fws.gov/slamm/Changes%20in%20Sea%20Level_expanded%20version_template.pdf)
 * [Terminal Pleistocene/Early Holocene human adaptation in coastal Ecuador: the Las Vegas evidence](https://doi.org/10.1016/S1040-6182(02)00200-8)
 
+## Origin of Modern Humans and other Necessary Background
+
+Humans have a very messy story of migration and intermingling with other varieties of our family tree. We are starting to untangle the story. However, it is necessary to have a picture of what the research currently looks like for the origins of modern humans.
+
+* Somewhere around 400,000 - 300,000 thousand years ago modern humans appeared in the northern part of Africa and in the Middle East.
+* During the next 200,000 years modern humans migrated south through Africa and most likely interbred with our existing relatives already in the continent.
+* 70,000 years ago, a large group left Africa and traveled through SE Asia and Indonesia and down into Australia.
+* Many more migrations in different areas and directions occurred. These migrations likely encountered more of our genetic relatives and we likely interbred with them.
+
+Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master/README.md) repository.
+
+### Sources
+
+Moved to the [genetics page under Early Modern Human Emergence From Africa](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history/blob/master/genetics.md#early-modern-human-emergence-from-africa).
+
 ## Cloning and Contributing to This Repository
 
 1. Make sure you [have `git-lfs` installed](https://git-lfs.github.com/).
@@ -33,21 +48,6 @@ In many cases the histories passed down by indigenous peoples contain many truth
    ```
 
 4. Start contributing using your favorite text editor (I actually recommend using [Visual Studio Code](https://code.visualstudio.com/), because it's relatively snappy).
-
-## Origin of Modern Humans and other Necessary Background
-
-Humans have a very messy story of migration and intermingling with other varieties of our family tree. We are starting to untangle the story. However, it is necessary to have a picture of what the research currently looks like for the origins of modern humans.
-
-* Somewhere around 400,000 - 300,000 thousand years ago modern humans appeared in the northern part of Africa and in the Middle East.
-* During the next 200,000 years modern humans migrated south through Africa and most likely interbred with our existing relatives already in the continent.
-* 70,000 years ago, a large group left Africa and traveled through SE Asia and Indonesia and down into Australia.
-* Many more migrations in different areas and directions occurred. These migrations likely encountered more of our genetic relatives and we likely interbred with them.
-
-Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master/README.md) repository.
-
-### Sources
-
-Moved to the [genetics page under Early Modern Human Emergence From Africa](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history/blob/master/genetics.md#early-modern-human-emergence-from-africa).
 
 ## Overview of new findings
 
@@ -95,6 +95,8 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * [Peter U. Clark, Arthur S. Dyke, Jeremy D. Shakun, Anders E. Carlson, Jorie Clark, Barbara Wohlfarth, Jerry X. Mitrovica, Steven W. Hostetler, A. Marshall McCabe. The Last Glacial Maximum. Science. 325(5941): 710-714. 7 August. 2009.](https://doi.org/10.1126/science.1172873)
   * [Jacquelyn L. Gill, John W. Williams, Stephen T. Jackson, Katherine B. Lininger, Guy S. Robinson. Pleistocene Megafaunal Collapse, Novel Plant Communities, and Enhanced Fire Regimes in North America. Science. 20 November. 2009. 326: 1100-1103.](http://www.blc.arizona.edu/courses/schaffer/182h/Mass%20Extinction/Gill%20Plaistocene%20Megafaunal%20Collapse.pdf)
   * [Philip A. Allen. From landscapes into geological history. Nature. (451): 274–276. 17 January. 2008.](https://doi.org/10.1038/nature06586)
+* **Extraterrestial Impacts**
+  * [Hergerten S, Kenkmann T (2015) The number of impact craters on Earth: Any room for further discoveries? Earth and Planetary Science Letters. 425: 187-192](https://doi.org/10.1016/j.epsl.2015.06.009)
 
 ## Pre Clovis (before 11000 BCE)
 
