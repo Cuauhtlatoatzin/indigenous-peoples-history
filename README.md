@@ -120,6 +120,7 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 
 ## Cerutti Mastodon, San Diego County, California, USA (130 KA BP, ~128000 BCE)
 
+* [Magnani M, Grindle D, Loomis S, Kim AM (2019) Evaluating claims for an early peopling of the Americas: experimental design and the Cerutti Mastodon site. Antiquity. 93(369): 789-795.](https://doi.org/10.15184/aqy.2019.14)
 * [Holen, Steven R. et al. A 130,000-year-old archaeological site in southern California, USA. Nature. 544. 479–483 27 Apr. 2017.](https://www.nature.com/articles/nature22065)
 * [Greshko, Michael. Humans in California 130,000 Years Ago? Get the Facts. National Geographic. 26 Apr. 2017.](https://news.nationalgeographic.com/2017/04/mastodons-americas-peopling-migrations-archaeology-science/)
 * [Zimmer, Carl. Humans Lived in North America 130,000 Years Ago, Study Claims. New York Times. 26 Apr. 2017.](https://www.nytimes.com/2017/04/26/science/prehistoric-humans-north-america-california-nature-study.html)
@@ -271,12 +272,6 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 
 * [Michael R. Waters, Thomas W. Stafford Jr (2007) Redefining the Age of Clovis: Implications for the Peopling of the Americas. Science. 315(5815): 1122-1126.](https://science.sciencemag.org/content/315/5815/1122.long)
 
-## Anzick burial (10700 BCE)
-
-* [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
-* [Balter M (2014) Native Americans Descend From Ancient Montana Boy. Science News. Science. 12 February.](https://www.sciencemag.org/news/2014/02/native-americans-descend-ancient-montana-boy)
-* [Morten Rasmussen, Sarah L. Anzick, Micheal R. Waters, et al. The genome of a Late Pleistocene human from a Clovis burial site in western Montana. Nature. 12 February. 2014](https://www.nature.com/articles/nature13025)
-
 ## Northern Channel Islands, California, USA (11000 BCE)
 
 * [Jon M. Erlandson, Torben C. Rick, Todd J. Braje, Molly Casperson, Brendan Culleton, Brian Fulfrost, Tracy Garcia, Daniel A. Guthrie, Nicholas Jew, Douglas J. Kennett, Madonna L. Moss, Leslie Reeder, Craig Skinner, Jack Watts, Lauren Willis. Paleoindian Seafaring, Maritime Technologies, and Coastal Foraging on California’s Channel Islands. Science. 04 March. 2011. 331(6021): 1181-1185.](https://science.sciencemag.org/content/331/6021/1181)
@@ -347,13 +342,22 @@ The Search for the Earliest Humans in the Land Recently Called South Carolina" A
 
 ## Post Pattern (11000 BCE - 7000 BCE)
 
-## Mesoamerican Paleo Indian (10000 BCE - 3500 BCE)
+## Anzick burial (10700 BCE)
 
-## 12,300-Year-Old Hearth Unearthed in Utah (10300 BCE)
+* [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
+* [Balter M (2014) Native Americans Descend From Ancient Montana Boy. Science News. Science. 12 February.](https://www.sciencemag.org/news/2014/02/native-americans-descend-ancient-montana-boy)
+* [Morten Rasmussen, Sarah L. Anzick, Micheal R. Waters, et al. The genome of a Late Pleistocene human from a Clovis burial site in western Montana. Nature. 12 February. 2014](https://www.nature.com/articles/nature13025)
 
-* [Far Western Crew Unearths 12,300-Year-Old Hearth in Utah](http://farwestern.com/12300-year-old-hearth-in-utah/)
-* [Evidence of Great Basin's earliest inhabitants found at Utah training range](https://www.standard.net/news/evidence-of-great-basin-s-earliest-inhabitants-found-at-utah/article_8020c307-7699-5e0e-bfd5-89c64b3be226.html)
-* [Archaeologists discover proof of wetlands, ancient life on the Utah Test and Training Range](https://www.dvidshub.net/news/204768/archaeologists-discover-proof-wetlands-ancient-life-utah-test-and-training-range)
+## Skeleton found at Hoyo Negro, Quintana Roo, Mexico (10910 - 9750 BCE)
+
+* [Chatters JC, et al. (2014) Late Pleistocene human skeleton and mtDNA link Paleoamericans and modern Native Americans. Science 344(6185) :750–754.](https://science.sciencemag.org/content/344/6185/750?ijkey=394a82c83a5ad4f9248ed45d2fcedfe2c8596d61&keytype2=tf_ipsecsha)
+
+* **Also mentions**
+  * Wizard's Beach, Nevada, USA (8560 - 8250 BCE)
+  * Tlapacoya I, Mexico, Mexico (10150 - 9610 BCE)
+  * Buhl, Idaho, USA (10740 - 10420 BCE)
+  * Peñon III, Mexico, Mexico (10770 - 10560 BCE)
+  * Arlington Springs, California, USA (11010 - 10710 BCE)
 
 ## Sítio do Meio (10500 BCE)
 
@@ -363,26 +367,33 @@ The Search for the Earliest Humans in the Land Recently Called South Carolina" A
 
 * [Wikipedia contributors. (2019, July 14). El Abra. In Wikipedia, The Free Encyclopedia. Retrieved 07:45, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=El_Abra&oldid=906175337)
 * [Giulia Aimola, Camila Andrade,  Leidiana Mota, Fabio Parenti (2014) Final Pleistocene and Early Holocene at Sitio do Meio, Piauí, Brazil: Stratigraphy and comparison with Pedra Furada. Journal of Lithic Studies. 1(2): 5-24](https://doi.org/10.2218/jls.v1i2.1125)
+  * **Also mentioned in the article**
+    * Fúquene stadial (12988 BCE - 10488 BCE)
+    * Guantivá interstadial (10488 BCE)
+    * [Piedra Museo (10000 BCE)](https://en.wikipedia.org/wiki/Piedra_Museo)
+    * [Tibitó (9740 BCE)](https://en.wikipedia.org/wiki/Tibit%C3%B3)
+    * [Tequendama (9000 BCE)](https://en.wikipedia.org/wiki/Tequendama)
+    * El Abra stadial (8988 BCE)
+    * [Aguazuque (3000 BCE - 700 BCE)](https://en.wikipedia.org/wiki/Aguazuque)
 
-### Mentioned in the article
+## 12,300-Year-Old Hearth Unearthed in Utah (10300 BCE)
 
-* Fúquene stadial (12988 BCE - 10488 BCE)
-* Guantivá interstadial (10488 BCE)
-* [Piedra Museo (10000 BCE)](https://en.wikipedia.org/wiki/Piedra_Museo)
-* [Tibitó (9740 BCE)](https://en.wikipedia.org/wiki/Tibit%C3%B3)
-* [Tequendama (9000 BCE)](https://en.wikipedia.org/wiki/Tequendama)
-* El Abra stadial (8988 BCE)
-* [Aguazuque (3000 BCE - 700 BCE)](https://en.wikipedia.org/wiki/Aguazuque)
+* [Far Western Crew Unearths 12,300-Year-Old Hearth in Utah](http://farwestern.com/12300-year-old-hearth-in-utah/)
+* [Evidence of Great Basin's earliest inhabitants found at Utah training range](https://www.standard.net/news/evidence-of-great-basin-s-earliest-inhabitants-found-at-utah/article_8020c307-7699-5e0e-bfd5-89c64b3be226.html)
+* [Archaeologists discover proof of wetlands, ancient life on the Utah Test and Training Range](https://www.dvidshub.net/news/204768/archaeologists-discover-proof-wetlands-ancient-life-utah-test-and-training-range)
+
+## Mesoamerican Paleo Indian (10000 BCE - 3500 BCE)
 
 ## Upper Sun River Burial (9600 BCE - 9270 BCE)
 
-* [Ben A. Potter, Joel D. Irish, Joshua D. Reuther, Holly J. McKinney (2014) New insights into Beringian mortuary behavior. Proceedings of the National Academy of Sciences.111(48): 17060-17065; DOI: 10.1073/pnas.1413131111](https://doi.org/10.1073/pnas.1413131111)
-* [Kemp, B. M., Malhi, R. S., McDonough, J. , Bolnick, D. A., Eshleman, J. A., Rickards, O. , Martinez‐Labarga, C. , Johnson, J. R., Lorenz, J. G., Dixon, E. J., Fifield, T. E., Heaton, T. H., Worl, R. and Smith, D. G. (2007), Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. Am. J. Phys. Anthropol., 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
+* [Tackney JC, Potter BA, Raff J, Powers M, Watkins WS, Warner D, Reuther JD, Irish JD, O'Rourke DH (2015) Two contemporaneous mitogenomes from terminal Pleistocene burials in eastern Beringia. PNAS. 112(45): 13833-13838.](https://doi.org/10.1073/pnas.1511903112) &mdash; This has excelent citations which lead to more historical sites.
+* [Potter BA, Irish JD, Reuther JD, McKinney HJ (2014) New insights into Beringian mortuary behavior. Proceedings of the National Academy of Sciences.111(48): 17060-17065; DOI: 10.1073/pnas.1413131111](https://doi.org/10.1073/pnas.1413131111)
+* [Kemp BM, Malhi RS, McDonough J , Bolnick DA, Eshleman JA, Rickards O, Martinez‐Labarga C, Johnson JR, Lorenz JG, Dixon EJ, Fifield TE, Heaton TH, Worl R, Smith DG (2007) Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. American Journal of Physical Anthropology. 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
 
 ## Caverna da Pedra Pintada, Pará, Brazil (9200 BCE)
 
-* [John Noble Wilford (1996) "SCIENTIST AT WORK: Anna C. Roosevelt;Sharp and To the Point In Amazonia", New York Times. 23 April. Section C: 1.](https://www.nytimes.com/1996/04/23/science/scientist-at-work-anna-c-roosevelt-sharp-and-to-the-point-in-amazonia.html?src=pm)
-* [Jessica E. Saraceni and Adriana Franco de Sá (1996). Peopling of South America. Archeology. 49(4).](https://archive.archaeology.org/9607/newsbriefs/brazil.html)
+* [Wilford JN (1996) "SCIENTIST AT WORK: Anna C. Roosevelt;Sharp and To the Point In Amazonia", New York Times. 23 April. Section C: 1.](https://www.nytimes.com/1996/04/23/science/scientist-at-work-anna-c-roosevelt-sharp-and-to-the-point-in-amazonia.html?src=pm)
+* [Saraceni JE, de Sá AF (1996). Peopling of South America. Archeology. 49(4).](https://archive.archaeology.org/9607/newsbriefs/brazil.html)
 
 ## Cueva Fell, Patagonia, Chile (9000 BCE)
 
@@ -408,8 +419,8 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 
 ## On Your Knees Cave, Tongass National Forest, Alaska, USA (8300 BCE)
 
-* [Lawler, A. (2010) A Tale of Two Skeletons. Science. 330(6001): 171-172. DOI: 10.1126/science.330.6001.171](https://science.sciencemag.org/content/330/6001/171)
-* [Kemp, B. M., Malhi, R. S., McDonough, J. , Bolnick, D. A., Eshleman, J. A., Rickards, O. , Martinez‐Labarga, C. , Johnson, J. R., Lorenz, J. G., Dixon, E. J., Fifield, T. E., Heaton, T. H., Worl, R. and Smith, D. G. (2007), Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. Am. J. Phys. Anthropol., 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
+* [Lawler A (2010) A Tale of Two Skeletons. Science. 330(6001): 171-172. DOI: 10.1126/science.330.6001.171](https://science.sciencemag.org/content/330/6001/171)
+* [Kemp BM, Malhi RS, McDonough J , Bolnick DA, Eshleman JA, Rickards O, Martinez‐Labarga C, Johnson JR, Lorenz JG, Dixon EJ, Fifield TE, Heaton TH, Worl R, Smith DG (2007) Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. American Journal of Physical Anthropology. 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
 
 ## Early Archaic (8000 BCE - 6000 BCE)
 
