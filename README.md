@@ -1096,9 +1096,16 @@ And it wasn't the only time either:
 * [Sarah Zielinski. Sixth-Century Misery Tied to Not One, But Two, Volcanic Eruptions. Smithsonian.com. 8 July. 2015.](https://www.smithsonianmag.com/science-nature/sixth-century-misery-tied-not-one-two-volcanic-eruptions-180955858/)
 * [Dallas H. Abbott, Dee Breger, Pierre E. Biscaye, John A. Barron, Robert A. Juhl, Patrick McCafferty. "What caused terrestrial dust loading and climate downturns between A.D. 533 and 540?", Volcanism, Impacts, and Mass Extinctions: Causes and Effects. Gerta Keller, Andrew C. Kerr, ed. The Geological Society of America. vol 505. September. 2014.](https://pubs.geoscienceworld.org/books/book/674/chapter/3808140/What-caused-terrestrial-dust-loading-and-climate)
 * [Cadell Last. Supervolcanoes in the Ancient World. Scientific American. 17 April. 2013.](https://blogs.scientificamerican.com/guest-blog/supervolcanoes-in-the-ancient-world/)
-* [Sara E. Pratt. AAG: Eruption of El Salvador's Ilopango explains A.D. 536 cooling. Earth Magazine. 25 February. 2012.](https://www.earthmagazine.org/article/aag-eruption-el-salvadors-ilopango-explains-ad-536-cooling)
 * [Ker Than. Comet smashes triggered ancient famine. New Scientist. 30 December. 2008.](https://www.newscientist.com/article/mg20126882-900-comet-smashes-triggered-ancient-famine/)
 * [Robert A. Dull, John R. Southon, and Payson Sheets. Volcanism, Ecology and Culture: A Reassessment of the Volcán Ilopango TBJ Eruption in the Southern Maya Realm. Latin American Antiquity. March. 2001. 12(1): 25-44](https://doi.org/10.2307/971755) &mdash; [PDF](https://www.researchgate.net/publication/272154145_Volcanism_Ecology_and_Culture_a_Reassessment_of_the_Volcan_Ilopango_TBJ_Eruption_in_the_Southern_Maya_Realm)
+
+## Ilopango Volcano Euruption (539 CE - 540 CE)
+
+* [Kornei K (2019, August 16) ‘Mystery’ volcano that cooled the ancient world traced to El Salvador. Science. doi:10.1126/science.aaz1434](https://www.sciencemag.org/news/2019/08/mystery-volcano-cooled-ancient-world-traced-el-salvador)
+* [Greshko M (2019, August 23) Colossal volcano behind 'mystery' global cooling finally found. National Geographic.](https://www.nationalgeographic.com/science/2019/08/colossal-volcano-behind-mystery-global-cooling-found/)
+* [Dull R A, et al. (2019) Radiocarbon and geologic evidence reveal Ilopango volcano as source of the colossal ‘mystery’ eruption of 539/40 CE. Quarternary Science Reviews.](https://www.sciencedirect.com/science/article/abs/pii/S0277379119301465)
+* [Kornei, K. (2019), Eruption in El Salvador was one of the Holocene’s largest, Eos, 100, https://doi.org/10.1029/2019EO125733. Published on 05 June 2019.](https://eos.org/articles/eruption-in-el-salvador-was-one-of-the-holocenes-largest)
+* [Pedrazzi D, et al. (2019) The Ilopango Tierra Blanca Joven (TBJ) eruption, El Salvador: Volcano-stratigraphy and physical characterization of the major Holocene event of Central America. Journal of Volcanology and Geothermal Research. 377: 81-102.](https://doi.org/10.1016/j.jvolgeores.2019.03.006) &mdash; [PDF](https://www.researchgate.net/publication/331807519_The_Ilopango_Tierra_Blanca_Joven_TBJ_eruption_El_Salvador_Volcano-stratigraphy_and_physical_characterization_of_the_major_Holocene_event_of_Central_America)
 
 ## Late Woodland (500 CE - 1000 CE)
 
