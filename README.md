@@ -94,19 +94,29 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * [Swisher ME, Jenkins DL, Jackson Jr. LE, Phillips FM (2013) A Reassessment of the Role of the Canadian Ice-free Corridor in Light of New Geological Evidence. Current Archaeological Happenings in Oregon. 38(4): 9-14.](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
   * [Kemp AC, Horton BP, Donnelly JP, Mann ME, Vermeer M, Rahmstorf S (2011) Climate related sea-level variations over the past two millennia. PNAS. 108(27) 11017-11022.](https://doi.org/10.1073/pnas.1015619108)
   * [Stanford JD, Hemingway R, Rohling EJ, Challenor PG, Medina-Elizalde M, Lester AJ (2011) Sea-level probability for the last deglaciation: A statistical analysis of far-field records. Global and Planetary Change. 79(3-4): 193-203.](https://doi.org/10.1016/j.gloplacha.2010.11.002)
-  * [Switek B (2011) Mastodon fossil throws up questions over 'rapid' extinction. Nature News. 20 October.](https://www.nature.com/news/2011/111020/full/news.2011.606.html)
-  * [Faith JT. Late Pleistocene climate change, nutrient cycling, and the megafaunal extinctions in North America. Quaternary Science Reviews. June. 2011. 30(13-14): 1675-1680.](https://doi.org/10.1016/j.quascirev.2011.03.011)
-  * [Clark PU, Dyke AS, Shakun JD, Carlson AE, Clark J, Wohlfarth B, Mitrovica JX, Hostetler SW, McCabe AM (2009) The Last Glacial Maximum. Science. 325(5941): 710-714.](https://doi.org/10.1126/science.1172873)
-  * [Gill JL, Williams JW, Jackson ST, Lininger KB, Robinson GS (2009) Pleistocene Megafaunal Collapse, Novel Plant Communities, and Enhanced Fire Regimes in North America. Science. 326: 1100-1103.](http://www.blc.arizona.edu/courses/schaffer/182h/Mass%20Extinction/Gill%20Plaistocene%20Megafaunal%20Collapse.pdf)
   * [Allen PA (2008) From landscapes into geological history. Nature. (451): 274–276.](https://doi.org/10.1038/nature06586)
 * **Extraterrestial Impacts**
   * [Hergerten S, Kenkmann T (2015) The number of impact craters on Earth: Any room for further discoveries? Earth and Planetary Science Letters. 425: 187-192](https://doi.org/10.1016/j.epsl.2015.06.009)
 * **Historical Thought**
   * [Fladmark KR (1979) Routes: Alternate Migration Corridors for Early Man in North America. American Antiquity. 44(1): 55-69.](https://doi.org/10.2307/279189) &mdash; [JSTOR](https://www.jstor.org/stable/279189?read-now=1&refreqid=excelsior%3Abcbb65353a76778de6decc3781de16e0&seq=8#page_scan_tab_contents)
+* **Population Growth**
+  * [Zahid HJ, Ronbinson E, Kelly RL (2016) Agriculture, population growth, and statistical analysis of the radiocarbon record. PNAS. 113(4): 931-935.](https://doi.org/10.1073/pnas.1517650112)
+  * [Bettinger RL (2016) Prehistoric hunter–gatherer population growth rates rival those of agriculturalists. PNAS. 113(4): 812-814.](https://doi.org/10.1073/pnas.1523806113)
 
 ## Food sharing patterns might indicate common origins of cultures
 
 * [Ahedo V, Caro J, Bortolini E, Zurro D, Madella M, Galán JM (2019) Quantifying the relationship between food sharing practices and socio-ecological variables in small-scale societies: A cross-cultural multi-methodological approach. PLoS ONE 14(5): e0216302.](https://doi.org/10.1371/journal.pone.0216302)
+
+## Horse like animals existed for millions of years until 11000 BCE (possibly later)
+
+* [Barrón-Ortiz CI, Rodrigues AT, Theodor JM, Kooyman BP, Yang DY, Speller CF (2017) Cheek tooth morphology and ancient mitochondrial DNA of late Pleistocene horses from the western interior of North America: Implications for the taxonomy of North American Late Pleistocene Equus. PLoS ONE 12(8): e0183045.](https://doi.org/10.1371/journal.pone.0183045)
+* [Heintzman PD et al. (2017) A new genus of horse from Pleistocene North America. eLife. 6: e29944.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5705217/)
+* [Waters MR, Stafford TW Jr., Kooyman B, Hills LV (2015) Late Pleistocene horse and camel hunting at the southern margin of the ice-free corridor: Reassessing the age of Wally’s Beach, Canada. PNAS 112(14): 4263-4267.](https://doi.org/10.1073/pnas.1420650112)
+* [Vilstrup JT, Seguin-Orlando A, Stiller M, Ginolhac A, Raghavan M, Nielsen SCA, et al. (2013) Mitochondrial Phylogenomics of Modern and Ancient Equids. PLoS ONE 8(2): e55950.](https://doi.org/10.1371/journal.pone.0055950)
+* [Weinstock J, Willerslev E, Sher A, Tong W, Ho SY, Rubenstein D, et al. (2005) Evolution, Systematics, and Phylogeography of Pleistocene Horses in the New World: A Molecular Perspective. PLoS Biol 3(8): e241.](https://doi.org/10.1371/journal.pbio.0030241)
+* [Pichardo M (2004) Review of Horses in Paleoindian Sites of the Americas. Anthropologischer Anzeiger. 62(1): 11-35.](https://www.jstor.org/stable/29542517?seq=1#page_scan_tab_contents)
+* [Kirkpatrick JF, Fazio PM (2003, revised 2010) Wild Horses as Native North American Wildlife. Wild Horses as Native North American Wildlife. The Science and Conservation Center, ZooMontana, Billings. 8 pages](https://awionline.org/content/wild-horses-native-north-american-wildlife)
+* [Frison GC (1998) Paleoindian large mammal hunters on the plains of North America. PNAS. 95(24): 14576-14583.](https://doi.org/10.1073/pnas.95.24.14576)
 
 ## Pre Clovis (before 11000 BCE)
 
@@ -341,10 +351,17 @@ The Search for the Earliest Humans in the Land Recently Called South Carolina" A
   * [Richard A. Kerr. Did the Mammoth Slayer Leave a Diamond Calling Card? Science. 2 January. 2009. 323(5910): 26.](https://science.sciencemag.org/content/323/5910/26)
   * [Briggs Buchanan, Mark Collard, and Kevan Edinborough. Paleoindian demography and the extraterrestrial impact hypothesis. Proc Natl Acad Sci USA. 19 August. 2008. 105(33): 11651-11654.](https://dx.doi.org/10.1073%2Fpnas.0803762105)
 * **Megafuana Extinction**
+  * [Malhi Y, Doughty CE, Galetti M, Smith FA, Svenning J-C, Terbough JW (2016) Megafauna and ecosystem function from the Pleistocene to the Anthropocene. PNAS. 113(4): 838-846.](https://doi.org/10.1073/pnas.1502540113)
   * [Zazula DG, et al. (2014) American mastodon extirpation in the Arctic and Subarctic predates human colonization and terminal Pleistocene climate change. PNAS. 111(52): 18460-18465.](https://www.pnas.org/content/111/52/18460)
   * [Sergey Zimov, Nikita Zimov (2014). Role of Megafauna and Frozen Soil in the Atmospheric CH4 Dynamics. 9(4): e93331.](https://dx.doi.org/10.1371%2Fjournal.pone.0093331)
+  * [Metcalfe JZ, Longstaffe FJ, BAllenger JAM, Haynes CV Jr. (2011) Isotopic paleoecology of Clovis mammoths from Arizona. PNAS. 108(44): 17916-17920.](https://doi.org/10.1073/pnas.1113881108) &mdash; This has some interesting points:
+    * `On the basis of the consistency in seasonal patterns among Clovis mammoths, they probably had little or no preceding experience with such a drastic change in climatic conditions within their lifetimes, making it potentially difficult for them to adapt.`
+    * `These seasonal patterns may have played a role in mammoth extirpation from the SPV, whether by climate change or by human hunting. Knowledge of the seasonal behaviors of extinct proboscideans should be useful to researchers modeling Clovis foraging behavior and late Pleistocene extinction processes.`
+  * [Switek B (2011) Mastodon fossil throws up questions over 'rapid' extinction. Nature News. 20 October.](https://www.nature.com/news/2011/111020/full/news.2011.606.html)
+  * [Faith JT (2011) Late Pleistocene climate change, nutrient cycling, and the megafaunal extinctions in North America. Quaternary Science Reviews. 30(13-14): 1675-1680.](https://doi.org/10.1016/j.quascirev.2011.03.011) &mdash; [PDF](https://www.academia.edu/3245085/Late_Pleistocene_climate_change_nutrient_cycling_and_the_megafaunal_extinctions_in_North_America) &mdash; The cycle described here has implications for global climate change.
   * [Eric Scott (2010). Extinctions, scenarios, and assumptions: Changes in latest Pleistocene large herbivore abundance and distribution in western North America. 217(1-2): 225-239.](https://doi.org/10.1016/j.quaint.2009.11.003)
-  * [Jacquelyn L. Gill, John W. Williams, Stephen T. Jackson, Katherine B. Lininger, Guy S. Robinson (2009). Pleistocene Megafaunal Collapse, Novel Plant Communities, and Enhanced Fire Regimes in North America. Science. 326(5956): 1100-1103.](https://science.sciencemag.org/content/326/5956/1100)
+  * [Clark PU, Dyke AS, Shakun JD, Carlson AE, Clark J, Wohlfarth B, Mitrovica JX, Hostetler SW, McCabe AM (2009) The Last Glacial Maximum. Science. 325(5941): 710-714.](https://doi.org/10.1126/science.1172873)
+  * [Gill JL, Williams JW, Jackson ST, Lininger KB, Robinson GS (2009) Pleistocene Megafaunal Collapse, Novel Plant Communities, and Enhanced Fire Regimes in North America. Science. 326: 1100-1103.](https://science.sciencemag.org/content/326/5956/1100) &mdash; [PDF](http://www.blc.arizona.edu/courses/schaffer/182h/Mass%20Extinction/Gill%20Plaistocene%20Megafaunal%20Collapse.pdf)
   * [Marc A. Carrasco, Anthony D. Barnosky, and Russell W. Graham (2009). Quantifying the Extent of North American Mammal Extinction Relative to the Pre-Anthropogenic Baseline. 4(12): e8331.](https://dx.doi.org/10.1371%2Fjournal.pone.0008331)
   * [Anthony D. Barnosky (2008). Megafauna biomass tradeoff as a driver of Quaternary and future extinctions. PNAS. 105: 11543-11548](https://doi.org/10.1073/pnas.0801918105)
   * [A. Hubbe, M. Hubbe, W. Neves (2007). Early Holocene survival of megafauna in South America. Journal of Biogeography. 34(9): 1642-1646.](https://doi.org/10.1111/j.1365-2699.2007.01744.x)
