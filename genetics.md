@@ -138,18 +138,31 @@ The following journal papers contain most of the overview that one would need to
 ## Early Modern Human Emergence From Africa
 
 * National Geographic has a nice looking, but crude, map which traces the general flow of modern genetics out of Africa and into the rest of the world: [Map of Human Migration](https://genographic.nationalgeographic.com/human-journey/)
-
+* [Ragsdale AP, Gravel S (2019) Models of archaic admixture and recent history from two-locus statistics. PLoS Genet 15(6): e1008204.](https://doi.org/10.1371/journal.pgen.1008204)
+* [Bokelmann L et al. (2019) A genetic analysis of the Gibralter Neanderthals. PNAS. 116(31): 15610-15615.](https://doi.org/10.1073/pnas.1903984116)
+* [Harvati K et al. (2019) Apidima Cave fossila provide earliest evidence of Homo sapiens in Eurasia. Nature. 571: 500-504.](https://www.nature.com/articles/s41586-019-1376-z)
+* [Delson E (2019) An early dispersal of modern humans from Africa to Greece. Nature News. July 10.](https://www.nature.com/articles/d41586-019-02075-9) &mdash; Has a great map of locations and times for various known dispersals.
+* [Cepelewicz, J (2019) Fossil DNA Reveals New Twists in Modern Human Origins. Quanta Magazine. August 29. Web. Accessed September 7, 2019.](https://www.quantamagazine.org/fossil-dna-reveals-new-twists-in-modern-human-origins-20190829/)
+* [Browning SR et al. (2018) Analysis of Human Sequence Data Reveals Two Pulses of Archaic Denisovan Admixture. Cell. 173(1): 53-61.](https://doi.org/10.1016/j.cell.2018.02.031)
+* [Wolf AB, Akey JM (2018) Outstanding questions in the study of archaic hominin admixture. PLoS Genet 14(5): e1007349.](https://doi.org/10.1371/journal.pgen.1007349)
 * [Groucutt HS, Grün R, Zalmout IAS, Drake NA, Armitage SJ, Candy I, et al. (2018). Homo sapiens in Arabia by 85,000 years ago. Nature Ecology & Evolution. doi:10.1038/s41559-018-0518-2](https://doi.org/10.1038/s41559-018-0518-2)
+* [Scerri EML et al. (2018) Did Our Species Evolve in Subdivided Populations across Africa, and Why Does It Matter? Trends in Ecology & Evolution. 33(8): 582-594.](https://doi.org/10.1016/j.tree.2018.05.005)
 * [Langley M. (2017) World’s scientists turn to Asia and Australia to rewrite human history. The Conversation. 7 Dec. 2017.](http://theconversation.com/worlds-scientists-turn-to-asia-and-australia-to-rewrite-human-history-88697)
 * [Gibbens S (2017) Humans Arrived in Australia 18,000 Years Earlier Than We Thought. National Geographic. 20 Jul.](https://news.nationalgeographic.com/2017/07/australia-aboriginal-early-human-evolution-spd/)
 * [Gibbons A (2017) A find in Australia hints at very early human exit from Africa. 19 Jul.](http://www.sciencemag.org/news/2017/07/find-australia-hints-very-early-human-exit-africa)
 * [Callaway E (2017) Oldest Homo sapiens fossil claim rewrites our species' history. Nature News. 07 Jun.](https://www.nature.com/news/oldest-homo-sapiens-fossil-claim-rewrites-our-species-history-1.22114)
 * [Gibbons A (2017) World’s oldest Homo sapiens fossils found in Morocco. Science. 7 Jun.](http://www.sciencemag.org/news/2017/06/world-s-oldest-homo-sapiens-fossils-found-morocco)
+* [Nielsen R et al. (2017) Tracing the peopling of the world through genomics. Nature. 541: 302-310.](https://www.nature.com/articles/nature21347) &mdash; Has a better map of possible migration routes which line up with indigenous histories. There's still some details missing, but it's the best 2017 had to offer.
+* [Mallick S et al. (2016) The Simons Genome Diversity Project: 300 genomes from 142 diverse populations. Nature. 538: 201-206.](https://www.nature.com/articles/nature18964) &mdash; This has an interesting neighbor joining tree based on pairwise divergence showing .
 * [Malaspinas A-S et al. (2016) A genomic history of Aboriginal Australia. Nature. 538: 207–214.](https://www.nature.com/articles/nature18299)
+* [Pagani L (2016) Genomic analyses inform on migration events during the peopling of Eurasia. Nature. 538: 238-242.](https://www.nature.com/articles/nature19792)
 * [Qiu J (2016) How China is rewriting the book on human origins. Nature News. 12 Jul.](https://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231)
-* [Malaspinas Anna-Sapfo et al. (2016) A genomic history of Aboriginal Australia. Nature. 538. 207–214 13 Oct.](https://www.nature.com/articles/nature18299)
 * [(2016) Unprecedented study of Aboriginal Australians points to one shared Out of Africa migration for modern humans. 21 Sep.](https://www.cam.ac.uk/research/news/unprecedented-study-of-aboriginal-australians-points-to-one-shared-out-of-africa-migration-for)
+* [Fu W et al. (2016) Robust Inference of Identity by Descent from Exome-Sequencing Data. American Journal of Human Gentics. 99(5): 1106-1116.](https://doi.org/10.1016/j.ajhg.2016.09.011)
+* [Kuhlwilm M et al. (2016) Ancient gene flow from early modern humans into Eastern Neanderthals. Nature. 530: 429-433.](https://www.nature.com/articles/nature16544)
 * [Karmin M et al. (2015) A recent bottleneck of Y chromosome diversity coincides with a global change in culture. Genome Research. 25: 459-466.](https://genome.cshlp.org/content/25/4/459.full)
+* [The 1000 Genomes Project Consortium (2015) A global reference for human genetic variation. Nature. 526: 68-74.](https://www.nature.com/articles/nature15393)
+* [Gronau I et al. (2011) Bayesian inference of ancient human demography from individual genome sequences. Nature Genetics. 43, 1031-1034.](https://www.nature.com/articles/ng.937)
 * [McEvoy B et al. (2010) Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American Journal of Human Genetics. 13 Aug.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
 
 * [Scientists discover evidence of early human innovation, pushing back evolutionary timeline](https://unews.utah.edu/scientists-discover-evidence-of-early-human-innovation-pushing-back-evolutionary-timeline/)
