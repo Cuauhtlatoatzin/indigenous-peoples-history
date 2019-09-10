@@ -207,6 +207,10 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Shutler, Dr. Richard. Meadowcroft Rockshelter](http://www.sfu.museum/journey/an-en/postsecondaire-postsecondary/meadowcroft)
 * [Meadowcroft Rockshelter](https://www.heinzhistorycenter.org/exhibits/meadowcroft-rockshelter)
 
+## Nipéhe (Cooper's Ferry), Idaho, USA (14510 - 13530 BCE)
+
+* [David LG et al. (2019) Late Upper Paleolithic occupation at Cooper’s Ferry, Idaho, USA, ~16,000 years ago. Science. 365(6456): 891-897.](https://science.sciencemag.org/content/365/6456/891)
+
 ## Gault site, Texas, USA (14000 BCE)
 
 * [16,000-Year-Old Tools Discovered in Texas, Among the Oldest Found in the West](http://westerndigs.org/16000-year-old-tools-discovered-in-texas-among-the-oldest-yet-found-in-the-west/)
