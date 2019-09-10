@@ -135,8 +135,10 @@ The following journal papers contain most of the overview that one would need to
 * [The Genetic History Of The Otomi In The Central Mexican Valley](https://repository.upenn.edu/anthro_seniortheses/133/)
 * [The Genetics of Mexico Recapitulates Native American Substructure and Affects Biomedical Traits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156478/)
 
-## Early Modern Human Emergence From Africa
+## Early Hominid through Modern Human
 
+* [Narasimhan VM et al. (2019) The formation of human populations in South and Central Asia. Science. 35(6457): eaat7487](https://science.sciencemag.org/content/365/6457/eaat7487.full)
+* [Schaefer NK, Shapiro B (2019) New middle chapter in the story of human evolution. Science. 365(6457): 981-982.](https://science.sciencemag.org/content/365/6457/981) &mdash; Has great references for an updated and more complete phylogenetic tree.
 * National Geographic has a nice looking, but crude, map which traces the general flow of modern genetics out of Africa and into the rest of the world: [Map of Human Migration](https://genographic.nationalgeographic.com/human-journey/)
 * [Ragsdale AP, Gravel S (2019) Models of archaic admixture and recent history from two-locus statistics. PLoS Genet 15(6): e1008204.](https://doi.org/10.1371/journal.pgen.1008204)
 * [Bokelmann L et al. (2019) A genetic analysis of the Gibralter Neanderthals. PNAS. 116(31): 15610-15615.](https://doi.org/10.1073/pnas.1903984116)
