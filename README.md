@@ -247,6 +247,24 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Joseph M. McAvoy, Lynn D. McAvoy (1997) Archeological Investigations of Site 44SX202, Cactus Hill, Sussex County Virginia. Virginia Department of Historic Resources. Research Report Series No. 8.](https://www.dhr.virginia.gov/pdf_files/Archeo_Reports/SX-019_AE_Investigations_44SX202_Cactus_Hill_1997_NRSAR_report.pdf)
 * [Pre-Clovis Occupation on the Nottoway River in Virginia](https://web.archive.org/web/20071017032525/http://www.athenapub.com/cacthill.htm)
 
+## Schaefer and Hebior Kill Sites, Illinois, USA (12500 BCE)
+
+* [Nikhil Swaminathan (2014) Schaefer and Hebior Kill Sites. Archaeology. September/October.](https://www.archaeology.org/issues/145-1409/features/2372-peopling-the-americas-schaefer-hebior)
+
+## Huaca Prieta, La Libertad, Peru (12550 BCE)
+
+* [Dillehay TD et al. (2017) Simple technologies and diverse food strategies of the Late Pleistocene and Early Holocene at Huaca Prieta, Coastal Peru. Science Advances. 3(5): e1602778](https://advances.sciencemag.org/content/3/5/e1602778)
+* **Beans in 12436 BCE**
+  * See Dillehay TD et al. (2017).
+* **Avocados in 8429 BCE**
+  * See Dillehay TD et al. (2017).
+* **Chiles in 8358 BCE**
+  * See Dillehay TD et al. (2017).
+* **Corn in 4825 BCE**
+  * [Grobman A et al. (2012) Preceramic maize from Paredones and Huaca Prieta, Peru. PNAS. 109(5): 1755–1759.](https://dx.doi.org/10.1073%2Fpnas.1120270109)
+* **Indigo in 4250 BCE**
+  * [Splitstoser JC et al. (2016) Early pre-Hispanic use of indigo blue in Peru. Science Advances. 2(9): e1501623](https://advances.sciencemag.org/content/2/9/e1501623.full) &mdash; Predates Egyption use by ~1500 years.
+
 ## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
 
 * [Page-Ladson prehistory site](https://en.wikipedia.org/wiki/Page-Ladson_prehistory_site)
@@ -282,10 +300,6 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Waters, Michael R. et al. Pre-Clovis Mastodon Hunting 13,800 Years Ago at the Manis Site, Washington. Science. 21 October. 2011. 334(6054):351-3.](https://www.researchgate.net/publication/51737194_Pre-Clovis_Mastodon_Hunting_13800_Years_Ago_at_the_Manis_Site_Washington)
 * [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
 * [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
-
-## Schaefer and Hebior Kill Sites, Illinois, USA (12500 BCE)
-
-* [Nikhil Swaminathan (2014) Schaefer and Hebior Kill Sites. Archaeology. September/October.](https://www.archaeology.org/issues/145-1409/features/2372-peopling-the-americas-schaefer-hebior)
 
 ## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
 
