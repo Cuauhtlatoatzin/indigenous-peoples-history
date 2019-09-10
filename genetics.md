@@ -137,6 +137,7 @@ The following journal papers contain most of the overview that one would need to
 
 ## Early Hominid through Modern Human
 
+* [Shinde V et al. (2019) An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers. Cell.](https://doi.org/10.1016/j.cell.2019.08.048)
 * [Narasimhan VM et al. (2019) The formation of human populations in South and Central Asia. Science. 35(6457): eaat7487](https://science.sciencemag.org/content/365/6457/eaat7487.full)
 * [Schaefer NK, Shapiro B (2019) New middle chapter in the story of human evolution. Science. 365(6457): 981-982.](https://science.sciencemag.org/content/365/6457/981) &mdash; Has great references for an updated and more complete phylogenetic tree.
 * National Geographic has a nice looking, but crude, map which traces the general flow of modern genetics out of Africa and into the rest of the world: [Map of Human Migration](https://genographic.nationalgeographic.com/human-journey/)
