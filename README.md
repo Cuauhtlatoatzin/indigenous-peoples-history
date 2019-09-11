@@ -130,7 +130,7 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 
 ## Diring Yuriakh, Yakutsk, Russia (260 KA, ~ 258000 BCE)
 
-This is really close to the land bridge, if these Densovians made trips across the ocean at that time or one of the times when the land bridge emerged since 500000 BCE, that could explain the earliest and highly contested sites: Hueyatlaco, Calico, and Cerutti.
+This is really close to the land bridge, if these Denisovians made trips across the ocean at that time or one of the times when the land bridge emerged since 500000 BCE, that could explain the earliest and highly contested sites: Hueyatlaco, Calico, and Cerutti.
 
 * [Water MR, Forman SL, Person JM (1997) Diring Yuriakh: A Lower Paleolithic Site in Central Siberia. Science. 275(5304): 1281-1284](https://science.sciencemag.org/content/275/5304/1281)
 * [Hall DA (1996) Thermoluminescence Dating Proves Early Peopling of Siberia. Mammoth Trumpet. 11(1): 1.](https://csfa.tamu.edu/wp-content/uploads/2015/12/vol11_num1.pdf)
@@ -141,7 +141,7 @@ These links support discoveries on the continent prior to any currently establis
 
 ## Hueyatlaco, Puebla, Mexico (250 KA BP, ~248000 BCE)
 
-What's interesting is that this coincides with another glacial maximum, the last in the middle pleistoncene, according to Miller KG et al. (2005) and Kominz (2001).
+What's interesting is that this coincides with another glacial maximum, the last in the middle pleistoncene, according to Miller KG et al. (2005) and Kominz (2001). This means there was likely a land brige the Denisovians could have crossed over to enter North America from Diring Yuriakh.
 
 * [Hueyatlaco](https://en.wikipedia.org/wiki/Hueyatlaco#Aftermath)
 * [VanLandingham, SL. 2006. Diatom evidence for autochthonous artifact deposition in the Valsequillo region, Puebla, Mexico during the Sangamonian (sensu lato = 80,000 to ca. 220,000 yr BP and Illinoian (220,000 to 430,000 yr BP)). Journal of Paleolimnology 36: 101– 116 [DOI: 10.1007/s10933‐006‐0008‐4]](https://doi.org/10.1007/s10933-006-0008-4)
@@ -152,7 +152,7 @@ What's interesting is that this coincides with another glacial maximum, the last
 
 There was a rock ring discovered beneath a 100000 year old soil profile -- but there is controversy over potential contamination. There are potentially some tools from then, too. However, most of the tools discovered here come from later times 30 KA BP and 14.4 KA BP.
 
-It is also interesting to note that this coincides with another glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001).
+It is also interesting to note that this coincides with another glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001). This means there was likely a land brige the Denisovians could have crossed over to enter North America, see Douka et al. (2019) for more on the possible lineages of Denisovians whom could have mode this journey.
 
 * [Calico Early Man Site](https://en.wikipedia.org/wiki/Calico_Early_Man_Site)
 * [Lake Manix](https://en.wikipedia.org/wiki/Lake_Manix)
