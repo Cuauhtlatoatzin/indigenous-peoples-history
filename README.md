@@ -86,15 +86,20 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 * [Goebel T, Waters MR, O'Rourke DH (2008) The Late Pleistocene Dispersal of Modern Humans in the Americas. Science. 319(5869): 1497-1502.](https://science.sciencemag.org/content/319/5869/1497)
 * [Heintzman PD (2016) Bison phylogeography constrains dispersal and viability of the Ice Free Corridor in western Canada. PNAS. 113(29): 8057-8063.](https://www.pnas.org/content/113/29/8057)
 * **Glaciers, Corridors, Ocean Levels, Erosion, and Climate Change**
+  * [Cornelius, S. (2018). Volume Fractions of Lithologic units deposited per geologic epoch in the Cenozoic, Keathley Canyon and Walker Ridge, Deepwater Gulf of Mexico: Part 1--Sand, Shale, and Siltstone. GCAGS Journal.](https://www.academia.edu/38053365/Volume_Fractions_of_Lithologic_units_deposited_per_geologic_epoch_in_the_Cenozoic_Keathley_Canyon_and_Walker_Ridge_Deepwater_Gulf_of_Mexico_Part_1--Sand_Shale_and_Siltstone)
   * [Fildani A, Hessler AM, Mason CC, McKay MP, Stockli DF (2018) Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. (8) 13839.](https://doi.org/10.1038/s41598-018-32268-7)
   * [Menounos B, Goehring BM, Osborn G, Margold M, Ward B, Bond J, Clarke GKC, Clague JJ, Lakeman T, Koch J, Caffee MW, Gosse J, Stroeven AP, Seguinot J, Heyman J (2017) Cordilleran Ice Sheet mass loss preceded climate reversals near the Pleistocene Termination. Science. 358(6364): 781-784.](https://doi.org/10.1126/science.aan3001)
   * [Platt DE, Haber M, Dagher-Kharrat MB, Douaihy B, Khazen G, Bonab MA, Salloum A, Mouzaya F, Luiselli D, Tyler-Smith C, Renfrew C, Matisoo-Smith E, Zalloua PA (2017) Mapping Post-Glacial expansions: The Peopling of Southwest Asia. Scientific Reports. 7.](https://www.nature.com/articles/srep40338)
   * [Lambeck K, Rouby H, Purcell A, Sun Y, Sambridge M (2014) Sea level and global ice volumes from the Last Glacial Maximum to the Holocene. PNAS. 111(43): 15296-15303.](https://doi.org/10.1073/pnas.1411762111)
-  * [Robinson A, Calov A, Ganopolski A (2012) Multistability and critical thresholds of the Greenland ice sheet. Nature Climate Change. (2): 429–432.](https://doi.org/10.1038/nclimate1449)
   * [Swisher ME, Jenkins DL, Jackson Jr. LE, Phillips FM (2013) A Reassessment of the Role of the Canadian Ice-free Corridor in Light of New Geological Evidence. Current Archaeological Happenings in Oregon. 38(4): 9-14.](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
+  * [Murphy JB, Nance RD (2013) Speculations on the mechanisms for the formation and breakup of supercontinents. Geoscience Frontiers. 4(2): 185-194.](https://doi.org/10.1016/j.gsf.2012.07.005)
+  * [Robinson A, Calov A, Ganopolski A (2012) Multistability and critical thresholds of the Greenland ice sheet. Nature Climate Change. (2): 429–432.](https://doi.org/10.1038/nclimate1449) &mdash; [PDF](https://www.researchgate.net/publication/230662041_Multistability_and_critical_thresholds_of_the_Greenland_Ice_Sheet)
   * [Kemp AC, Horton BP, Donnelly JP, Mann ME, Vermeer M, Rahmstorf S (2011) Climate related sea-level variations over the past two millennia. PNAS. 108(27) 11017-11022.](https://doi.org/10.1073/pnas.1015619108)
-  * [Stanford JD, Hemingway R, Rohling EJ, Challenor PG, Medina-Elizalde M, Lester AJ (2011) Sea-level probability for the last deglaciation: A statistical analysis of far-field records. Global and Planetary Change. 79(3-4): 193-203.](https://doi.org/10.1016/j.gloplacha.2010.11.002)
+  * [Stanford JD, Hemingway R, Rohling EJ, Challenor PG, Medina-Elizalde M, Lester AJ (2011) Sea-level probability for the last deglaciation: A statistical analysis of far-field records. Global and Planetary Change. 79(3-4): 193-203.](https://doi.org/10.1016/j.gloplacha.2010.11.002) &mdash; [PDF](https://www.academia.edu/11010295/Sea-level_probability_for_the_last_deglaciation_A_statistical_analysis_of_far-field_records)
+  * [Miller KG et al. (2011) A 180-Million-Year Record of Sea Level and Ice Volume Variations from Continental Margin and Deep-Sea Isotopic Records. Oceanography. 24(2): 40-53.](https://www.jstor.org/stable/24861267?read-now=1&seq=5#page_scan_tab_contents)
   * [Allen PA (2008) From landscapes into geological history. Nature. (451): 274–276.](https://doi.org/10.1038/nature06586)
+  * [Miller KG et al. (2005) The Phanerozoic Record of Global Sea-Level Change. Science. 310(5752): 1293-1298](https://science.sciencemag.org/content/310/5752/1293.long)
+  * [Kominz MA (2001) "Sea Level Variations Over Geologic Time." Encyclopedia of Ocean Sciences. Academic Press. 2605-2613.](http://dx.doi.org/10.1006/rwos.2001.0255) &mdash; [PDF](http://www.curry.eas.gatech.edu/Courses/6140/ency/Chapter10/Ency_Oceans/Sea_Level_Variations.pdf)
 * **Extraterrestial Impacts**
   * [Hergerten S, Kenkmann T (2015) The number of impact craters on Earth: Any room for further discoveries? Earth and Planetary Science Letters. 425: 187-192](https://doi.org/10.1016/j.epsl.2015.06.009)
 * **Historical Thought**
@@ -118,11 +123,25 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 * [Kirkpatrick JF, Fazio PM (2003, revised 2010) Wild Horses as Native North American Wildlife. Wild Horses as Native North American Wildlife. The Science and Conservation Center, ZooMontana, Billings. 8 pages](https://awionline.org/content/wild-horses-native-north-american-wildlife)
 * [Frison GC (1998) Paleoindian large mammal hunters on the plains of North America. PNAS. 95(24): 14576-14583.](https://doi.org/10.1073/pnas.95.24.14576)
 
+## Denisova Cave, Southern Siberia, Altai Krai, Russia (334000 - 222000 BCE)
+
+* [Jacobs A et al. (2019) Timing of archaic hominin occupation of Denisova Cave in southern Siberia. Nature. 565: 594-599.](https://www.nature.com/articles/s41586-018-0843-2)
+* [Douka K et al. (2019) Age estimates for hominin fossils and the onset of the Upper Palaeolithic at Denisova Cave. Nature. 565: 640-644.](https://www.nature.com/articles/s41586-018-0870-z?_sg=HnHYAGx6TrgPF2A_usC7TI5caZ2-WjcdkmpxVWnaV0ZHwkkc-3JeeAzXd4rBtIcckyJpTe2WULuCVv4.fWw-pU6PDxJers3nN6eg1KwXhcPIuaX2eoGduCnTH7WaXIzyMy7SYCGkRQXyrTIAw85glW1XzhBx63O67-t8DQ)
+
+## Diring Yuriakh, Yakutsk, Russia (260 KA, ~ 258000 BCE)
+
+This is really close to the land bridge, if these Densovians made trips across the ocean at that time or one of the times when the land bridge emerged since 500000 BCE, that could explain the earliest and highly contested sites: Hueyatlaco, Calico, and Cerutti.
+
+* [Water MR, Forman SL, Person JM (1997) Diring Yuriakh: A Lower Paleolithic Site in Central Siberia. Science. 275(5304): 1281-1284](https://science.sciencemag.org/content/275/5304/1281)
+* [Hall DA (1996) Thermoluminescence Dating Proves Early Peopling of Siberia. Mammoth Trumpet. 11(1): 1.](https://csfa.tamu.edu/wp-content/uploads/2015/12/vol11_num1.pdf)
+
 ## Pre Clovis (before 11000 BCE)
 
 These links support discoveries on the continent prior to any currently established theories (as of 2018).
 
 ## Hueyatlaco, Puebla, Mexico (250 KA BP, ~248000 BCE)
+
+What's interesting is that this coincides with another glacial maximum, the last in the middle pleistoncene, according to Miller KG et al. (2005) and Kominz (2001).
 
 * [Hueyatlaco](https://en.wikipedia.org/wiki/Hueyatlaco#Aftermath)
 * [VanLandingham, SL. 2006. Diatom evidence for autochthonous artifact deposition in the Valsequillo region, Puebla, Mexico during the Sangamonian (sensu lato = 80,000 to ca. 220,000 yr BP and Illinoian (220,000 to 430,000 yr BP)). Journal of Paleolimnology 36: 101– 116 [DOI: 10.1007/s10933‐006‐0008‐4]](https://doi.org/10.1007/s10933-006-0008-4)
@@ -133,12 +152,16 @@ These links support discoveries on the continent prior to any currently establis
 
 There was a rock ring discovered beneath a 100000 year old soil profile -- but there is controversy over potential contamination. There are potentially some tools from then, too. However, most of the tools discovered here come from later times 30 KA BP and 14.4 KA BP.
 
+It is also interesting to note that this coincides with another glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001).
+
 * [Calico Early Man Site](https://en.wikipedia.org/wiki/Calico_Early_Man_Site)
 * [Lake Manix](https://en.wikipedia.org/wiki/Lake_Manix)
 * [BLM closes Early Man Site](https://www.vvdailypress.com/news/20190427/blm-closes-early-man-site)
 * [A Visit to the Weirdest Archaeological Site in North America](https://gizmodo.com/a-visit-to-the-weirdest-archaeological-site-in-north-am-1505014963)
 
 ## Cerutti Mastodon, San Diego County, California, USA (130 KA BP, ~128000 BCE)
+
+Again, this coincides with a glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001).
 
 * [Magnani M, Grindle D, Loomis S, Kim AM (2019) Evaluating claims for an early peopling of the Americas: experimental design and the Cerutti Mastodon site. Antiquity. 93(369): 789-795.](https://doi.org/10.15184/aqy.2019.14)
 * [Holen, Steven R. et al. A 130,000-year-old archaeological site in southern California, USA. Nature. 544. 479–483 27 Apr. 2017.](https://www.nature.com/articles/nature22065)
@@ -166,8 +189,10 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 
 ## Yana RHS, Siberia (28000 BCE)
 
+This is technically not "North America", but it's connected and may demonstrate part of the path our ancestors took to get here.
+
 * [Pringle, H. (2014) Welcome to Beringia. Science. 343(6174): 961-963.](https://science.sciencemag.org/content/343/6174/961)
-* [By V. V. Pitulko, P. A. Nikolsky, E. Yu. Girya, A. E. Basilyan, V. E. Tumskoy, S. A. Koulakov, S. N. Astakhov, E. Yu. Pavlova, M. A. Anisimov (2004) The Yana RHS Site: Humans in the Arctic Before the Last Glacial Maximum. Science. 303(5654): 52-56.](https://science.sciencemag.org/content/303/5654/52.full?_ga=2.223773532.61086061.1566785266-478062606.1565127902) &mdash; [PDF](https://www.academia.edu/17919797/The_Yana_RHS_Site_Humans_in_the_Arctic_Before_the_Last_Glacial_Maximum) &mdash; Clovis like tools. Would be considered western Beringia.
+* [By V. V. Pitulko, P. A. Nikolsky, E. Yu. Girya, A. E. Basilyan, V. E. Tumskoy, S. A. Koulakov, S. N. Astakhov, E. Yu. Pavlova, M. A. Anisimov (2004) The Yana RHS Site: Humans in the Arctic Before the Last Glacial Maximum. Science. 303(5654): 52-56.](https://science.sciencemag.org/content/303/5654/52.full?_ga=2.223773532.61086061.1566785266-478062606.1565127902) &mdash; [PDF](https://www.academia.edu/17919797/The_Yana_RHS_Site_Humans_in_the_Arctic_Before_the_Last_Glacial_Maximum) &mdash; Clovis like tools. Would be considered western Beringia (the name of the land bridge).
 
 ## Bluefish Caves, Yukon, Canada (22000 BCE)
 
@@ -282,6 +307,10 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [M. Thomas. P. Gilbert, Dennis L. Jenkins, et al. DNA from Pre-Clovis Human Coprolites in Oregon, North America. Science. 09 May. 2008. 320(5877): 786-789.](https://science.sciencemag.org/content/320/5877/786)
 * [Pre-Clovis Human DNA Found In 14,300-year-old Feces In Oregon Cave Is Oldest In New World](https://www.sciencedaily.com/releases/2008/04/080403141109.htm)
 
+## Swan Point, Alaska, USA (12180 BCE)
+
+* [Saleeby, B. M. (2010). Ancient Footsteps in a New Land: Building an Inventory of the Earliest Alaskan Sites. Arctic Anthropology 47(2), 116-132. University of Wisconsin Press. Retrieved September 10, 2019, from Project MUSE database.](https://doi.org/10.1353/arc.2010.0004)
+
 ## Triquet Island, British Columbia, Canada (12000 BCE)
 
 * [Farand, Chloe. 14,000-year-old village discovered in Canada one of oldest settlements ever found in North America. Independent. 08 Apr. 2017.](https://www.independent.co.uk/news/world/americas/14000-village-discovered-triquet-island-british-columbia-canada-oldest-settlment-north-america-a7673726.html)
@@ -300,6 +329,12 @@ There was a rock ring discovered beneath a 100000 year old soil profile -- but t
 * [Waters, Michael R. et al. Pre-Clovis Mastodon Hunting 13,800 Years Ago at the Manis Site, Washington. Science. 21 October. 2011. 334(6054):351-3.](https://www.researchgate.net/publication/51737194_Pre-Clovis_Mastodon_Hunting_13800_Years_Ago_at_the_Manis_Site_Washington)
 * [Gustafson, Carl E., et al. “The Manis Mastodon Site: Early Man on the Olympic Peninsula.” Canadian Journal of Archaeology / Journal Canadien d’Archéologie, no. 3, 1979, pp. 157–164. JSTOR.](www.jstor.org/stable/41102203)
 * [Manis Mastodon Site 3D Gallery](http://csfa.tamu.edu/?page_id=1683)
+
+## Aubrey Site, Texas, USA (11400 BCE)
+
+* [Morrow J (2006) The Paleoindian Period in Arkansas between approximately 13,500 and 12,620 calendar years ago. Arkansas Prehistory and History in Review. 331: 3-9.](https://www.researchgate.net/publication/314213036_The_Paleoindian_Period_in_Arkansas_between_approximately_13500_and_12620_calendar_years_ago)
+* [Fiedel, S. (1999). Older Than We Thought: Implications of Corrected Dates for Paleoindians. American Antiquity, 64(1), 95-115. doi:10.2307/2694348](https://www.jstor.org/stable/2694348?read-now=1&seq=1#page_scan_tab_contents)
+* [Hall DA (1996) Aubrey Site a Deep Undisturbed Camp. Mammoth Trumpet. 11(1): 5-9.](https://csfa.tamu.edu/wp-content/uploads/2015/12/vol11_num1.pdf)
 
 ## Western Fluted Point Tradition (11200 BCE - 9000 BCE)
 
@@ -474,6 +509,7 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 ## On Your Knees Cave, Tongass National Forest, Alaska, USA (8300 BCE)
 
 * [Lawler A (2010) A Tale of Two Skeletons. Science. 330(6001): 171-172. DOI: 10.1126/science.330.6001.171](https://science.sciencemag.org/content/330/6001/171)
+* [Saleeby, B. M. (2010). Ancient Footsteps in a New Land: Building an Inventory of the Earliest Alaskan Sites. Arctic Anthropology 47(2), 116-132. University of Wisconsin Press. Retrieved September 10, 2019, from Project MUSE database.](https://doi.org/10.1353/arc.2010.0004)
 * [Kemp BM, Malhi RS, McDonough J , Bolnick DA, Eshleman JA, Rickards O, Martinez‐Labarga C, Johnson JR, Lorenz JG, Dixon EJ, Fifield TE, Heaton TH, Worl R, Smith DG (2007) Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. American Journal of Physical Anthropology. 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
 
 ## Early Archaic (8000 BCE - 6000 BCE)
@@ -519,6 +555,10 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 * [Robert A. Dull. An 8000-year record of vegetation, climate, and human disturbance from the Sierra de Apaneca, El Salvador. March. 2004. 61(2): 159-167](https://www.cambridge.org/core/journals/quaternary-research/article/an-8000year-record-of-vegetation-climate-and-human-disturbance-from-the-sierra-de-apaneca-el-salvador/5D6ADDABA882A1E6C826BF8C5A22E1EE)
 
 ## Paleo-Arctic Tradition (8000 BCE - 5000 BCE)
+
+## University House Burials, La Jolla, California, USA (7500 BCE)
+
+* [Arion T. Mayes. (2010). These Bones Are Read: The Science and Politics of Ancient Native America. American Indian Quarterly, 34(2), 131-156. doi:10.5250/amerindiquar.34.2.131](https://www.jstor.org/stable/10.5250/amerindiquar.34.2.131 )
 
 ## Trail Creek Caves, Seward Peninsula, Alaska, USA (7000 BCE)
 

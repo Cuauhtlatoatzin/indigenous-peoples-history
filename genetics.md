@@ -148,6 +148,7 @@ The following journal papers contain most of the overview that one would need to
 * [Cepelewicz, J (2019) Fossil DNA Reveals New Twists in Modern Human Origins. Quanta Magazine. August 29. Web. Accessed September 7, 2019.](https://www.quantamagazine.org/fossil-dna-reveals-new-twists-in-modern-human-origins-20190829/)
 * [Browning SR et al. (2018) Analysis of Human Sequence Data Reveals Two Pulses of Archaic Denisovan Admixture. Cell. 173(1): 53-61.](https://doi.org/10.1016/j.cell.2018.02.031)
 * [Wolf AB, Akey JM (2018) Outstanding questions in the study of archaic hominin admixture. PLoS Genet 14(5): e1007349.](https://doi.org/10.1371/journal.pgen.1007349)
+* [Slon V et al. (2018) The genome of the offspring of a Neanderthal mother and a Denisovan father. Nature. 561: 113-116.](https://www.nature.com/articles/s41586-018-0455-x)
 * [Groucutt HS, Grün R, Zalmout IAS, Drake NA, Armitage SJ, Candy I, et al. (2018). Homo sapiens in Arabia by 85,000 years ago. Nature Ecology & Evolution. doi:10.1038/s41559-018-0518-2](https://doi.org/10.1038/s41559-018-0518-2)
 * [Scerri EML et al. (2018) Did Our Species Evolve in Subdivided Populations across Africa, and Why Does It Matter? Trends in Ecology & Evolution. 33(8): 582-594.](https://doi.org/10.1016/j.tree.2018.05.005)
 * [Langley M. (2017) World’s scientists turn to Asia and Australia to rewrite human history. The Conversation. 7 Dec. 2017.](http://theconversation.com/worlds-scientists-turn-to-asia-and-australia-to-rewrite-human-history-88697)
@@ -165,6 +166,7 @@ The following journal papers contain most of the overview that one would need to
 * [Kuhlwilm M et al. (2016) Ancient gene flow from early modern humans into Eastern Neanderthals. Nature. 530: 429-433.](https://www.nature.com/articles/nature16544)
 * [Karmin M et al. (2015) A recent bottleneck of Y chromosome diversity coincides with a global change in culture. Genome Research. 25: 459-466.](https://genome.cshlp.org/content/25/4/459.full)
 * [The 1000 Genomes Project Consortium (2015) A global reference for human genetic variation. Nature. 526: 68-74.](https://www.nature.com/articles/nature15393)
+* [Fu Q et al. (2013) DNA analysis of an early modern human from Tianyuan Cave, China. PNAS. 110(6): 2223-2227.](https://doi.org/10.1073/pnas.1221359110)
 * [Gronau I et al. (2011) Bayesian inference of ancient human demography from individual genome sequences. Nature Genetics. 43, 1031-1034.](https://www.nature.com/articles/ng.937)
 * [McEvoy B et al. (2010) Whole-Genome Genetic Diversity in a Sample of Australians with Deep Aboriginal Ancestry. American Journal of Human Genetics. 13 Aug.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917718/)
 
