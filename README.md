@@ -86,6 +86,8 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 * [Goebel T, Waters MR, O'Rourke DH (2008) The Late Pleistocene Dispersal of Modern Humans in the Americas. Science. 319(5869): 1497-1502.](https://science.sciencemag.org/content/319/5869/1497)
 * [Heintzman PD (2016) Bison phylogeography constrains dispersal and viability of the Ice Free Corridor in western Canada. PNAS. 113(29): 8057-8063.](https://www.pnas.org/content/113/29/8057)
 * **Glaciers, Corridors, Ocean Levels, Erosion, and Climate Change**
+  * [Kleinen T, Milolajewicz U, Brovkin V (2019) Terrestrial methane emissions from Last Glacial Maximum to preindustrial. Clim. Past Discuss. https://doi.org/10.5194/cp-2019-109, in review](https://doi.org/10.5194/cp-2019-109)
+  * [Morée A, Schwinger J (2019) A Last Glacial Maximum forcing dataset for ocean modelling. Earth Syst. Sci. Data Discuss. https://doi.org/10.5194/essd-2019-79, in review](https://doi.org/10.5194/essd-2019-79)
   * [Cornelius, S. (2018). Volume Fractions of Lithologic units deposited per geologic epoch in the Cenozoic, Keathley Canyon and Walker Ridge, Deepwater Gulf of Mexico: Part 1--Sand, Shale, and Siltstone. GCAGS Journal.](https://www.academia.edu/38053365/Volume_Fractions_of_Lithologic_units_deposited_per_geologic_epoch_in_the_Cenozoic_Keathley_Canyon_and_Walker_Ridge_Deepwater_Gulf_of_Mexico_Part_1--Sand_Shale_and_Siltstone)
   * [Fildani A, Hessler AM, Mason CC, McKay MP, Stockli DF (2018) Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. (8) 13839.](https://doi.org/10.1038/s41598-018-32268-7)
   * [Menounos B, Goehring BM, Osborn G, Margold M, Ward B, Bond J, Clarke GKC, Clague JJ, Lakeman T, Koch J, Caffee MW, Gosse J, Stroeven AP, Seguinot J, Heyman J (2017) Cordilleran Ice Sheet mass loss preceded climate reversals near the Pleistocene Termination. Science. 358(6364): 781-784.](https://doi.org/10.1126/science.aan3001)
@@ -97,9 +99,12 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * [Kemp AC, Horton BP, Donnelly JP, Mann ME, Vermeer M, Rahmstorf S (2011) Climate related sea-level variations over the past two millennia. PNAS. 108(27) 11017-11022.](https://doi.org/10.1073/pnas.1015619108)
   * [Stanford JD, Hemingway R, Rohling EJ, Challenor PG, Medina-Elizalde M, Lester AJ (2011) Sea-level probability for the last deglaciation: A statistical analysis of far-field records. Global and Planetary Change. 79(3-4): 193-203.](https://doi.org/10.1016/j.gloplacha.2010.11.002) &mdash; [PDF](https://www.academia.edu/11010295/Sea-level_probability_for_the_last_deglaciation_A_statistical_analysis_of_far-field_records)
   * [Miller KG et al. (2011) A 180-Million-Year Record of Sea Level and Ice Volume Variations from Continental Margin and Deep-Sea Isotopic Records. Oceanography. 24(2): 40-53.](https://www.jstor.org/stable/24861267?read-now=1&seq=5#page_scan_tab_contents)
+  * [Clark PU et al. (2009) The Last Glacial Maximum. Science. 325(5941): 710-714.](https://science.sciencemag.org/content/325/5941/710.full)
   * [Allen PA (2008) From landscapes into geological history. Nature. (451): 274–276.](https://doi.org/10.1038/nature06586)
   * [Miller KG et al. (2005) The Phanerozoic Record of Global Sea-Level Change. Science. 310(5752): 1293-1298](https://science.sciencemag.org/content/310/5752/1293.long)
   * [Kominz MA (2001) "Sea Level Variations Over Geologic Time." Encyclopedia of Ocean Sciences. Academic Press. 2605-2613.](http://dx.doi.org/10.1006/rwos.2001.0255) &mdash; [PDF](http://www.curry.eas.gatech.edu/Courses/6140/ency/Chapter10/Ency_Oceans/Sea_Level_Variations.pdf)
+* **Radiative Imbalance**
+  * [Baggenstos D et al. (2019) Earth’s radiative imbalance from the Last Glacial Maximum to the present. PNAS. 116(30) 14881-14886.](https://doi.org/10.1073/pnas.1905447116)
 * **Extraterrestial Impacts**
   * [Hergerten S, Kenkmann T (2015) The number of impact craters on Earth: Any room for further discoveries? Earth and Planetary Science Letters. 425: 187-192](https://doi.org/10.1016/j.epsl.2015.06.009)
 * **Historical Thought**
@@ -212,6 +217,10 @@ This is technically not "North America", but it's connected and may demonstrate 
 ## La Senna and Lovewell, Kansas & Nebraska, USA (19000 BCE - 16000 BCE)
 
 * [Holen, S. R. (2006). Taphonomy of two last glacial maximum mammoth sites in the central Great Plains of North America: A preliminary report on La Sena and Lovewell. Quaternary International, 142, 30-43.](https://doi.org/10.1016/j.quaint.2005.03.003) &mdash; [PDF](http://capr.tdcart.com/uploads/Holen%20QI%202006.pdf)
+
+## First known pottery &mdash; Xianrendong (Xianren Cave), Jiangxi, China (18048 BCE - 17216 BCE)
+
+* [Wu X et al. (2012) Early Pottery at 20,000 Years Ago in Xianrendong Cave, China. Science. 336(6089): 1696-1700.](https://science.sciencemag.org/content/336/6089/1696)
 
 ## Monte Verde, Chile (16500 BCE - 12500 BCE)
 
@@ -474,6 +483,23 @@ The Search for the Earliest Humans in the Land Recently Called South Carolina" A
 
 ## Mesoamerican Paleo Indian (10000 BCE - 3500 BCE)
 
+## Meanwhile, across the pond, Göbekli Tepe, Anatolia (9990 ± 30 BC)
+
+This is the first known example of lithic architecture built on a raised platform. Because of how this was found around some of the earliest known agriculture, it sets a little bit of the pattern for what happens as people develop agriculture and temple like structures.
+
+* [Dietrich O (2016) How old it it? Dating Göbekli Tepe. The Tepe Telegrams. June 22.](https://www.dainst.blog/the-tepe-telegrams/2016/06/22/how-old-ist-it-dating-gobekli-tepe/)
+* [Köksal-Schmidt Ç, Schmidt K (2010) The Göbekli Tepe "Totem Pole". A First Discussion of an Autumn 2010 Discovery (PPN, Southeastern Turkey). Neo-Lithics. 1/10: 74-76.](http://www.exoriente.org/docs/00051.pdf)
+* [Dietrich L, Meister J, Dietrich O, Notroff J, Kiep J, Heeb J, et al. (2019) Cereal processing at Early Neolithic Göbekli Tepe, southeastern Turkey. PLoS ONE 14(5): e0215214.](https://doi.org/10.1371/journal.pone.0215214)
+* Comparison to Maya architecture:
+  * [Inomata T, Triadan D, Pinzón F, Aoyama K (2019) Artificial plateau construction during the Preclassic period at the Maya site of Ceibal, Guatemala. PLoS ONE 14(8): e0221943.](https://doi.org/10.1371/journal.pone.0221943)
+    * `The construction of the Ceibal plateau may be comparable to early monumental constructions in other parts of the world, which emerged before or during the transition to agriculture or sedentism. Examples include: Göbekli Tepe and related Neolithic sites in the Near East; Watson Brake, Poverty Point, and other mound complexes in the Archaic lower Mississippi area; Sechín Bajo, Caral, and other monumental constructions in the Andes; and large shell mounds in the southeastern US and Brazil [81,86–91]. Although archaeologists traditionally associated monumental architecture with societies with pronounced political centralization and social hierarchy [51], these examples force us to reconsider this assumption [92,93].`
+
+## Meanwhile, across the pond, Ural Mountains: Shigit peat bog (9000-8000 BCE)
+
+This is the oldest known anthropomorhic wooden sculpture.
+
+* [Zhilin M et al. (2018) Early art in the Urals: new research on the wooden sculpture from Shigir. Antiquity. 92(362), 334-350. doi:10.15184/aqy.2018.48](https://www.cambridge.org/core/journals/antiquity/article/early-art-in-the-urals-new-research-on-the-wooden-sculpture-from-shigir/1EE151AB1E571968B10267E48B78362A/core-reader)
+
 ## Upper Sun River Burial (9600 BCE - 9270 BCE)
 
 * [Tackney JC, Potter BA, Raff J, Powers M, Watkins WS, Warner D, Reuther JD, Irish JD, O'Rourke DH (2015) Two contemporaneous mitogenomes from terminal Pleistocene burials in eastern Beringia. PNAS. 112(45): 13833-13838.](https://doi.org/10.1073/pnas.1511903112) &mdash; This has excelent citations which lead to more historical sites.
@@ -617,22 +643,35 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 
 ## Zaña Valley, Peru (4700 BCE or 2500 BCE)
 
+This could be the first use of irrigation canals in the "Americas".
+
 * [Zaña Valley](https://en.wikipedia.org/wiki/Za%C3%B1a_Valley)
+* [Dillehay TD, Eling HH Jr, Rossen J (2005) Preceramic irrigation canals in the Peruvian Andes. PNAS. 102(47): 17241-17244.](https://dx.doi.org/10.1073%2Fpnas.0508583102)
+
+## Meanwhile, across the pond, Tepe Hissar, Iran (4300)
+
+* [Afshar, Z. (2014). Mobility and Economic Transition in the 5th to the 2nd Millennium BC in the Population of the Central Iranian Plateau, Tepe Hissar (Doctoral dissertation, Durham University).](http://etheses.dur.ac.uk/11064/1/Zahra_Afshar_PhD_Thesis_.pdf)
+
+## Áspero - Norte Chico/Caral Culture, Peru (4100 BCE - 2000 BCE)
+
+This complex contains what would be the first stepped pyramid in the Americas, and possibly the world.
+
+* [Chu A (2008) Bandurria: Arena, mar y humedal en el surgimiento de la Civilización Andina. Hualmay, Huaura, Perú. Servicios Gráficos Jackeline.](https://www.academia.edu/11124090/Bandurria._Arena_Mar_y_Humedal_en_el_Surgimiento_de_la_Civilizaci%C3%B3n_Andina)
 
 ## Abejas Phase - Tehuacán Valley, MX (3825 BCE - 2600 BCE)
 
 * [Abejas Phase](https://en.wikipedia.org/wiki/Abejas_Phase)
 
-## Huaricanga, Peru - Norte Chico Culture (3570 BCE - 1800 BCE)
+## Huaricanga, Peru - Norte Chico/Cala Culture (3570 BCE - 1800 BCE)
 
 * [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga)
 * [Carbon Dating of sites](https://www.fieldmuseum.org/sites/default/files/2003dates.pdf)
 
 ## Mesoamerican Paleo Indian Period Ends (3500 BCE)
 
-## Norte Chico, Peru (3500 BCE - 1800 BCE)
+## Sechin Bajo - Supe Valley, Barranca Province, Peru (3500 BCE)
 
-* [Norte Chico civilization](https://en.wikipedia.org/wiki/Norte_Chico_civilization)
+* [McDonnel PJ (2008) A new find is the Americas' oldest known urban site. Los Angeles Times. February 26.](https://www.latimes.com/archives/la-xpm-2008-feb-26-fg-peru26-story.html)
 
 ## Watson Brake - Ouachita Parish, Louisiana, USA (3500 BCE - 2800 BCE)
 
@@ -660,11 +699,39 @@ Occupation was carbon dated to at least 3000 BCE. Main Chavín culture articfact
 
 * [Chavín de Hauntar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
 
-## Stallings Island, Georgia, USA (2600 BCE - 14000 BCE)
+## Meanwhile, across the pond, Monte d'Accoddi, Sassari, Sardegna, Italia (~2700 BCE)
+
+This rework of a previous mastaba-like structure to add another few levels.
+
+* [Melis MG (2011) Monte d’Accoddi and the end of the Neolithic in Sardinia (Italy). Documenta Praehistorica XXXVIII. DOI: 10.4312\dp.38.16](https://web.archive.org/web/20160304001503/http://arheologija.ff.uni-lj.si/documenta/pdf38/38_16.pdf)
+* [Contu E. (2000) "L’altare di Monte d’Accoddi e il territorio circostante" L'altare prstoico di Monte D'accooddi. Sardenga Archeologica. Delfino C ed.](https://web.archive.org/web/20060901012459/http://www.sardegnacultura.it/documenti/7_4_20060402100930.pdf)
+
+## Meanwhile, across the pond, Djoser Pyramid, Saqqara, Egypt (~2680 BCE)
+
+This kicks off the tradition of building pyramids. The Great Pyramid of Giza would be built 100 years later.
+
+* [Dee M et al. (2013) An absolute chronology for early Egypt using radiocarbon dating and Bayesian statistical modelling. Proceedings of the Royal Society A. 469(2159).](https://doi.org/10.1098/rspa.2013.0395)
+* [Kitchen, KA (1991) The chronology of ancient Egypt. World Archaeology, 23(2), 201-208.](http://www.pereplet.ru/gorm/dating/chroneg.pdf)
+
+## Stallings Island, Georgia, USA (2600 BCE - 1400 BCE)
 
 This island in the Savannah River was occupied over two time periods: 2600 BCE - 2000 BCE and 1800 BCE - 1400 BCE.
 
 * [Stallings Island](https://en.wikipedia.org/wiki/Stallings_Island)
+
+## Caral, Supe Valley, Barranca Province, Peru (2600 BCE)
+
+This is one of the first modern cities in the Americas including irrigation agriculture. It is contemporaneous with cities across the pond. Recently, it has been discovered that Bandurria, Peru is older.
+
+* [Belsie L (2002) Civilization lost? The Christian Science Monitor. January 3.](https://www.csmonitor.com/2002/0103/p11s1-woam.html)
+  * `A civilization arises because it controls something important. Mesopotamia prospered once it irrigated the desert and produced an abundance of food. Caral diverted water from the Supe River to irrigate fields, growing staples such as squash and beans. But its secret weapon may have been cotton. By growing cotton, used to make fishing nets, the people of Caral could trade for fish with the communities on the Pacific coast 12 miles away. Archaeologists have unearthed thousands of fish bones.`
+  * `"There's a problem of self-identification in the country," Shady answers when locals ask her why Peru is so backward today. When Caral flourished, "the society was organized with a population that worked to do things collectively for the collective good. But with the rupture from the arrival of the Spaniards [3,500 years later], there was no more interest in the country except as a source of minerals to be exported to Spain."`
+  * `Even after the colonizers were thrown out, she says, "our leaders, generally because of problems of identity and self-esteem, believed that everything from abroad was good. Never again did they try to understand the country from its geography, from its history, from its social problems."`
+* [Soli RS, Haas J, Creamer W (2001) Dating Caral, a Preceramic Site in the Supe Valley on the Central Coast of Peru. Science. 292(5517): 723-726.](https://science.sciencemag.org/content/292/5517/723)
+* [Smithsonian Staff (2002) First City in the New World? Smithsonian Magazine. August 2002.](https://www.smithsonianmag.com/history/first-city-in-the-new-world-66643778/)
+  * `It was evidence of another crop in the excavations that gave Shady the best clue to the mystery of Caral’s success. In nearly every excavated building, her team discovered great quantities of cotton seeds, fibers and textiles. Her theory fell into place when a large fishing net, unearthed at an unrelated dig on Peru’s coast, turned out to be as old as Caral. “The farmers of Caral grew the cotton that the fishermen needed to make the nets,” Shady speculates. “And the fishermen gave them shellfish and dried fish in exchange for these nets.” In essence, the people of Caral enabled fishermen to work with larger and more effective nets, which made the resources of the sea more readily available. The Caral people probably used dried squash as flotation devices for nets and also as containers, thus obviating any need for ceramics.`
+  * `Eventually Caral would spawn 17 other pyramid complexes scattered across the 35-square-mile area of the SupeValley. Then, around 1600 B.C., for reasons that may never be answered, the Caral civilization toppled, though it didn’t disappear overnight. “They had time to protect some of their architectural structures, burying them discreetly,” says Shady. Other nearby areas, such as Chupacigarro, Lurihuasi and Miraya, became centers of power. But based on Caral’s size and scope, Shady believes that it is indeed the mother city of the Incan civilization.`
+* [Chu A (2008) Bandurria: Arena, mar y humedal en el surgimiento de la Civilización Andina. Hualmay, Huaura, Perú. Servicios Gráficos Jackeline.](https://www.academia.edu/11124090/Bandurria._Arena_Mar_y_Humedal_en_el_Surgimiento_de_la_Civilizaci%C3%B3n_Andina)
 
 ## Aleutian Tradtion, Aleutian Islands, Alaska, USA (2500 BCE - 1800 BCE)
 
@@ -1072,6 +1139,7 @@ Shows a trade connection or influence from Veracruz.
 * [Curtis, Wayne. Rich Man, Poor Man: Archaeologists are taking the study of wealth inequality into the distant past. American Archeology Magazine. 20 Jun. 2018.](https://www.archaeologicalconservancy.org/rich-man-poor-man/)
   * `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
   * `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
+* [Álvarez-Sandoval BA, Manzanilla LR, González-Ruiz M, Malgosa A, Montiel R (2015) Genetic Evidence Supports the Multiethnic Character of Teopancazco, a Neighborhood Center of Teotihuacan, Mexico (AD 200-600). PLoS ONE 10(7): e0132371.](https://doi.org/10.1371/journal.pone.0132371)
 * [Teotihuacan](https://www.khanacademy.org/humanities/art-americas/early-cultures/teotihuacan/a/teotihuacan)
 * [Pre-Hispanic City of Teotihuacan](https://whc.unesco.org/en/list/414/gallery/&maxrows=26)
 * [Infographic: Dig deeper into Teotihuacán](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-teotihuacan-site/3035/)
