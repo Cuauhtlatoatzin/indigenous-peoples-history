@@ -67,6 +67,16 @@ The following journal papers contain most of the overview that one would need to
 * [Zhivotovsky LA, Rosenberg NA, Feldman MW (2003) Features of Evolution and Expansion of Modern Humans, Inferred from Genomewide Microsatellite Markers. American Journal of Human Genetics. 72(5): 1171–1186.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180270/)
 * [Sethuraman A (2018) Estimating Genetic Relatedness in Admixed Populations. Genes Genomes Genetics. 8(10): 3203–3220.](https://dx.doi.org/10.1534%2Fg3.118.200485)
 
+### Accounting for Sequencing Errors
+
+* [Ma X et al. (2019) Analysis of error profiles in deep next-generation sequencing data. Genome Biology. 20.](https://doi.org/10.1186/s13059-019-1659-6)
+* [Bilton TP et al. (2018) Accounting for Errors in Low Coverage High-Throughput Sequencing Data When Constructing Genetic Maps Using Biparental Outcrossed Populations. 209(1): 65-76.](https://doi.org/10.1534/genetics.117.300627 )
+* [Pfeiffer F et al. (2018) Systematic evaluation of error rates and causes in short samples in next-generation sequencing. Scientific Reports. 8(1): doi: 10.1038/s41598-018-29325-6](https://doi.org/10.1038/s41598-018-29325-6)
+* [Wall JD et al. (2014) Estimating genotype error rates from high-coverage next-generation sequence data. Genome Research. 24(11): 1734-1739.](https://dx.doi.org/10.1101%2Fgr.168393.113)
+* [Trimble WL et al. (2012) Short-read reading-frame predictors are not created equal: sequence error causes loss of signal. BMC Informatics. 13: 183. doi: 10.1186/1471-2105-13-183](https://doi.org/10.1186/1471-2105-13-183)
+* [Wang XV et al. (2012) Estimation of sequencing error rates in short reads. BMC Bioinformatics. 13: 185. doi: 10.1186/1471-2105-13-185](https://dx.doi.org/10.1186%2F1471-2105-13-185)
+* [Richterich T (1998) Estimation of Errors in "Raw" DNA Sequences: A Validation Study. Genome Research. 8: 251-259. doi: 10.1101/gr.8.3.251](https://genome.cshlp.org/content/8/3/251.full.html)
+
 ## Genetic Evidence for the Peopling of the Americas
 
 * [Blell M, Hunter MA (2019) Direct-to-Consumer Genetic Testing's Red Herring: “Genetic Ancestry” and Personalized Medicine. Frontiers in Medicine. 29 March.](https://doi.org/10.3389/fmed.2019.00048)
