@@ -149,6 +149,7 @@ The following journal papers contain most of the overview that one would need to
 
 This includes archeological and genetics papers to build a perspective on the diffusion of Hominids and modern humans.
 
+* [Price M (2019) Ancient DNA puts a face on the mysterious Denisovans, extinct cousins of Neanderthals. Science News. September 19.](https://www.sciencemag.org/news/2019/09/ancient-dna-puts-face-mysterious-denisovans-extinct-cousins-neanderthals)
 * [Roberts P, Amano N (2019) Plastic pioneers: Hominin biogeography east of the Movius Line during the Pleistocene. Archaeological Research in Asia. 17: 181-192.](https://www.sciencedirect.com/science/article/pii/S2352226718300989?via%3Dihub)
 * [Sahle Y, Brooks AS (2019) Assessment of complex projectiles in the early Late Pleistocene at Aduma, Ethiopia. PLoS ONE 14(5): e0216716.](https://doi.org/10.1371/journal.pone.0216716)
 * [Braun DR et al. (2019) Earliest known Oldowan artifacts at >2.58 Ma from Ledi-Geraru, Ethiopia, highlight early technological diversity. PNAS. 116(24): 11712-11717.](https://doi.org/10.1073/pnas.1820177116)

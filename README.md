@@ -434,12 +434,6 @@ The Search for the Earliest Humans in the Land Recently Called South Carolina" A
 
 ## Post Pattern (11000 BCE - 7000 BCE)
 
-## Anzick burial (10700 BCE)
-
-* [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
-* [Balter M (2014) Native Americans Descend From Ancient Montana Boy. Science News. Science. 12 February.](https://www.sciencemag.org/news/2014/02/native-americans-descend-ancient-montana-boy)
-* [Morten Rasmussen, Sarah L. Anzick, Micheal R. Waters, et al. The genome of a Late Pleistocene human from a Clovis burial site in western Montana. Nature. 12 February. 2014](https://www.nature.com/articles/nature13025)
-
 ## Skeleton found at Hoyo Negro, Quintana Roo, Mexico (10910 - 9750 BCE)
 
 * [Chatters JC, et al. (2014) Late Pleistocene human skeleton and mtDNA link Paleoamericans and modern Native Americans. Science 344(6185) :750–754.](https://science.sciencemag.org/content/344/6185/750?ijkey=394a82c83a5ad4f9248ed45d2fcedfe2c8596d61&keytype2=tf_ipsecsha)
@@ -457,6 +451,12 @@ The Search for the Earliest Humans in the Land Recently Called South Carolina" A
 * [Morrow JE (unpublished?) Researching a Famous Fluted Point site in Eastern Iowa.](https://www.academia.edu/32259080/Researching_a_Famous_Fluted_Point_site_in_Eastern_Iowa)
 * [Morrow JE, Morrow TA (2002) Rummells-Maske Revisited: A Fluted Point Cache from East Central Iowa. Plains Anthropologist. 47(183): 307-321.](https://www.researchgate.net/publication/260468571_Rummells-Maske_Revisited_A_Fluted_Point_Cache_from_East_Central_Iowa)
 * [Anderson AD, Tiffany JA (1972) Rummells-Maske: A Clovis Find Spot in Iowa. Plains Anthropologist. 17: 55-59.](https://doi.org/10.1080/2052546.1972.11908617)
+
+## Anzick burial (10700 BCE)
+
+* [Montana burial site answers questions about early humans](https://www.heritagedaily.com/2018/06/montana-burial-site-answers-questions-about-early-humans/120192)
+* [Balter M (2014) Native Americans Descend From Ancient Montana Boy. Science News. Science. 12 February.](https://www.sciencemag.org/news/2014/02/native-americans-descend-ancient-montana-boy)
+* [Morten Rasmussen, Sarah L. Anzick, Micheal R. Waters, et al. The genome of a Late Pleistocene human from a Clovis burial site in western Montana. Nature. 12 February. 2014](https://www.nature.com/articles/nature13025)
 
 ## Sítio do Meio (10500 BCE)
 
@@ -564,6 +564,18 @@ Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.co
 * Hell Gap Complex, WY, USA
 * Jones-Miller Bison Kill Site in Yuma County, CO, USA
 * Foothills / Mountain Complex, CO, USA
+
+## Guilá Naquitz Cave, Oaxaca, Mexico (8800 BCE - 6950 BCE)
+
+This is this site of the first domestication of Squash. This indicates that domestication of some plants started around the same time as it did in China and the Near East.
+
+* [Schoenwetter J (2017) Pollen Records of Guilá Naquitz Cave. American Archeology. 39(2): 292-303.](https://doi.org/10.2307/279589)
+* [Landon AJ (2008) The "How" of the Three Sisters: The Origins of Agriculture in Mesoamerica and the Human Niche. Nebraska Anthropologist. 40.](http://digitalcommons.unl.edu/nebanthro/40)
+* [Smith BD (2001) Documenting plant domestication: The consilience of biological and archaeological approaches. PNAS. 98(4): 1324-1326.](https://dx.doi.org/10.1073%2Fpnas.98.4.1324)
+* [Benz BF (2001) Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca. PNAS. 98(4): 2104-2106.](https://doi.org/10.1073/pnas.98.4.2104)
+* [Smith B.D. (2000) Guilá Naquitz Revisited. In: Feinman G.M., Manzanilla L. (eds) Cultural Evolution. Springer, Boston, MA doi: 10.1007/978-1-4615-4173-8_2](https://books.google.com/books?id=d4DEPVVoqE8C&pg=PA20#v=onepage&q&f=false)
+* [Smith BD (1997) The Initial Domestication of Cucurbita pepo in the Americas 10,000 Years Ago. Science 276(5314): 932-934.](https://science.sciencemag.org/content/276/5314/932.full)
+* [Bushnell, GHS (1976) The beginning and growth of agriculture in Mexico. Philosophic Transactions of the Royal Society B. 275(936).](https://doi.org/10.1098/rstb.1976.0074)
 
 ## El Riego Phase - Tehuacán Valley, MX (8650 BCE - 5700 BCE)
 
@@ -1541,22 +1553,24 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 
 ## Domestication of Various Foods (10000 BCE - 4000 BCE)
 
-* [Dickau, R., Ranere, A. J., & Cooke, R. G. (2007). Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama. Proceedings of the National Academy of Sciences of the United States of America, 104(9), 3651–3656. http://doi.org/10.1073/pnas.0611605104](http://doi.org/10.1073/pnas.0611605104)
-* [Matsuoka, Y., Vigouroux, Y., Goodman, M. M., Sanchez G., J., Buckler, E., & Doebley, J. (2002). A single domestication for maize shown by multilocus microsatellite genotyping. Proceedings of the National Academy of Sciences of the United States of America, 99(9), 6080–6084. http://doi.org/10.1073/pnas.052125199](http://doi.org/10.1073/pnas.052125199)
-* [The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley, Mexico](https://doi.org/10.1073/pnas.0812590106)
+* [Dillehay TD et al. (2017) Simple technologies and diverse food strategies of the Late Pleistocene and Early Holocene at Huaca Prieta, Coastal Peru. Science Advances. 3(5): e1602778](https://advances.sciencemag.org/content/3/5/e1602778)
+* [Grobman A et al. (2012) Preceramic maize from Paredones and Huaca Prieta, Peru. PNAS. 109(5): 1755–1759.](https://dx.doi.org/10.1073%2Fpnas.1120270109)
+* [Piperno DR, Ranere AJ, Holst I, Iriarte J, Dickau R (2009) Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico. PNAS. 106(13): 5019-5024.](https://doi.org/10.1073/pnas.0812525106)
+* [Duncan NA, Pearsall DM, Benfer RA Jr. (2009) Gourd and squash artifacts yield starch grains of feasting foods from preceramic Peru. PNAS. 106(32): 13202-13206.](https://doi.org/10.1073/pnas.0903322106)
+* [Dickau R, Ranere AJ, Cooke RG (2007). Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama. Proceedings of the National Academy of Sciences of the United States of America, 104(9), 3651–3656. http://doi.org/10.1073/pnas.0611605104](http://doi.org/10.1073/pnas.0611605104)
+* [Ranere AJ, Piperno DR, Holst I, Dickau R, Iriarte J (2009) The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley, Mexico. PNAS. 106(13): 5014-5018.](https://doi.org/10.1073/pnas.0812590106)
+* [Matsuoka Y, Vigouroux Y, Goodman MM, Sanchez GJ, Buckler E, Doebley J (2002). A single domestication for maize shown by multilocus microsatellite genotyping. Proceedings of the National Academy of Sciences of the United States of America, 99(9), 6080–6084. http://doi.org/10.1073/pnas.052125199](http://doi.org/10.1073/pnas.052125199)
+* [Benz BF (2001) Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca. PNAS. 98(4): 2104-2106.](https://doi.org/10.1073/pnas.98.4.2104)
 * [A single domestication for maize shown by multilocus microsatellite genotyping](https://doi.org/10.1073/pnas.052125199)
 * [The earliest archaeological maize (Zea mays L.) from highland Mexico: New accelerator mass spectrometry dates and their implications](https://doi.org/10.1073/pnas.98.4.2101)
-* [Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca](https://doi.org/10.1073/pnas.98.4.2104)
 * [Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andrés, Tabasco, Mexico](https://doi.org/10.1073/pnas.0701425104)
 * [Late Pleistocene and Holocene environmental history of the Iguala Valley, Central Balsas Watershed of Mexico](https://doi.org/10.1073/pnas.0703442104)
 * [Terminal Pleistocene/Early Holocene human adaptation in coastal Ecuador: the Las Vegas evidence](https://doi.org/10.1016/S1040-6182(02)00200-8)
-* [Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico](https://doi.org/10.1073/pnas.0812525106)
 * [Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama](https://doi.org/10.1073/pnas.0611605104)
 * [Starch granule evidence for the earliest potato use in North America](https://doi.org/10.1073/pnas.1705540114)
 * [Investigation of the bottleneck leading to the domestication of maize](https://doi.org/10.1073/pnas.95.8.4441)
 * [Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru](http://science.sciencemag.org/content/316/5833/1890?ijkey=4362f3665dd49aebff7191e37064c12b197de9de&keytype2=tf_ipsecsha)
 * [Evidence for maize (Zea mays) in the Late Archaic (3000–1800 B.C.) in the Norte Chico region of Peru](https://doi.org/10.1073/pnas.1219425110)
-* [Gourd and squash artifacts yield starch grains of feasting foods from preceramic Peru](https://doi.org/10.1073/pnas.0903322106)
 * [Origin and Environmental Setting of Ancient Agriculture in the Lowlands of Mesoamerica](http://science.sciencemag.org/content/292/5520/1370?ijkey=aeea2a48ef0a5b00ed8cb29f91294eaa2ec64c2b&keytype2=tf_ipsecsha)
 * [Molecular analysis of crosses between Tripsacum dactyloides and Zea diploperennis (Poaceae)](https://link.springer.com/article/10.1007/s001220050469)
 * [Isoenzymatic Variation in Zea (Gramineae)](https://teosinte.wisc.edu/pdfs/Syst_Bot_1984.pdf)
@@ -1569,6 +1583,20 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 * [The Origins of Plant Cultivation and Domestication in the New World Tropics](https://www.journals.uchicago.edu/doi/10.1086/659998)
 * [Marginal horticulturalists or maize agriculturalists? Archaeobotanical, paleopathological, and isotopic evidence relating to Langford Tradition maize consumption](https://www.academia.edu/1332730/Marginal_horticulturalists_or_maize_agriculturalists_Archaeobotanical_paleopathological_and_isotopic_evidence_relating_to_Langford_Tradition_maize_consumption)
 * [A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping](https://doi.org/10.1073/pnas.0507400102)
+* **Across the pond**
+  * [Liu L et al. (2019) The origins of specialized pottery and diverse alcohol fermentation techniques in Early Neolithic China. PNAS. 116(26): 12767-12774.](https://doi.org/10.1073/pnas.1902668116) &mdash; Shows interesting ties to brews, pottery, and possibly yam.
+  * [Dietrich L, Meister J, Dietrich O, Notroff J, Kiep J, Heeb J, et al. (2019) Cereal processing at Early Neolithic Göbekli Tepe, southeastern Turkey. PLoS ONE 14(5): e0215214.](https://doi.org/10.1371/journal.pone.0215214)
+  * [Arranz-Otaegui A et al. (2018) Archaeobotanical evidence reveals the origins of bread 14,400 years ago in northeastern Jordan. PNAS 115(31): 7925-7930.](https://doi.org/10.1073/pnas.1801071115)
+  * [Zuo X et al. (2017) Dating rice remains through phytolith carbon-14 study reveals domestication at the beginning of the Holocene. PNAS. 114(25) 6486-6491.](https://doi.org/10.1073/pnas.1704304114)
+  * [Eitam D, Kislev M, Karty A, Bar-Yosef O (2015) Experimental Barley Flour Production in 12,500-Year-Old Rock-Cut Mortars in Southwestern Asia. PLoS ONE 10(7): e0133306.](https://doi.org/10.1371/journal.pone.0133306)
+  * [Dubreuil L & Nadel D (2015) The development of plant food processing in the Levant: insights from use-wear analysis of Early Epipalaeolithic ground stone tools. Philosophical Transactions of the Royal Society B. 370(1682).](https://doi.org/10.1098/rstb.2014.0357)
+  * [Yang X et al. (2012) Early millet use in northern China. PNAS. 109(10): 3726-3730.](https://doi.org/10.1073/pnas.1115430109)
+  * [Willcox, G., & Stordeur, D. (2012). Large-scale cereal processing before domestication during the tenth millennium cal BC in northern Syria. Antiquity, 86(331), 99-114.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.2736&rep=rep1&type=pdf)
+  * [Weiss E, Zohary D (2011) The Neolithic Southwest Asian Founder Crops. Current Anthropology. 52(S4): S237-S254.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/658367)
+  * [Vaughan, D. A., Lu, B. R., & Tomooka, N. (2008). The evolving story of rice evolution. Plant science, 174(4), 394-408.](https://www.researchgate.net/profile/Bao-Rong_Lu/publication/222526251_The_Evolving_Story_of_Rice_Evolution/links/5a90292645851535bcd57dab/The-Evolving-Story-of-Rice-Evolution.pdf)
+  * [Piperno DR et al. (2004) Processing of wild cereal grains in the Upper Palaeolithic revealed by starch grain analysis. Science. 430: 670-673.](https://www.nature.com/articles/nature02734) &mdash; This is amazing! I wonder what we would figure out if we looked in places now submerged by water. Possible bread from 21000BCE.
+    * `All the features were well-preserved, having been found in situ in the waterlogged sediments. A series of 40 14C determinations on charred plant remains dates the occupation to around 19,500 14C yr bp (about 23,500 to 22,500 calendar years ago) placing the site within the Upper Palaeolithic period (locally also termed the Early Epipalaeolithic)4.`
+  * [Wright K (1991) The Origins and development of ground stone assemblages in Late Pleistocene Southwest Asia. Paléorient. 17(1): 19-45.](https://www.persee.fr/doc/paleo_0153-9345_1991_num_17_1_4537?pageid=t1_44)
 
 ## Amazonian Dark Earth
 
