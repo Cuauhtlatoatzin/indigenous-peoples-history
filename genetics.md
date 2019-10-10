@@ -221,3 +221,32 @@ This includes archeological and genetics papers to build a perspective on the di
 * [Bramanti B et al. (2009) Genetic Discontinuity Between Local Hunter-Gatherers and Central Europe’s First Farmers. Science. 326(5949): 137-140.](https://science.sciencemag.org/content/326/5949/137.abstract)
 * [Lalueza-Fox C, Römpler H, et al. (2007) A Melanocortin 1 Receptor Allele Suggests Varying Pigmentation Among Neanderthals. Science. 318(5855): 1453-1455.](https://science.sciencemag.org/content/318/5855/1453)
 * [Plagnol V, Wall JD (2006) Possible Ancestral Structure in Human Populations. PLoS Genet 2(7): e105.](https://doi.org/10.1371/journal.pgen.0020105)
+
+## Was farming a mistake? (Should this go somewhere else?)
+
+Certain people have notice that in industrialized societies our jaw is getting smaller (and so are certain other features of our skulls). This is an extention of the process seen historically through evolution starting with our jaws becoming less pronounced and our skulls bigger. But since the adoption of farming it has accelerated. This is thought to be due to not using our jaw muscles and not having to work to eat processed food. However the mechanism, it poses existential risks for humanity.
+
+* [Antrosio J (2011) Agriculture as ‘Worst Mistake in the History of the Human Race’? Living Anthropologically. June 1.](https://www.livinganthropologically.com/archaeology/agriculture-worst-mistake/)
+* [Antrosio J (2011) Many Ways of Gathering and Hunting. Living Anthropologically. June 9.](https://www.livinganthropologically.com/archaeology/gathering-and-hunting/)
+* [Diamond J (1987) The Worst Mistake in the History of the Human Race. Discover Magazine. May. Published online May 1999.](http://discovermagazine.com/1987/may/02-the-worst-mistake-in-the-history-of-the-human-race) &mdash; please read the last two articles first for proper context.
+* [Pennisi E (2004) Weak Jaw, Big Brain. Sicence News. March 24.](https://www.sciencemag.org/news/2004/03/weak-jaw-big-brain)
+* [Hopkin M (2004) Jaw-dropping theory of human evolution. Nature News. March 25.](https://www.nature.com/news/2004/040322/full/news040322-9.html)
+* [Stedman H et al. (2004) Myosin gene mutation correlates with anatomical changes in the human lineage. Nature. 428: 415-418.](https://www.nature.com/articles/nature02358)
+* [Ungar P (2017) It's not that your teeth are too big: your jaw is too small. Aeon. Marina Benjamin, editor. June 30.](https://aeon.co/ideas/its-not-that-your-teeth-are-too-big-your-jaw-is-too-small)
+* [von Cramon-Taubadel N (2011) Global human mandibular variation reflects differences in agricultural and hunter-gatherer subsistence strategies. PNAS. 108(49) 19546-19551.](https://doi.org/10.1073/pnas.1113050108)
+* [Crompton AW (1963) The Evolution of the Mammalian Jaw. Evolution. 17(4): 431-439.](http://www.jstor.org/stable/2407093) &mdash; [PDF](https://crompton.oeb.harvard.edu/files/crompton/files/crompt1963_evolmammjaw.pdf)
+* [Alex B (2019) The Human Brain Has been Getting Smaller Since the Stone Age. The Crux Blog. Discover Magazine. April 8.](blogs.discovermagazine.com/crux/2019/04/08/human-brains-have-shrunk-since-the-stone-age/)
+* [McAuliffe K (2010) If Modern Humans Are So Smart, Why Are Our Brains Shrinking? Discover Magazine. September.](http://discovermagazine.com/2010/sep/25-modern-humans-smart-why-brain-shrinking)
+* [Henneberg M, Steyn M (1993) Trends in cranial capacity and cranial index in Subsaharan Africa during the Holocene. American Journal of Human Biology. 5(4): 473-479.](https://doi.org/10.1002/ajhb.1310050411)
+* [Brown P, Maeda T (2004) Post-Pleistocene diachronic change in East Asian facial skeletons: the size, shape and volume of the orbits. Anthropological Science. 112(1): 29-40.](https://doi.org/10.1537/ase.00072)
+* [Brown P (1987) Pleistocene Homogeneity and Holocene Size Reduction: The Australian Human Skeletal Evidence. Archeology in Oceania. 22(2): 41-67.](https://www.jstor.org/stable/40386774)
+* [Stringer, C (2014) Why Have Our Brains Started to Shrink? Scientific American Mind. November 1.](https://www.scientificamerican.com/article/why-have-our-brains-started-to-shrink/)
+* [Henneberg M (1988) Decrease of Human Skull Size in the Holocene. Human Biology. 60(3): 395-405.](https://www.jstor.org/stable/41464021)
+* [Thompson H (2014) Switching to Farming Made Human Joint Bones Lighter. Smithsonian. December 22.](https://www.smithsonianmag.com/science-nature/switching-farming-made-human-joint-bones-lighter-180953711/#rzByrssq22fhuOva.99)
+* [Pinhasi R, Eshed V, von Cramon-Taubadel N (2015) Incongruity between Affinity Patterns Based on Mandibular and Lower Dental Dimensions following the Transition to Agriculture in the Near East, Anatolia and Europe. PLoS ONE 10(2): e0117301.](https://doi.org/10.1371/journal.pone.0117301)
+* [Carpenter J (2011) Jawbones are 'shaped by diet', a study finds. BBC News November 23.](https://www.bbc.com/news/science-environment-15823276)
+* [University of Kent. (2011, November 23). Jaw size linked to diet: Could too soft a diet cause lower jaw to stay too short and cause orthodontic problems?. ScienceDaily. Retrieved October 2, 2019 from www.sciencedaily.com/releases/2011/11/111122112032.htm](www.sciencedaily.com/releases/2011/11/111122112032.htm)
+* [Lewis KR (2019) Our Skulls Are Out-Evolving Us. OneZero. September 19.](https://onezero.medium.com/our-skulls-are-out-evolving-us-and-that-could-mean-a-public-health-crisis-f950faed696d) &mdash; This seems to conflate many issues. It is the articles that made me look up the rest of this.
+* [Hidaka BH (2012) Depression as a disease of modernity: explanations for increasing prevalence. J Affect Disord. 140(3): 205-214.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330161/)
+* [Sadeh A, Gruber R, Raviv A (2003) The Effects of Sleep Restriction and Extension on School‐Age Children: What a Difference an Hour Makes. Child Development. 74(2): 444-455.](https://doi.org/10.1111/1467-8624.7402008)
+* [Galland B et al. (2015) Sleep Disordered Breathing and Academic Performance: A Meta-analysis. Pediatrics. 136(4): e934-e946.](http://pediatrics.aappublications.org/cgi/pmidlookup?view=long&pmid=26347434)
