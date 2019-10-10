@@ -131,6 +131,9 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 
 ## Denisova Cave, Southern Siberia, Altai Krai, Russia (334000 - 222000 BCE)
 
+* [Wong K (2019) Cave That Housed Neandertals and Denisovans Challenges View of Cultural Evolution. Scientific American. January 30.](https://www.scientificamerican.com/article/cave-that-housed-neandertals-and-denisovans-challenges-view-of-cultural-evolution/)
+* [Dennell R (2019) Dating hominin discoveries at Denisova. Nature News. January 30.](https://www.nature.com/articles/d41586-019-00264-0)
+* [Morley MW et al. (2019) Hominin and animal activities in the microstratigraphic record from Denisova Cave (Altai Mountains, Russia). Scientific Reports. 9: 13785.](https://www.nature.com/articles/s41598-019-49930-3)
 * [Jacobs A et al. (2019) Timing of archaic hominin occupation of Denisova Cave in southern Siberia. Nature. 565: 594-599.](https://www.nature.com/articles/s41586-018-0843-2)
 * [Douka K et al. (2019) Age estimates for hominin fossils and the onset of the Upper Palaeolithic at Denisova Cave. Nature. 565: 640-644.](https://www.nature.com/articles/s41586-018-0870-z?_sg=HnHYAGx6TrgPF2A_usC7TI5caZ2-WjcdkmpxVWnaV0ZHwkkc-3JeeAzXd4rBtIcckyJpTe2WULuCVv4.fWw-pU6PDxJers3nN6eg1KwXhcPIuaX2eoGduCnTH7WaXIzyMy7SYCGkRQXyrTIAw85glW1XzhBx63O67-t8DQ)
 
@@ -1145,6 +1148,7 @@ Shows a trade connection or influence from Veracruz.
 
 ## Teotihuacán - Valley of Mexico, Mexico, MX (300 BCE - 535 CE)
 
+* [Manzanilla LR (2015) Cooperation and tensions in multiethnic corporate societies using Teotihuacan, Central Mexico, as a case study. PNAS. 112(30): 9210-9215.](https://doi.org/10.1073/pnas.1419881112)
 * [Teotihuacan](https://en.wikipedia.org/wiki/Teotihuacan)
 * [Teotihuacán](https://es.wikipedia.org/wiki/Teotihuac%C3%A1n)
   * `Hay varias hipótesis sobre la identidad étnica y lingüística de los fundadores de Teotihuacán.`
@@ -1156,7 +1160,7 @@ Shows a trade connection or influence from Veracruz.
 * [Pre-Hispanic City of Teotihuacan](https://whc.unesco.org/en/list/414/gallery/&maxrows=26)
 * [Infographic: Dig deeper into Teotihuacán](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-teotihuacan-site/3035/)
 * [Teotihuacán, the City of the Gods -- video](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-teotihuacan-city-gods/3019/)
-* [Archaeologists explore the tunnel below the Pyramid of the Feathered Serpent -- video](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-archaeologists-explore-tunnel-pyramid-feathered-serpent/3022/)
+* [Archaeologists explore the tunnel below the Pyramid of the Feathered Serpent -- video](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-archaeologists-explore-tunnel-pyramid-feathered-serpent/3022/) &mdash; This has physical manifestations which map to Lenca stories.
 * [Archeologist Sounds Bummed to Find No Royal Tomb at Teotihuacán This Year](https://pictorial.jezebel.com/archeologist-sounds-bummed-to-find-no-royal-tomb-at-teo-1794596857)
 * [Where did the ancient Teotihuacanos come from?](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-ancient-teotihuacanos-come/3025/)
 * [The History of the Native Peoples of the Americas/Mesoamerican Cultures/Teotihuacanos](https://en.wikibooks.org/wiki/The_History_of_the_Native_Peoples_of_the_Americas/Mesoamerican_Cultures/Teotihuacanos)
@@ -1265,7 +1269,7 @@ Separated from the Toltec people early on and migrated south through Veracruz. T
 
 * [Ilex Gauyusa](https://en.wikipedia.org/wiki/Ilex_guayusa)
 * [Amazonian Guayusa (Ilex guayusa Loes.): A Historical and Ethnobotanical Overview](https://www.researchgate.net/publication/295085067_Amazonian_Guayusa_Ilex_guayusa_Loes_A_Historical_and_Ethnobotanical_Overview)
-  * `Archaeological and historical records suggest that guayusa has been used and traded as a medicinal plant in the greater Andes–Amazon region since at least 500 C.E. Guayusa leaves dated to this time were found in a multi–family tomb in Niño Korin, Bautista Saavedra Province of Bolivia and were thought to belong to a Bmedicine man^ of the Kallawaya (Tiwanaku) society (Wassén 1972).`
+  * `Archaeological and historical records suggest that guayusa has been used and traded as a medicinal plant in the greater Andes–Amazon region since at least 500 C.E. Guayusa leaves dated to this time were found in a multi–family tomb in Niño Korin, Bautista Saavedra Province of Bolivia and were thought to belong to a medicine man of the Kallawaya (Tiwanaku) society (Wassén 1972).`
 
 ## Polynesians Bump Into America (500 CE - 700 CE)
 
@@ -1322,6 +1326,10 @@ And it wasn't the only time either:
 First inhabited in 1200BCE, but depopulated by 200BCE, it was later repopulated by 200CE. City founded by Toltecas.
 
 * [Toluca](https://es.wikipedia.org/wiki/Toluca_de_Lerdo)
+
+## Tiwanaku - Andes (600 CE - 1000 CE)
+
+* [Goldstein PS (2015) Multiethnicity, pluralism, and migration in the south central Andes: An alternate path to state expansion. PNAS. 112(30): 9202-9209.](https://doi.org/10.1073/pnas.1500487112)
 
 ## Teotenango - Toluca Valley, Mexico, MX - Otomi, Teotenancas, Matlazincas (650 CE - 1550 CE)
 
@@ -1545,6 +1553,10 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
   * [William M. Denevan. The Pristine Myth: The Landscape of the Americas in 1492. Notes for Indigenous Conservation Knowledge.](http://jan.ucc.nau.edu/~alcoze/for398/class/pristinemyth.html)
 
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
+
+  * [Lightfoot KG (2015) Dynamics of change in multiethnic societies: An archaeological perspective from colonial North America. PNAS. 112(30): 9216-9223.](https://doi.org/10.1073/pnas.1422190112)
+
+## North American Colonial
 
 * Lisa Brooks. Our Beloved Kin: A New History of King Phillip's War. Yale University Press. 2018.
 * Lisa Brooks. The Common Pot: The Recovery of Native Space in the Northeast. University of Minnesota Press. 2008.
