@@ -518,20 +518,6 @@ This is the oldest known anthropomorhic wooden sculpture.
 
 * [Cueva Fell, Wikipedia](https://en.wikipedia.org/wiki/Cueva_Fell)
 
-## Domestication of Potatoes (9000 BCE - 7000 BCE)
-
-Also see [Domestication of various foods 10000 BCE - 4000 BCE](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history#domestication-of-various-foods-10000-bce---4000-bce)
-
-* [History of the potato](https://en.wikipedia.org/wiki/History_of_the_potato)
-* [Utah home to earliest use of wild potato in North America](https://unews.utah.edu/utah-home-to-earliest-use-of-wild-potato-in-north-america/)
-* [How an ancient potato helped people survive climate shifts](https://www.hcn.org/issues/49.20/scientific-research-escalante-valley-how-an-ancient-potato-helped-indigenous-people-survive-climate-shifts)
-* [Prehistoric mashed potato dating back 10,900 years discovered in Utah](https://www.independent.co.uk/news/science/prehistoric-mashed-potato-10900-years-utah-valley-scientists-escalante-a7820586.html)
-* [Ancient potato that has survived in the wilds of southern Utah for nearly 11,000 years makes its dinner debut](https://www.sltrib.com/news/2018/10/06/ancient-potato-that-has/)
-* [Did potato cultivation begin in Utah's Escalante Valley 11,000 years ago?](http://archive.sltrib.com/article.php?id=5454302&itype=CMSID)
-* [America’s Earliest Traces of Potato Use Found at 10,900-Year-Old Utah Shelter](http://westerndigs.org/americas-earliest-use-of-potatoes-found-at-10900-year-old-shelter-in-utah/)
-* [How the Potato Changed the World](https://www.smithsonianmag.com/history/how-the-potato-changed-the-world-108470605/?fbclid=IwAR0lxd2QJrpQ6jF-M1csSmA3xzMGQ60gDlgqWMsLDehfc8l_D8lBeSOO5fI#DPfygyHbtbwl7PR0.01)
-* [How the Potato Changed the World's History](https://www.jstor.org/stable/40971302?seq=1#page_scan_tab_contents)
-
 ## Folsom Tradition (9000 BCE - 8000 BCE)
 
 ## Dalton Tradition (8500 BCE - 7900 BCE)
@@ -1563,38 +1549,74 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
 
-## Domestication of Various Foods (10000 BCE - 4000 BCE)
+## Domestication of Various Plants (10000 BCE - 4000 BCE)
 
 * [Dillehay TD et al. (2017) Simple technologies and diverse food strategies of the Late Pleistocene and Early Holocene at Huaca Prieta, Coastal Peru. Science Advances. 3(5): e1602778](https://advances.sciencemag.org/content/3/5/e1602778)
-* [Grobman A et al. (2012) Preceramic maize from Paredones and Huaca Prieta, Peru. PNAS. 109(5): 1755–1759.](https://dx.doi.org/10.1073%2Fpnas.1120270109)
-* [Piperno DR, Ranere AJ, Holst I, Iriarte J, Dickau R (2009) Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico. PNAS. 106(13): 5019-5024.](https://doi.org/10.1073/pnas.0812525106)
-* [Duncan NA, Pearsall DM, Benfer RA Jr. (2009) Gourd and squash artifacts yield starch grains of feasting foods from preceramic Peru. PNAS. 106(32): 13202-13206.](https://doi.org/10.1073/pnas.0903322106)
 * [Dickau R, Ranere AJ, Cooke RG (2007). Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama. Proceedings of the National Academy of Sciences of the United States of America, 104(9), 3651–3656. http://doi.org/10.1073/pnas.0611605104](http://doi.org/10.1073/pnas.0611605104)
-* [Ranere AJ, Piperno DR, Holst I, Dickau R, Iriarte J (2009) The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley, Mexico. PNAS. 106(13): 5014-5018.](https://doi.org/10.1073/pnas.0812590106)
-* [Matsuoka Y, Vigouroux Y, Goodman MM, Sanchez GJ, Buckler E, Doebley J (2002). A single domestication for maize shown by multilocus microsatellite genotyping. Proceedings of the National Academy of Sciences of the United States of America, 99(9), 6080–6084. http://doi.org/10.1073/pnas.052125199](http://doi.org/10.1073/pnas.052125199)
-* [Benz BF (2001) Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca. PNAS. 98(4): 2104-2106.](https://doi.org/10.1073/pnas.98.4.2104)
-* [A single domestication for maize shown by multilocus microsatellite genotyping](https://doi.org/10.1073/pnas.052125199)
-* [The earliest archaeological maize (Zea mays L.) from highland Mexico: New accelerator mass spectrometry dates and their implications](https://doi.org/10.1073/pnas.98.4.2101)
-* [Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andrés, Tabasco, Mexico](https://doi.org/10.1073/pnas.0701425104)
 * [Late Pleistocene and Holocene environmental history of the Iguala Valley, Central Balsas Watershed of Mexico](https://doi.org/10.1073/pnas.0703442104)
 * [Terminal Pleistocene/Early Holocene human adaptation in coastal Ecuador: the Las Vegas evidence](https://doi.org/10.1016/S1040-6182(02)00200-8)
 * [Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama](https://doi.org/10.1073/pnas.0611605104)
-* [Starch granule evidence for the earliest potato use in North America](https://doi.org/10.1073/pnas.1705540114)
-* [Investigation of the bottleneck leading to the domestication of maize](https://doi.org/10.1073/pnas.95.8.4441)
 * [Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru](http://science.sciencemag.org/content/316/5833/1890?ijkey=4362f3665dd49aebff7191e37064c12b197de9de&keytype2=tf_ipsecsha)
-* [Evidence for maize (Zea mays) in the Late Archaic (3000–1800 B.C.) in the Norte Chico region of Peru](https://doi.org/10.1073/pnas.1219425110)
 * [Origin and Environmental Setting of Ancient Agriculture in the Lowlands of Mesoamerica](http://science.sciencemag.org/content/292/5520/1370?ijkey=aeea2a48ef0a5b00ed8cb29f91294eaa2ec64c2b&keytype2=tf_ipsecsha)
-* [Molecular analysis of crosses between Tripsacum dactyloides and Zea diploperennis (Poaceae)](https://link.springer.com/article/10.1007/s001220050469)
-* [Isoenzymatic Variation in Zea (Gramineae)](https://teosinte.wisc.edu/pdfs/Syst_Bot_1984.pdf)
-* [Comparative Analysis of the Río Balsas and Tehuacán Models for the Origin of Maize](https://www.jstor.org/stable/1571668)
 * [A Re-Evaluation of the Isotopic and Archaeological Reconstructions of Diet in the Tehuacan Valley](https://www.jstor.org/stable/280636)
-* [The Mysterious Origin of Maize](https://www.jstor.org/stable/425648)
-* [An Interdisciplinary Perspective on the Origin of Maize](https://www.jstor.org/stable/971761)
-* [Studies in Archaeological Maize I: The "Wild" Maize from San Marcos Cave Reexamined](https://www.jstor.org/stable/281280)
-* [Prehistoric Decline in Freshwater Mussels Coincident with the Advent of Maize Agriculture](https://www.srs.fs.usda.gov/pubs/ja/ja_peacock001.pdf)
 * [The Origins of Plant Cultivation and Domestication in the New World Tropics](https://www.journals.uchicago.edu/doi/10.1086/659998)
-* [Marginal horticulturalists or maize agriculturalists? Archaeobotanical, paleopathological, and isotopic evidence relating to Langford Tradition maize consumption](https://www.academia.edu/1332730/Marginal_horticulturalists_or_maize_agriculturalists_Archaeobotanical_paleopathological_and_isotopic_evidence_relating_to_Langford_Tradition_maize_consumption)
-* [A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping](https://doi.org/10.1073/pnas.0507400102)
+* **Tobacco**
+  * Also see [Section on Nicotiana Sections, Species, and Locations](./nicotiana.md)
+  * [Tushinham S, et al. (2018) Biomolecular archaeology reveals ancient origins of indigenous tobacco smoking in North American Plateau. PNAS. 115(46): 11742-11747.](https://doi.org/10.1073/pnas.1813796115)
+  * [Wikipedia contributors. (2019, April 30). List of Nicotiana species. In Wikipedia, The Free Encyclopedia. Retrieved 01:49, October 8, 2019](https://en.wikipedia.org/w/index.php?title=List_of_Nicotiana_species&oldid=894903602)
+  * [Coyote Tobacco. Native Plants. Natural History Museum of Utah.](https://nhmu.utah.edu/native-plants/plant/Coyote%20Tobacco)
+  * [Quick D (2015) "Magic" native Australian tobacco plant could be key to space-based food production. New Atlas. November 6.](https://newatlas.com/australian-tobacco-plant-gene-space-crops/40253/) &mdash; Nicotiana benthamiana, called pitjuri to Aboriginal tribes.
+  * [Wikipedia contributors. (2019, August 27). Nicotiana benthamiana. In Wikipedia, The Free Encyclopedia. Retrieved 02:46, October 8, 2019.](https://en.wikipedia.org/w/index.php?title=Nicotiana_benthamiana&oldid=912720804) &mdash; `Indigenous names for it include tjuntiwari and muntju.`
+  * [Marlin D, Nicolson SW, Yusuf AA, Stevenson PC, Heyman HM, Krüger K (2014) The Only African Wild Tobacco, Nicotiana africana: Alkaloid Content and the Effect of Herbivory. PLoS ONE 9(7): e102661.](https://doi.org/10.1371/journal.pone.0102661)
+    * `The genus Nicotiana contains 86 recognized species [32], [33], [34], with approximately 75% occurring naturally in the Americas and 25% in Australia. It is likely that the genus evolved east of the Andes in southern South America and dispersed from there to south-western North America, Australia and Africa [35]. The only Nicotiana species indigenous to Africa is N. africana. This species is endemic to Namibia where it is known from three isolated populations confined to the Brandberg, Erongo and Spitzkoppe mountains in the north of the country.`
+  * [Carkson JJ et al. (2004) Phylogenetic relationships in Nicotiana (Solanaceae) inferred from multiple plastid DNA regions. Molecular Phylogenetics and Evolution. 33(1): 75-90.](https://doi.org/10.1016/j.ympev.2004.05.002) &mdash; [PDF](https://www.researchgate.net/publication/8386963_Phylogenetic_relationships_in_Nicotiana_Solanaceae_inferred_from_multiple_plastid_DNA_regions)
+  * [Leitch IJ et al. (2008) The Ups and Downs of Genome Size Evolution in Polyploid Species of Nicotiana (Solanaceae). Annals of Botany. 101(6): 805-814.](https://doi.org/10.1093/aob/mcm326)
+    * N. Tabacum, N. arentsii, and N. Rustica are the youngest in the tobacco family all being less than 200000 yrs old.
+    * N. Tabacum was generated from a parent in the section Sylvestres and the section Tomentosae.
+    * N. Arentsii was generated from a N. undulata and N/ wigandioides parent.
+    * N. Rusticum was generated from a parent in the section Undulatae and the section Paniculatae.
+    * N. Clevelandii and N. quadrivalvis are approximately 1000000 years old. Both derive from an unkown parent in section Petunioides and a parent in section Trigonophyllae.
+    * Section Suaveolentes (Australian and African) came about from a parent in section Sylvestres and an unknown parent. It is greater than 10 million years old.
+  * [Tezuka T, Kuboyama T, Matsuda T, Marubashi W (2010) Seven of eight species in Nicotiana section Suaveolentes have common factors leading to hybrid lethality in crosses with Nicotiana tabacum. Annals of Botany. 106(2): 267-276.](https://dx.doi.org/10.1093%2Faob%2Fmcq114) &mdash; `Exceptionally, only one wild species, N. fragrans, produced 100 % viable hybrids after crossing with N. tabacum, suggesting that N. fragrans has no factor triggering hybrid lethality.`
+  * [Ladiges PY, Marks CE, Nelson G (2011) Biogeography of Nicotiana section Suaveolentes (Solanaceae) reveals geographical tracks in arid Australia. Journal of Biogeography. 38(11): 2066-2077.](https://doi.org/10.1111/j.1365-2699.2011.02554.x)
+  * [Marks CE, Newbigin E, Ladiges PY (2011) Comparative morphology and phylogeny of Nicotiana section Suaveolentes (Solanaceae) in Australia and the South Pacific. Australian Systematic Botany 24(2): 61-86.](https://doi.org/10.1071/SB11006) &mdash; This has a great bit of information on the location of various species and how the various species likely spread.
+    * `There was some conflict between the morphological and molecular datasets; however, overall there was a level of concordance that identified a phylogenetic sequence of taxa that reflected a reduction in the chromosome number. With N. africana as the functional outgroup, analyses showed N. fragrans (New Caledonia and Tongatapu) and N. fatuhivensis (Marquesas islands, formerly N.  fragrans var. fatuhivensis) to be a basal lineage in the Australian and South Pacific clade of Suaveolentes. N. forsteri(eastern mainland Australia, Lord Howe Island and New Caledonia) is the sister taxon to all other Australian species of Suaveolentes, which form a well supported monophyletic group.`
+  * [Kelly LJ et al. (2012) Reconstructing the complex evolutionary origin of wild allopolyploid tobaccos (Nicotiana section suaveolentes). Evolution. 67(1): 80-94.](https://doi.org/10.1111/j.1558-5646.2012.01748.x) &mdash; Has a great bit of research on diploid networks which could explain the origin of the Suaveolentes section of Nicotiana.
+  * [Tiedge K, Lohaus G (2017) Nectar sugars and amino acids in day- and night-flowering Nicotiana species are more strongly shaped by pollinators’ preferences than organic acids and inorganic ions. PLoS ONE 12(5): e0176865.](https://doi.org/10.1371/journal.pone.0176865) &mdash; Has pictures of various species flowers. Also has an interesting premise.
+  * [McCarthy EW et al. (2019) Early consequences of allopolyploidy alter floral evolution in Nicotiana (Solanaceae). BMC Plant Biology. 19: 162.](https://dx.doi.org/10.1186%2Fs12870-019-1771-5) &mdash; Has pictures of various species flowers along with phylogenetic trees.
+* **Maize**
+  * [Matsuoka Y, Vigouroux Y, Goodman MM, Sanchez GJ, Buckler E, Doebley J (2002). A single domestication for maize shown by multilocus microsatellite genotyping. Proceedings of the National Academy of Sciences of the United States of America, 99(9), 6080–6084. http://doi.org/10.1073/pnas.052125199](http://doi.org/10.1073/pnas.052125199)
+  * [Benz BF (2001) Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca. PNAS. 98(4): 2104-2106.](https://doi.org/10.1073/pnas.98.4.2104)
+  * [A single domestication for maize shown by multilocus microsatellite genotyping](https://doi.org/10.1073/pnas.052125199)
+  * [The earliest archaeological maize (Zea mays L.) from highland Mexico: New accelerator mass spectrometry dates and their implications](https://doi.org/10.1073/pnas.98.4.2101)
+  * [Investigation of the bottleneck leading to the domestication of maize](https://doi.org/10.1073/pnas.95.8.4441)
+  * [Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andrés, Tabasco, Mexico](https://doi.org/10.1073/pnas.0701425104)
+  * [Evidence for maize (Zea mays) in the Late Archaic (3000–1800 B.C.) in the Norte Chico region of Peru](https://doi.org/10.1073/pnas.1219425110)
+  * [Molecular analysis of crosses between Tripsacum dactyloides and Zea diploperennis (Poaceae)](https://link.springer.com/article/10.1007/s001220050469)
+  * [Isoenzymatic Variation in Zea (Gramineae)](https://teosinte.wisc.edu/pdfs/Syst_Bot_1984.pdf)
+  * [Comparative Analysis of the Río Balsas and Tehuacán Models for the Origin of Maize](https://www.jstor.org/stable/1571668)
+  * [Grobman A et al. (2012) Preceramic maize from Paredones and Huaca Prieta, Peru. PNAS. 109(5): 1755–1759.](https://dx.doi.org/10.1073%2Fpnas.1120270109)
+  * [The Mysterious Origin of Maize](https://www.jstor.org/stable/425648)
+  * [An Interdisciplinary Perspective on the Origin of Maize](https://www.jstor.org/stable/971761)
+  * [Studies in Archaeological Maize I: The "Wild" Maize from San Marcos Cave Reexamined](https://www.jstor.org/stable/281280)
+  * [Prehistoric Decline in Freshwater Mussels Coincident with the Advent of Maize Agriculture](https://www.srs.fs.usda.gov/pubs/ja/ja_peacock001.pdf)
+  * [Marginal horticulturalists or maize agriculturalists? Archaeobotanical, paleopathological, and isotopic evidence relating to Langford Tradition maize consumption](https://www.academia.edu/1332730/Marginal_horticulturalists_or_maize_agriculturalists_Archaeobotanical_paleopathological_and_isotopic_evidence_relating_to_Langford_Tradition_maize_consumption)
+  * [Piperno DR, Ranere AJ, Holst I, Iriarte J, Dickau R (2009) Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico. PNAS. 106(13): 5019-5024.](https://doi.org/10.1073/pnas.0812525106)
+* **Squash/Gourd**
+  * [Duncan NA, Pearsall DM, Benfer RA Jr. (2009) Gourd and squash artifacts yield starch grains of feasting foods from preceramic Peru. PNAS. 106(32): 13202-13206.](https://doi.org/10.1073/pnas.0903322106)
+  * [Ranere AJ, Piperno DR, Holst I, Dickau R, Iriarte J (2009) The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley, Mexico. PNAS. 106(13): 5014-5018.](https://doi.org/10.1073/pnas.0812590106)
+* **Potatoes (9000 BCE - 7000 BCE)**
+  * [History of the potato](https://en.wikipedia.org/wiki/History_of_the_potato)
+  * [Utah home to earliest use of wild potato in North America](https://unews.utah.edu/utah-home-to-earliest-use-of-wild-potato-in-north-america/)
+  * [How an ancient potato helped people survive climate shifts](https://www.hcn.org/issues/49.20/scientific-research-escalante-valley-how-an-ancient-potato-helped-indigenous-people-survive-climate-shifts)
+  * [Prehistoric mashed potato dating back 10,900 years discovered in Utah](https://www.independent.co.uk/news/science/prehistoric-mashed-potato-10900-years-utah-valley-scientists-escalante-a7820586.html)
+  * [Ancient potato that has survived in the wilds of southern Utah for nearly 11,000 years makes its dinner debut](https://www.sltrib.com/news/2018/10/06/ancient-potato-that-has/)
+  * [Did potato cultivation begin in Utah's Escalante Valley 11,000 years ago?](http://archive.sltrib.com/article.php?id=5454302&itype=CMSID)
+  * [America’s Earliest Traces of Potato Use Found at 10,900-Year-Old Utah Shelter](http://westerndigs.org/americas-earliest-use-of-potatoes-found-at-10900-year-old-shelter-in-utah/)
+  * [How the Potato Changed the World](https://www.smithsonianmag.com/history/how-the-potato-changed-the-world-108470605/?fbclid=IwAR0lxd2QJrpQ6jF-M1csSmA3xzMGQ60gDlgqWMsLDehfc8l_D8lBeSOO5fI#DPfygyHbtbwl7PR0.01)
+  * [How the Potato Changed the World's History](https://www.jstor.org/stable/40971302?seq=1#page_scan_tab_contents)
+  * [Louderback LA, Pavlik BM (2017) Starch granule evidence for the earliest potato use in North America. PNAS. 114(29): 7606-7610.](https://doi.org/10.1073/pnas.1705540114)
+  * [A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping](https://doi.org/10.1073/pnas.0507400102)
 * **Across the pond**
   * [Liu L et al. (2019) The origins of specialized pottery and diverse alcohol fermentation techniques in Early Neolithic China. PNAS. 116(26): 12767-12774.](https://doi.org/10.1073/pnas.1902668116) &mdash; Shows interesting ties to brews, pottery, and possibly yam.
   * [Dietrich L, Meister J, Dietrich O, Notroff J, Kiep J, Heeb J, et al. (2019) Cereal processing at Early Neolithic Göbekli Tepe, southeastern Turkey. PLoS ONE 14(5): e0215214.](https://doi.org/10.1371/journal.pone.0215214)
