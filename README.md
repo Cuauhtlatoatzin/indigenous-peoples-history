@@ -86,7 +86,7 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 * [Goebel T, Waters MR, O'Rourke DH (2008) The Late Pleistocene Dispersal of Modern Humans in the Americas. Science. 319(5869): 1497-1502.](https://science.sciencemag.org/content/319/5869/1497)
 * [Heintzman PD (2016) Bison phylogeography constrains dispersal and viability of the Ice Free Corridor in western Canada. PNAS. 113(29): 8057-8063.](https://www.pnas.org/content/113/29/8057)
 
-## Glaciers, Corridors, Ocean Levels, Erosion, and Climate Change**
+## Glaciers, Corridors, Ocean Levels, Erosion, and Climate Change
   * [Kleinen T, Milolajewicz U, Brovkin V (2019) Terrestrial methane emissions from Last Glacial Maximum to preindustrial. Clim. Past Discuss. https://doi.org/10.5194/cp-2019-109, in review](https://doi.org/10.5194/cp-2019-109)
   * [Morée A, Schwinger J (2019) A Last Glacial Maximum forcing dataset for ocean modelling. Earth Syst. Sci. Data Discuss. https://doi.org/10.5194/essd-2019-79, in review](https://doi.org/10.5194/essd-2019-79)
   * [Cornelius, S. (2018). Volume Fractions of Lithologic units deposited per geologic epoch in the Cenozoic, Keathley Canyon and Walker Ridge, Deepwater Gulf of Mexico: Part 1--Sand, Shale, and Siltstone. GCAGS Journal.](https://www.academia.edu/38053365/Volume_Fractions_of_Lithologic_units_deposited_per_geologic_epoch_in_the_Cenozoic_Keathley_Canyon_and_Walker_Ridge_Deepwater_Gulf_of_Mexico_Part_1--Sand_Shale_and_Siltstone)
@@ -105,16 +105,16 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * [Miller KG et al. (2005) The Phanerozoic Record of Global Sea-Level Change. Science. 310(5752): 1293-1298](https://science.sciencemag.org/content/310/5752/1293.long)
   * [Kominz MA (2001) "Sea Level Variations Over Geologic Time." Encyclopedia of Ocean Sciences. Academic Press. 2605-2613.](http://dx.doi.org/10.1006/rwos.2001.0255) &mdash; [PDF](http://www.curry.eas.gatech.edu/Courses/6140/ency/Chapter10/Ency_Oceans/Sea_Level_Variations.pdf)
 
-## Radiative Imbalance**
+## Radiative Imbalance
   * [Baggenstos D et al. (2019) Earth’s radiative imbalance from the Last Glacial Maximum to the present. PNAS. 116(30) 14881-14886.](https://doi.org/10.1073/pnas.1905447116)
 
-## Extraterrestial Impacts**
+## Extraterrestial Impacts
   * [Hergerten S, Kenkmann T (2015) The number of impact craters on Earth: Any room for further discoveries? Earth and Planetary Science Letters. 425: 187-192](https://doi.org/10.1016/j.epsl.2015.06.009)
 
-## Historical Thought**
+## Historical Thought
   * [Fladmark KR (1979) Routes: Alternate Migration Corridors for Early Man in North America. American Antiquity. 44(1): 55-69.](https://doi.org/10.2307/279189) &mdash; [JSTOR](https://www.jstor.org/stable/279189?read-now=1&refreqid=excelsior%3Abcbb65353a76778de6decc3781de16e0&seq=8#page_scan_tab_contents)
 
-## Population Growth**
+## Population Growth
   * [Bowels S, Choi J-K (2019) The Neolithic Agricultural Revolution and the Origins of Private Property. Journal of Political Economy. 127(5): 2186-2228.](https://doi.org/10.1086/701789)
   * [Zahid HJ, Ronbinson E, Kelly RL (2016) Agriculture, population growth, and statistical analysis of the radiocarbon record. PNAS. 113(4): 931-935.](https://doi.org/10.1073/pnas.1517650112)
   * [Bettinger RL (2016) Prehistoric hunter–gatherer population growth rates rival those of agriculturalists. PNAS. 113(4): 812-814.](https://doi.org/10.1073/pnas.1523806113)
