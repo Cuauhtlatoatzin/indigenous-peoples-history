@@ -89,10 +89,13 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 ## Glaciers, Corridors, Ocean Levels, Erosion, and Climate Change
   * [Kleinen T, Milolajewicz U, Brovkin V (2019) Terrestrial methane emissions from Last Glacial Maximum to preindustrial. Clim. Past Discuss. https://doi.org/10.5194/cp-2019-109, in review](https://doi.org/10.5194/cp-2019-109)
   * [Morée A, Schwinger J (2019) A Last Glacial Maximum forcing dataset for ocean modelling. Earth Syst. Sci. Data Discuss. https://doi.org/10.5194/essd-2019-79, in review](https://doi.org/10.5194/essd-2019-79)
+  * [Willeit M, Ganapolsky A, Calov R, Brovkin V (2019) Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal. Science Advances. 5(4): eaav7337. DOI: 10.1126/sciadv.aav7337](https://advances.sciencemag.org/content/5/4/eaav7337)
+  * [Ganopolski A, Brovkin V (2017) Simulation of climate, ice sheets and CO2 evolution during the last four glacial cycles with an Earth system model of intermediate complexity. Climate of the Past. 13: 1695–1716.](https://doi.org/10.5194/cp-13-1695-2017)
   * [Cornelius, S. (2018). Volume Fractions of Lithologic units deposited per geologic epoch in the Cenozoic, Keathley Canyon and Walker Ridge, Deepwater Gulf of Mexico: Part 1--Sand, Shale, and Siltstone. GCAGS Journal.](https://www.academia.edu/38053365/Volume_Fractions_of_Lithologic_units_deposited_per_geologic_epoch_in_the_Cenozoic_Keathley_Canyon_and_Walker_Ridge_Deepwater_Gulf_of_Mexico_Part_1--Sand_Shale_and_Siltstone)
   * [Fildani A, Hessler AM, Mason CC, McKay MP, Stockli DF (2018) Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. (8) 13839.](https://doi.org/10.1038/s41598-018-32268-7)
   * [Menounos B, Goehring BM, Osborn G, Margold M, Ward B, Bond J, Clarke GKC, Clague JJ, Lakeman T, Koch J, Caffee MW, Gosse J, Stroeven AP, Seguinot J, Heyman J (2017) Cordilleran Ice Sheet mass loss preceded climate reversals near the Pleistocene Termination. Science. 358(6364): 781-784.](https://doi.org/10.1126/science.aan3001)
   * [Platt DE, Haber M, Dagher-Kharrat MB, Douaihy B, Khazen G, Bonab MA, Salloum A, Mouzaya F, Luiselli D, Tyler-Smith C, Renfrew C, Matisoo-Smith E, Zalloua PA (2017) Mapping Post-Glacial expansions: The Peopling of Southwest Asia. Scientific Reports. 7.](https://www.nature.com/articles/srep40338)
+  * [Ganopolski A, Winkelmann R, Schellnhuber HJ. (2016) Critical insolation–CO2 relation for diagnosing past and future glacial inception. Nature. 529: 200-203.](https://www.nature.com/articles/nature16494)
   * [Lambeck K, Rouby H, Purcell A, Sun Y, Sambridge M (2014) Sea level and global ice volumes from the Last Glacial Maximum to the Holocene. PNAS. 111(43): 15296-15303.](https://doi.org/10.1073/pnas.1411762111)
   * [Swisher ME, Jenkins DL, Jackson Jr. LE, Phillips FM (2013) A Reassessment of the Role of the Canadian Ice-free Corridor in Light of New Geological Evidence. Current Archaeological Happenings in Oregon. 38(4): 9-14.](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence)
   * [Murphy JB, Nance RD (2013) Speculations on the mechanisms for the formation and breakup of supercontinents. Geoscience Frontiers. 4(2): 185-194.](https://doi.org/10.1016/j.gsf.2012.07.005)
@@ -115,10 +118,22 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * [Fladmark KR (1979) Routes: Alternate Migration Corridors for Early Man in North America. American Antiquity. 44(1): 55-69.](https://doi.org/10.2307/279189) &mdash; [JSTOR](https://www.jstor.org/stable/279189?read-now=1&refreqid=excelsior%3Abcbb65353a76778de6decc3781de16e0&seq=8#page_scan_tab_contents)
 
 ## Population Growth
+
+* Size of settlements:
+  * [Beach T et al. (2019) Ancient Maya wetland fields revealed under tropical forest canopy from laser scanning and multiproxy evidence. PNAS. In press.](https://doi.org/10.1073/pnas.1910553116)
+  * [Fisher CT et al. (2019) A Typology of Ancient Purépecha (Tarascan) Architecture from Angamuco, Michoacán, Mexico. Latin American Antiquity. 30(3): 510-528.](https://doi.org/10.1017/laq.2019.50)
+  * [Beach T et al. (2019) Ancient lowland Maya complexity as revealed by airborne laser scanning of northern Guatemala](http://science.sciencemag.org/content/361/6409/eaau0137)
+  * [de Souza JG et al. (2018) Pre-Columbian earth-builders settled along the entire southern rim of the Amazon. Nature Communications. 9: 1125.](https://www.nature.com/articles/s41467-018-03510-7)
+  * [Inomata T, Triadan D, Pinzón F, Burham M, Ranchos JL, Aoyama K, et al. (2018) Archaeological application of airborne LiDAR to examine social changes in the Ceibal region of the Maya lowlands. PLoS ONE 13(2): e0191619.](https://doi.org/10.1371/journal.pone.0191619)
+  * [Dylan S. Davis, Matthew C. Sanger & Carl P. Lipo (2018) Automated mound detection using lidar and object-based image analysis in Beaufort County, South Carolina, Southeastern Archaeology, DOI: 10.1080/0734578X.2018.1482186](https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1002&context=anthro_data)
+  * [Fisher CT, Cohen AS, Fernández-Diaz JC, Leisz SJ (2017) The application of airborne mapping LiDAR for the documentation of ancient cities and regions in tropical regions. Quaternary International. 448: 129-138.](https://doi.org/10.1016/j.quaint.2016.08.050)
+  * [Fisher CT, Fernández-Diaz JC, Cohen AS, Neil Cruz O, Gonzáles AM, Leisz SJ, et al. (2016) Identifying Ancient Settlement Patterns through LiDAR in the Mosquitia Region of Honduras. PLoS ONE 11(8): e0159890.](https://doi.org/10.1371/journal.pone.0159890)
+* Farming vs. hunting/gathering
   * [Bowels S, Choi J-K (2019) The Neolithic Agricultural Revolution and the Origins of Private Property. Journal of Political Economy. 127(5): 2186-2228.](https://doi.org/10.1086/701789)
   * [Zahid HJ, Ronbinson E, Kelly RL (2016) Agriculture, population growth, and statistical analysis of the radiocarbon record. PNAS. 113(4): 931-935.](https://doi.org/10.1073/pnas.1517650112)
   * [Bettinger RL (2016) Prehistoric hunter–gatherer population growth rates rival those of agriculturalists. PNAS. 113(4): 812-814.](https://doi.org/10.1073/pnas.1523806113)
   * [Bowels S, Choi J-K (2013) Coevolution of farming and private property during the early Holocene. PNAS. 110(22): 8830-8835.](https://doi.org/10.1073/pnas.1212149110)
+    * [Early presentation paper](http://aslea.org/program2016/4A_Choi.pdf)
   * [Gross M (2013) The paradoxical evolution of agriculture. Current Biology. 23(16): PR667-R670.](https://doi.org/10.1016/j.cub.2013.08.001)
   * [Bowles S (2011) Cultivation of cereals by the first farmers was not more productive than foraging. PNAS. 108(12): 4760-4765.](https://doi.org/10.1073/pnas.1010733108)
   * [Gignoux CR, Henn BM, Mountain JL (2011) Rapid, global demographic expansions after the origins of agriculture. PNAS. 108(15): 6044-6049.](https://doi.org/10.1073/pnas.0914274108) &mdash; for comparison with the other hemisphere.
@@ -945,6 +960,11 @@ See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
 See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
+## Beginning of War in the Americas? (1310 BCE - 1210 BCE)
+
+* [Spencer CS (2003) War and early state formation in Oaxaca, Mexico. PNAS. 100(20): 1185-11187.](https://doi.org/10.1073/pnas.2034992100)
+* [Flannery KV, Marcus J (2003) The origin of war: New 14C dates from ancient Mexico. PNAS. 100(20): 11801-11805.](https://doi.org/10.1073/pnas.1934526100)
+
 ## Kuntur Wasi (1200 BCE - 50 BCE)
 
 * [Kuntur Wasi (Condor House)](https://en.wikipedia.org/wiki/Kuntur_Wasi)
@@ -1023,6 +1043,10 @@ Conduit of many cultures.
 
 ## Formative (1000 BCE - 500 BCE)
 
+## Ceiba, Guatemala - Maya (1000 BCE - 950 CE)
+
+* [Inomata T, Triadan D, Pinzón F, Burham M, Ranchos JL, Aoyama K, et al. (2018) Archaeological application of airborne LiDAR to examine social changes in the Ceibal region of the Maya lowlands. PLoS ONE 13(2): e0191619.](https://doi.org/10.1371/journal.pone.0191619)
+
 ## Olmec Style Cave paintings assumed to be from 900 BCE
 
 * [Wikipedia contributors. (2019, May 8). Oxtotitlán. In Wikipedia, The Free Encyclopedia. Retrieved 08:01, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=Oxtotitl%C3%A1n&oldid=896083193)
@@ -1095,9 +1119,14 @@ Also occupied by a few other cultures:
 
 * [Lambityeco](https://en.wikipedia.org/wiki/Lambityeco)
 
+## Writing Invented in La Venta, Tabasco, Mexico - Olmec (~650 BCE)
+
+* [Pohl MED, Pope KO, von Nagy C (2002) Olmec Origins of Mesoamerican Writing. Science. 298(5600): 1984-1987.](https://science.sciencemag.org/content/298/5600/1984?ijkey=9a2dad3894a554d966719ae422d9e0e719a36d0b&keytype2=tf_ipsecsha)
+
 ## El Mirador - Mirador Basin, Petén, Guatamala - Maya (600 BCE - 900 CE)
 
 * [El Mirador](https://en.wikipedia.org/wiki/El_Mirador)
+* [Hansen, R. D. (1991). An Early Maya Text from El Mirador, Guatemala. Research Reports on Ancient Maya Writing, (37), 19-32.](http://www.mesoweb.com/bearc/cmr/RRAMW37.pdf)
 
 ## Cerro de las Mesas - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (600 BCE - 900 CE)
 
@@ -1200,7 +1229,14 @@ Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixt
 
 ### Copena (1 CE - 500 CE)
 
-## Moche Culture - Moche Valley, Peru (100 CE - 750AD)
+## San Bartolo, Guatemala - Maya, Epi-Olmec? (~300 BCE - ~100 BCE)
+
+* [Saturno WA, Stuart D, Beltrán B (2006) Early Maya Writing at San Bartolo, Guatemala. Science. 311(5765): 1281-1283.](https://science.sciencemag.org/content/311/5765/1281)
+* Urquizú M, Hurst H (2003)  Las  pinturas  murales  de  San  Bartolo:  Una  ventana  al  arte  y  cosmovisión  del  hombre  prehispánico.  In  XVI  Simposio  de  Investigaciones Arqueológicas en Guatemala, 2002, edited by Juan Pedro Laporte, Bárbara Arroyo, Héctor L. Escobedo, Héctor E. Mejía, v. 1, pp. 325-334. Guatemala: Ministerio de Cultura y Deportes; Instituto de Antropología e Historia; Asociación Tikal. &mdash; [English](http://www.mesoweb.com/pari/publications/journal/1202/Urquizu-Hurst-2011.pdf)
+* [Saturno WA, Urquizú M (2008) Proyecto Arqueológico Reg. San Bartolo, Informe No. 7. Instituto de Antropología e Historia. Guatemala.](http://www.mesoweb.com/resources/informes/SanBartolo-Xultun_2008.pdf)
+* https://www.world-archaeology.com/issues/issue-47/early-maya-sistine-chapel/
+
+## Moche Culture - Moche Valley, Peru (100 CE - 750 CE)
 
 * [Moche Culture](https://en.wikipedia.org/wiki/Moche_culture) - Predecessor of the Chimú culture.
 * [Odd Pyramid Had Rooftop Homes, Ritual Sacrifices?](https://news.nationalgeographic.com/news/2010/10/101021-moche-pyramid-peru-science-sacrifice-archaeology-ancient/) (500 CE - 800 CE)
@@ -1375,6 +1411,10 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 
 ## Mesoamerican Terminal Classic (800 CE - 900/1000 CE)
 
+# Xultun, Guatemala (814 CE)
+
+* [Saturno WA, Stuart D, Aveni AF, Rossi F (2012) Ancient Maya Astronomical Tables from Xultun, Guatemala. Nature. 336(6082): 714-717.](https://science.sciencemag.org/content/336/6082/714.full)
+
 ## Tollan-Xicocotitlan (Tula) - Tula de Allende, Hildago, MX - Toltec, Otomi (800 CE - 1350 CE)
 
 * [Tollan-Xicocotitlan](https://es.wikipedia.org/wiki/Tollan-Xicocotitlan)
@@ -1475,6 +1515,10 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 * [Tlaxcala (Nahua state)](https://en.wikipedia.org/wiki/Tlaxcala_(Nahua_state))
 * [Tlaxcala - History](https://en.wikipedia.org/wiki/Tlaxcala#History)
 * [Wade, Lizzie. The Lost History Of Tlaxcallan. American Archeology Magazine. 6 Dec. 2017.](https://www.archaeologicalconservancy.org/lost-history-tlaxcallan/)
+
+## Southern Rim of the Amazon (~1250 CE - ~1500 CE)
+
+* [de Souza JG et al. (2018) Pre-Columbian earth-builders settled along the entire southern rim of the Amazon. Nature Communications. 9: 1125.](https://www.nature.com/articles/s41467-018-03510-7)
 
 ## Blood Run - South Dakota/Iowa, USA (1300 CE - 1700 CE)
 
@@ -1660,7 +1704,6 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 
 * http://artdaily.com/news/58025/Archaeologists--anthropologists-and-other-experts-meet--Mayas-prophesized--but-not-end-of-world-
 * http://artdaily.com/news/55294/Archaeologists-find-ancient-Mayan-workshop-for-astronomers-in-northeastern-Guatemala
-* http://artdaily.com/news/306/Ancient-Mayan-Mural-Found-In-Guatemala
 * http://artdaily.com/news/60129/In-new-study--Mexican-researchers-extract-intact-DNA-from-Palenque-s-Red-Queen
 * http://artdaily.com/news/80741/Archaeologists-report-Kukulkan-Pyramid-at-Chichen-Itza-built-over-an-underground-river
 * http://artdaily.com/news/35667/1000-Year-Old-Monument-with-Image-of-Mayan-Ruler-Found
@@ -1699,12 +1742,10 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 * [Jopling, Carol F. “The Coppers of the Northwest Coast Indians: Their Origin, Development, and Possible Antecedents.” Transactions of the American Philosophical Society, vol. 79, no. 1, 1989, pp. i-164. JSTOR.](www.jstor.org/stable/1006488)
 * [Confederación chalca](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_chalca)
 * [Core/Biface Ratios, Mobility, Refitting, and Artifact Use-Lives: A Paleoindian Example](https://www.researchgate.net/publication/260468488_CoreBiface_Ratios_Mobility_Refitting_and_Artifact_Use-Lives_A_Paleoindian_Example)
-* [Dylan S. Davis, Matthew C. Sanger & Carl P. Lipo (2018) Automated mound detection using lidar and object-based image analysis in Beaufort County, South Carolina, Southeastern Archaeology, DOI: 10.1080/0734578X.2018.1482186](https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1002&context=anthro_data)
 * [A new technique makes it possible to extract the DNA from hominids preserved in sediments](https://www.heritagedaily.com/2017/05/a-new-technique-makes-it-possible-to-extract-the-dna-from-hominids-preserved-in-sediments/114683)
 * [Parts of the Amazon thought uninhabited were actually home to up to a million people](https://www.heritagedaily.com/2018/03/parts-of-the-amazon-thought-uninhabited-were-actually-home-to-up-to-a-million-peopl/118681)
 * [New Nasca lines found in Peru](https://www.heritagedaily.com/2018/04/new-nasca-lines-found-in-peru/118794)
 * [Sugiyama N, Fash WL, France CAM (2018) Jaguar and puma captivity and trade among the Maya: Stable isotope data from Copan, Honduras. PLoS ONE 13(9): e0202958. https://doi.org/10.1371/journal.pone.0202958](https://doi.org/10.1371/journal.pone.0202958)
-* [Ancient lowland Maya complexity as revealed by airborne laser scanning of northern Guatemala](http://science.sciencemag.org/content/361/6409/eaau0137)
 * [Salt: Mover and shaker in ancient Maya society](https://www.heritagedaily.com/2018/10/salt-mover-and-shaker-in-ancient-maya-society/121840)
 * [Venezuelan rock art mapped in unprecedented detail](https://www.heritagedaily.com/2017/12/venezuelan-rock-art-mapped-unprecedented-detail/117741)
 * [Archaeologist says fire, not corn, key to prehistoric survival in arid Southwest](https://www.heritagedaily.com/2017/12/archaeologist-says-fire-not-corn-key-prehistoric-survival-arid-southwest/117660)
