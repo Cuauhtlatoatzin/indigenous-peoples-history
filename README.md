@@ -924,6 +924,12 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
   Split from the Maya. Very few ethnic Huastecs, most are in North Veracruz and San Luis Potosi.
 
+## Angamuco, Pátzcuaro Basin, Michoacán, Mexico (1325 ± 375 BCE - 1650 CE) - Purepecha
+
+* [Fisher CT et al. (2003) A reexamination of human-induced environmental change within the Lake Pátzcuaro Basin, Michoacán, Mexico. PNAS. 100(8): 4957-4962.](https://doi.org/10.1073/pnas.0630493100)
+* [Fisher CT et al. (2016) The application of airborne mapping LiDAR for the documentation ofancient cities and regions in tropical regions. Quarternary International. In press.](https://www.researchgate.net/profile/Christopher_Fisher10/publication/312345620_The_application_of_airborne_mapping_LiDAR_for_the_documentation_of_ancient_cities_and_regions_in_tropical_regions/links/5be997c5a6fdcc3a8dd1b069/The-application-of-airborne-mapping-LiDAR-for-the-documentation-of-ancient-cities-and-regions-in-tropical-regions.pdf)
+* [Cohen AS, Galaty ML, Fisher CT (2018) Petrographic analysis of ceramics and clay from Angamuco, Michoacán. Journal of Archaeological Science: Reports. 19: 155-165.](https://doi.org/10.1016/j.jasrep.2018.02.035)
+
 ## Ten Thousand Islands - Everglades, Florida, USA (1500 BCE)
 
 * [Rethinking Shell Middens. American Archeological Magazine. 21 Jun. 2018](https://www.archaeologicalconservancy.org/rethinking-shell-middens/)
@@ -1123,6 +1129,10 @@ Also occupied by a few other cultures:
 
 * [Pohl MED, Pope KO, von Nagy C (2002) Olmec Origins of Mesoamerican Writing. Science. 298(5600): 1984-1987.](https://science.sciencemag.org/content/298/5600/1984?ijkey=9a2dad3894a554d966719ae422d9e0e719a36d0b&keytype2=tf_ipsecsha)
 
+## Coracol, Belize (600 BCE - 575±325 CE)
+
+* [Chase AF et al. (2010) Airborne LiDAR, archaeology, and the ancient Maya landscape at Caracol, Belize. Journal of Archaeological Science. 38: 387-398.](http://caracol.org/wp-content/uploads/2016/05/ChaseEtAl2011.pdf)
+
 ## El Mirador - Mirador Basin, Petén, Guatamala - Maya (600 BCE - 900 CE)
 
 * [El Mirador](https://en.wikipedia.org/wiki/El_Mirador)
@@ -1131,6 +1141,16 @@ Also occupied by a few other cultures:
 ## Cerro de las Mesas - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (600 BCE - 900 CE)
 
 * [Cerro de las Mesas](https://en.wikipedia.org/wiki/Cerro_de_las_Mesas)
+
+Part of the Mixtequilla area of the Papaloapan basin along with:
+  * [Stark BL, Curet LA (1994) The Development of the Classic-Period Mixtequilla in South-Central Veracruz, Mexico. Ancient Mesoamerica. 5: 267-287.](https://www.academia.edu/19628118/The_Development_of_the_Classic-Period_Mixtequilla_in_South-Central_Veracruz_Mexico)
+  * [Manzanilla LR (2015) Cooperation and tensions in multiethnic corporate societies using Teotihuacan, Central Mexico, as a case study. PNAS. 112(30): 9210-9215.](https://doi.org/10.1073/pnas.1419881112)
+  * [El Zapotal](https://en.wikipedia.org/wiki/El_Zapotal) (600 CE - 900 CE)
+  * [Ignacio de la Llave](http://siglo.inafed.gob.mx/enciclopedia/EMM30veracruz/municipios/30075a.html)
+  * [Tlalixcoyan](http://siglo.inafed.gob.mx/enciclopedia/EMM30veracruz/municipios/30181a.html)
+  * Piedras Negras
+  * Ixmatlahuacan
+  * [La Mojarra](https://en.wikipedia.org/wiki/La_Mojarra)
 
 ## Tamohi' - Tamuin, San Luis Potosi, MX - Huasteca, Olmec? (600 BCE - 1350 CE)
 
@@ -1195,7 +1215,7 @@ Shows a trade connection or influence from Veracruz.
 
 * [La Mojarra](https://en.wikipedia.org/wiki/La_Mojarra)
 
-## Western Mexican shaft-tomb tradition - Mxico: Jalisco, Nayarit, Colima, not including Capacha culture regions
+## Western Mexican shaft-tomb tradition - Mexico: Jalisco, Nayarit, Colima, not including Capacha culture regions
 
 * [Western Mexican shaft-tomb tradition](https://en.wikipedia.org/wiki/Western_Mexico_shaft_tomb_tradition)
 
@@ -1366,6 +1386,11 @@ First inhabited in 1200BCE, but depopulated by 200BCE, it was later repopulated 
 
 * [Teotenango](https://en.wikipedia.org/wiki/Teotenango)
 
+## Huapalcalco (~650 CE)
+
+* [Huapalclaco](https://es.wikipedia.org/wiki/Huapalcalco)
+* [González MA (2009) Huapalcalco, un santuario-mercado del Epiclásico en la región de Tulancingo. Caminos y mercados de México. 185-220.](http://www.historicas.unam.mx/publicaciones/publicadigital/libros/caminosymercados/cm011.pdf)
+
 ## Xaltocan - Valley of Mexico, Mexico, MX - Otomies until 1395, Chichimeca, Tepaneca, Mexica (700 CE - 1521 CE)
 
 * [Xaltocan](https://en.wikipedia.org/wiki/Xaltocan)
@@ -1436,6 +1461,10 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 
 * [Chan Chan](https://en.wikipedia.org/wiki/Chan_Chan)
 * [West, Michael. Community Settlement Patterns at Chan Chan, Peru. American Antiquity. Vol. 35. No. 1 (Jan 1970) pp. 74-86.](https://www.jstor.org/stable/278179)
+
+## Ilhuatzio, Pátzcuaro Basin, Michoacán, Mexico (900 CE - 1530 CE) - Purepecha
+
+* [Ilhuatzio](https://en.wikipedia.org/wiki/Ihuatzio_(archaeological_site))
 
 ## Oneota (900 CE - 1650 CE)
 
@@ -1702,6 +1731,7 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 
 ## To Organize
 
+* [Elliot M et al. (2010) Climate, agriculture, and cycles of human occupation over the last 4000 yr insouthern Zacatecas, Mexico. Quaternary Research. 74: 26-35. doi:10.1016/j.yqres.2010.04.001](https://s3.amazonaws.com/academia.edu.documents/7890223/Elliott_et_al_2010.pdf?response-content-disposition=inline%3B%20filename%3DClimate_agriculture_and_cycles_of_human.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20191017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191017T070456Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f570f21395a23baf8e02787e4ad4e75338d4f35bb61af6b6ccd5a15a3af19e2c)
 * http://artdaily.com/news/58025/Archaeologists--anthropologists-and-other-experts-meet--Mayas-prophesized--but-not-end-of-world-
 * http://artdaily.com/news/55294/Archaeologists-find-ancient-Mayan-workshop-for-astronomers-in-northeastern-Guatemala
 * http://artdaily.com/news/60129/In-new-study--Mexican-researchers-extract-intact-DNA-from-Palenque-s-Red-Queen
