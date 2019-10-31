@@ -674,15 +674,23 @@ This could be the first use of irrigation canals in the "Americas".
 * [Zaña Valley](https://en.wikipedia.org/wiki/Za%C3%B1a_Valley)
 * [Dillehay TD, Eling HH Jr, Rossen J (2005) Preceramic irrigation canals in the Peruvian Andes. PNAS. 102(47): 17241-17244.](https://dx.doi.org/10.1073%2Fpnas.0508583102)
 
-## Meanwhile, across the pond, Tepe Hissar, Iran (4300)
+## Meanwhile, across the pond, Tepe Hissar, Iran (4300 BCE)
 
 * [Afshar, Z. (2014). Mobility and Economic Transition in the 5th to the 2nd Millennium BC in the Population of the Central Iranian Plateau, Tepe Hissar (Doctoral dissertation, Durham University).](http://etheses.dur.ac.uk/11064/1/Zahra_Afshar_PhD_Thesis_.pdf)
+
+## Meanwhile, across the pond, Tripolye, Modern Eastern Romania + Molova + South Eastern Ukraine (4100–3600 BCE)
+
+* [Hofmann R, Müller J, Shatilo L, Videiko M, Ohlrau R, Rud V, et al. (2019) Governing Tripolye: Integrative architecture in Tripolye settlements. PLoS ONE 14(9): e0222243.](https://doi.org/10.1371/journal.pone.0222243)
 
 ## Áspero - Norte Chico/Caral Culture, Peru (4100 BCE - 2000 BCE)
 
 This complex contains what would be the first stepped pyramid in the Americas, and possibly the world.
 
 * [Chu A (2008) Bandurria: Arena, mar y humedal en el surgimiento de la Civilización Andina. Hualmay, Huaura, Perú. Servicios Gráficos Jackeline.](https://www.academia.edu/11124090/Bandurria._Arena_Mar_y_Humedal_en_el_Surgimiento_de_la_Civilizaci%C3%B3n_Andina)
+
+## Vichama, Huaura, Peru (4100 BCE - 2000 BCE) - Norte Chico/Caral Culture
+
+* [Staff (2019) Mural from 3,800 years ago unveiled by Peru archaeologists. BBC. August 20.](https://www.bbc.com/news/world-latin-america-49407795)
 
 ## Abejas Phase - Tehuacán Valley, MX (3825 BCE - 2600 BCE)
 
@@ -758,6 +766,7 @@ This is one of the first modern cities in the Americas including irrigation agri
   * `It was evidence of another crop in the excavations that gave Shady the best clue to the mystery of Caral’s success. In nearly every excavated building, her team discovered great quantities of cotton seeds, fibers and textiles. Her theory fell into place when a large fishing net, unearthed at an unrelated dig on Peru’s coast, turned out to be as old as Caral. “The farmers of Caral grew the cotton that the fishermen needed to make the nets,” Shady speculates. “And the fishermen gave them shellfish and dried fish in exchange for these nets.” In essence, the people of Caral enabled fishermen to work with larger and more effective nets, which made the resources of the sea more readily available. The Caral people probably used dried squash as flotation devices for nets and also as containers, thus obviating any need for ceramics.`
   * `Eventually Caral would spawn 17 other pyramid complexes scattered across the 35-square-mile area of the SupeValley. Then, around 1600 B.C., for reasons that may never be answered, the Caral civilization toppled, though it didn’t disappear overnight. “They had time to protect some of their architectural structures, burying them discreetly,” says Shady. Other nearby areas, such as Chupacigarro, Lurihuasi and Miraya, became centers of power. But based on Caral’s size and scope, Shady believes that it is indeed the mother city of the Incan civilization.`
 * [Chu A (2008) Bandurria: Arena, mar y humedal en el surgimiento de la Civilización Andina. Hualmay, Huaura, Perú. Servicios Gráficos Jackeline.](https://www.academia.edu/11124090/Bandurria._Arena_Mar_y_Humedal_en_el_Surgimiento_de_la_Civilizaci%C3%B3n_Andina)
+* [Gallery: Sacred City of Caral-Supe](https://whc.unesco.org/en/list/1269/gallery/)
 
 ## Aleutian Tradtion, Aleutian Islands, Alaska, USA (2500 BCE - 1800 BCE)
 
@@ -876,6 +885,7 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
 * [El Manatí](https://en.wikipedia.org/wiki/El_Manat%C3%AD)
 * [Dorothy Hosler, Sandra L. Burkett, Michael J. Tarkanian. Prehistoric Polymers: Rubber Processing in Ancient Mesoamerica. Science. 18 Jun 1999 : 1988-1991](https://science.sciencemag.org/content/284/5422/1988)
+* [Associated Press (2018) Germany returns 3,000-year-old relics to Mexico. Deutsche Welle. March 12.](https://p.dw.com/p/2ufRI)
 
 ### Lamanai - Orange Walk District, Belieze - Lowland Maya (1600 BCE - 1700 CE)
 
@@ -1191,16 +1201,28 @@ Shows a trade connection or influence from Veracruz.
 
 * [Cerros](https://en.wikipedia.org/wiki/Cerros)
 
+## San Bartolo, Guatemala - Maya, Epi-Olmec? (~300 BCE - ~100 BCE)
+
+* [Saturno WA, Stuart D, Beltrán B (2006) Early Maya Writing at San Bartolo, Guatemala. Science. 311(5765): 1281-1283.](https://science.sciencemag.org/content/311/5765/1281)
+* Urquizú M, Hurst H (2003)  Las  pinturas  murales  de  San  Bartolo:  Una  ventana  al  arte  y  cosmovisión  del  hombre  prehispánico.  In  XVI  Simposio  de  Investigaciones Arqueológicas en Guatemala, 2002, edited by Juan Pedro Laporte, Bárbara Arroyo, Héctor L. Escobedo, Héctor E. Mejía, v. 1, pp. 325-334. Guatemala: Ministerio de Cultura y Deportes; Instituto de Antropología e Historia; Asociación Tikal. &mdash; [English](http://www.mesoweb.com/pari/publications/journal/1202/Urquizu-Hurst-2011.pdf)
+* [Saturno WA, Urquizú M (2008) Proyecto Arqueológico Reg. San Bartolo, Informe No. 7. Instituto de Antropología e Historia. Guatemala.](http://www.mesoweb.com/resources/informes/SanBartolo-Xultun_2008.pdf)
+* https://www.world-archaeology.com/issues/issue-47/early-maya-sistine-chapel/
+
 ## Teotihuacán - Valley of Mexico, Mexico, MX (300 BCE - 535 CE)
 
 * [Manzanilla LR (2015) Cooperation and tensions in multiethnic corporate societies using Teotihuacan, Central Mexico, as a case study. PNAS. 112(30): 9210-9215.](https://doi.org/10.1073/pnas.1419881112)
-* [Teotihuacan](https://en.wikipedia.org/wiki/Teotihuacan)
-* [Teotihuacán](https://es.wikipedia.org/wiki/Teotihuac%C3%A1n)
-  * `Hay varias hipótesis sobre la identidad étnica y lingüística de los fundadores de Teotihuacán.`
 * [Curtis, Wayne. Rich Man, Poor Man: Archaeologists are taking the study of wealth inequality into the distant past. American Archeology Magazine. 20 Jun. 2018.](https://www.archaeologicalconservancy.org/rich-man-poor-man/)
   * `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
   * `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
 * [Álvarez-Sandoval BA, Manzanilla LR, González-Ruiz M, Malgosa A, Montiel R (2015) Genetic Evidence Supports the Multiethnic Character of Teopancazco, a Neighborhood Center of Teotihuacan, Mexico (AD 200-600). PLoS ONE 10(7): e0132371.](https://doi.org/10.1371/journal.pone.0132371)
+* [Nielsen J, Helmke C (2011) Reinterpreting the Plaza de los Glifos, la Ventilla, Teotihuacan. Ancient Mesoamerica. 22(2): 345-370.](https://www.researchgate.net/publication/231997323_Reinterpreting_the_Plaza_de_los_Glifos_la_Ventilla_teotihuacan)
+    * This paper argues for a strong Tutunaku presence in Teotihuacan based on previous research.
+    * States that multiple languages were present: Tutunaku, a form of Nahuan, and a now extinct form of Mixe-Zoque.
+    * Also states that the symbolic scripts likely choose logograms over a phonetic system to allow easy interpretation in multi-lingual contexts.
+    * Also has info relevant to the diffusion of the horned/deer sepent across the entire North American continent. [This happened either through an earlier shared cultural space (Lenca cultural sphere) and/or long distance trading by my ancestors. - JB]
+* [Teotihuacan](https://en.wikipedia.org/wiki/Teotihuacan)
+* [Teotihuacán](https://es.wikipedia.org/wiki/Teotihuac%C3%A1n)
+  * `Hay varias hipótesis sobre la identidad étnica y lingüística de los fundadores de Teotihuacán.`
 * [Teotihuacan](https://www.khanacademy.org/humanities/art-americas/early-cultures/teotihuacan/a/teotihuacan)
 * [Pre-Hispanic City of Teotihuacan](https://whc.unesco.org/en/list/414/gallery/&maxrows=26)
 * [Infographic: Dig deeper into Teotihuacán](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-teotihuacan-site/3035/)
@@ -1215,22 +1237,6 @@ Shows a trade connection or influence from Veracruz.
 ## La Mojarra - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (300 BCE - 1000 CE)
 
 * [La Mojarra](https://en.wikipedia.org/wiki/La_Mojarra)
-
-## Western Mexican shaft-tomb tradition - Mexico: Jalisco, Nayarit, Colima, not including Capacha culture regions
-
-* [Western Mexican shaft-tomb tradition](https://en.wikipedia.org/wiki/Western_Mexico_shaft_tomb_tradition)
-
-## Remojadas - Golf Coast, Veracruz, MX - Classic Veracruz Culture (100 BCE - 800 CE)
-
-* [Remojadas](https://en.wikipedia.org/wiki/Remojadas)
-
-## Mitla - San Pablo Villa de Mitla, Oaxaca, MX - Zaptotec (100 CE - 1553 CE)
-
-Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixtec means.
-
-* [Mitla](https://en.wikipedia.org/wiki/Mitla)
-
-## Mesoamerican Early Classic (200 CE - 600 CE)
 
 ## Middle Woodland (200 BCE - 500 CE)
 
@@ -1248,14 +1254,28 @@ Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixt
 
 ### Fourche Maline (300 BCE - 800 CE)
 
-### Copena (1 CE - 500 CE)
+### Copena (1 CE - 500 CE)\
 
-## San Bartolo, Guatemala - Maya, Epi-Olmec? (~300 BCE - ~100 BCE)
+## Western Mexican shaft-tomb tradition - Mexico: Jalisco, Nayarit, Colima, not including Capacha culture regions
 
-* [Saturno WA, Stuart D, Beltrán B (2006) Early Maya Writing at San Bartolo, Guatemala. Science. 311(5765): 1281-1283.](https://science.sciencemag.org/content/311/5765/1281)
-* Urquizú M, Hurst H (2003)  Las  pinturas  murales  de  San  Bartolo:  Una  ventana  al  arte  y  cosmovisión  del  hombre  prehispánico.  In  XVI  Simposio  de  Investigaciones Arqueológicas en Guatemala, 2002, edited by Juan Pedro Laporte, Bárbara Arroyo, Héctor L. Escobedo, Héctor E. Mejía, v. 1, pp. 325-334. Guatemala: Ministerio de Cultura y Deportes; Instituto de Antropología e Historia; Asociación Tikal. &mdash; [English](http://www.mesoweb.com/pari/publications/journal/1202/Urquizu-Hurst-2011.pdf)
-* [Saturno WA, Urquizú M (2008) Proyecto Arqueológico Reg. San Bartolo, Informe No. 7. Instituto de Antropología e Historia. Guatemala.](http://www.mesoweb.com/resources/informes/SanBartolo-Xultun_2008.pdf)
-* https://www.world-archaeology.com/issues/issue-47/early-maya-sistine-chapel/
+* [Western Mexican shaft-tomb tradition](https://en.wikipedia.org/wiki/Western_Mexico_shaft_tomb_tradition)
+
+## Remojadas - Golf Coast, Veracruz, MX - Classic Veracruz Culture (100 BCE - 800 CE)
+
+* [Remojadas](https://en.wikipedia.org/wiki/Remojadas)
+
+## Pampa la Cruz, Huanchaco, Peru (50 BCE - 500 CE)
+
+* [Morales GT, Gagnon C, Prieto G (2018) Violence among the Gallinazo: New Insights from Pampa la Cruz, Moche Valley. Presented at The 82nd Annual Meeting of the Society for American Archaeology, Washington, DC. tDAR id: 442597](https://core.tdar.org/document/442597/violence-among-the-gallinazo-new-insights-from-pampa-la-cruz-moche-valley)
+* []
+
+## Mitla - San Pablo Villa de Mitla, Oaxaca, MX - Zaptotec (100 CE - 1553 CE)
+
+Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixtec means.
+
+* [Mitla](https://en.wikipedia.org/wiki/Mitla)
+
+## Mesoamerican Early Classic (200 CE - 600 CE)
 
 ## Moche Culture - Moche Valley, Peru (100 CE - 750 CE)
 
@@ -1431,6 +1451,12 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 * [Davis, Kaitlyn. (2017) "The Ambassador's Herb": Tobacco Pipes as Evidence for Plains-Pueblo Interaction, Interethnic Negotiation, and Ceremonial Exchange in the Northern Rio Grande. Master's Thesis.](https://www.academia.edu/34126233/_The_Ambassadors_Herb_Tobacco_Pipes_as_Evidence_for_Plains-Pueblo_Interaction_Interethnic_Negotiation_and_Ceremonial_Exchange_in_the_Northern_Rio_Grande._Masters_Thesis)
 * [Sourcing Archaeological Obsidian in the Canadian Plains and Eastern Rocky Mountains](https://www.academia.edu/29469698/Sourcing_Archaeological_Obsidian_in_the_Canadian_Plains_and_Eastern_Rocky_Mountains)
 
+## Florida Mesa/Farmington Hill/Webb Ranch Property - Durango, Colorado, USA (~800 CE)
+
+* [Herald JR (2019) Trove of archaeological ruins unearthed south of Durango. The Journal. August 23.](https://the-journal.com/articles/149862)
+  * `At one site, researchers discovered shells from the Baja region, which pointed to a wide tribal trading network. At another, fish bones found in a pit house pointed to the Animas River as a food source.`
+  * This is an important sentiment to note, because I also share it: `Ernest House Jr., a Ute Mountain Ute member who served as director for the Colorado Commission for Indian Affairs for 11 years, said a turning point came in 2007 when state protocol gave tribes greater control and input when historical sites are discovered. This protocol is particularly important, House said, when human remains are found. “They’re our ancestors, and there was care taken to make sure they had a proper burial,” he said. “So when they are uncovered, that burial is not complete and that individual’s spirit is left between various worlds. The tribes want to make sure they are back in the ground in a timely manner.”`
+
 ## 800 CE
 
 * [1200 Year Old Mayan Theatre Discovered in Mexico](https://archaeologynewsnetwork.blogspot.com/2012/08/1200-year-old-mayan-theatre-discovered.html#tGhOYGzW0RrPCRVS.97)
@@ -1571,6 +1597,16 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 
 * [Tlatelolco](https://en.wikipedia.org/wiki/Tlatelolco_(altepetl))
 
+## Pampa la Cruz, Huanchaco, Peru (1400 CE - 1450 CE)
+
+* [Parker BJ, Prieto G, Osores C (2018) Methodological advances in household archaeology: an application of microartifact analysis at Pampa La Cruz, Huanchaco, Peru. Ñawpa Pacha: Journal of Andean Archeology. 38(1): 57-75.](https://www.tandfonline.com/doi/abs/10.1080/00776297.2018.1465381) &mdash; [ResearchGate](https://www.researchgate.net/publication/325061336_Methodological_advances_in_household_archaeology_an_application_of_microartifact_analysis_at_Pampa_La_Cruz_Huanchaco_Peru)
+* [Staff (2019) Archaeologists find unprecedented Chimu textiles at mass child sacrifice site in Peru. Andina. January 16.](https://andina.pe/ingles/noticia-archaeologists-find-unprecedented-chimu-textiles-at-mass-child-sacrifice-site-in-peru-739445.aspx)
+* [Staff (2019) Peru: Archaeologists find exotic feather headdress and tabard in Pampa La Cruz. Andina. August 29.](https://andina.pe/ingles/noticia-peru-archaeologists-find-exotic-feather-headdress-and-tabard-in-pampa-cruz-765073.aspx)
+* [Romey K (2019) What made this ancient society sacrifice its own children? National Geographic. February.](https://www.nationalgeographic.com/magazine/2019/02/chimu-people-sacrificed-children-llamas-peru-mystery/)
+  * Mentions medieval anomaly (extended dry period) in which the Chimu Culture emerged.
+  * Increased flooding happened from 1250 CE - 1450 CE, and the killing happened in the last 50 years.
+  * Twenty years later, they were conquered by the Tawantinsuyu (Inca)
+
 ## Late Mississippian (1400 CE - 1500 CE or Euro contact)
 
 ### Etzanoa - Kansas, USA (1450 CE - 1700 CE)
@@ -1629,6 +1665,8 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 
 * Lisa Brooks. Our Beloved Kin: A New History of King Phillip's War. Yale University Press. 2018.
 * Lisa Brooks. The Common Pot: The Recovery of Native Space in the Northeast. University of Minnesota Press. 2008.
+* [Backer SK (2013) Health Consequences of Contact on Two Seventeenth-Century Native Groups fromthe Mid-Atlantic Region of Maryland. International Journal of Historical Archeology. 17(4): 713-730.](https://escholarship.org/content/qt33c9x60s/qt33c9x60s.pdf)
+* [Manning SW et al. (2018) Radiocarbon re-dating of contact-era Iroquoian history in northeastern North America. Science Advances. 4(12): eaav0280.](https://dx.doi.org/10.1126%2Fsciadv.aav0280)
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
 
@@ -1733,6 +1771,7 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 ## To Organize
 
 * [Elliot M et al. (2010) Climate, agriculture, and cycles of human occupation over the last 4000 yr insouthern Zacatecas, Mexico. Quaternary Research. 74: 26-35. doi:10.1016/j.yqres.2010.04.001](https://s3.amazonaws.com/academia.edu.documents/7890223/Elliott_et_al_2010.pdf?response-content-disposition=inline%3B%20filename%3DClimate_agriculture_and_cycles_of_human.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20191017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191017T070456Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f570f21395a23baf8e02787e4ad4e75338d4f35bb61af6b6ccd5a15a3af19e2c)
+* [Smith ME (2018) Why I am skeptical about the new Maya LiDAR results from NGS. Personal Blog. Retrieved October 19, 2019.](http://publishingarchaeology.blogspot.com/2018/02/why-i-am-skeptical-about-new-maya-lidar.html)
 * http://artdaily.com/news/58025/Archaeologists--anthropologists-and-other-experts-meet--Mayas-prophesized--but-not-end-of-world-
 * http://artdaily.com/news/55294/Archaeologists-find-ancient-Mayan-workshop-for-astronomers-in-northeastern-Guatemala
 * http://artdaily.com/news/60129/In-new-study--Mexican-researchers-extract-intact-DNA-from-Palenque-s-Red-Queen

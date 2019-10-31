@@ -149,6 +149,7 @@ The following journal papers contain most of the overview that one would need to
 
 This includes archeological and genetics papers to build a perspective on the diffusion of Hominids and modern humans.
 
+* [li Z et al. (2019) Engraved bones from the archaic hominin site of Lingjing, Henan Province. Antiquity. 93(370): 886-900.](https://doi.org/10.15184/aqy.2019.81)
 * [Price M (2019) Ancient DNA puts a face on the mysterious Denisovans, extinct cousins of Neanderthals. Science News. September 19.](https://www.sciencemag.org/news/2019/09/ancient-dna-puts-face-mysterious-denisovans-extinct-cousins-neanderthals)
 * [Roberts P, Amano N (2019) Plastic pioneers: Hominin biogeography east of the Movius Line during the Pleistocene. Archaeological Research in Asia. 17: 181-192.](https://www.sciencedirect.com/science/article/pii/S2352226718300989?via%3Dihub)
 * [Sahle Y, Brooks AS (2019) Assessment of complex projectiles in the early Late Pleistocene at Aduma, Ethiopia. PLoS ONE 14(5): e0216716.](https://doi.org/10.1371/journal.pone.0216716)
@@ -250,3 +251,8 @@ Certain people have notice that in industrialized societies our jaw is getting s
 * [Hidaka BH (2012) Depression as a disease of modernity: explanations for increasing prevalence. J Affect Disord. 140(3): 205-214.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330161/)
 * [Sadeh A, Gruber R, Raviv A (2003) The Effects of Sleep Restriction and Extension on School‐Age Children: What a Difference an Hour Makes. Child Development. 74(2): 444-455.](https://doi.org/10.1111/1467-8624.7402008)
 * [Galland B et al. (2015) Sleep Disordered Breathing and Academic Performance: A Meta-analysis. Pediatrics. 136(4): e934-e946.](http://pediatrics.aappublications.org/cgi/pmidlookup?view=long&pmid=26347434)
+
+
+Does this have anything to do with farming, or just general stress induced by modernity?
+* [Berreby, D (2013) The obesity era. Aeon. June 19.](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong)
+* [Shell ER (2019) A New Theory of Obesity. Scientific American. October.](https://www.scientificamerican.com/article/a-new-theory-of-obesity/)
