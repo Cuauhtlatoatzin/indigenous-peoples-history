@@ -273,6 +273,7 @@ This is technically not "North America", but it's connected and may demonstrate 
 ## Nipéhe (Cooper's Ferry), Idaho, USA (14510 - 13530 BCE)
 
 * [David LG et al. (2019) Late Upper Paleolithic occupation at Cooper’s Ferry, Idaho, USA, ~16,000 years ago. Science. 365(6456): 891-897.](https://science.sciencemag.org/content/365/6456/891)
+* [Gannon M (2019) 15,000-year-old Idaho archaeology site now among America’s oldest. National Geographic. August 29.](https://www.nationalgeographic.com/culture/2019/08/coopers-landing-idaho-site-americas-oldest/)
 
 ## Gault site, Texas, USA (14000 BCE)
 
@@ -327,6 +328,7 @@ This is technically not "North America", but it's connected and may demonstrate 
   * [Grobman A et al. (2012) Preceramic maize from Paredones and Huaca Prieta, Peru. PNAS. 109(5): 1755–1759.](https://dx.doi.org/10.1073%2Fpnas.1120270109)
 * **Indigo in 4250 BCE**
   * [Splitstoser JC et al. (2016) Early pre-Hispanic use of indigo blue in Peru. Science Advances. 2(9): e1501623](https://advances.sciencemag.org/content/2/9/e1501623.full) &mdash; Predates Egyption use by ~1500 years.
+  * [LA Times. (2019) 6,000-year-old fabric reveals Peruvians were dyeing textiles with indigo long before Egyptians (Video). Los Angeles Times. September 16.](https://www.latimes.com/science/sciencenow/la-sci-sn-oldest-indigo-dye-20160915-snap-story.html)
 
 ## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
 
@@ -462,16 +464,21 @@ The Search for the Earliest Humans in the Land Recently Called South Carolina" A
 
 ## Post Pattern (11000 BCE - 7000 BCE)
 
-## Skeleton found at Hoyo Negro, Quintana Roo, Mexico (10910 - 9750 BCE)
+## Hoyo Negro, Quintana Roo, Mexico (10910 - 9750 BCE)
+
+Human skeleton found:
 
 * [Chatters JC, et al. (2014) Late Pleistocene human skeleton and mtDNA link Paleoamericans and modern Native Americans. Science 344(6185) :750–754.](https://science.sciencemag.org/content/344/6185/750?ijkey=394a82c83a5ad4f9248ed45d2fcedfe2c8596d61&keytype2=tf_ipsecsha)
+  * **Also mentions**
+    * Wizard's Beach, Nevada, USA (8560 - 8250 BCE)
+    * Tlapacoya I, Mexico, Mexico (10150 - 9610 BCE)
+    * Buhl, Idaho, USA (10740 - 10420 BCE)
+    * Peñon III, Mexico, Mexico (10770 - 10560 BCE)
+    * Arlington Springs, California, USA (11010 - 10710 BCE)
 
-* **Also mentions**
-  * Wizard's Beach, Nevada, USA (8560 - 8250 BCE)
-  * Tlapacoya I, Mexico, Mexico (10150 - 9610 BCE)
-  * Buhl, Idaho, USA (10740 - 10420 BCE)
-  * Peñon III, Mexico, Mexico (10770 - 10560 BCE)
-  * Arlington Springs, California, USA (11010 - 10710 BCE)
+Carnivores from South America found:
+
+* [Schubert BW, et al. (2019) Yucatán carnivorans shed light on the Great American Biotic Interchange. Biology Letters. 15.](https://doi.org/10.1098/rsbl.2019.0148)
 
 ## Rummells-Maske, Iowa, USA (10850 - 10590 BCE)
 
@@ -521,6 +528,9 @@ This is the first known example of lithic architecture built on a raised platfor
 * Comparison to Maya architecture:
   * [Inomata T, Triadan D, Pinzón F, Aoyama K (2019) Artificial plateau construction during the Preclassic period at the Maya site of Ceibal, Guatemala. PLoS ONE 14(8): e0221943.](https://doi.org/10.1371/journal.pone.0221943)
     * `The construction of the Ceibal plateau may be comparable to early monumental constructions in other parts of the world, which emerged before or during the transition to agriculture or sedentism. Examples include: Göbekli Tepe and related Neolithic sites in the Near East; Watson Brake, Poverty Point, and other mound complexes in the Archaic lower Mississippi area; Sechín Bajo, Caral, and other monumental constructions in the Andes; and large shell mounds in the southeastern US and Brazil [81,86–91]. Although archaeologists traditionally associated monumental architecture with societies with pronounced political centralization and social hierarchy [51], these examples force us to reconsider this assumption [92,93].`
+* Comparison to other complex societies:
+  * [Whitehouse H, François P, Savage PE, et al. (2019) Complex societies precede moralizing gods throughout world history. Nature. 568: 226–229. doi:10.1038/s41586-019-1043-4](https://doi.org/10.1038/s41586-019-1043-4)
+  * [Botero CA, et al. (2014) The ecology of religious beliefs. PNAS. 111(47): 16784-16789.](https://doi.org/10.1073/pnas.1408701111)
 
 ## Meanwhile, across the pond, Ural Mountains: Shigit peat bog (9000-8000 BCE)
 
@@ -534,6 +544,11 @@ This is the oldest known anthropomorhic wooden sculpture.
 * [Potter BA, Irish JD, Reuther JD, McKinney HJ (2014) New insights into Beringian mortuary behavior. Proceedings of the National Academy of Sciences.111(48): 17060-17065; DOI: 10.1073/pnas.1413131111](https://doi.org/10.1073/pnas.1413131111)
 * [Kemp BM, Malhi RS, McDonough J , Bolnick DA, Eshleman JA, Rickards O, Martinez‐Labarga C, Johnson JR, Lorenz JG, Dixon EJ, Fifield TE, Heaton TH, Worl R, Smith DG (2007) Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. American Journal of Physical Anthropology. 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
 
+## Evidence for human clam relationships in the NW (~9500 BCE)
+
+* [Toniello G, et al. (2019) 11,500 y of human–clam relationships provide long-term context for intertidal management in the Salish Sea, British Columbia. PNAS. 116(44): 22106-22114.](https://doi.org/10.1073/pnas.1905921116)
+* [Chung E (2019) Indigenous clam farming technology is as old as Egyptian pyramids. CBC News. February 27.](https://www.cbc.ca/news/technology/clam-gardens-dating-1.4761214)
+
 ## Caverna da Pedra Pintada, Pará, Brazil (9200 BCE)
 
 * [Wilford JN (1996) "SCIENTIST AT WORK: Anna C. Roosevelt;Sharp and To the Point In Amazonia", New York Times. 23 April. Section C: 1.](https://www.nytimes.com/1996/04/23/science/scientist-at-work-anna-c-roosevelt-sharp-and-to-the-point-in-amazonia.html?src=pm)
@@ -544,6 +559,10 @@ This is the oldest known anthropomorhic wooden sculpture.
 * [Cueva Fell, Wikipedia](https://en.wikipedia.org/wiki/Cueva_Fell)
 
 ## Folsom Tradition (9000 BCE - 8000 BCE)
+
+## Llanos de Moxos, SW Amazonia, Bolivia (8650 BCE - 2050 BCE)
+
+* [Capriles JM et al. (2019) Persistent Early to Middle Holocene tropical foraging in southwestern Amazonia. Science Advances. 5(4): eaav5449. DOI: 10.1126/sciadv.aav5449](https://advances.sciencemag.org/content/5/4/eaav5449)
 
 ## Dalton Tradition (8500 BCE - 7900 BCE)
 
@@ -639,6 +658,14 @@ This is this site of the first domestication of Squash. This indicates that dome
 
 * [Old Copper Complex](https://en.wikipedia.org/wiki/Old_Copper_Complex)
 * [Beukens, R. P. RADIOCARBON DATING OF COPPER-PRESERVED ORGANICS. RADIOCARBON, VOL. 34, No. 3, 1992, P. 890-897](https://journals.uair.arizona.edu/index.php/radiocarbon/article/viewFile/1543/1547)
+* [Jopling, Carol F. “The Coppers of the Northwest Coast Indians: Their Origin, Development, and Possible Antecedents.” Transactions of the American Philosophical Society, vol. 79, no. 1, 1989, pp. i-164. JSTOR.](www.jstor.org/stable/1006488)
+* [Eyman F (1969) Metallurgy of the Tlingit, Dene, and Eskimo. Expedition Magazine. 11(3).](http://www.penn.museum/sites/expedition/?p=1996)
+
+Trade between here and the south east:
+
+* [Sanger MC et al. (2019) Great Lakes Copper and Shared Mortuary Practices on the Atlantic Coast: Implications for Long-Distance Exchange during the Late Archaic. American Antiquity. 84(4): 591-609.](https://doi.org/10.1017/aaq.2019.59) &mdash; [PDF](https://www.researchgate.net/publication/335567633_Great_Lakes_Copper_and_Shared_Mortuary_Practices_on_the_Atlantic_Coast_Implications_for_Long-Distance_Exchange_during_the_Late_Archaic)
+* [Sanger MC et al. (2018) Early metal use and crematory practices in the American Southeast. PNAS. 115(33): E7672-E7679.](https://doi.org/10.1073/pnas.1808819115)
+* [Smith KN (2018) Find shows 4,000-year-old trade routes stretched from Carolinas to Great Lakes. Ars Technica. July 31.](https://arstechnica.com/science/2018/07/ancient-north-american-trade-networks-reached-farther-than-we-thought/)
 
 ## Coxcatlan Phase - Tehuacán Valley, MX (5700 BCE - 3825 BCE)
 
@@ -710,6 +737,9 @@ This complex contains what would be the first stepped pyramid in the Americas, a
 ## Watson Brake - Ouachita Parish, Louisiana, USA (3500 BCE - 2800 BCE)
 
 * [Watson Brake](https://en.wikipedia.org/wiki/Watson_Brake)
+* [Pringle H (1997) Oldest Mound Complex Found at Louisiana Site. Science. 227(5333): 1761-1762. DOI: 10.1126/science.277.5333.1761](https://science.sciencemag.org/content/277/5333/1761)
+* [Suanders JW et al. (1997) A Mound Complex in Louisiana at 5400-5000 Years Before the Present. Science. 227(5333): 1796-1799. DOI: 10.1126/science.277.5333.1796](https://science.sciencemag.org/content/277/5333/1796)
+* [Lawler A (2011) Does North America Hold the Roots of Mesoamerican Civilization? Science. 334(6063): 1620-1621.](https://science.sciencemag.org/content/334/6063/1620) &mdash; Interesting to think about, but the more likely outcome is only part of Mesoamerican Civilization comes from this, since many motifs of the civilization come from further south and this contradicts the Lenca stories.
 
 ## Late Archaic (3000 BCE - 1000 BCE)
 
@@ -780,7 +810,7 @@ This is one of the first modern cities in the Americas including irrigation agri
 
 ## Canton Corralito - Mazatán, Chiapas, MX - Mokaya, Olmec (2500 BCE - 1000 BCE)
 
-Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olmec](#height-of-the-olmec-1500-bce---400-bce). Did my ancestors colonize this place?
+Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olmec](#height-of-the-olmec-1500-bce---400-bce).
 
 * [Canton Corralito](https://en.wikipedia.org/wiki/Mazat%C3%A1n,_Chiapas#Canton_Corralito)
 * [The Americas' First Colony?](https://archive.archaeology.org/0601/abstracts/olmec.html)
@@ -812,12 +842,6 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 ## Native Gold in Lake Titicaca Basin, Southern Peru (2155 BCE - 1936 BCE)
 
 * [Aldenderfer, Mark. Four-thousand-year-old gold artifacts from the Lake Titicaca basin, southern Peru. PNAS. 31 Mar. 2008.](http://www.pnas.org/content/105/13/5002.short)
-
-## Copper band shows trade between Georgia coastal region and the great lakes copper complex (2000 BCE)
-
-* [Discovery of copper band shows Native Americans engaged in trade more extensively than previously thought](https://www.binghamton.edu/news/story/1260/discovery-of-copper-band-shows-native-americans-engaged-in-trade-more-exten)
-* [Find shows 4,000-year-old trade routes stretched from Carolinas to Great Lakes](https://arstechnica.com/science/2018/07/ancient-north-american-trade-networks-reached-farther-than-we-thought/)
-* [Early metal use and crematory practices in the American Southeast](https://www.researchgate.net/publication/326708551_Early_metal_use_and_crematory_practices_in_the_American_Southeast)
 
 ## Orange Culture - Eastern Florida Peninsula, USA (2000 BCE - 2500 BCE)
 
@@ -1269,6 +1293,10 @@ Shows a trade connection or influence from Veracruz.
 * [Morales GT, Gagnon C, Prieto G (2018) Violence among the Gallinazo: New Insights from Pampa la Cruz, Moche Valley. Presented at The 82nd Annual Meeting of the Society for American Archaeology, Washington, DC. tDAR id: 442597](https://core.tdar.org/document/442597/violence-among-the-gallinazo-new-insights-from-pampa-la-cruz-moche-valley)
 * []
 
+## Tattooing Instrument Found, SW USA (79 CE - 130 CE)
+
+* [Gillreath-Brown A et al. (2019) Redefining the age of tattooing in western North America: A 2000-year-old artifact from Utah. Journal of Archaeological Science: Reports. 24: 1064-1075.](https://doi.org/10.1016/j.jasrep.2019.02.015) &mdash; [PDF](https://www.researchgate.net/publication/331101081_Redefining_the_age_of_tattooing_in_western_North_America_A_2000-year-old_artifact_from_Utah)
+
 ## Mitla - San Pablo Villa de Mitla, Oaxaca, MX - Zaptotec (100 CE - 1553 CE)
 
 Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixtec means.
@@ -1285,6 +1313,7 @@ Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixt
 * [Ancient Throne and Ceremonial Hall Unearthed in Peru](https://news.nationalgeographic.com/2018/01/ancient-peruvian-moche-civilization-throne-banquet-hall-ceremony-spd/)
 * [Tomb of a Powerful Moche Priestess-Queen Found in Peru](https://news.nationalgeographic.com/news/http-/news/news/2013/08/130808-moche-priestess-queen-tomb-discovery-peru-archaeology-science/) - (750 CE)
 * [New Clues About Human Sacrifices at Ancient Peruvian Temple](https://news.nationalgeographic.com/news/2013/11/131119-moche-human-sacrifice-war-victims-burials-archaeology-science/)
+* [Shurkin, Joel N. (2013) Clamshells Reveal Secrets of Pre-Columbian Society's Decline. Live Science.](https://www.livescience.com/28452-clamshells-reveal-secrets-of-pre-columbian-society-s-decline.html)
 
 Centered in a few regions:
 
@@ -1665,8 +1694,9 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 
 * Lisa Brooks. Our Beloved Kin: A New History of King Phillip's War. Yale University Press. 2018.
 * Lisa Brooks. The Common Pot: The Recovery of Native Space in the Northeast. University of Minnesota Press. 2008.
-* [Backer SK (2013) Health Consequences of Contact on Two Seventeenth-Century Native Groups fromthe Mid-Atlantic Region of Maryland. International Journal of Historical Archeology. 17(4): 713-730.](https://escholarship.org/content/qt33c9x60s/qt33c9x60s.pdf)
+* [Becker SK (2013) Health Consequences of Contact on Two Seventeenth-Century Native Groups fromthe Mid-Atlantic Region of Maryland. International Journal of Historical Archeology. 17(4): 713-730.](https://escholarship.org/content/qt33c9x60s/qt33c9x60s.pdf)
 * [Manning SW et al. (2018) Radiocarbon re-dating of contact-era Iroquoian history in northeastern North America. Science Advances. 4(12): eaav0280.](https://dx.doi.org/10.1126%2Fsciadv.aav0280)
+* [Howey MCL, Palace MW, McMichael CH (2016) Geospatial modeling approach to monument construction using Michigan from A.D. 1000–1600 as a case study. PNAS. 113(27): 7443-7448.](https://doi.org/10.1073/pnas.1603450113)
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
 
@@ -1728,16 +1758,19 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
   * [Ranere AJ, Piperno DR, Holst I, Dickau R, Iriarte J (2009) The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley, Mexico. PNAS. 106(13): 5014-5018.](https://doi.org/10.1073/pnas.0812590106)
 * **Potatoes (9000 BCE - 7000 BCE)**
   * [History of the potato](https://en.wikipedia.org/wiki/History_of_the_potato)
-  * [Utah home to earliest use of wild potato in North America](https://unews.utah.edu/utah-home-to-earliest-use-of-wild-potato-in-north-america/)
-  * [How an ancient potato helped people survive climate shifts](https://www.hcn.org/issues/49.20/scientific-research-escalante-valley-how-an-ancient-potato-helped-indigenous-people-survive-climate-shifts)
-  * [Prehistoric mashed potato dating back 10,900 years discovered in Utah](https://www.independent.co.uk/news/science/prehistoric-mashed-potato-10900-years-utah-valley-scientists-escalante-a7820586.html)
-  * [Ancient potato that has survived in the wilds of southern Utah for nearly 11,000 years makes its dinner debut](https://www.sltrib.com/news/2018/10/06/ancient-potato-that-has/)
-  * [Did potato cultivation begin in Utah's Escalante Valley 11,000 years ago?](http://archive.sltrib.com/article.php?id=5454302&itype=CMSID)
-  * [America’s Earliest Traces of Potato Use Found at 10,900-Year-Old Utah Shelter](http://westerndigs.org/americas-earliest-use-of-potatoes-found-at-10900-year-old-shelter-in-utah/)
-  * [How the Potato Changed the World](https://www.smithsonianmag.com/history/how-the-potato-changed-the-world-108470605/?fbclid=IwAR0lxd2QJrpQ6jF-M1csSmA3xzMGQ60gDlgqWMsLDehfc8l_D8lBeSOO5fI#DPfygyHbtbwl7PR0.01)
-  * [How the Potato Changed the World's History](https://www.jstor.org/stable/40971302?seq=1#page_scan_tab_contents)
-  * [Louderback LA, Pavlik BM (2017) Starch granule evidence for the earliest potato use in North America. PNAS. 114(29): 7606-7610.](https://doi.org/10.1073/pnas.1705540114)
-  * [A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping](https://doi.org/10.1073/pnas.0507400102)
+  * [Louderback LA, Pavlik BM (2017) Starch granule evidence for the earliest potato use in North America. PNAS. 114(29): 7606-7610.](https://doi.org/10.1073/pnas.1705540114) &mdash; `10,900–10,100 calendar years B.P. in southern Utah`
+  * [Goodrich B (2017) Tlingit and Haida Potatoes: Eyes on a Unique History. Edible Alaska. July 10.](https://ediblealaska.ediblecommunities.com/food-thought/tlingit-haida-potatoes) &mdash; [Alternate link](www.sitkawild.org/tlingithaida_potatoes)
+  * [Hoffmann T, Lyons N, et al. (2016) Engineered feature used to enhance gardening at a 3800-year-old site on the Pacific Northwest Coast. Science Advances. 2(12): e1601282. DOI: 10.1126/sciadv.1601282](https://advances.sciencemag.org/content/2/12/e1601282) &mdash; Wapoto potatoes found in British colmbia before 1300 BCE.
+  * [Warren G (2013) A Potato with a Past: the Makah Ozette. Slow Food USA. August 28.](https://slowfoodusa.org/a-potato-with-a-past-the-makah-ozette/) &mdash; [Alternate version](https://slowfoodusa.org/a-potato-with-a-past-the-makah-ozette/)
+  * [Zhang L et al. (2010). Inferred origin of several Native American potatoes from the Pacific Northwest and Southeast Alaska using SSR markers. Euphytica. 174(1). 15-29.](https://www.researchgate.net/publication/226674467_Inferred_origin_of_several_Native_American_potatoes_from_the_Pacific_Northwest_and_Southeast_Alaska_using_SSR_markers)
+  * [Brown CR "The Potato of the Makah Nation" The NSF Potato Genome Project. Accessed on November 2, 2019.](http://potatogenome.berkeley.edu/nsf5/potato_biology/history.php)
+  * [Spooner DM, McLean K, Ramsay G, Waugh R, Bryan GJ (2005) A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping. PNAS. 102(41): 14694-14699.](https://doi.org/10.1073/pnas.0507400102)
+  * [McNeil WH (1999) How the Potato Changed the World's History. Social Research. 66(1): 67-83.](https://www.jstor.org/stable/40971302?seq=1#page_scan_tab_contents)
+  * [Potter L (2017) Utah home to earliest use of wild potato in North America. UNEWS. University of Utah. July 3.](https://unews.utah.edu/utah-home-to-earliest-use-of-wild-potato-in-north-america/)
+  * [Kapor ML (2017) How an ancient potato helped people survive climate shifts. High Country News. October 30.](https://www.hcn.org/issues/49.20/scientific-research-escalante-valley-how-an-ancient-potato-helped-indigenous-people-survive-climate-shifts)
+  * [Stephenson K (2018) Ancient potato that has survived in the wilds of southern Utah for nearly 11,000 years makes its dinner debut. The Salt Lake Tribune. October 6.](https://www.sltrib.com/news/2018/10/06/ancient-potato-that-has/)
+  * [Maffly B (2017) Did potato cultivation begin in Utah's Escalante Valley 11,000 years ago? The Salt Lake Tribune. July 10.](http://archive.sltrib.com/article.php?id=5454302&itype=CMSID)
+  * [Mann CC (2011) How the Potato Changed the World. Smithsonian. November.](https://www.smithsonianmag.com/history/how-the-potato-changed-the-world-108470605/)
 * **Across the pond**
   * [Liu L et al. (2019) The origins of specialized pottery and diverse alcohol fermentation techniques in Early Neolithic China. PNAS. 116(26): 12767-12774.](https://doi.org/10.1073/pnas.1902668116) &mdash; Shows interesting ties to brews, pottery, and possibly yam.
   * [Dietrich L, Meister J, Dietrich O, Notroff J, Kiep J, Heeb J, et al. (2019) Cereal processing at Early Neolithic Göbekli Tepe, southeastern Turkey. PLoS ONE 14(5): e0215214.](https://doi.org/10.1371/journal.pone.0215214)
@@ -1770,7 +1803,7 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 
 ## To Organize
 
-* [Elliot M et al. (2010) Climate, agriculture, and cycles of human occupation over the last 4000 yr insouthern Zacatecas, Mexico. Quaternary Research. 74: 26-35. doi:10.1016/j.yqres.2010.04.001](https://s3.amazonaws.com/academia.edu.documents/7890223/Elliott_et_al_2010.pdf?response-content-disposition=inline%3B%20filename%3DClimate_agriculture_and_cycles_of_human.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20191017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191017T070456Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f570f21395a23baf8e02787e4ad4e75338d4f35bb61af6b6ccd5a15a3af19e2c)
+* [Elliot M et al. (2010) Climate, agriculture, and cycles of human occupation over the last 4000 yr in southern Zacatecas, Mexico. Quaternary Research. 74: 26-35. doi:10.1016/j.yqres.2010.04.001](https://s3.amazonaws.com/academia.edu.documents/7890223/Elliott_et_al_2010.pdf?response-content-disposition=inline%3B%20filename%3DClimate_agriculture_and_cycles_of_human.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20191017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191017T070456Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f570f21395a23baf8e02787e4ad4e75338d4f35bb61af6b6ccd5a15a3af19e2c)
 * [Smith ME (2018) Why I am skeptical about the new Maya LiDAR results from NGS. Personal Blog. Retrieved October 19, 2019.](http://publishingarchaeology.blogspot.com/2018/02/why-i-am-skeptical-about-new-maya-lidar.html)
 * http://artdaily.com/news/58025/Archaeologists--anthropologists-and-other-experts-meet--Mayas-prophesized--but-not-end-of-world-
 * http://artdaily.com/news/55294/Archaeologists-find-ancient-Mayan-workshop-for-astronomers-in-northeastern-Guatemala
@@ -1783,7 +1816,6 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 * [Gannon, Megan. (2013) Mysterious 2,000-year-old graves, pyramid ruins found in Mexico. NBC News.](https://www.nbcnews.com/sciencemain/mysterious-2-000-year-old-graves-pyramid-ruins-found-mexico-6C10626146)
 * [Entierros prehispánicos y pirámide en Veracruz](http://www.inah.gob.mx/boletines/1971-entierros-prehispanicos-y-piramide-en-veracruz)
 * [Arqueólogos mexicanos encuentran 30 entierros y una pirámide en Veracruz](https://expansion.mx/entretenimiento/2013/07/10/arqueologos-mexicanos-encuentran-30-entierros-y-una-piramide-en-veracruz)
-* [Shurkin, Joel N. (2013) Clamshells Reveal Secrets of Pre-Columbian Society's Decline. Live Science.](https://www.livescience.com/28452-clamshells-reveal-secrets-of-pre-columbian-society-s-decline.html)
 * [Thompson, Andrea. (2008) Oldest Gold Artifact in Americas Found. Live Science.](https://www.livescience.com/2415-oldest-gold-artifact-americas.html)
 * [Choi, Charles Q. (2009) Ancient Mayans Likely Had Fountains and Toilets. Live Science.](https://www.livescience.com/5959-ancient-mayans-fountains-toilets.html)
 * [Jarus, Owen. (2015) Mysterious Jade Artifact May Have Been Offering to Ancient Gods. Live Science.](https://www.livescience.com/50080-mysterious-jade-artifact-discovered-in-mexico.html)
@@ -1809,7 +1841,6 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 * [Face of Ancient Queen Revealed for First Time](https://news.nationalgeographic.com/2017/12/wari-noblewoman-queen-el-castillo-face-reconstruction-archaeology/)
 * [Wade, Lizzie. Mummy genomes reveal just how catastrophic European contact was for New World. Science. Apr. 2016.](http://www.sciencemag.org/news/2016/04/mummy-genomes-reveal-just-how-catastrophic-european-contact-was-new-world)
 * [Wade, Lizzie. Inca child mummy reveals lost genetic history of South America. Science. Nov. 2015](http://www.sciencemag.org/news/2015/11/inca-child-mummy-reveals-lost-genetic-history-south-america)
-* [Jopling, Carol F. “The Coppers of the Northwest Coast Indians: Their Origin, Development, and Possible Antecedents.” Transactions of the American Philosophical Society, vol. 79, no. 1, 1989, pp. i-164. JSTOR.](www.jstor.org/stable/1006488)
 * [Confederación chalca](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_chalca)
 * [Core/Biface Ratios, Mobility, Refitting, and Artifact Use-Lives: A Paleoindian Example](https://www.researchgate.net/publication/260468488_CoreBiface_Ratios_Mobility_Refitting_and_Artifact_Use-Lives_A_Paleoindian_Example)
 * [A new technique makes it possible to extract the DNA from hominids preserved in sediments](https://www.heritagedaily.com/2017/05/a-new-technique-makes-it-possible-to-extract-the-dna-from-hominids-preserved-in-sediments/114683)
