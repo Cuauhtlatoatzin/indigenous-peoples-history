@@ -87,6 +87,8 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 * [Heintzman PD (2016) Bison phylogeography constrains dispersal and viability of the Ice Free Corridor in western Canada. PNAS. 113(29): 8057-8063.](https://www.pnas.org/content/113/29/8057)
 
 ## Glaciers, Corridors, Ocean Levels, Erosion, and Climate Change
+* [Rohling EJ, et al. (2019) Asynchronous Antarctic and Greenland ice-volume contributions to the last interglacial sea-level highstand. Nature Communications. 10: 5040.](https://www.nature.com/articles/s41467-019-12874-3)
+* [Peito M (2019) Exceptionally High 2018 Equilibrium Line Altitude on Taku Glacier, Alaska. Remote Sensing. 11(20): 2378.](https://doi.org/10.3390/rs11202378)
 * [Zhu J, Poulsen CJ, Tierney JE (2019) Simulation of Eocene extreme warmth and high climate sensitivity through cloud feedbacks. Science Advances. 5(9): eaa1874. DOI: 10.1126/sciadv.aax1874](https://advances.sciencemag.org/content/5/9/eaax1874)
 * [Kleinen T, Milolajewicz U, Brovkin V (2019) Terrestrial methane emissions from Last Glacial Maximum to preindustrial. Clim. Past Discuss. https://doi.org/10.5194/cp-2019-109, in review](https://doi.org/10.5194/cp-2019-109)
 * [Morée A, Schwinger J (2019) A Last Glacial Maximum forcing dataset for ocean modelling. Earth Syst. Sci. Data Discuss. https://doi.org/10.5194/essd-2019-79, in review](https://doi.org/10.5194/essd-2019-79)
@@ -444,6 +446,7 @@ The Search for the Earliest Humans in the Land Recently Called South Carolina" A
   * [Richard A. Kerr. Did the Mammoth Slayer Leave a Diamond Calling Card? Science. 2 January. 2009. 323(5910): 26.](https://science.sciencemag.org/content/323/5910/26)
   * [Briggs Buchanan, Mark Collard, and Kevan Edinborough. Paleoindian demography and the extraterrestrial impact hypothesis. Proc Natl Acad Sci USA. 19 August. 2008. 105(33): 11651-11654.](https://dx.doi.org/10.1073%2Fpnas.0803762105)
 * **Megafuana Extinction**
+  * [Graham RW, et al. (2016) Timing and causes of mid-Holocene mammoth extinction on St. Paul Island, Alaska. PNAS. 113(33): 9310-9314.](https://doi.org/10.1073/pnas.1604903113)
   * [Malhi Y, Doughty CE, Galetti M, Smith FA, Svenning J-C, Terbough JW (2016) Megafauna and ecosystem function from the Pleistocene to the Anthropocene. PNAS. 113(4): 838-846.](https://doi.org/10.1073/pnas.1502540113)
   * [Zazula DG, et al. (2014) American mastodon extirpation in the Arctic and Subarctic predates human colonization and terminal Pleistocene climate change. PNAS. 111(52): 18460-18465.](https://www.pnas.org/content/111/52/18460)
   * [Sergey Zimov, Nikita Zimov (2014). Role of Megafauna and Frozen Soil in the Atmospheric CH4 Dynamics. 9(4): e93331.](https://dx.doi.org/10.1371%2Fjournal.pone.0093331)
@@ -874,8 +877,9 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 
 ### Chocolate Domesticated by Mokaya Culture (1900 BCE)
 
-* [Oldest chocolate in the New World](https://www.antiquity.ac.uk/projgall/powis314/)
+* [Powis TG et al. (2007) Oldest chocolate in the New World. Antiquity. 314(81).](https://www.antiquity.ac.uk/projgall/powis314/)
   * `Our analysis shows that chocolate (Theobroma cacao) was consumed by the Mokaya as early as 1900 BC and by pre-Olmec peoples as early as 1750 BC, pushing back the chemical evidence of cacao use by some 700 years.`
+  * `In the Gulf Coast area, pre-Olmec people were consuming liquid chocolate by 1750 BC, suggesting that the later Olmec civilisation centered at the nearby site of San Lorenzo (1200-900 BC) did the same.`
 
 ### Mokaya - Soconusco, Chiapas, MX (1850 BCE - 650 BCE)
 
@@ -895,11 +899,6 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
 * [Monte Alto Culture](https://en.wikipedia.org/wiki/Monte_Alto_culture)
   * `Many of the Monte Alto sculptures are magnetic as well. Since certain distinctive patterns of magnetism recur with some frequency, it would appear that the sculptures were executed by artisans who were aware of these properties. If this is true, the Monte Alto sculptures no doubt deserve recognition as the oldest known magnetic artifacts in the world.`
-
-### Pre-Olmec People Cultivate Chocolate
-
-* [Oldest chocolate in the New World](https://www.antiquity.ac.uk/projgall/powis314/)
-  * `In the Gulf Coast area, pre-Olmec people were consuming liquid chocolate by 1750 BC, suggesting that the later Olmec civilisation centered at the nearby site of San Lorenzo (1200-900 BC) did the same.`
 
 ### San Lorenzo Tenochtitlán - San Lorenzo, Veracruz, MX - Olmec (1700 BCE - 900 BCE)
 
@@ -959,12 +958,6 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
   Split from the Maya. Very few ethnic Huastecs, most are in North Veracruz and San Luis Potosi.
 
-## Angamuco, Pátzcuaro Basin, Michoacán, Mexico (1325 ± 375 BCE - 1650 CE) - Purepecha
-
-* [Fisher CT et al. (2003) A reexamination of human-induced environmental change within the Lake Pátzcuaro Basin, Michoacán, Mexico. PNAS. 100(8): 4957-4962.](https://doi.org/10.1073/pnas.0630493100)
-* [Fisher CT et al. (2016) The application of airborne mapping LiDAR for the documentation ofancient cities and regions in tropical regions. Quarternary International. In press.](https://www.researchgate.net/profile/Christopher_Fisher10/publication/312345620_The_application_of_airborne_mapping_LiDAR_for_the_documentation_of_ancient_cities_and_regions_in_tropical_regions/links/5be997c5a6fdcc3a8dd1b069/The-application-of-airborne-mapping-LiDAR-for-the-documentation-of-ancient-cities-and-regions-in-tropical-regions.pdf)
-* [Cohen AS, Galaty ML, Fisher CT (2018) Petrographic analysis of ceramics and clay from Angamuco, Michoacán. Journal of Archaeological Science: Reports. 19: 155-165.](https://doi.org/10.1016/j.jasrep.2018.02.035)
-
 ## Ten Thousand Islands - Everglades, Florida, USA (1500 BCE)
 
 * [Rethinking Shell Middens. American Archeological Magazine. 21 Jun. 2018](https://www.archaeologicalconservancy.org/rethinking-shell-middens/)
@@ -1001,10 +994,20 @@ See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
 See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
+## Angamuco, Pátzcuaro Basin, Michoacán, Mexico (1325 ± 375 BCE - 1650 CE) - Purepecha
+
+* [Fisher CT et al. (2003) A reexamination of human-induced environmental change within the Lake Pátzcuaro Basin, Michoacán, Mexico. PNAS. 100(8): 4957-4962.](https://doi.org/10.1073/pnas.0630493100)
+* [Fisher CT et al. (2016) The application of airborne mapping LiDAR for the documentation ofancient cities and regions in tropical regions. Quarternary International. In press.](https://www.researchgate.net/profile/Christopher_Fisher10/publication/312345620_The_application_of_airborne_mapping_LiDAR_for_the_documentation_of_ancient_cities_and_regions_in_tropical_regions/links/5be997c5a6fdcc3a8dd1b069/The-application-of-airborne-mapping-LiDAR-for-the-documentation-of-ancient-cities-and-regions-in-tropical-regions.pdf)
+* [Cohen AS, Galaty ML, Fisher CT (2018) Petrographic analysis of ceramics and clay from Angamuco, Michoacán. Journal of Archaeological Science: Reports. 19: 155-165.](https://doi.org/10.1016/j.jasrep.2018.02.035)
+
 ## Beginning of War in the Americas? (1310 BCE - 1210 BCE)
 
 * [Spencer CS (2003) War and early state formation in Oaxaca, Mexico. PNAS. 100(20): 1185-11187.](https://doi.org/10.1073/pnas.2034992100)
 * [Flannery KV, Marcus J (2003) The origin of war: New 14C dates from ancient Mexico. PNAS. 100(20): 11801-11805.](https://doi.org/10.1073/pnas.1934526100)
+
+## Cacao in Puerto Escondido, Honduras (1300 BCE - 900 BCE)
+
+* [Henderson JS, et al. (2007) Chemical and archaeological evidence for the earliest cacao beverages. PNAS. 104(48): 18937-18940.](https://doi.org/10.1073/pnas.0708815104)
 
 ## Kuntur Wasi (1200 BCE - 50 BCE)
 
@@ -1471,8 +1474,10 @@ Many ball games have been played throughout the Americas. In a testament to a po
 
 A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (and probably earlier, but we have no evidence). Chocolate (theobroma cacao) was also imported around the same time, becoming more popular by 1200 CE.
 
-* [Ritual drinks in the pre-Hispanic US Southwest and Mexican Northwest](http://www.pnas.org/content/112/37/11436.long)
-* [Evidence of cacao use in the Prehispanic American Southwest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2650116/)
+* [Crown PL et al. (2015) Ritual drinks in the pre-Hispanic US Southwest and Mexican Northwest. PNAS. 112 (37) 11436-11442. DOI: 10.1073/pnas.1511799112](http://www.pnas.org/content/112/37/11436.long)
+* [Washburn DK, Washburn WN, Shipkova P (2013) Cacao consumption during the 8th century at Alkali Ridge, southeastern Utah. Journal of Archaeological Science 40(4): 2007–2013. DOI: 10.1016/j.jas.2012.12.017](https://doi.org/10.1016/j.jas.2012.12.017) &mdash; [PDF](https://www.researchgate.net/publication/257155200_Cacao_consumption_during_the_8th_century_at_Alkali_Ridge_southeastern_Utah)
+* [Crown PL, Hurst WJ (2009) Evidence of cacao use in the Prehispanic American Southwest. PNAS. 106(7): 2110–2113. DOI: 10.1073/pnas.0812817106](https://dx.doi.org/10.1073%2Fpnas.0812817106)
+* [Dakin, K., & Wichmann, S. (2000). CACAO AND CHOCOLATE: A Uto-Aztecan perspective. Ancient Mesoamerica, 11(1), 55-75. Retrieved from http://www.jstor.org/stable/26308030](https://www.academia.edu/3093787/Cacao_and_chocolate_A_Uto-Aztecan_perspective)
 
 ### Speaking of trade
 
@@ -1685,6 +1690,8 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
   * [Andrew S Macdougall (2003) Did Native Americans influence the northward migration of plants during the Holocene? Journal of Biogeography. 30(5): 633-647](https://doi.org/10.1046/j.1365-2699.2003.00842.x) &mdash; Also an account of trade networks.
   * [Russell, E.W. & Davis, R.B. (2001) Five centuries of changing forest vegetation in the Northeastern United States. Plant Ecology. 155: 1.](https://doi.org/10.1023/A:1013252117853) &mdash; [PDF](http://www.colby.edu/geology/GE354/Russell_and_Davis_2001.pdf)
   * [William M. Denevan. The Pristine Myth: The Landscape of the Americas in 1492. Notes for Indigenous Conservation Knowledge.](http://jan.ucc.nau.edu/~alcoze/for398/class/pristinemyth.html)
+* **Other**
+  * [Cavanaugh KC, et al. (2019) Climate-driven regime shifts in a mangrove–salt marsh ecotone over the past 250 years. PNAS. 116(43): 21602-21608.](https://doi.org/10.1073/pnas.1902181116)
 
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
 
@@ -1834,7 +1841,6 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 * [Arnold, P. (1994). AN OVERVIEW OF SOUTHERN VERACRUZ ARCHAEOLOGY. Ancient Mesoamerica, 5(2), 215-221. Retrieved from http://www.jstor.org/stable/26307298](https://www.jstor.org/stable/26307298)
 * [Steggerda, M. (1944). Animal Traps and Snares Used by the Maya Indians of Yucatan, Mexico. American Anthropologist, 46(2), new series, 269-272. Retrieved from http://www.jstor.org/stable/663096](https://www.jstor.org/stable/663096)
 * [Campbell, L., Kaufman, T., & Smith-Stark, T. (1986). Meso-America as a Linguistic Area. Language, 62(3), 530-570. doi:10.2307/415477](https://www.jstor.org/stable/415477)
-* [Dakin, K., & Wichmann, S. (2000). CACAO AND CHOCOLATE: A Uto-Aztecan perspective. Ancient Mesoamerica, 11(1), 55-75. Retrieved from http://www.jstor.org/stable/26308030](https://www.academia.edu/3093787/Cacao_and_chocolate_A_Uto-Aztecan_perspective)
 * [Campbell, L., & Kaufman, T. (1976). A Linguistic Look at the Olmecs. American Antiquity, 41(1), 80-89. doi:10.2307/279044](https://www.jstor.org/stable/279044)
 * [Foster, G. (1945). Some Characteristics of Mexican Indian Folklore. The Journal of American Folklore, 58(229), 225-235. doi:10.2307/536611](https://www.jstor.org/stable/536611)
 * [Pringle, Heather. Untouched. National Geographic. Jun. 2014. (Peru, Wari, El Castillo)](https://www.nationalgeographic.com/magazine/2014/06/peru-royal-tomb/)
