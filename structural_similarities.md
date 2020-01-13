@@ -142,6 +142,107 @@ Gateway marking the entrance to a Bhuddhist shrine/stupa.
 
 Gateway marking the entrance to sacred areas in Japan. Associated with both Shinto and the spread of Buddhism.
 
-* [Torii](https://en.wikipedia.org/wiki/Torii)
+* [Wikipedia Contributors, Torii](https://en.wikipedia.org/wiki/Torii)
 
 <img width="640" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Hidatorii.jpg" />
+
+## Houses
+
+There's been other cultures that have similar shelters. Technically, the one on the right looks really similar in design to a wigwam, but it's not made out of the right materials. It's also not the right wood for a tipi or sweatlodge.
+
+Other cultures have similar structures:
+* tipi [ˈtʰipi] from tipestola (Lakota) — https://en.wikipedia.org/wiki/Tipi — I really hate that this doesn't include the names of the similar structures in other Indigenous languages.
+    * ᑐᐱᖅ [tupiq] (ᐃᓄᐃᑦ [Inuit] — https://en.wikipedia.org/wiki/Tupiq
+    * tí, tíbi, wí ([Assiniboine](http://zia.aisri.indiana.edu/~dictsearch/cgi-bin/testengltoxsrchNP.pl?host=zia&pass=&hasfont=0&srchlang=English&srchstring=tent&database=assin&srchtype=OR&sortlang=Indian&sndformat=mp3&maxhits=200&find=Run_Search))
+    * karacaape, káracapiʾ (Pawnee)
+    * niitóyis ([Piikáni/Blackfoot](https://books.google.com/books?id=8x6NBgAAQBAJ&pg=PT460&lpg=PT460&dq=Piik%C3%A1ni+dictionary+tent&source=bl&ots=BCMdu5P8RA&sig=ACfU3U1TN6f47h1uFcpgQCxhuS2VUlGuug&hl=en&sa=X&ved=2ahUKEwjSnfqrqoDnAhXTKM0KHS8eDWwQ6AEwFXoECAoQAQ#v=onepage&q=tipi&f=false))
+    * mîkiwahp ᒦᑭᐊᐧᐦᑊ ([Nehiyaw/Cree](http://www.creedictionary.com/search/index.php?q=m%C3%AEkiwahp&scope=1&cwr=28214))
+    * xamaevee'e ([Tsėhésenėstsestȯtse/Cheyenne](http://cdkc.edu/cheyennedictionary/lexicon/14.htm#e18808))
+    * ts'xwilí ([Yakima](https://journalofmathematicsandculture.files.wordpress.com/2017/12/greene-mukhopadyay.pdf))
+    * coqoycóqoy ([Nimipuu/Nez Perce](https://journalofmathematicsandculture.files.wordpress.com/2017/12/greene-mukhopadyay.pdf))
+    * ashé ([Apsáalooke/Crow](https://dictionary.crowlanguage.org/#/L/ash%C3%A9%20(%C3%AD)))
+    * yadjox`an ([Tonkawa](https://books.google.com/books?id=UHoIAwAAQBAJ&pg=PA146&lpg=PA146&dq=tipi&source=bl&ots=bQb8hiUDxA&sig=ACfU3U2m8zPdWrTtEgSqf9Lkz06IL6V1PQ&hl=en&sa=X&ved=2ahUKEwjfvPfKpoDnAhWJWM0KHQ37DF0Q6AEwEHoECAoQAQ#v=onepage&q=tipi&f=false))
+    * yuunkahni ([Shoshoni](https://shoshoniproject.utah.edu/language-materials/shoshoni-dictionary/dictionary.php?sho_search=&english_search=tipi&search=Search))
+    * lavvu (Sami) — https://en.wikipedia.org/wiki/Lavvu
+    * ćom [t͡ɕom] (Komi) — ( https://en.wikipedia.org/wiki/Chum_(tent)
+        * χot (Khanty)
+        * ćum [t͡ɕum] (Udmurt)
+        * ǯū [d͡ʒuː] (Evenki)
+        * ḿāʔ [mʲaːʔ] (Nenets)
+        * maʔ (Nganasan)
+    * kotcha (Miwok) — https://www.ptreyeslight.com/article/kule-loklo-vision-future-vivified-volunteers
+* yoahti (Sámi) — https://en.wikipedia.org/wiki/Goahti
+* yaranga [jaraŋə] (Chukchi); mengteghaq (Yupighyt) — https://en.wikipedia.org/wiki/Yaranga
+* hooghan [hoːɣan] (Diné/Navajo) — https://en.wikipedia.org/wiki/Hogan
+    * gowąh (Western Apache)
+    * guughą, kuughą (Chiricahua)
+* dugout (need Native names) — https://en.wikipedia.org/wiki/Dugout_(shelter)
+    * earth lodge (need Native names) — https://en.wikipedia.org/wiki/Earth_lodge
+    * pit house (need Native names) — https://en.wikipedia.org/wiki/Pit-house
+    * keekwulee (Chinook Jargon) — https://en.wikipedia.org/wiki/Quiggly_hole
+        * si7xten (St'at'imc)
+        * ulax̂ (Aleut) — https://en.wikipedia.org/wiki/Barabara
+        * tlallancalli (Nahuatl) — https://nahuatl.uoregon.edu/content/tlallancalli
+* umpy ([Jagera](https://en.wikipedia.org/wiki/Turrbal_language)) — https://en.wikipedia.org/wiki/Humpy, https://trove.nla.gov.au/newspaper/article/23130901 <— This particlar article contains some colonial fuckery, they interchange the designs for a wigwôm.
+    * gunyah (?)
+    * dugur (Yidiny) — https://books.google.com/books?id=xNhsTkT6MZ8C&pg=PA91&source=gbs_selected_pages&cad=2#v=onepage&q=dugur&f=false
+    * wurley (?)
+    * mia-mia (?)
+* wigwôm (Abenaki), similar names throughout the Algonquian languages — https://en.wikipedia.org/wiki/Wigwam — Also talks about similar African structures. I don't know why it tries to cover all the similar structure across Turtle Island, that's just wrong.
+    * mîkiwahp ᒦᑭᐊᐧᐦᑊ ([Nehiyaw/Cree](http://www.creedictionary.com/search/index.php?q=m%C3%AEkiwahp&scope=1&cwr=28214))
+    * mīciwāhp (Innu-aimun/Montagnais) 
+    * miigiwaam (Anishinàbemiwin/Algonquin)
+    * wiigiwaam (Ojibwemowin/Anishinaabe)
+    * wikëwam (Unami/Lenape)
+    * wiigwaam (Eastern Ojibwe,Nishnaabemwin)
+    * wigwam (Bodéwadmimwen/Potawatomi)
+    * wikuom (Mi'kmaq)
+    * wiikiaami (Myaamia/Miami-Illinois)
+    * 8ichi8am (Nipmuc)
+    * wiikiyaapi (Meskwakiatoweni/Fox)
+    * wîkiyâpi (Thâkiwâtowêweni/Sauk)
+    * wikiop (Oma͞eqnomenew/Menominee)
+    * vee'e (wiiki) ([Tsėhésenėstsestȯtse/Cheyenne](http://cdkc.edu/cheyennedictionary/lexicon/13.htm#e17402))
+    * ookóówa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
+    * kahni ([Shoshoni](https://shoshoniproject.utah.edu/language-materials/shoshoni-dictionary/dictionary.php?sho_search=&english_search=tipi&search=Search)) — related: gahni (Shoshoni), calli (Nahuatl)
+    * chipoteke (Ho Chunk) — https://commons.wikimedia.org/wiki/File:Chipoteke.jpg, https://www.wisconsinhistory.org/Records/Image/IM7419
+    * aqal (Somali) — https://en.wikipedia.org/wiki/Wigwam#/media/File:Somali_aqal.jpg
+* ger (Mongolian) — https://en.wikipedia.org/wiki/Yurt
+    * kherga (Afghan/Pashto)
+    * yurt (Turkic)
+* Longhouses — https://en.wikipedia.org/wiki/Longhouse
+    * mudhif [muˈdiːf] (Madan/Arabs of the Marshlands) — https://en.wikipedia.org/wiki/Mudhif
+    * xamitl calli (Nahautl), xamitl means adobe, calli means house/dwelling — https://en.wikipedia.org/wiki/Jacal
+    * yi hakan (Powhatan) - https://www.marinersmuseum.org/sites/micro/cbhf/native/nam003.html, https://www.flickr.com/photos/jungle_mama/3218380488
+    * chi'kí (Tachiwin/Totonac) — https://www.flickr.com/photos/30148421@N06/3379436503, https://books.google.com/books?id=pOIzkg4t0bIC&pg=PA759&lpg=PA759&dq=tachiwin+house&source=bl&ots=vsvC9PR6cd&sig=ACfU3U2ssqFzTHuWQhl5ZdVq2WQ3cslq7A&hl=en&sa=X&ved=2ahUKEwjqgp6j3YDnAhUFCs0KHQ3SCXMQ6AEwAnoECAoQAQ#v=onepage&q=tachiwin%20house&f=false
+    * chickee (Seminole/Miccosukee) — https://www.semtribe.com/STOF/culture/chickee
+    * ruka (Mapuche) — https://es.wikipedia.org/wiki/Ruca
+    * oca (Tupi-Guarani) — https://en.wikipedia.org/wiki/Oca_(structure)
+    * shabono (Yanomami) — https://en.wikipedia.org/wiki/Shabono
+* beit al-sha’ar (Bedouin) — http://www.alhakaya.net/product.php?id_product=115 (best picture I could get with some cultural context)
+* baku (Tibetan) — https://www.norlha.com/blogs/life-at-norlha-blog/the-tibetan-tent
+* pole marquee (English) — https://en.wikipedia.org/wiki/Pole_marquee
+* mokhoro (Lesotho) — https://en.wikipedia.org/wiki/Rondavel
+    * tukul (Ethiopia, Sudan) — https://en.wikipedia.org/wiki/Tukul
+    * Roundhouse (Britton) — https://en.wikipedia.org/wiki/Roundhouse_(dwelling)
+    * palloza ([Astures/Hispano-Celtic](https://en.wikipedia.org/wiki/Astures)) — https://es.wikipedia.org/wiki/Palloza, https://web.archive.org/web/20071225122441/http://piornedoceive.iespana.es/estructura_dunha_palloza.htm
+        * teito — https://es.wikipedia.org/wiki/Teito
+    * castro (Hispano-Celtic) — https://en.wikipedia.org/wiki/Castros_(Spain)
+    * crannóg [ˈkɾˠan̪ˠoːɡ] (Irish) — https://en.wikipedia.org/wiki/Crannog, https://www.bbc.com/news/uk-scotland-highlands-islands-48625734
+        * crannag [ˈkʰɾan̪ˠak] (Scottish Gaelic)
+    * broch [ˈbrɒx] (Scottish) - https://en.wikipedia.org/wiki/Broch
+    * beehive house (Bantu) — https://en.wikipedia.org/wiki/Beehive_house
+    * musgum mud huts (Mulwi) — https://en.wikipedia.org/wiki/Musgum_mud_huts
+    * clochán (Celtic) — https://en.wikipedia.org/wiki/Cloch%C3%A1n
+    * trullo (Itallian) — https://en.wikipedia.org/wiki/Trullo
+    * θολωτός τάφος [Tholotos taphos] (Greek [ελληνικά]) — https://en.wikipedia.org/wiki/Beehive_tomb
+
+
+These articles have some cultural context on the ćom and ger structures:
+
+* https://medium.com/@maxsher/a-journey-to-the-center-of-asia-a51c79738667
+* https://www.rbth.com/travel/destinations/siberia/2017/02/07/a-mobile-home-of-skin-and-bone-what-siberian-nomads-houses-are-like_697273
+
+This (despite using a pejorative term) talks about the range of the black tent:
+
+* Angela Manderscheid "The Black Tent in Its Easternmost Distribution: The Case of the Tibetan Plateau," Mountain Research and Development 21(2), 154-160, (1 May 2001). https://doi.org/10.1659/0276-4741(2001)021[0154:TBTIIE]2.0.CO;2
