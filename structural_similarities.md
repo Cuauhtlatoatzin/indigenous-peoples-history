@@ -4,24 +4,33 @@ I've found some interesting similarities between various different cultures and 
 
 ## Mound
 
-* [Wikipedia Contributors. Mound](https://en.wikipedia.org/wiki/Mound)
+* [Wikipedia Contributors, Mound](https://en.wikipedia.org/wiki/Mound)
 * [Houle J-L (2016) Bronze Age Mongolia. Oxford Handbooks.](https://doi.org/10.1093/oxfordhb/9780199935413.013.20)
+
+<img width="640" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/RockEagle1.jpg" />
 
 ### Tumulus
 
-See [Tumulus](https://en.wikipedia.org/wiki/Tumulus). Mound built ovver a burial.
+See [Wikipedia Contributors, Tumulus](https://en.wikipedia.org/wiki/Tumulus). Mound built over a burial.
+
+<img width="640" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gamla_uppsala.jpg/800px-Gamla_uppsala.jpg" />
 
 ### Stupa
 
-See [Stupa](https://en.wikipedia.org/wiki/Stupa). This earliest stupa were domes of earth. This obviously evolved into more complicated patterns seen below.
+See [Wikipedia Contributors, Stupa](https://en.wikipedia.org/wiki/Stupa). This earliest stupa were domes of earth. This obviously evolved into more complicated patterns seen below.
+
+<img width="640" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dharmarajika_stupa%2CTaxila.jpg/640px-Dharmarajika_stupa%2CTaxila.jpg" />
 
 ## Layered Pointy Things
 
 ### "Rock Piles"
 
-Most of the time called other things by regional cultures: cairn (Gaelic), inuksuk + inunnguat (Inuit, Inupiat, Kalaallit, Yupik, etc.), gromila (Croatian), moledro (Portugal), taalo (Somalia), , ovoo (Mongolia), ahu (Hawai'i), seonangdang (Korea), apacheta (Quechua), steinmann (German), steenman (Dutch), kummel (Sweden), varde (Norway), ometto (Italy), hörgr (Old Norse), rujm (Arabic).
+Most of the time called other things by regional cultures: cairn (Gaelic), inuksuk + inunnguat (Inuit, Inupiat, Kalaallit, Yupik, etc.), gromila (Croatian), moledro (Portugal), taalo (Somalia), ovoo (Mongolia), ahu (Hawai'i), seonangdang (Korea), apacheta (Quechua), steinmann (German), steenman (Dutch), kummel (Sweden), varde (Norway), ometto (Italy), hörgr (Old Norse), rujm (Arabic).
 
-See [Cairn](https://en.wikipedia.org/wiki/Cairn)
+See [Wikipedia Contributors, Cairn](https://en.wikipedia.org/wiki/Cairn)
+
+Apachetas in the Andes:
+<img width="640" src="https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2E2N2FmZGFkOTg0MzZhYjNmMjJlNDA5MDkwYzFhNjYxMzhlZDQwOTcuanBnIl0sWyJwIiwidGh1bWIiLCIxMjAweD4iXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgODEgLWF1dG8tb3JpZW50Il1d/a67afdad98436ab3f22e409090c1a66138ed4097.jpg" />
 
 ### Nsude Village Shrine, Abaja, Northern Igbo, Nigeria
 
@@ -29,7 +38,7 @@ Since these are remade and maintained every now and then, it is likely impossibl
 
 * [G.I. Jones Photographic Archive. Southern Illinois University.](https://jonesarchive.siu.edu/?page_id=249)
 * [Basden GT (1966) Among the Igbos of Nigeria 1912: 1912. London: Routlege.](https://books.google.com/books?id=hKssBgAAQBAJ&pg=PA109&lpg=PA109&dq="Two+rows+of+five+are+built+parallel+to+one+another+which+means+that+'Ala'+gives+children+with+the+right+hand+and+the+left."&source=bl&ots=a5Iy_7qi94&sig=ACfU3U2De36c_Cd3SWaqln0HDlnut6vZdA&hl=en&sa=X&ved=2ahUKEwiqu4il5OjkAhVEmuAKHa2HDHEQ6AEwAHoECAYQAQ)
-* [Wikipedia Contributors. Odinani.](https://en.wikipedia.org/wiki/Odinani)
+* [Wikipedia Contributors, Odinani.](https://en.wikipedia.org/wiki/Odinani)
 
 <img  width="640" src="https://jonesarchive.siu.edu/wp-content/uploads/arunsi111.jpg" />
 <img  width="640" src="https://jonesarchive.siu.edu/wp-content/uploads/arunsi10.jpg" />
@@ -38,7 +47,7 @@ Since these are remade and maintained every now and then, it is likely impossibl
 
 Means magnificient bundle. Stone or wood heaps serving as altars or shrines for worshipping heaven, other gods, and sometimes for Buddhism.
 
-* [Ovoo](https://en.wikipedia.org/wiki/Ovoo)
+* [Wikipedia Contributors, Ovoo](https://en.wikipedia.org/wiki/Ovoo)
 
 <img  width="640" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Aobao_in_Hohhot%2C_Inner_Mongolia.jpg" />
 <img  width="640" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Hulubuir.ovoo.jpg" />
@@ -48,7 +57,7 @@ Means magnificient bundle. Stone or wood heaps serving as altars or shrines for 
 
 Very similar to the Ovoo, but predate the arrival of Mongolian invasions to Korea. Given the structural similarity to all the above, it could have just been a very old practice. For the variations of the practice <a href="https://terms.naver.com/entry.nhn?docId=574113&mobile&cid=46655&categoryId=46655">see the pictures here</a>.
 
-* [Seonangdang](https://en.wikipedia.org/wiki/Seonangdang)
+* [Wikipedia Contributors, Seonangdang](https://en.wikipedia.org/wiki/Seonangdang)
 
 <img width="640" src="https://image.shutterstock.com/z/stock-photo-yongin-korea-july-seonangdang-are-trees-or-holy-stone-cairns-which-are-dedicated-to-the-1218482779.jpg" />
 
@@ -75,7 +84,7 @@ This kicks off the tradition of building pyramids. The Great Pyramid of Giza wou
 
 ### Stupa
 
-See [Stupa](https://en.wikipedia.org/wiki/Stupa)
+See [Wikipedia Contributors, Stupa](https://en.wikipedia.org/wiki/Stupa)
 
 According to The Encyclopedia of Tibetan Symbols and Motifs:
 
@@ -91,7 +100,7 @@ In the center of every stupa is a tree of life to which prayer ties are attached
 
 According to lengend, it was constructed around 400 BCE. According to historians, it was constructed in between 500-900 CE. It has been rebuilt and extended numerous times.
 
-* [Shwedagon Pagoda](https://en.wikipedia.org/wiki/Shwedagon_Pagoda)
+* [Wikipedia Contributors, Shwedagon Pagoda](https://en.wikipedia.org/wiki/Shwedagon_Pagoda)
 
 <img  width="640" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Shwedagon_Pagoda_1900.JPG" />
 
@@ -99,9 +108,16 @@ According to lengend, it was constructed around 400 BCE. According to historians
 
 Constructed in 26 BCE according to legend. According to historians, it was likely constructed around 300 BCE.
 
-* [Phra Pathommachedi](https://en.wikipedia.org/wiki/Phra_Pathommachedi)
+* [Wikipedia Contributors, Phra Pathommachedi](https://en.wikipedia.org/wiki/Phra_Pathommachedi)
 
 <img  width="640" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Phrapathomchedireplic06.jpg" />
+
+#### Dravidian (Southern India) Architecture
+
+* [Wikipedia Contributors, Dravidian architecture](https://en.wikipedia.org/wiki/Dravidian_architecture)
+* [Wikipedia Contributors, Tala](https://en.wikipedia.org/wiki/Tala_(Hindu_architecture))
+
+<img width="640" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Shore_Temple_01.jpg/758px-Shore_Temple_01.jpg" />
 
 #### Candi Borobudur
 
@@ -111,14 +127,14 @@ Javanese Mahayana Buddhist temple built around 800 CE.
 
 ## Gateways
 
-See [Torana](https://en.wikipedia.org/wiki/Torana)
+See [Wikipedia Contributors, Torana](https://en.wikipedia.org/wiki/Torana)
 
 ### Torana
 
 Gateway marking the entrance to a Bhuddhist shrine/stupa.
 
-* See the [Four Toranas of Sanchi](https://en.wikipedia.org/wiki/Sanchi#The_Gateways_or_Toranas)
-* Also see [The Remaining Torana of Bharhut](https://en.wikipedia.org/wiki/Bharhut#Structure_and_details)
+* See the [Wikipedia Contributors, Four Toranas of Sanchi](https://en.wikipedia.org/wiki/Sanchi#The_Gateways_or_Toranas)
+* Also see [Wikipedia Contributors, The Remaining Torana of Bharhut](https://en.wikipedia.org/wiki/Bharhut#Structure_and_details)
 
 <img width="640" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/North_Gateway_-_Rear_Side_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4480-4481.JPG/773px-North_Gateway_-_Rear_Side_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4480-4481.JPG" />
 
