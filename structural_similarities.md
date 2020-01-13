@@ -212,6 +212,8 @@ Other cultures have similar structures:
     * yurt (Turkic)
 * Longhouses — https://en.wikipedia.org/wiki/Longhouse
     * mudhif [muˈdiːf] (Madan/Arabs of the Marshlands) — https://en.wikipedia.org/wiki/Mudhif
+    * kanǫhsyǫ́·ni (Kanienʼkéha/Mohawk) — https://en.wikipedia.org/wiki/Iroquois#Names
+    * kanonhséshne (Kanienkeha) — https://kanienkeha.net/buildings/kanonhseshne/, kanónhsa means house (https://kanienkeha.net/buildings/kanonhsa/)
     * xamitl calli (Nahautl), xamitl means adobe, calli means house/dwelling — https://en.wikipedia.org/wiki/Jacal
     * yi hakan (Powhatan) - https://www.marinersmuseum.org/sites/micro/cbhf/native/nam003.html, https://www.flickr.com/photos/jungle_mama/3218380488
     * chi'kí (Tachiwin/Totonac) — https://www.flickr.com/photos/30148421@N06/3379436503, https://books.google.com/books?id=pOIzkg4t0bIC&pg=PA759&lpg=PA759&dq=tachiwin+house&source=bl&ots=vsvC9PR6cd&sig=ACfU3U2ssqFzTHuWQhl5ZdVq2WQ3cslq7A&hl=en&sa=X&ved=2ahUKEwjqgp6j3YDnAhUFCs0KHQ3SCXMQ6AEwAnoECAoQAQ#v=onepage&q=tachiwin%20house&f=false
@@ -220,8 +222,8 @@ Other cultures have similar structures:
     * oca (Tupi-Guarani) — https://en.wikipedia.org/wiki/Oca_(structure)
     * shabono (Yanomami) — https://en.wikipedia.org/wiki/Shabono
 * beit al-sha’ar (Bedouin) — http://www.alhakaya.net/product.php?id_product=115 (best picture I could get with some cultural context)
-* baku (Tibetan) — https://www.norlha.com/blogs/life-at-norlha-blog/the-tibetan-tent
-* pole marquee (English) — https://en.wikipedia.org/wiki/Pole_marquee
+    * baku (Tibetan) — https://www.norlha.com/blogs/life-at-norlha-blog/the-tibetan-tent
+    * pole marquee (English) — https://en.wikipedia.org/wiki/Pole_marquee
 * mokhoro (Lesotho) — https://en.wikipedia.org/wiki/Rondavel
     * tukul (Ethiopia, Sudan) — https://en.wikipedia.org/wiki/Tukul
     * Roundhouse (Britton) — https://en.wikipedia.org/wiki/Roundhouse_(dwelling)
