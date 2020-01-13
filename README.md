@@ -503,7 +503,7 @@ Carnivores from South America found:
 ## El Abra, Columbia (10400 BCE)
 
 * [Wikipedia contributors. (2019, July 14). El Abra. In Wikipedia, The Free Encyclopedia. Retrieved 07:45, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=El_Abra&oldid=906175337)
-* [Giulia Aimola, Camila Andrade,  Leidiana Mota, Fabio Parenti (2014) Final Pleistocene and Early Holocene at Sitio do Meio, Piauí, Brazil: Stratigraphy and comparison with Pedra Furada. Journal of Lithic Studies. 1(2): 5-24](https://doi.org/10.2218/jls.v1i2.1125)
+* [Giulia Aimola, Camila Andrade, Leidiana Mota, Fabio Parenti (2014) Final Pleistocene and Early Holocene at Sitio do Meio, Piauí, Brazil: Stratigraphy and comparison with Pedra Furada. Journal of Lithic Studies. 1(2): 5-24](https://doi.org/10.2218/jls.v1i2.1125)
   * **Also mentioned in the article**
     * Fúquene stadial (12988 BCE - 10488 BCE)
     * Guantivá interstadial (10488 BCE)
@@ -523,9 +523,14 @@ Carnivores from South America found:
 
 ## Meanwhile, across the pond, Göbekli Tepe, Anatolia (9990 ± 30 BC)
 
-This is the first known example of lithic architecture built on a raised platform. Because of how this was found around some of the earliest known agriculture, it sets a little bit of the pattern for what happens as people develop agriculture and temple like structures.
+This is the first known example of lithic architecture built on a raised platform. Because of how this was found around some of the earliest known agriculture, it sets a little bit of the pattern for what happens as people develop agriculture and temple like structures. As it happens there's a lot of psuedoarcheological claims around this, but the evidence points to it being a community center with many more temporary habitations around it:
 
-* [Dietrich O (2016) How old it it? Dating Göbekli Tepe. The Tepe Telegrams. June 22.](https://www.dainst.blog/the-tepe-telegrams/2016/06/22/how-old-ist-it-dating-gobekli-tepe/)
+Articles against the fringe (which all have citations):
+* [Polus R (2017) Göbekli Tepe. Fake Archeology. December 1. Accessed December 14, 2019.](http://www.fakearchaeology.wiki/index.php?title=G%C3%B6bekli_Tepe&oldid=1777)
+* [Heiser M (2014) The Myth of Gobekli Tepe: What the Archaeological Fringe Isn’t Telling You. Paleobabble. Dr. Michael S Heiser Personal Blog. October 16. Accessed December 14, 2019.](https://drmsh.com/the-myth-of-gobekli-tepe-what-the-archaeological-fringe-isnt-telling-you/)
+
+Scholarly Research:
+* [Dietrich O (2016) How old is it? Dating Göbekli Tepe. The Tepe Telegrams. June 22.](https://www.dainst.blog/the-tepe-telegrams/2016/06/22/how-old-ist-it-dating-gobekli-tepe/)
 * [Köksal-Schmidt Ç, Schmidt K (2010) The Göbekli Tepe "Totem Pole". A First Discussion of an Autumn 2010 Discovery (PPN, Southeastern Turkey). Neo-Lithics. 1/10: 74-76.](http://www.exoriente.org/docs/00051.pdf)
 * [Dietrich L, Meister J, Dietrich O, Notroff J, Kiep J, Heeb J, et al. (2019) Cereal processing at Early Neolithic Göbekli Tepe, southeastern Turkey. PLoS ONE 14(5): e0215214.](https://doi.org/10.1371/journal.pone.0215214)
 * Comparison to Maya architecture:
@@ -1704,6 +1709,10 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 * [Becker SK (2013) Health Consequences of Contact on Two Seventeenth-Century Native Groups fromthe Mid-Atlantic Region of Maryland. International Journal of Historical Archeology. 17(4): 713-730.](https://escholarship.org/content/qt33c9x60s/qt33c9x60s.pdf)
 * [Manning SW et al. (2018) Radiocarbon re-dating of contact-era Iroquoian history in northeastern North America. Science Advances. 4(12): eaav0280.](https://dx.doi.org/10.1126%2Fsciadv.aav0280)
 * [Howey MCL, Palace MW, McMichael CH (2016) Geospatial modeling approach to monument construction using Michigan from A.D. 1000–1600 as a case study. PNAS. 113(27): 7443-7448.](https://doi.org/10.1073/pnas.1603450113)
+
+## 1815 Tambora Volcanoe, Sumbawa Island
+
+* [Wood GD (2017) The Volcano That Shrouded the Earth and Gave Birth to a Monster. Nautilus. October 5.](http://nautil.us/issue/53/monsters/the-volcano-that-shrouded-the-earth-and-gave-birth-to-a-monster-rp)
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
 
