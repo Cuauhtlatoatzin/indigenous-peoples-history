@@ -163,6 +163,7 @@ Other cultures have similar structures:
     * niitóyis ([Piikáni/Blackfoot](https://books.google.com/books?id=8x6NBgAAQBAJ&pg=PT460&lpg=PT460&dq=Piik%C3%A1ni+dictionary+tent&source=bl&ots=BCMdu5P8RA&sig=ACfU3U1TN6f47h1uFcpgQCxhuS2VUlGuug&hl=en&sa=X&ved=2ahUKEwjSnfqrqoDnAhXTKM0KHS8eDWwQ6AEwFXoECAoQAQ#v=onepage&q=tipi&f=false))
     * mîkiwahp ᒦᑭᐊᐧᐦᑊ ([Nehiyaw/Cree](http://www.creedictionary.com/search/index.php?q=m%C3%AEkiwahp&scope=1&cwr=28214))
     * xamaevee'e ([Tsėhésenėstsestȯtse/Cheyenne](http://cdkc.edu/cheyennedictionary/lexicon/14.htm#e18808))
+    * cuachcalli (Nahuatl) a suitable word for a tent, but not always accurate — https://nahuatl.uoregon.edu/content/cuachcalli
     * ts'xwilí ([Yakima](https://journalofmathematicsandculture.files.wordpress.com/2017/12/greene-mukhopadyay.pdf))
     * coqoycóqoy ([Nimipuu/Nez Perce](https://journalofmathematicsandculture.files.wordpress.com/2017/12/greene-mukhopadyay.pdf))
     * ashé ([Apsáalooke/Crow](https://dictionary.crowlanguage.org/#/L/ash%C3%A9%20(%C3%AD)))
@@ -226,6 +227,7 @@ Other cultures have similar structures:
     * ruka (Mapuche) — https://es.wikipedia.org/wiki/Ruca
     * oca (Tupi-Guarani) — https://en.wikipedia.org/wiki/Oca_(structure)
     * shabono (Yanomami) — https://en.wikipedia.org/wiki/Shabono
+    * maloca — https://en.wikipedia.org/wiki/Maloca
 * beit al-sha’ar (Bedouin) — http://www.alhakaya.net/product.php?id_product=115 (best picture I could get with some cultural context)
     * baku (Tibetan) — https://www.norlha.com/blogs/life-at-norlha-blog/the-tibetan-tent
     * pole marquee (English) — https://en.wikipedia.org/wiki/Pole_marquee
