@@ -171,9 +171,9 @@ Other cultures have similar structures:
     * yuunkahni ([Shoshoni](https://shoshoniproject.utah.edu/language-materials/shoshoni-dictionary/dictionary.php?sho_search=&english_search=tipi&search=Search))
     * lavvu (Sami) — https://en.wikipedia.org/wiki/Lavvu
     * ćom [t͡ɕom] (Komi) — ( https://en.wikipedia.org/wiki/Chum_(tent)
-        * χot (Khanty)
+        * χot (Khanty) (more affinity with Tlingit hít)
         * ćum [t͡ɕum] (Udmurt)
-        * ǯū [d͡ʒuː] (Evenki)
+        * ǯū [d͡ʒuː] (Evenki) (more affinity with Vuntut Gwich'in zheh)
         * ḿāʔ [mʲaːʔ] (Nenets)
         * maʔ (Nganasan)
     * kotcha (Miwok) — https://www.ptreyeslight.com/article/kule-loklo-vision-future-vivified-volunteers
@@ -194,7 +194,7 @@ Other cultures have similar structures:
     * dugur (Yidiny) — https://books.google.com/books?id=xNhsTkT6MZ8C&pg=PA91&source=gbs_selected_pages&cad=2#v=onepage&q=dugur&f=false
     * wurley (?)
     * mia-mia (?)
-* wigwôm (Abenaki), similar names throughout the Algonquian languages — https://en.wikipedia.org/wiki/Wigwam — Also talks about similar African structures. I don't know why it tries to cover all the similar structure across Turtle Island, that's just wrong.
+* wigwôm (Abenaki), similar names throughout the Algonquian languages — https://en.wikipedia.org/wiki/Wigwam — Also talks about similar African structures. I don't know why it tries to cover all the similar structure across Turtle Island, because not all of them are related. Though from my analysis, a large number of languages all share similar cognates.
     * mîkiwahp ᒦᑭᐊᐧᐦᑊ ([Nehiyaw/Cree](http://www.creedictionary.com/search/index.php?q=m%C3%AEkiwahp&scope=1&cwr=28214))
     * mīciwāhp (Innu-aimun/Montagnais) 
     * miigiwaam (Anishinàbemiwin/Algonquin)
@@ -210,7 +210,7 @@ Other cultures have similar structures:
     * wikiop (Oma͞eqnomenew/Menominee)
     * vee'e (wiiki) ([Tsėhésenėstsestȯtse/Cheyenne](http://cdkc.edu/cheyennedictionary/lexicon/13.htm#e17402))
     * ookóówa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
-    * kahni ([Shoshoni](https://shoshoniproject.utah.edu/language-materials/shoshoni-dictionary/dictionary.php?sho_search=&english_search=tipi&search=Search)) — related: gahni (Shoshoni), calli (Nahuatl)
+    * kahni ([newe ta̲i̲kwappe/Shoshoni](https://shoshoniproject.utah.edu/language-materials/shoshoni-dictionary/dictionary.php?sho_search=&english_search=tipi&search=Search)) — related: gahni (Shoshoni), calli (Nahuatl)
     * chipoteke (Ho Chunk) — https://commons.wikimedia.org/wiki/File:Chipoteke.jpg, https://www.wisconsinhistory.org/Records/Image/IM7419
     * aqal (Somali) — https://en.wikipedia.org/wiki/Wigwam#/media/File:Somali_aqal.jpg
 * ger (Mongolian) — https://en.wikipedia.org/wiki/Yurt
@@ -220,6 +220,7 @@ Other cultures have similar structures:
     * mudhif [muˈdiːf] (Madan/Arabs of the Marshlands) — https://en.wikipedia.org/wiki/Mudhif
     * kanǫhsyǫ́·ni (Kanienʼkéha/Mohawk) — https://en.wikipedia.org/wiki/Iroquois#Names
     * kanonhséshne (Kanienkeha) — https://kanienkeha.net/buildings/kanonhseshne/, kanónhsa means house (https://kanienkeha.net/buildings/kanonhsa/)
+    * xacalli (Nahuatl), a hut made of poles and thatch — https://nahuatl.uoregon.edu/content/xacalli
     * xamitl calli (Nahautl), xamitl means adobe, calli means house/dwelling — https://en.wikipedia.org/wiki/Jacal
     * yi hakan (Powhatan) - https://www.marinersmuseum.org/sites/micro/cbhf/native/nam003.html, https://www.flickr.com/photos/jungle_mama/3218380488
     * chi'kí (Tachiwin/Totonac) — https://www.flickr.com/photos/30148421@N06/3379436503, https://books.google.com/books?id=pOIzkg4t0bIC&pg=PA759&lpg=PA759&dq=tachiwin+house&source=bl&ots=vsvC9PR6cd&sig=ACfU3U2ssqFzTHuWQhl5ZdVq2WQ3cslq7A&hl=en&sa=X&ved=2ahUKEwjqgp6j3YDnAhUFCs0KHQ3SCXMQ6AEwAnoECAoQAQ#v=onepage&q=tachiwin%20house&f=false
@@ -246,7 +247,6 @@ Other cultures have similar structures:
     * trullo (Itallian) — https://en.wikipedia.org/wiki/Trullo
     * θολωτός τάφος [Tholotos taphos] (Greek [ελληνικά]) — https://en.wikipedia.org/wiki/Beehive_tomb
 
-
 These articles have some cultural context on the ćom and ger structures:
 
 * https://medium.com/@maxsher/a-journey-to-the-center-of-asia-a51c79738667
@@ -255,3 +255,64 @@ These articles have some cultural context on the ćom and ger structures:
 This (despite using a pejorative term) talks about the range of the black tent:
 
 * Angela Manderscheid "The Black Tent in Its Easternmost Distribution: The Case of the Tibetan Plateau," Mountain Research and Development 21(2), 154-160, (1 May 2001). https://doi.org/10.1659/0276-4741(2001)021[0154:TBTIIE]2.0.CO;2
+
+
+The stem for many of the words for house/hut/camp shows some very interesting similarities, even  across multiple linguistic branches. These are cognates for house or hut:
+* Mongolian: ger
+* Afghan/Pashto: kherga
+* Algonkian
+    * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
+    * mi-*kiwah-p (Nehiyaw/Cree)
+    * mi-*ciwāh-p (Innu-aimun/Montagnais)
+    * mii/wii-*giwaa-m (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
+    * wi-*këwa-m (Unami/Lenape)
+    * wii-*gwa(a)-m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
+    * wi-*kuo-m (Mi'kmaq)
+    * wi-*kiaa-mi (Myaamia/Miami-Illinois)
+    * 8i-*chi8a-m (Nipmuc)
+    * wii-*kiyaa-pi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
+    * wi-*kio-p (Oma͞eqnomenew/Menominee)
+    * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
+    * *kanónh-sa (Kanienʼkéha/Mohawk)
+    * ᎦᎵᏦᏕ[galitsode] (Tsalagi/Cherokee) (not sure of the stem)
+* Uto-Aztecan
+    * \*kah-ni / *gah-ni (newe ta̲i̲kwappe/Shoshoni)
+    * *ca-lli (Nahuatl)
+    * *ka-ri (Yoeme/Yaqui)
+    * *kii-hu (Hopílavayi/Hopi)
+    * *kii-y (Tongva)
+    * *ki-h (O'odham)
+    * *kí-sh (vilyuat/Cahuila)
+* Athabaskan
+    * *ki-n (Diné bizaad/Navajo)
+    * *kų́-ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
+    * qenqʔa (Kahtnuht'ana Qenaga/Kenaitze)
+* Yenesian
+    * *quˀs (Ket)
+* Uralic
+    * *ko-ta (Finnish)
+    * *χo-t (Khanty) (more affinity with Tlingit hít)
+    * *ćo-m [t͡ɕom] (Komi)
+    * *ću-m [t͡ɕum] (Udmurt)
+    * kunyhó (Hungarian)
+* Tungusic
+    * ǯū [d͡ʒuː] (Evenki) (more affinity with Vuntut Gwich'in zheh)
+* Somali: aqal
+* Welsh: cwt[kʊt]
+* Arabic: كوخ[kukh]
+* Hindi: कुटिया[kutiya] (not sure of the stem)
+* Japanese: 小屋[koya] (also not sure of the stem)
+
+Other References:
+
+Wiktionary Contributors. Appendix:Uto-Aztecan Swadesh lists. Wiktionary. https://en.wiktionary.org/wiki/Appendix:Uto-Aztecan_Swadesh_lists
+
+Wiktionary Contributors. Appendix:Dené-Yeniseian Swadesh lists. Wiktionary. https://en.wiktionary.org/wiki/Appendix:Den%C3%A9-Yeniseian_Swadesh_lists
+
+https://www.sealaskaheritage.org/programs/language%20resources/tlingit_dictionary_web.pdf
+
+https://www.firstvoices.com/explore/FV/sections/Data/Athabascan/Gwich'in/Vuntut%20Gwich'in/learn/words/categories/9b2c98b1-bf80-4832-97ad-a2a577773226
+
+http://web.kpc.alaska.edu/denaina/pages/vocabulary_pages/houses_shelters_caches.html
+
+Edward Vajda, Andrey Nefedov. 2009. Ket vocabulary. In: Haspelmath, Martin & Tadmor, Uri (eds.) World Loanword Database.Leipzig: Max Planck Institute for Evolutionary Anthropology, 1262 entries. (Available online at http://wold.clld.org/vocabulary/18, Accessed on 2020-01-16.) quˀs https://wold.clld.org/word/72262144982866058
