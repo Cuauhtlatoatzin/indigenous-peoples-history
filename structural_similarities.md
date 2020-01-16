@@ -21,6 +21,11 @@ See [Wikipedia Contributors, Stupa](https://en.wikipedia.org/wiki/Stupa). This e
 
 <img width="640" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dharmarajika_stupa%2CTaxila.jpg/640px-Dharmarajika_stupa%2CTaxila.jpg" />
 
+### The White Sulde Temple
+
+See: https://en.wikipedia.org/wiki/S%C3%BClde_Tngri
+
+<img width="640" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_yard_leading_to_The_White_Sulde_Temple.jpg/800px-The_yard_leading_to_The_White_Sulde_Temple.jpg" />
 ## Layered Pointy Things
 
 ### "Rock Piles"
