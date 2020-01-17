@@ -257,24 +257,25 @@ This (despite using a pejorative term) talks about the range of the black tent:
 * Angela Manderscheid "The Black Tent in Its Easternmost Distribution: The Case of the Tibetan Plateau," Mountain Research and Development 21(2), 154-160, (1 May 2001). https://doi.org/10.1659/0276-4741(2001)021[0154:TBTIIE]2.0.CO;2
 
 
-The stem for many of the words for house/hut/camp shows some very interesting similarities, even  across multiple linguistic branches. These are cognates for house or hut:
+The stem for many of the words for house/hut/camp shows some very interesting similarities, even  across multiple linguistic branches. These seem to fall into more of geographic groupings. These are cognates for house or hut:
 * Mongolian: ger
 * Afghan/Pashto: kherga
 * Algonkian
-    * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
-    * mi-*kiwah-p (Nehiyaw/Cree)
-    * mi-*ciwāh-p (Innu-aimun/Montagnais)
-    * mii/wii-*giwaa-m (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
-    * wi-*këwa-m (Unami/Lenape)
-    * wii-*gwa(a)-m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
     * wi-*kuo-m (Mi'kmaq)
     * wi-*kiaa-mi (Myaamia/Miami-Illinois)
     * 8i-*chi8a-m (Nipmuc)
-    * wii-*kiyaa-pi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
     * wi-*kio-p (Oma͞eqnomenew/Menominee)
+    * wii-*gwa(a)-m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
+    * wii-*kiyaa-pi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
+    * mii/wii-*giwaa-m (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
+    * mi-*kiwah-p (Nehiyaw/Cree)
+    * mi-*ciwāh-p (Innu-aimun/Montagnais)
     * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
+    * wi-*këwa-m (Unami/Lenape)
+    * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
     * *kanónh-sa (Kanienʼkéha/Mohawk)
     * ᎦᎵᏦᏕ[galitsode] (Tsalagi/Cherokee) (not sure of the stem)
+* Somali: aqal
 * Uto-Aztecan
     * \*kah-ni / *gah-ni (newe ta̲i̲kwappe/Shoshoni)
     * *ca-lli (Nahuatl)
@@ -285,22 +286,21 @@ The stem for many of the words for house/hut/camp shows some very interesting si
     * *kí-sh (vilyuat/Cahuila)
 * Athabaskan
     * *ki-n (Diné bizaad/Navajo)
-    * *kų́-ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
     * qenqʔa (Kahtnuht'ana Qenaga/Kenaitze)
+    * *kų́-ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
 * Yenesian
     * *quˀs (Ket)
+* Welsh: cwt[kʊt]
+* Hindi: कुटिया[kutiya] (not sure of the stem)
+* Arabic: كوخ[kukh]
+* Tungusic
+    * ǯū [d͡ʒuː] (Evenki) (more affinity with Vuntut Gwich'in zheh)
 * Uralic
+    * *ću-m [t͡ɕum] (Udmurt)
+    * kunyhó (Hungarian)
     * *ko-ta (Finnish)
     * *χo-t (Khanty) (more affinity with Tlingit hít)
     * *ćo-m [t͡ɕom] (Komi)
-    * *ću-m [t͡ɕum] (Udmurt)
-    * kunyhó (Hungarian)
-* Tungusic
-    * ǯū [d͡ʒuː] (Evenki) (more affinity with Vuntut Gwich'in zheh)
-* Somali: aqal
-* Welsh: cwt[kʊt]
-* Arabic: كوخ[kukh]
-* Hindi: कुटिया[kutiya] (not sure of the stem)
 * Japanese: 小屋[koya] (also not sure of the stem)
 
 Other References:
