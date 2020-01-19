@@ -23,9 +23,12 @@ See [Wikipedia Contributors, Stupa](https://en.wikipedia.org/wiki/Stupa). This e
 
 ### The White Sulde Temple
 
+This has barrowed more recent stylistic characteristics.
+
 See: https://en.wikipedia.org/wiki/S%C3%BClde_Tngri
 
 <img width="640" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_yard_leading_to_The_White_Sulde_Temple.jpg/800px-The_yard_leading_to_The_White_Sulde_Temple.jpg" />
+
 ## Layered Pointy Things
 
 ### "Rock Piles"
@@ -75,7 +78,7 @@ This rework of a previous mastaba-like structure to add another few levels.
 * [Melis MG (2011) Monte d’Accoddi and the end of the Neolithic in Sardinia (Italy). Documenta Praehistorica XXXVIII. DOI: 10.4312\dp.38.16](https://web.archive.org/web/20160304001503/http://arheologija.ff.uni-lj.si/documenta/pdf38/38_16.pdf)
 * [Contu E. (2000) "L’altare di Monte d’Accoddi e il territorio circostante" L'altare prstoico di Monte D'accooddi. Sardenga Archeologica. Delfino C ed.](https://web.archive.org/web/20060901012459/http://www.sardegnacultura.it/documenti/7_4_20060402100930.pdf)
 
-<img  width="640" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Sassari_-_Complesso_prenuragico_di_Monte_d%27Accoddi_%2804%29.JPG" />
+<img  width="640" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sassari_-_Complesso_prenuragico_di_Monte_d%27Accoddi_%2804%29.JPG/640px-Sassari_-_Complesso_prenuragico_di_Monte_d%27Accoddi_%2804%29.JPG" />
 
 #### Djoser Pyramid, Saqqara, Egypt (~2680 BCE)
 
@@ -233,13 +236,16 @@ Other cultures have similar structures:
     * baku (Tibetan) — https://www.norlha.com/blogs/life-at-norlha-blog/the-tibetan-tent
     * pole marquee (English) — https://en.wikipedia.org/wiki/Pole_marquee
 * mokhoro (Lesotho) — https://en.wikipedia.org/wiki/Rondavel
-    * tukul (Ethiopia, Sudan) — https://en.wikipedia.org/wiki/Tukul
     * Roundhouse (Britton) — https://en.wikipedia.org/wiki/Roundhouse_(dwelling)
     * palloza ([Astures/Hispano-Celtic](https://en.wikipedia.org/wiki/Astures)) — https://es.wikipedia.org/wiki/Palloza, https://web.archive.org/web/20071225122441/http://piornedoceive.iespana.es/estructura_dunha_palloza.htm
-        * teito — https://es.wikipedia.org/wiki/Teito
+    * teito (Asturias) — https://es.wikipedia.org/wiki/Teito
+    * tukul (Ethiopia, Sudan) — https://en.wikipedia.org/wiki/Tukul
     * castro (Hispano-Celtic) — https://en.wikipedia.org/wiki/Castros_(Spain)
     * crannóg [ˈkɾˠan̪ˠoːɡ] (Irish) — https://en.wikipedia.org/wiki/Crannog, https://www.bbc.com/news/uk-scotland-highlands-islands-48625734
         * crannag [ˈkʰɾan̪ˠak] (Scottish Gaelic)
+        * type of bothan (Scots Gaelic), both (Irish), bwth (Welsh)
+            * possibly derrived through: ቤት[bēti] (Amharic), בַּיִת[báyit] (Hebrew), بيت[báyt] (Arabic), baku (Tibetan)
+            * seems related to: bukka (Hausa, but likely borrowed from Benue-Congo), buu (Manchu), bwth (Welsh), both (Irish), bothan (Scots Gaelic), bude (German), būda (Latvian, Slovak), [obi (Igbo)]?, [gubug (Javanese)]?
     * broch [ˈbrɒx] (Scottish) - https://en.wikipedia.org/wiki/Broch
     * beehive house (Bantu) — https://en.wikipedia.org/wiki/Beehive_house
     * musgum mud huts (Mulwi) — https://en.wikipedia.org/wiki/Musgum_mud_huts
@@ -256,52 +262,117 @@ This (despite using a pejorative term) talks about the range of the black tent:
 
 * Angela Manderscheid "The Black Tent in Its Easternmost Distribution: The Case of the Tibetan Plateau," Mountain Research and Development 21(2), 154-160, (1 May 2001). https://doi.org/10.1659/0276-4741(2001)021[0154:TBTIIE]2.0.CO;2
 
+### Possible Linguistic Connections
+The stem for many of the words for house/hut/camp shows some very interesting similarities, even across multiple linguistic branches. These seem to fall into more of geographic groupings. I'm not sure if this is a very old word, or more of a Wanderwort. Likely, the words spread over a long time through diffusion. These are cognates for house, hut, dwelling, etc. Roots/stems marked with '*':
 
-The stem for many of the words for house/hut/camp shows some very interesting similarities, even  across multiple linguistic branches. These seem to fall into more of geographic groupings. These are cognates for house or hut:
-* Mongolian: ger
-* Afghan/Pashto: kherga
-* Algonkian
-    * wi-*kuo-m (Mi'kmaq)
-    * wi-*kiaa-mi (Myaamia/Miami-Illinois)
-    * 8i-*chi8a-m (Nipmuc)
-    * wi-*kio-p (Oma͞eqnomenew/Menominee)
-    * wii-*gwa(a)-m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
-    * wii-*kiyaa-pi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
-    * mii/wii-*giwaa-m (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
-    * mi-*kiwah-p (Nehiyaw/Cree)
-    * mi-*ciwāh-p (Innu-aimun/Montagnais)
-    * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
-    * wi-*këwa-m (Unami/Lenape)
-    * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
-    * *kanónh-sa (Kanienʼkéha/Mohawk)
-    * ᎦᎵᏦᏕ[galitsode] (Tsalagi/Cherokee) (not sure of the stem)
+Hut/House (\*qu/\*qa/*gi):
 * Somali: aqal
+* Afghan/Pashto: kherga
+* Mongolian: ger
+* Algonkian
+    * *gu
+        * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
+        * wi-*kuo-m (Mi'kmaq)
+    * *gi
+        * wi-*kiaa-mi (Myaamia/Miami-Illinois)
+        * 8i-*chi8a-m (Nipmuc)
+        * wi-*kio-p (Oma͞eqnomenew/Menominee)
+        * wii-*kiyaa-pi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
+        * mii/wii-*giwaa-m (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
+            * wii-*gwa(a)-m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
+        * mi-*kiwah-p (Nehiyaw/Cree)
+        * mi-*ciwāh-p (Innu-aimun/Montagnais)
+        * wi-*këwa-m (Unami/Lenape)
+        * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
+* Iroqouian
+    * *kanónh-sa (Kanienʼkéha/Mohawk)
+    * ᎦᎵᏦᏕ[ga-li-tso-de] (Tsalagi/Cherokee) (The stem is likely ᎦᎵᏦᏗ [galitsodi]; Contrast with: ᎦᎵᏦᎯᏓ [galitsohida] fat; ᎦᎵᏦᎯᏛ [galitsohidv] tallow, fatty; ᎦᎵᏦᎢᏛ [galitsoidv] fatness)
+        * ᎦᎵᏦᏓᏗ[ga-li-tso-da-di] (Tsalagi/Cherokee) tent
+        * Likely not related linguistically to any of the other words here.
 * Uto-Aztecan
-    * \*kah-ni / *gah-ni (newe ta̲i̲kwappe/Shoshoni)
-    * *ca-lli (Nahuatl)
-    * *ka-ri (Yoeme/Yaqui)
-    * *kii-hu (Hopílavayi/Hopi)
-    * *kii-y (Tongva)
-    * *ki-h (O'odham)
-    * *kí-sh (vilyuat/Cahuila)
+    * *ga
+        * \*kah-ni / *gah-ni (newe ta̲i̲kwappe/Shoshoni) (affinity with Kanienʼkéha *kanónh)
+        * *ca-lli (Nahuatl)
+        * *ka-ri (Yoeme/Yaqui)
+    * *gi
+        * *kii-hu (Hopílavayi/Hopi)
+        * *kii-y (Tongva)
+        * *ki-h (O'odham)
+        * *kí-sh (vilyuat/Cahuila)
 * Athabaskan
-    * *ki-n (Diné bizaad/Navajo)
+    * *ki-n (Diné bizaad/Navajo) (affinity with Uto-Aztecan *ki)
     * qenqʔa (Kahtnuht'ana Qenaga/Kenaitze)
-    * *kų́-ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
-* Yenesian
-    * *quˀs (Ket)
-* Welsh: cwt[kʊt]
-* Hindi: कुटिया[kutiya] (not sure of the stem)
-* Arabic: كوخ[kukh]
-* Tungusic
-    * ǯū [d͡ʒuː] (Evenki) (more affinity with Vuntut Gwich'in zheh)
-* Uralic
-    * *ću-m [t͡ɕum] (Udmurt)
-    * kunyhó (Hungarian)
-    * *ko-ta (Finnish)
-    * *χo-t (Khanty) (more affinity with Tlingit hít)
-    * *ćo-m [t͡ɕom] (Komi)
-* Japanese: 小屋[koya] (also not sure of the stem)
+    * *kų́-ę́ (ᑌᓀ ᒐ Dene-thah/Slavey) (affinity with *qu)
+    * zheh (Vuntut Gwich'in) (affinity with Chinese zhàng and zhái)
+* *qu
+    * Welsh: cwt[kʊt]
+    * Hindi: कुटिया[kutiya] (not sure of the stem)
+    * Arabic: كوخ[kukh]
+    * Yenesian: *quˀs (Ket)
+    * Uralic
+        * *ku/o
+            * kunyhó (Hungarian)
+            * *ko-ta (Finnish)
+            * *χo-t (Khanty) (affinity with Tlingit hít)
+    * Japanese
+        * *ku
+            * 宅 [ta-*ku] - home, which uses the same symbol as Chinese [zhái]
+            * 家宅 [ka-ta-*ku] - house (家 [ie] - house, but pronounced [ka] in this word)
+            * 家屋 [kao-*ku] - house (家 [ie] - house, but pronounced [kao] in this word)
+                * 小屋 [ko-*ya] - hut (小 [ko] — small; 屋 [ya] — shop, but is pronounced as ku in 家屋 [kao-*ku], perhaps this evolved into [ya])
+            * 生息 [se-i-so-*ku] - habitat
+* *d͡ʒuː
+    * Evenks (Previously "Tungusic" but that means "pig", so don't be an asshole — use Evenks)
+        * ǯū [d͡ʒuː] (Evenki) (affinity with Vuntut Gwich'in zheh, connected to Chinese 住 [zhù] and Japanese 住 [jū])
+    * Uralic
+        * *t͡ɕ(o/u)m
+            * *ćo-m [t͡ɕom] (Komi)
+            * *ću-m [t͡ɕum] (Udmurt)
+    * Japonese
+        * *d͡ʒuː
+            * 住 [jū] - living, dwelling, same symbol as Chinese [zhù]
+            * 住居 [jū-kyo] - residence, dwelling, house (居 [i] — residence)
+            * 住家 [jū-ka] - dwelling, residence (家 [ie] - house)
+    * Chinese
+        * *d͡ʒuː
+            * 住 [zhù] - verb: live, dwell, reside, stop, bide, fare
+            * 住宅 [zhù-*zhái] - residence, dwelling
+        * 宅 [*zhái] - residence, abode, habitation
+        * 帳 [*zhàng] - tent, mosquito net, most commonly now used as 'account', 'debt', 'credit'.
+            * 帳篷 [*zhàng-péng] - tent, wigwam (篷 [péng] - canopy, sail)
+            * 篷帳 [péng *zhàng] - tent
+            * 营帐 [yíng-*zhàng] - tent (营 [yíng] - camp)
+
+Roof/Hut (\*tu/*ate):
+* hateup (Sudanese)
+    * atap (Malay, Indonesian, Javanese)
+    * atipan v. (Filipino) — to roof
+    * *tʊ
+        * toit [tʊʷa] (French)
+        * տուն [tun] (Armenian) — people argue it comes from *dṓm in Proto-Indo-European, but I'm going to argue against that.
+        * tukul (Ethiopia, Sudan)
+    * *tɨɣ (Proto-Brythonic)
+        * tig [tɪɡ] (Old Welsh)
+            * tŷ [tɨː] (Welsh)
+    * *tɜɣ
+        * teach [tʲæːx] (Irish)
+        * taigh [tʰɤj] (Scots Gaelic)
+        * tectum (Latin)
+        * τέγος [tégos] (Proto-Hellenic)
+        * στέγος [stégos] - Proto-Hellenic
+        * *tɜt(ʃ)
+            * tettu (Corsican)
+            * tető (Hungarian)
+            * teto (Portuguese)
+            * teito (Asturias)
+            * techo [tɜtʃo] (Spanish) - roof
+            * etxe [ɜtʃɜ] (Basque)
+    * *tɑɣ
+        * tag (Danish)
+        * tak (Swedish, Norwegian)
+        * þak (Icelandic)
+    * t'ara (Amharic)
+    * tafo (Malagasy)
 
 Other References:
 
