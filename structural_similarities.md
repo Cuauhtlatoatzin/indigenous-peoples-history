@@ -368,9 +368,9 @@ Roof/Hut (\*tu/*ate):
         * *tɜɣ
             * teach [tʲæːx] (Irish)
             * taigh [tʰɤj] (Scots Gaelic)
-            * tectum (Latin)
             * τέγος [tégos] (Proto-Hellenic)
             * στέγος [stégos] - Proto-Hellenic
+            * tectum (Latin)
             * *tɜt(ʃ)
                 * tettu (Corsican)
                 * tető (Hungarian)
