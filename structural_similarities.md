@@ -272,18 +272,19 @@ Hut/House (\*qu/\*qa/*gi):
 * Algonkian
     * *gu
         * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
-        * wi-*kuo-m (Mi'kmaq)
-    * *gi
-        * wi-*kiaa-mi (Myaamia/Miami-Illinois)
-        * 8i-*chi8a-m (Nipmuc)
-        * wi-*kio-p (Oma͞eqnomenew/Menominee)
-        * wii-*kiyaa-pi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
-        * mii/wii-*giwaa-m (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
-            * wii-*gwa(a)-m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
-        * mi-*kiwah-p (Nehiyaw/Cree)
-        * mi-*ciwāh-p (Innu-aimun/Montagnais)
-        * wi-*këwa-m (Unami/Lenape)
+        * wi-*ku-om (Mi'kmaq)
+    * *ge
+        * wi-*këwam (Unami/Lenape)
         * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
+    * *gi
+        * mii/wii-*giwaam (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
+            * wii-*gwa(a)m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
+        * 8i-*chi8am (Nipmuc)
+        * wi-*kiaami (Myaamia/Miami-Illinois)
+        * mi-*kiwahp (Nehiyaw/Cree)
+        * mi-*ciwāhp (Innu-aimun/Montagnais)
+        * wii-*kiyaapi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
+        * wi-*kiop (Oma͞eqnomenew/Menominee)
 * Iroqouian
     * *kanónh-sa (Kanienʼkéha/Mohawk)
     * ᎦᎵᏦᏕ[ga-li-tso-de] (Tsalagi/Cherokee) (The stem is likely ᎦᎵᏦᏗ [galitsodi]; Contrast with: ᎦᎵᏦᎯᏓ [galitsohida] fat; ᎦᎵᏦᎯᏛ [galitsohidv] tallow, fatty; ᎦᎵᏦᎢᏛ [galitsoidv] fatness)
