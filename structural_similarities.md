@@ -180,7 +180,7 @@ Other cultures have similar structures:
         * ḿāʔ [mʲaːʔ] (Nenets)
         * maʔ (Nganasan)
     * kotcha (Miwok) — https://www.ptreyeslight.com/article/kule-loklo-vision-future-vivified-volunteers
-* yoahti (Sámi) — https://en.wikipedia.org/wiki/Goahti
+* goahti (Sámi) — https://en.wikipedia.org/wiki/Goahti
 * yaranga [jaraŋə] (Chukchi); mengteghaq (Yupighyt) — https://en.wikipedia.org/wiki/Yaranga
 * hooghan [hoːɣan] (Diné/Navajo) — https://en.wikipedia.org/wiki/Hogan
     * gowąh (Western Apache)
@@ -310,18 +310,28 @@ Hut/House (\*qu/*qa):
     * Arabic: كوخ[kukh]
     * Yenesian: *quˀs (Ket)
     * Athabaskan: kų́ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
-    * Uralic
-        * *ku/o
+    * *ku
+        * Uralic
             * kunyhó (Hungarian)
-            * *ko-ta (Finnish)
-            * *χo-t (Khanty) (affinity with Tlingit hít)
-    * Japanese
-        * *ku
+        * Japanese
             * 宅 [ta-*ku] - home, which uses the same symbol as Chinese [zhái]
             * 家宅 [ka-ta-*ku] - house (家 [ie] - house, but pronounced [ka] in this word)
             * 家屋 [kao-*ku] - house (家 [ie] - house, but pronounced [kao] in this word)
                 * 小屋 [ko-*ya] - hut (小 [ko] — small; 屋 [ya] — shop, but is pronounced as ku in 家屋 [kao-*ku], perhaps this evolved into [ya])
             * 生息 [se-i-so-*ku] - habitat
+    * *ko
+        * Miwok: kotcha
+        * Uralic
+            * *ko-ta (Finnish)
+            * *χo-t (Khanty) (affinity with Tlingit hít)
+    * *go
+        * Northern Sámi: goahti
+            * goahte (Lule Sámi)
+            * gåetie (Southern Sámi)
+            * gåhte (Pite Sámi)
+            * gåhtie (Ume Sámi)
+        * Western Apache: gowąh
+        * Chiricahua: guughą, kuughą
 * *d͡ʒuː
     * Evenks (Previously "Tungusic" but that means "pig", so don't be an asshole — use Evenks)
         * ǯū [d͡ʒuː] (Evenki) (affinity with Vuntut Gwich'in zheh, connected to Chinese 住 [zhù] and Japanese 住 [jū])
