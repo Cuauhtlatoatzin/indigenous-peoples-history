@@ -265,7 +265,7 @@ This (despite using a pejorative term) talks about the range of the black tent:
 ### Possible Linguistic Connections
 The stem for many of the words for house/hut/camp shows some very interesting similarities, even across multiple linguistic branches. These seem to fall into more of geographic groupings. I'm not sure if this is a very old word, or more of a Wanderwort. Likely, the words spread over a long time through diffusion. These are cognates for house, hut, dwelling, etc. Roots/stems marked with '*':
 
-Hut/House (\*qu/\*qa/*gi):
+Hut/House (\*qu/*qa):
 * Somali: aqal
 * Afghan/Pashto: kherga
 * Mongolian: ger
@@ -300,16 +300,14 @@ Hut/House (\*qu/\*qa/*gi):
         * *kii-y (Tongva)
         * *ki-h (O'odham)
         * *kí-sh (vilyuat/Cahuila)
-* Athabaskan
-    * *ki-n (Diné bizaad/Navajo) (affinity with Uto-Aztecan *ki)
-    * qenqʔa (Kahtnuht'ana Qenaga/Kenaitze)
-    * *kų́-ę́ (ᑌᓀ ᒐ Dene-thah/Slavey) (affinity with *qu)
-    * zheh (Vuntut Gwich'in) (affinity with Chinese zhàng and zhái)
+        * Athabaskan: kin (Diné bizaad/Navajo) (affinity with Uto-Aztecan *ki)
+* Athabaskan: qenqʔa (Kahtnuht'ana Qenaga/Kenaitze)
 * *qu
     * Welsh: cwt[kʊt]
     * Hindi: कुटिया[kutiya] (not sure of the stem)
     * Arabic: كوخ[kukh]
     * Yenesian: *quˀs (Ket)
+    * Athabaskan: kų́ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
     * Uralic
         * *ku/o
             * kunyhó (Hungarian)
@@ -325,55 +323,59 @@ Hut/House (\*qu/\*qa/*gi):
 * *d͡ʒuː
     * Evenks (Previously "Tungusic" but that means "pig", so don't be an asshole — use Evenks)
         * ǯū [d͡ʒuː] (Evenki) (affinity with Vuntut Gwich'in zheh, connected to Chinese 住 [zhù] and Japanese 住 [jū])
-    * Uralic
-        * *t͡ɕ(o/u)m
+    * Chinese
+        * 住 [zhù] - verb: live, dwell, reside, stop, bide, fare
+        * 住宅 [zhù-*zhái] - residence, dwelling
+    * Japonese
+        * 住 [jū] - living, dwelling, same symbol as Chinese [zhù]
+        * 住居 [jū-kyo] - residence, dwelling, house (居 [i] — residence)
+        * 住家 [jū-ka] - dwelling, residence (家 [ie] - house)
+    * *t͡ɕ(o/u)m
+        * Uralic
             * *ćo-m [t͡ɕom] (Komi)
             * *ću-m [t͡ɕum] (Udmurt)
-    * Japonese
-        * *d͡ʒuː
-            * 住 [jū] - living, dwelling, same symbol as Chinese [zhù]
-            * 住居 [jū-kyo] - residence, dwelling, house (居 [i] — residence)
-            * 住家 [jū-ka] - dwelling, residence (家 [ie] - house)
-    * Chinese
-        * *d͡ʒuː
-            * 住 [zhù] - verb: live, dwell, reside, stop, bide, fare
-            * 住宅 [zhù-*zhái] - residence, dwelling
-        * 宅 [*zhái] - residence, abode, habitation
-        * 帳 [*zhàng] - tent, mosquito net, most commonly now used as 'account', 'debt', 'credit'.
-            * 帳篷 [*zhàng-péng] - tent, wigwam (篷 [péng] - canopy, sail)
-            * 篷帳 [péng *zhàng] - tent
-            * 营帐 [yíng-*zhàng] - tent (营 [yíng] - camp)
+    * *ʑɜː
+        * Athabaskan: zheh (Vuntut Gwich'in) (affinity with Chinese zhàng and zhái)
+        * Chinese
+            * 宅 [*zhái] - residence, abode, habitation
+            * 帳 [*zhàng] - tent, mosquito net, most commonly now used as 'account', 'debt', 'credit'.
+                * 帳篷 [*zhàng-péng] - tent, wigwam (篷 [péng] - canopy, sail)
+                * 篷帳 [péng *zhàng] - tent
+                * 营帐 [yíng-*zhàng] - tent (营 [yíng] - camp)
 
 Roof/Hut (\*tu/*ate):
-* hateup (Sudanese)
+* *hatep
     * atap (Malay, Indonesian, Javanese)
     * atipan v. (Filipino) — to roof
-    * *tʊ
-        * toit [tʊʷa] (French)
-        * տուն [tun] (Armenian) — people argue it comes from *dṓm in Proto-Indo-European, but I'm going to argue against that.
-        * tukul (Ethiopia, Sudan)
-    * *tɨɣ (Proto-Brythonic)
-        * tig [tɪɡ] (Old Welsh)
-            * tŷ [tɨː] (Welsh)
-    * *tɜɣ
-        * teach [tʲæːx] (Irish)
-        * taigh [tʰɤj] (Scots Gaelic)
-        * tectum (Latin)
-        * τέγος [tégos] (Proto-Hellenic)
-        * στέγος [stégos] - Proto-Hellenic
-        * *tɜt(ʃ)
-            * tettu (Corsican)
-            * tető (Hungarian)
-            * teto (Portuguese)
-            * teito (Asturias)
-            * techo [tɜtʃo] (Spanish) - roof
-            * etxe [ɜtʃɜ] (Basque)
-    * *tɑɣ
-        * tag (Danish)
-        * tak (Swedish, Norwegian)
-        * þak (Icelandic)
-    * t'ara (Amharic)
     * tafo (Malagasy)
+    * *(ha)tau
+        * hateup (Sudanese)
+        * t'ara (Amharic)
+        * tau/t'au (Lenca)
+        * *tɑɣ
+            * tag (Danish)
+            * tak (Swedish, Norwegian)
+            * þak (Icelandic)
+        * *tʊ
+            * toit [tʊʷa] (French)
+            * տուն [tun] (Armenian) — people argue it comes from *dṓm in Proto-Indo-European, but I'm going to argue against that.
+            * tukul (Ethiopia, Sudan)
+        * *tɨɣ (Proto-Brythonic)
+            * tig [tɪɡ] (Old Welsh)
+                * tŷ [tɨː] (Welsh)
+        * *tɜɣ
+            * teach [tʲæːx] (Irish)
+            * taigh [tʰɤj] (Scots Gaelic)
+            * tectum (Latin)
+            * τέγος [tégos] (Proto-Hellenic)
+            * στέγος [stégos] - Proto-Hellenic
+            * *tɜt(ʃ)
+                * tettu (Corsican)
+                * tető (Hungarian)
+                * teto (Portuguese)
+                * teito (Asturias)
+                * techo [tɜtʃo] (Spanish) - roof
+                * etxe [ɜtʃɜ] (Basque)
 
 Other References:
 
