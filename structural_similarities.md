@@ -265,6 +265,8 @@ This (despite using a pejorative term) talks about the range of the black tent:
 ### Possible Linguistic Connections
 The stem for many of the words for house/hut/camp shows some very interesting similarities, even across multiple linguistic branches. These seem to fall into more of geographic groupings. I'm not sure if this is a very old word, or more of a Wanderwort. Likely, the words spread over a long time through diffusion. These are cognates for house, hut, dwelling, etc. Roots/stems marked with '*':
 
+Please note, these says nothing about the relatedness of the languages, just my percieved closeness of the words.
+
 Hut/House (\*qu/*qa):
 * Somali: aqal
 * Afghan/Pashto: kherga
@@ -361,7 +363,7 @@ Roof/Hut (\*tu/*ate):
             * տուն [tun] (Armenian) — people argue it comes from *dṓm in Proto-Indo-European, but I'm going to argue against that.
             * tukul (Ethiopia, Sudan)
         * *tɨɣ (Proto-Brythonic)
-            * tig [tɪɡ] (Old Welsh)
+            * tig [tɪɡ] (Old Welsh) — interestingly, this is a vowel change towards *tɜɣ away from *tɨɣ
                 * tŷ [tɨː] (Welsh)
         * *tɜɣ
             * teach [tʲæːx] (Irish)
