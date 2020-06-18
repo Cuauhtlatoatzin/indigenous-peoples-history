@@ -949,9 +949,9 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
 ### Kaminaljuyu - Valley of Guatemala - Southern Maya Area (1500 BCE - 1200 CE)
 
-* [Kaminaljuyu](https://en.wikipedia.org/wiki/Kaminaljuyu)
+Evidence of connection with Teotihuacan.
 
-  "Esperanza cultures and a Teotihuacán Intrusion?"
+* [Kaminaljuyu](https://en.wikipedia.org/wiki/Kaminaljuyu)
 
 ### Calixtlahuaca - Toluca Valley, MX - Otomi, Teotihuacan, Toltec, Matlazinca, Mexica (1500 BCE - 1510 CE)
 
@@ -966,6 +966,12 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 ## Ten Thousand Islands - Everglades, Florida, USA (1500 BCE)
 
 * [Rethinking Shell Middens. American Archeological Magazine. 21 Jun. 2018](https://www.archaeologicalconservancy.org/rethinking-shell-middens/)
+
+## Calixhuaca - Toluca, Mexico, MX (1500 BCE - 200 BCE)
+
+Terraces with mud walls. See later development in 300 BCE.
+
+* [Calixhuaca](https://en.wikipedia.org/wiki/Calixtlahuaca)
 
 ## Cupisnique - Peru (1500 BCE - 500 BCE)
 
@@ -999,6 +1005,31 @@ See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
 See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
+## Mesoamerican Middle Formative (950 BCE - 400 BCE)
+
+* [Mokaya](#mokaya---soconusco-chiapas-1850-bce---650-bce)
+* [Olmec](#height-of-the-olmec-1500-bce---400-bce)
+
+## El Mesón - Papaloapn Basin, Veracruz, MX - Olmec, Epi-Olmec, Classic Veracruz (1450 BCE - 1520 CE)
+
+Technically, this still lives on as the town of Ángel R. Cabada. It reached it's height as a cultural center around 400 BCE - 100 CE at which point the cultural center started shifting to La Venta. This is actually the region where my ancestors come from and around where my mom was born.
+
+* [Loughlin, Michael L.  Political-economic strategies and settlement ecology in the Mesoamerican Gulf Lowlands: Olmec, Epi-olmec and Classic Period settlement in the El Meson area of the Eastern Lower Papaloapan Basin, Veracruz, Mexico.](https://books.google.com/books?id=VjolDwAAQBAJ&pg=PA113)
+* [Angel R. Cabada - Enciclopedia de los Municipios y Delagaciones de Mexico - Estado de Vaeracruz-Llave](http://siglo.inafed.gob.mx/enciclopedia/EMM30veracruz/municipios/30015a.html)
+* [Ángel R. Cabada](https://en.wikipedia.org/wiki/%C3%81ngel_R._Cabada)
+
+## El Carmen - Ahuachapan, El Salvador (1590+/-150 BCE)
+
+* [Arroyo, Bárbara, Arthur A. Demarest y Paul Amaroli (1993) Descubrimientos recientes en El Carmen, El Salvador: Un sitio Preclásico Temprano. En III Simposio de Investigaciones Arqueológicas en Guatemala, 1989 (editado por J.P. Laporte, H. Escobedo y S. Villagrán), pp.239-246. Museo Nacional de Arqueología y Etnología, Guatemala.](https://web.archive.org/web/20110914102403/http://www.asociaciontikal.com/pdf/20.89%20-%20Barbara%20Arroyo%20-%20en%20PDF.pdf)
+
+## Nakbe - Mirador Basin, Petén, Guatamala - Maya (1400 BCE - 100 BCE)
+
+* [Nakbe](https://en.wikipedia.org/wiki/Nakbe)
+
+## Capacha - West coast from Sinaloa to Guerrero, possibly through Ecuador - Nahuatl (1300 BCE - 1521 CE)
+
+* [Capacha](https://en.wikipedia.org/wiki/Capacha)
+
 ## Angamuco, Pátzcuaro Basin, Michoacán, Mexico (1325 ± 375 BCE - 1650 CE) - Purepecha
 
 * [Fisher CT et al. (2003) A reexamination of human-induced environmental change within the Lake Pátzcuaro Basin, Michoacán, Mexico. PNAS. 100(8): 4957-4962.](https://doi.org/10.1073/pnas.0630493100)
@@ -1014,6 +1045,16 @@ See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
 
 * [Henderson JS, et al. (2007) Chemical and archaeological evidence for the earliest cacao beverages. PNAS. 104(48): 18937-18940.](https://doi.org/10.1073/pnas.0708815104)
 
+## El Trapiche (1200 BCE - 250 CE)
+
+This was a Mayan site which started declining in 200 BCE and was aboandoned when Ilopango errupted. There are sign of Olmec Influence and trade with both Olmeca and Kaminaljuyú.
+
+* [El Trapiche](https://es.wikipedia.org/wiki/El_Trapiche)
+
+### [Las Victorias](https://es.wikipedia.org/wiki/Las_Victorias)
+
+### [Bolinas](https://es.wikipedia.org/wiki/Bolinas_(El_Salvador))
+
 ## Kuntur Wasi (1200 BCE - 50 BCE)
 
 * [Kuntur Wasi (Condor House)](https://en.wikipedia.org/wiki/Kuntur_Wasi)
@@ -1025,27 +1066,6 @@ See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
   Platform mound are oriented to megnetic north.
 * [Ancient Mesoamerican sculpture uncovered in southern Mexico](https://news.wisc.edu/ancient-mesoamerican-sculpture-uncovered-in-southern-mexico/)
 * [Rosenswig, Robert M. "Mesoamerica's First Style Horizons and the 'Olmec Problem'". The Beginnings of Mesoamerican Civilization: Inter-Regional Interaction and the Olmec.](https://books.google.com.mx/books?id=hMMaL4L_vMsC&pg=PA65)
-
-## Mesoamerican Middle Formative (950 BCE - 400 BCE)
-
-* [Mokaya](#mokaya---soconusco-chiapas-1850-bce---650-bce)
-* [Olmec](#height-of-the-olmec-1500-bce---400-bce)
-
-## El Mesón  - Papaloapn Basin, Veracruz, MX - Olmec, Epi-Olmec, Classic Veracruz (1450 BCE - 1520 CE)
-
-Technically, this still lives on as the town of Ángel R. Cabada. It reached it's height as a cultural center around 400 BCE - 100 CE at which point the cultural center started shifting to La Venta. This is actually the region where my ancestors come from and around where my mom was born.
-
-* [Loughlin, Michael L.  Political-economic strategies and settlement ecology in the Mesoamerican Gulf Lowlands: Olmec, Epi-olmec and Classic Period settlement in the El Meson area of the Eastern Lower Papaloapan Basin, Veracruz, Mexico.](https://books.google.com/books?id=VjolDwAAQBAJ&pg=PA113)
-* [Angel R. Cabada - Enciclopedia de los Municipios y Delagaciones de Mexico - Estado de Vaeracruz-Llave](http://siglo.inafed.gob.mx/enciclopedia/EMM30veracruz/municipios/30015a.html)
-* [Ángel R. Cabada](https://en.wikipedia.org/wiki/%C3%81ngel_R._Cabada)
-
-## Nakbe - Mirador Basin, Petén, Guatamala - Maya (1400 BCE - 100 BCE)
-
-* [Nakbe](https://en.wikipedia.org/wiki/Nakbe)
-
-## Capacha - West coast from Sinaloa to Guerrero, possibly through Ecuador - Nahuatl (1300 BCE - 1521 CE)
-
-* [Capacha](https://en.wikipedia.org/wiki/Capacha)
 
 ## La Venta - Tabasco, MX - Olmec (1200 BCE - 400 CE)
 
@@ -1135,6 +1155,12 @@ First known instance of a pyramidal temple dating to 900 BCE and a quatrefoil da
 
 * [Uaxactún](https://es.wikipedia.org/wiki/Uaxact%C3%BAn)
 
+## San Andres - San Andres, La Libertad, El Salvador - (~900 BCE - ~1200 CE)
+
+See Quelepa below for some more details.
+
+* [San Andres](https://es.wikipedia.org/wiki/San_Andr%C3%A9s_(sitio_arqueol%C3%B3gico))
+
 ## Chupícuaro culture - Acámbaro, Guanajuato, MX - (800 BCE - 1525 CE)
 
 Expanded into Michoacán, Guerrero, Mexico State, Hidalgo, Colima, Nayarit, Querétaro and Zacatecas.
@@ -1147,6 +1173,15 @@ Also occupied by a few other cultures:
 * [Teotihuacán](https://en.wikipedia.org/wiki/Teotihuacan) (200 CE - 900 CE)
 * [Tolteca](https://en.wikipedia.org/wiki/Toltec) (900 CE - 1200 CE)
 * [Purépecha](https://en.wikipedia.org/wiki/Pur%C3%A9pecha) (1200 CE - 1525 CE)
+
+## Xochitecatl - Tlaxcala, MC (800 BCE - 150 CE, 600 CE - 950 CE)
+
+* [Xochitecatl](https://en.wikipedia.org/wiki/Xochitecatl)
+* 800 BCE Main structures are built.
+* 350 BCE - 100 AD capital of region.
+* 150 CE erruption of Popocatepetl.
+* 600 CE - 950 CE Ceremonial center.
+* Pyramid of the Flowers is the same size of Teotihuacan's pyramid of the moon.
 
 ## Xunantunich - Cayo District, Belize - Maya (800 BCE - ?)
 
@@ -1195,6 +1230,16 @@ Part of the Mixtequilla area of the Papaloapan basin along with:
   * Ixmatlahuacan
   * [La Mojarra](https://en.wikipedia.org/wiki/La_Mojarra)
 
+## Caltonal (Cantona) - Xaltipanapa, Puebla, MX (600 BCE - 1050 CE)
+
+* [Cantona (archaeological site)](https://en.wikipedia.org/wiki/Cantona_(archaeological_site))
+* 1000 BCE - 600 BCE, Pre-Caltonal
+* 600 BCE - 50 CE, Obsidian mining and trade with South and South-east MX.
+* 50 CE - 600 CE, Increased social complexity, population of 64000, ballcourts, ballcourts, ballcourts
+* 600 CE - 900 CE, More military, less ceramic effigies and and stone sculpture.
+* 900 CE - 1000 CE, decline
+
+
 ## Tamohi' - Tamuin, San Luis Potosi, MX - Huasteca, Olmec? (600 BCE - 1350 CE)
 
 * [Tamtoc, Tamohi'](https://es.wikipedia.org/wiki/Tamtoc)
@@ -1218,6 +1263,24 @@ Part of the Mixtequilla area of the Papaloapan basin along with:
 Shows a trade connection or influence from Veracruz.
 
 * [Quelepa](https://es.wikipedia.org/wiki/Quelepa_(sitio_arqueol%C3%B3gico))
+
+### Other Sites in El Salvador during a similar time frame
+
+* [San Andres](https://es.wikipedia.org/wiki/San_Andr%C3%A9s_(sitio_arqueol%C3%B3gico)) - The main plaza was built in 600 BCE. From 600 CE - 900 CE it was more of a Maya capital. Evidence of trade with Mixteca.
+* [Casa Blanca](https://es.wikipedia.org/wiki/Casa_Blanca_(sitio_precolombino)) - Chalchuapa, Santa Ana (500 BCE- 900 CE) &mdash; trade with Kaminaljuyu, Tazumal, El Trapiche, Laguna Cuzcachapa, Olmec, and Teotihuacan.
+* [Tehuacan](https://es.wikipedia.org/wiki/Tehuac%C3%A1n_(sitio_arqueol%C3%B3gico)) - (900 CE - 1400 CE)
+* [Cihuatan](https://es.wikipedia.org/wiki/Cihuat%C3%A1n) - (900 CE - 1075+/-25 CE)
+* [Pampe](https://es.wikipedia.org/wiki/Pampe) - (1200 CE - 1400 CE)
+* [El Cambio](https://es.wikipedia.org/wiki/El_Cambio_(sitio_arqueol%C3%B3gico)) - Occupied until Ilopango blew in 250 CE. Then 650 CE - 900 CE.
+* [Finca Rosita](https://es.wikipedia.org/wiki/Finca_Rosita)
+* [San Isidro](https://es.wikipedia.org/wiki/San_Isidro_(sitio_arqueol%C3%B3gico))
+* [Joya de Ceren](https://es.wikipedia.org/wiki/Joya_de_Cer%C3%A9n)
+* [Neuva Esperanza](https://es.wikipedia.org/wiki/Nueva_Esperanza_(El_Salvador)) - [More evidence of trade with Central Mexico](https://web.archive.org/web/20140714142002/http://yucatan.com.mx/internacional/america-latina/milenario-descubrimiento).
+* Also see http://hdl.handle.net/10972/332
+* [Comparative Analysis of Settlement Pattern for The Prehispanic Archaeological Sites of San Jorge and Las Aradas, San Ana, El Salvador, C.A.](https://www.academia.edu/2298707/An%C3%A1lisis_comparativo_del_patr%C3%B3n_de_asentamiento_para_los_sitios_arqueol%C3%B3gicos_prehisp%C3%A1nicos_San_Jorge_y_Las_Aradas_Santa_Ana_El_Salvador_C.A)
+* [La arqueología de El Salvador](https://arqueologiamexicana.mx/mexico-antiguo/la-arqueologia-de-el-salvador)
+* [Civilizaciones Antiguas de El Salvador](https://www.yumpu.com/es/document/read/62934496/civilizaciones-antiguas-de-el-salvador)
+* [El Salvador: La Huella Mas Profunda](https://www.yumpu.com/es/document/read/62928041/la-huella-mas-profunda) Hack to get pages; use the base URL https://img.yumpu.com/62934496/1/1108x1308/civilizaciones-antiguas-de-el-salvador.jpg?quality=100 and change the relevant slugs.
 
 ## Monte Albán - Santa Cruz Xoxocotlán, Oaxaca, MX - Zapotec (500 BCE - 750 CE)
 
@@ -1270,6 +1333,30 @@ Shows a trade connection or influence from Veracruz.
 
 * [La Mojarra](https://en.wikipedia.org/wiki/La_Mojarra)
 
+## Calixhuaca - Toluca, Mexico, MX (300 BCE - 1510 CE)
+
+* [Calixhuaca](https://en.wikipedia.org/wiki/Calixtlahuaca)
+* 300 BCE - 600 CE, Teotihuacan.
+* 900 CE - 1200, Tolteca.
+* 1200 CE -1510, pjiekak'joo (Matlazinca)
+
+## Cholula - Cholula de Rivadavia, Pueblo, MX (300 BCE - 1519 CE)
+
+This is the largest pyramid by volume in the world.
+
+* [Cholula](https://en.wikipedia.org/wiki/Cholula_(Mesoamerican_site)) &mdash; `The earliest pyramid exhibits the talud-tablero motif style and is painted with insects resembling a Teotihuacan style. When the pyramid was originally built in 300 BCE, there were insects painted in black, red, and yellow on it.[7] The second pyramid, which was built over the first one, no longer resembles Teotihuacan architectural style. Instead it is a pyramid with stairs covering all four sides, so the top could be approached from every direction. It measures 590 ft (180 m) on a side.[6] The exposed slopes of the pyramid are earth- and adobe-filled and represent the last construction phase between CE 750 and 950.[2] During the Early Postclassic period, the pyramid was expanded to its final form. It covered 16 hectares (400 meters on the side) and reached a height of 66 meters. The orientation of the Great Pyramid, and the whole site’s urban grid, is about 26 degrees north of west, a deviation from Teotihuacan’s orientation. This orientation is aligned with the summer solstice, and it may relate to the worship of a solar deity related to the Mixtec 7 Flower, or Aztec Tonacatecuhtli.[1]`
+* Tlachihualtepetl ("they made a stone hill") phase (CE 700–1200): used by Olmeca-Xicallanca as a capital.
+* Cholollan ("the place they fled") phase (1200 CE - onward): Tolteca-Chichimeca take over.
+
+## Xochicalco - Miacatlán, Morelos, MX - (200 BCE - 900 CE, 1200 CE - onward)
+
+In the Toluca Valley, likely initially pjiekak'joo (Matlatzinca, Otopamean, Otomanguean). 
+
+* [Xochicalco](https://en.wikipedia.org/wiki/Xochicalco)
+* 650 CE construction started by Olmeca-Xicallanca.
+* 900 CE burned to the ground.
+* 1200 CE reocupied by Tlahuica Nahuatl people.
+
 ## Middle Woodland (200 BCE - 500 CE)
 
 ### Havana Hopewell - Illinois, USA (200 BCE - 400 CE)
@@ -1286,11 +1373,17 @@ Shows a trade connection or influence from Veracruz.
 
 ### Fourche Maline (300 BCE - 800 CE)
 
-### Copena (1 CE - 500 CE)\
+### Copena (1 CE - 500 CE)
 
 ## Western Mexican shaft-tomb tradition - Mexico: Jalisco, Nayarit, Colima, not including Capacha culture regions
 
 * [Western Mexican shaft-tomb tradition](https://en.wikipedia.org/wiki/Western_Mexico_shaft_tomb_tradition)
+
+## Tazumal - Chalchuapa, El Salvador (100 CE - 1200 CE)
+
+Shows influence from Teotihucan and Toltec cultures.
+
+* [Tazumal](https://es.wikipedia.org/wiki/Tazumal)
 
 ## Remojadas - Golf Coast, Veracruz, MX - Classic Veracruz Culture (100 BCE - 800 CE)
 
@@ -1299,7 +1392,6 @@ Shows a trade connection or influence from Veracruz.
 ## Pampa la Cruz, Huanchaco, Peru (50 BCE - 500 CE)
 
 * [Morales GT, Gagnon C, Prieto G (2018) Violence among the Gallinazo: New Insights from Pampa la Cruz, Moche Valley. Presented at The 82nd Annual Meeting of the Society for American Archaeology, Washington, DC. tDAR id: 442597](https://core.tdar.org/document/442597/violence-among-the-gallinazo-new-insights-from-pampa-la-cruz-moche-valley)
-* []
 
 ## Tattooing Instrument Found, SW USA (79 CE - 130 CE)
 
@@ -1359,6 +1451,11 @@ These are a few major sites:
 ## Teuchitlan tradition - MX: Jalisco, Nayarit, not including Capacha culture regions (300 CE - 900 CE)
 
 * [Teuchitlan tradition](https://en.wikipedia.org/wiki/Teuchitlan_tradition)
+
+## Cacaxtla - Tlascala, MX (400 CE - 1000 CE)
+
+* [Cacaxtla](https://en.wikipedia.org/wiki/Cacaxtla)
+* Olmeca-Xicalanca, probably from 600 CE - 900 CE. Teotihuacan, Maya, Mixtec and Totonac influences.
 
 ## Toltec Empire - Most of southern Mexico and the Tip of the Yucatan (496 CE - 1122 CE)
 
