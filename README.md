@@ -277,6 +277,10 @@ This is technically not "North America", but it's connected and may demonstrate 
 * [David LG et al. (2019) Late Upper Paleolithic occupation at Cooper’s Ferry, Idaho, USA, ~16,000 years ago. Science. 365(6456): 891-897.](https://science.sciencemag.org/content/365/6456/891)
 * [Gannon M (2019) 15,000-year-old Idaho archaeology site now among America’s oldest. National Geographic. August 29.](https://www.nationalgeographic.com/culture/2019/08/coopers-landing-idaho-site-americas-oldest/)
 
+## Pilauco Bajo - Southern Chile (14450 BCE/10850 BCE)
+
+* [Pilauco Bajo](https://en.wikipedia.org/wiki/Pilauco_Bajo)
+
 ## Gault site, Texas, USA (14000 BCE)
 
 * [16,000-Year-Old Tools Discovered in Texas, Among the Oldest Found in the West](http://westerndigs.org/16000-year-old-tools-discovered-in-texas-among-the-oldest-yet-found-in-the-west/)
@@ -655,6 +659,12 @@ This area was followed by the Valdivia culture in 3500 BCE.
 
 * [J. V. Moreno-Mayar et al. (2018) Early human dispersals within the Americas. Science. 10.1126/science.aav2621](https://www.researchgate.net/publication/328815661_Early_human_dispersals_within_the_Americas)
 
+## Chinchorro Culture - N Chile, S Peru (7000 BCE - 1500 CE)
+
+Eventually came under the Tiwanaku Empire. Possibly extends back to Monte Verde, Quebrada Jaguay, and Quebrada Tacahuay.
+
+* [Chinchorro culture](https://en.wikipedia.org/wiki/Chinchorro_culture)
+
 ## Tlingit Petroglyphs
 
 * [Petroglyph Beach : Tlingit Art From Before the Time of the Pyramids](http://ianajohnson.com/petroglyph-beach-tlingit-art-time-pyramids/) - Wrangell Petroglyph State Historic Site, Wrangell, Alaska, USA
@@ -665,6 +675,7 @@ This area was followed by the Valdivia culture in 3500 BCE.
 * [Yacimiento rupestre de Sáchica](https://es.wikipedia.org/wiki/Yacimiento_rupestre_de_S%C3%A1chica)
 * [Documentación del yacimiento rupestre de Sáchica, Boyacá.](http://www.rupestreweb.info/sachica.html)
 * [Procesos tafonómicos en el arte rupestre: un caso de conservación diferencial de pinturas en el altiplano cundiboyacense, Colombia.](http://www.rupestreweb.info/sutatausa.html)
+* [Parque Arqueológico de Facatativá](https://es.wikipedia.org/wiki/Parque_Arqueológico_de_Facatativá)
 
 ### Anangula Site - Aleutian Islands, Alaska, USA (6400 BC)
 
@@ -687,6 +698,12 @@ The name is probably [Aymara](https://en.wikipedia.org/wiki/Aymara_language).
 * [Haas, W.R., & Llave, C.V. (2015). Hunter-gatherers on the eve of agriculture: investigations at Soro Mik’aya Patjxa, Lake Titicaca Basin, Peru, 8000–6700 BP. Antiquity, 89, 1297-1312.](https://www.semanticscholar.org/paper/Hunter-gatherers-on-the-eve-of-agriculture%3A-at-Soro-Haas-Llave/ba7bd786fd0b95f60fe53babfb785156d929a6bd)
 * [Haas, R., Stefanescu, I. C., Garcia-Putnam, A., Aldenderfer, M. S., Clementz, M. T., Murphy, M. S., ... & Watson, J. T. (2017). Humans permanently occupied the Andean highlands by at least 7 ka. Royal Society open science, 4(6), 170331.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493927/)
 * [Watson, J. T., & Haas, R. (2017). Dental evidence for wild tuber processing among Titicaca Basin foragers 7000 ybp. American Journal of Physical Anthropology, 164(1), 117-130.](https://repository.arizona.edu/bitstream/handle/10150/632082/AJPA-2017-00058.R2_Text.pdf?sequence=3)
+
+## Checua - Nemocón, Cundinamarca, Colombia (6550 BCE - 1050 BCE)
+
+Pre-muisca, overlaps with Herrera.
+
+* [Checua](https://en.wikipedia.org/wiki/Checua)
 
 ## Middle Archaic (6000 BCE - 3000 BCE)
 
@@ -1004,6 +1021,10 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
 * [Pukara](https://en.wikipedia.org/wiki/Pukara,_Puno)
 
+## Chillón & Casma Valley Effigy Mounds - Peru (1750 BCE - 2200 BCE)
+
+* [Giant Preceramic animal effigy mounds in South America?](http://antiquity.ac.uk/projgall/benfer329/)
+
 ## San Lorenzo Tenochtitlán - San Lorenzo, Veracruz, MX - Olmec (1700 BCE - 900 BCE)
 
 * [San Lorenzo Tenochtitlán](https://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n)
@@ -1088,6 +1109,10 @@ Terraces with mud walls. See later development in 300 BCE.
 ## Machalilla culture - southern Manabí & Santa Elena Peninsula, Ecuador (1500 BCE - 1100 BCE)
 
 * [Machalilla culture](https://en.wikipedia.org/wiki/Machalilla_culture)
+
+## Herrera Period - Altiplano Cundiboyacense, Colombia (1500 BCE - 1000 CE)
+
+* [Herrera Period](https://en.wikipedia.org/wiki/Herrera_Period)
 
 ## Cupisnique - Peru (1500 BCE - 500 BCE)
 
@@ -1180,6 +1205,59 @@ Technically, this still lives on as the town of Ángel R. Cabada. It reached it'
 
 * [Henderson JS, et al. (2007) Chemical and archaeological evidence for the earliest cacao beverages. PNAS. 104(48): 18937-18940.](https://doi.org/10.1073/pnas.0708815104)
 
+## Tlatilco - Valley of Mexico, MX - Tlaticans, Olmecs? (1200 BCE - ?)
+
+* [Tlatilco](https://en.wikipedia.org/wiki/Tlatilco)
+
+## La Venta - Tabasco, MX - Olmec (1200 BCE - 400 CE)
+
+* [La Venta](https://en.wikipedia.org/wiki/La_Venta)
+
+## Chiapa de Corzo - Chiapas, MX - ?, Olmec, Zoque, Chiapanec (1200 BCE - 700 CE)
+
+Conduit of many cultures.
+
+* [Zona arqueológica de Chiapa de Corzo](https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Chiapa_de_Corzo)
+* [Chiapa de Corzo](https://en.wikipedia.org/wiki/Chiapa_de_Corzo_(Mesoamerican_site))
+
+## Ojo de Agua - Mazatán, Chiapas - Mokaya, Olmec (1200 BCE - 1526)
+
+* [Ojo de Agua](https://en.wikipedia.org/wiki/Mazat%C3%A1n,_Chiapas#Ojo_de_Agua)  
+  `Ojo de Agua was later replaced by La Blanca and Ujuxte.`  
+  Platform mound are oriented to megnetic north.
+* [Ancient Mesoamerican sculpture uncovered in southern Mexico](https://news.wisc.edu/ancient-mesoamerican-sculpture-uncovered-in-southern-mexico/)
+* [Rosenswig, Robert M. "Mesoamerica's First Style Horizons and the 'Olmec Problem'". The Beginnings of Mesoamerican Civilization: Inter-Regional Interaction and the Olmec.](https://books.google.com.mx/books?id=hMMaL4L_vMsC&pg=PA65)
+
+## Cahal Pech - San Ignacio, Cayo District, Belize (1200 BCE - 900 CE)
+
+Made up name meaning "Place of the Ticks" in Yucatec Maya.
+
+* [Cahal Pech](https://en.wikipedia.org/wiki/Cahal_Pech)
+
+## Xunantunich - Cayo District, Belize (1200 BCE - 750 CE, 890 CE - ?)
+
+* [Xunantunich](https://en.wikipedia.org/wiki/Xunantunich)
+
+### Other related sites
+
+* [Chaa Creek](https://en.wikipedia.org/wiki/Chaa_Creek)
+* [Lower Dover](https://en.wikipedia.org/wiki/Lower_Dover)
+* [Baking Pot](https://en.wikipedia.org/wiki/Baking_Pot)
+
+## Caracol - Cayo District, Belize (1200 BCE - 900 CE)
+
+Just south of Xunantunich.
+
+* [Caracol](https://en.wikipedia.org/wiki/Caracol)
+
+## Cuello - Orange Walk District, Belieze - Lowland Maya (1200 BCE - ?)
+
+* [Cuello](https://en.wikipedia.org/wiki/Cuello)
+
+## Ujuxte - Guatamala - Preclassic Maya (1200 BCE - 200 CE)
+
+* [Ujuxte](https://en.wikipedia.org/wiki/Ujuxte)
+
 ## El Trapiche -  Chalchuapa, El Salvador (1200 BCE - 250 CE)
 
 This was a Mayan site which started declining in 200 BCE and was aboandoned when Ilopango errupted. There are sign of Olmec Influence and trade with both Olmeca and Kaminaljuyú.
@@ -1194,40 +1272,9 @@ This was a Mayan site which started declining in 200 BCE and was aboandoned when
 
 * [Kuntur Wasi (Condor House)](https://en.wikipedia.org/wiki/Kuntur_Wasi)
 
-## Ojo de Agua - Mazatán, Chiapas - Mokaya, Olmec (1200 BCE - 1526)
-
-* [Ojo de Agua](https://en.wikipedia.org/wiki/Mazat%C3%A1n,_Chiapas#Ojo_de_Agua)  
-  `Ojo de Agua was later replaced by La Blanca and Ujuxte.`  
-  Platform mound are oriented to megnetic north.
-* [Ancient Mesoamerican sculpture uncovered in southern Mexico](https://news.wisc.edu/ancient-mesoamerican-sculpture-uncovered-in-southern-mexico/)
-* [Rosenswig, Robert M. "Mesoamerica's First Style Horizons and the 'Olmec Problem'". The Beginnings of Mesoamerican Civilization: Inter-Regional Interaction and the Olmec.](https://books.google.com.mx/books?id=hMMaL4L_vMsC&pg=PA65)
-
-## La Venta - Tabasco, MX - Olmec (1200 BCE - 400 CE)
-
-* [La Venta](https://en.wikipedia.org/wiki/La_Venta)
-
-## Ujuxte - Guatamala - Preclassic Maya (1200 BCE - 200 CE)
-
-* [Ujuxte](https://en.wikipedia.org/wiki/Ujuxte)
-
-## Cuello - Orange Walk District, Belieze - Lowland Maya (1200 BCE - ?)
-
-* [Cuello](https://en.wikipedia.org/wiki/Cuello)
-
 ## Chavín de Huantar - Chavín de Huantar, Peru - Chavín (1200 BCE - 500 CE)
 
 * [Chavín de Huantar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
-
-## Chiapa de Corzo - Chiapas, MX - ?, Olmec, Zoque, Chiapanec (1200 BCE - 700 CE)
-
-Conduit of many cultures.
-
-* [Zona arqueológica de Chiapa de Corzo](https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Chiapa_de_Corzo)
-* [Chiapa de Corzo](https://en.wikipedia.org/wiki/Chiapa_de_Corzo_(Mesoamerican_site))
-
-## Tlatilco - Valley of Mexico, MX - Tlaticans, Olmecs? (1200 BCE - ?)
-
-* [Tlatilco](https://en.wikipedia.org/wiki/Tlatilco)
 
 ## Izapa - Chiapas, MX - Olmec, Maya (1100 BCE - 1200 CE)
 
@@ -1240,6 +1287,16 @@ Conduit of many cultures.
 ## Tres Zapotes - Papaloapan River Basin, Veracruz, MX - Olmec, Epi-Olmec, Classic Veracruz (1000 BCE - 900 CE)
 
 * [Tres Zapotes](https://en.wikipedia.org/wiki/Tres_Zapotes)
+
+## Tikal - Flores, Petén Department, Guatemala (1000 BCE - 950 CE)
+
+* [Tikal](https://en.wikipedia.org/wiki/Tikal)
+* 400 BCE - monumental architecture
+* 200 CE - Teotihuacan embassies in Tikal
+
+### Related sites
+
+* [Waka'/El Perú](https://en.wikipedia.org/wiki/El_Per%C3%BA_(Maya_site))
 
 ## Copper In South America [1000 BCE]
 
@@ -1347,14 +1404,18 @@ Also occupied by a few other cultures:
 
 * [Pohl MED, Pope KO, von Nagy C (2002) Olmec Origins of Mesoamerican Writing. Science. 298(5600): 1984-1987.](https://science.sciencemag.org/content/298/5600/1984?ijkey=9a2dad3894a554d966719ae422d9e0e719a36d0b&keytype2=tf_ipsecsha)
 
-## Coracol, Belize (600 BCE - 575±325 CE)
+## Caltonal (Cantona) - Xaltipanapa, Puebla, MX (600 BCE - 1050 CE)
 
-* [Chase AF et al. (2010) Airborne LiDAR, archaeology, and the ancient Maya landscape at Caracol, Belize. Journal of Archaeological Science. 38: 387-398.](http://caracol.org/wp-content/uploads/2016/05/ChaseEtAl2011.pdf)
+* [Cantona (archaeological site)](https://en.wikipedia.org/wiki/Cantona_(archaeological_site))
+* 1000 BCE - 600 BCE, Pre-Caltonal
+* 600 BCE - 50 CE, Obsidian mining and trade with South and South-east MX.
+* 50 CE - 600 CE, Increased social complexity, population of 64000, ballcourts, ballcourts, ballcourts
+* 600 CE - 900 CE, More military, less ceramic effigies and and stone sculpture.
+* 900 CE - 1000, Decline
 
-## El Mirador - Mirador Basin, Petén, Guatamala - Maya (600 BCE - 900 CE)
+## Tamohi' - Tamuin, San Luis Potosi, MX - Huasteca, Olmec? (600 BCE - 1350 CE)
 
-* [El Mirador](https://en.wikipedia.org/wiki/El_Mirador)
-* [Hansen, R. D. (1991). An Early Maya Text from El Mirador, Guatemala. Research Reports on Ancient Maya Writing, (37), 19-32.](http://www.mesoweb.com/bearc/cmr/RRAMW37.pdf)
+* [Tamtoc, Tamohi'](https://es.wikipedia.org/wiki/Tamtoc)
 
 ## Cerro de las Mesas - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (600 BCE - 900 CE)
 
@@ -1370,24 +1431,41 @@ Part of the Mixtequilla area of the Papaloapan basin along with:
   * Ixmatlahuacan
   * [La Mojarra](https://en.wikipedia.org/wiki/La_Mojarra)
 
-## Caltonal (Cantona) - Xaltipanapa, Puebla, MX (600 BCE - 1050 CE)
+## Coracol, Belize (600 BCE - 575±325 CE)
 
-* [Cantona (archaeological site)](https://en.wikipedia.org/wiki/Cantona_(archaeological_site))
-* 1000 BCE - 600 BCE, Pre-Caltonal
-* 600 BCE - 50 CE, Obsidian mining and trade with South and South-east MX.
-* 50 CE - 600 CE, Increased social complexity, population of 64000, ballcourts, ballcourts, ballcourts
-* 600 CE - 900 CE, More military, less ceramic effigies and and stone sculpture.
-* 900 CE - 1000, Decline
+* [Chase AF et al. (2010) Airborne LiDAR, archaeology, and the ancient Maya landscape at Caracol, Belize. Journal of Archaeological Science. 38: 387-398.](http://caracol.org/wp-content/uploads/2016/05/ChaseEtAl2011.pdf)
 
-## Tamohi' - Tamuin, San Luis Potosi, MX - Huasteca, Olmec? (600 BCE - 1350 CE)
+## El Mirador - Mirador Basin, Petén, Guatamala - Maya (600 BCE - 900 CE)
 
-* [Tamtoc, Tamohi'](https://es.wikipedia.org/wiki/Tamtoc)
+* [El Mirador](https://en.wikipedia.org/wiki/El_Mirador)
+* [Hansen, R. D. (1991). An Early Maya Text from El Mirador, Guatemala. Research Reports on Ancient Maya Writing, (37), 19-32.](http://www.mesoweb.com/bearc/cmr/RRAMW37.pdf)
+
+## Mapuche Culture - S Central Chile, SW Argentina, Patagonia (600 BCE - present)
+
+* [Mapuche](https://en.wikipedia.org/wiki/Mapuche)
+* [Mapuche history](https://en.wikipedia.org/wiki/Mapuche_history)
+* [Dillehay, T. (1990). Mapuche Ceremonial Landscape, Social Recruitment and Resource Rights. World Archaeology, 22(2), 223-241. Retrieved June 25, 2020, from www.jstor.org/stable/124878](http://users.clas.ufl.edu/davidson/Arch%20of%20Death/Week%2006/Dillehey%201990.pdf) - They had ceremonial earthworks.
+
+## Mayapan - Tecoh Municipality, Yucatán, MX (540 BCE - 1461 CE)
+
+Early signs of Puuc. Trade with Peten, Highland Guatamala, Yucatan East coast, and Tabasco area.
+
+* [Mayapan](https://en.wikipedia.org/wiki/Mayapan)
 
 ## Classic Period (500 BCE - 1200 CE)
 
 ## Timing and climate forcing of volcanic eruptions for the past 2,500 years (500 BCE)
 
 * [M. Sigl, M. Winstrup, J. R. McConnell, K. C. Welten, G. Plunkett, F. Ludlow, U. Büntgen, M. Caffee, N. Chellman, D. Dahl-Jensen, H. Fischer, S. Kipfstuhl, C. Kostick, O. J. Maselli, F. Mekhaldi, R. Mulvaney, R. Muscheler, D. R. Pasteris, J. R. Pilcher, M. Salzer, S. Schüpbach, J. P. Steffensen, B. M. Vinther & T. E. Woodruff. Timing and climate forcing of volcanic eruptions for the past 2,500 years. Nature. 30 July. 2019. 523: 543-549](https://www.nature.com/articles/nature14565) &mdash; [PDF](https://pure.qub.ac.uk/portal/files/16135501/258284_3_high_res_merged_1429871467.pdf)
+
+## St. Johns culture - NE Florida, USA (500 BCE - European contact)
+
+* [St. Johns culture](https://en.wikipedia.org/wiki/St._Johns_culture)
+
+## Monte Albán - Santa Cruz Xoxocotlán, Oaxaca, MX - Zapotec (500 BCE - 750 CE)
+
+* [Monte Albán](https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n)
+* [Jansen, M., & Jiménez, G. A. P. (2017). Time and the Ancestors: Aztec and Mixtec ritual art. Brill.](https://www.academia.edu/41592785/Time_and_the_Ancestors_Aztec_and_Mixtec_Ritual_Art)
 
 ## Naj Tunich - Las Montañas Mayas, Petén, Guatamala - Maya (500 BCE - 900 CE)
 
@@ -1421,14 +1499,12 @@ Shows a trade connection or influence from Veracruz.
 * [Civilizaciones Antiguas de El Salvador](https://www.yumpu.com/es/document/read/62934496/civilizaciones-antiguas-de-el-salvador)
 * [El Salvador: La Huella Mas Profunda](https://www.yumpu.com/es/document/read/62928041/la-huella-mas-profunda) Hack to get pages; use the base URL https://img.yumpu.com/62934496/1/1108x1308/civilizaciones-antiguas-de-el-salvador.jpg?quality=100 and change the relevant slugs.
 
-## Monte Albán - Santa Cruz Xoxocotlán, Oaxaca, MX - Zapotec (500 BCE - 750 CE)
+## Muisca - Altiplano Cundiboyacense, Colombia (500 BCE - 1542 CE)
 
-* [Monte Albán](https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n)
-* [Jansen, M., & Jiménez, G. A. P. (2017). Time and the Ancestors: Aztec and Mixtec ritual art. Brill.](https://www.academia.edu/41592785/Time_and_the_Ancestors_Aztec_and_Mixtec_Ritual_Art)
+Had a base 20 number system and complex calendar. Related to the Teyrona on the Santa Marta, at least linguistically.
 
-## St. Johns culture - NE Florida, USA (500 BCE - European contact)
-
-* [St. Johns culture](https://en.wikipedia.org/wiki/St._Johns_culture)
+* [Muisca](https://en.wikipedia.org/wiki/Muisca)
+* [The Muisca Calendar: An approximation to the timekeeping system of the ancient native people of the northeastern Andes of Colombia](https://arxiv.org/abs/0812.0574)
 
 ## Mesoamerican Late Formative Period (400 BCE - 200 CE)
 
@@ -1441,6 +1517,36 @@ Inhabited before 600 BCE, but not developed into a major city until 200 CE. Was 
 ## Cerros - Belieze - Lowland Maya (400 BCE - 400 CE)
 
 * [Cerros](https://en.wikipedia.org/wiki/Cerros)
+
+## Chunchucmil - Maxcanú & Halachó, Yucatán, MX (400 BCE - 1521 CE)
+
+* [Chunchucmil](https://en.wikipedia.org/wiki/Chunchucmil)
+
+## Yaxuná - Yaxcabá, Yucatán, MX (400 BCE - 1521 CE)
+
+Became a part of Chichen Itza in 950.
+
+* [Yaxuná](https://en.wikipedia.org/wiki/Yaxun%C3%A1)
+
+## Tiwananku/Tiahuanacu - Tiwanaku Municipality, Bolivia (400 BCE - 1200 CE)
+
+So maybe it was actually started in 1500 BCE: `Si bien Tiahuanaco se fundó en el año 1500 a. C. el gran período de construcción y expansión ocurrió a partir del 45 d. C.11​ Esta fase fue creada a través de las unidades de parentesco, que al alcanzar la sociedad un nivel estatal, hizo que el estado se expandiera para crear excedentes que sustenten a la administración y a las élites.`
+
+* [Tiahuanaco](https://es.wikipedia.org/wiki/Tiahuanaco)
+
+### Related sites:
+
+* [Kalasasaya](https://es.wikipedia.org/wiki/Kalasasaya)
+* [Pirámide de Akapana](https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Akapana)
+* [Puma Punku](https://es.wikipedia.org/wiki/Puma_Punku)
+* [Monolito de Pokotia](https://es.wikipedia.org/wiki/Monolito_de_Pokotia)
+* [Puerta de la Luna](https://es.wikipedia.org/wiki/Puerta_de_la_Luna)
+* [Puerta del Sol](https://es.wikipedia.org/wiki/Puerta_del_Sol_(Tiwanaku))
+* [Monolito Ponce](https://es.wikipedia.org/wiki/Monolito_Ponce)
+* [Monolito Fraile](https://es.wikipedia.org/wiki/Monolito_Fraile)
+* [Monolito Bennett](https://es.wikipedia.org/wiki/Monolito_Bennett)
+* [Kimsa Chata (Ingavi)](https://en.wikipedia.org/wiki/Kimsa_Chata_(Ingavi))
+* [Khonkho Wankane/Qhunqhu Wankani](https://es.wikipedia.org/wiki/Khonkho_Wankane) &mdash; 100 BCE - 500 CE
 
 ## San Bartolo, Guatemala - Maya, Epi-Olmec? (~300 BCE - ~100 BCE)
 
@@ -1490,7 +1596,6 @@ Inhabited before 600 BCE, but not developed into a major city until 200 CE. Was 
 * [Clayton, S. C. (2011). Gender and mortuary ritual at ancient Teotihuacan, Mexico: A study of intrasocietal diversity. Cambridge Archaeological Journal, 21(1), 31-52.](https://www.academia.edu/2950465/Gender_and_Mortuary_Ritual_at_Ancient_Teotihuacan_Mexico_a_Study_of_Intrasocietal_Diversity)
 * [Clayton, S. C. (2009). Ritual diversity and social identities: A study of mortuary behaviors at Teotihuacan. Arizona State University.](https://www.academia.edu/37494337/RITUAL_DIVERSITY_AND_SOCIAL_IDENTITIES_A_STUDY_OF_MORTUARY_BEHAVIORS_AT_TEOTIHUACAN)
 * [Somerville, A. D., Sugiyama, N., Manzanilla, L. R., & Schoeninger, M. J. (2017). Leporid management and specialized food production at Teotihuacan: stable isotope data from cottontail and jackrabbit bone collagen. Archaeological and Anthropological Sciences, 9(1), 83-97.](https://www.academia.edu/30680083/Somerville_Manzanilla_et_al._2016_Leporid_management_and_specialized_food_production_at_Teotihuacan_stable_isotope_data_from_cottontail_and_jackrabbit_bone_collagen)
-
 
 ## La Mojarra - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (300 BCE - 1000 CE)
 
@@ -1565,6 +1670,10 @@ In the Toluca Valley, likely initially pjiekak'joo (Matlatzinca, Otopamean, Otom
 ## Remojadas - Golf Coast, Veracruz, MX - Classic Veracruz Culture (100 BCE - 800 CE)
 
 * [Remojadas](https://en.wikipedia.org/wiki/Remojadas)
+
+## Coba - Quintana Roo, MX (50 BCE - 1550 CE)
+
+* [Coba](https://en.wikipedia.org/wiki/Coba)
 
 ## Pampa la Cruz, Huanchaco, Peru (50 BCE - 500 CE)
 
@@ -1648,14 +1757,36 @@ These are a few major sites:
 
 ## Mesoamerican Early Classic (200 CE - 600 CE)
 
+## El Molle culture - Norte Chico, Chile (300 CE - 700 CE)
+
+Replaced by the Las Ánimas culture.
+
+* [El Molle culture](https://en.wikipedia.org/wiki/El_Molle_culture)
+
 ## Teuchitlan tradition - MX: Jalisco, Nayarit, not including Capacha culture regions (300 CE - 900 CE)
 
 * [Teuchitlan tradition](https://en.wikipedia.org/wiki/Teuchitlan_tradition)
+
+## Yaxchilan/Pa' Chan - Ocosingo, Chiapas, MX (359 CE - 808-ish CE)
+
+* [Yaxchilan](https://en.wikipedia.org/wiki/Yaxchilan)
 
 ## Cacaxtla - Tlascala, MX (400 CE - 1000 CE)
 
 * [Cacaxtla](https://en.wikipedia.org/wiki/Cacaxtla)
 * Olmeca-Xicalanca, probably from 600 CE - 900 CE. Teotihuacan, Maya, Mixtec and Totonac influences.
+
+## Palenque/Bàak'/Lakamha - Chiapas, MX (400 CE - 800 CE)
+
+* [Palenque](https://en.wikipedia.org/wiki/Palenque)
+
+## Calakmul - Campeche, MX (400 CE - 900 CE)
+
+* [Calakmul](https://en.wikipedia.org/wiki/Calakmul)
+
+## Copan - (426 CE - 900 CE)
+
+* [Copan](https://en.wikipedia.org/wiki/Cop%C3%A1n)
 
 ## Toltec Empire - Most of southern Mexico and the Tip of the Yucatan (496 CE - 1122 CE)
 
@@ -1715,7 +1846,9 @@ And it wasn't the only time either:
 
 ### Coles Creek (700 CE - 1100 CE)
 
-## Mesoamerican Late Classic (600 CE - 900 CE)
+## Toniná - Ocosingo, Chiapas, MX (514 CE - 909 CE)
+
+* [Toniná](https://en.wikipedia.org/wiki/Tonin%C3%A1)
 
 ## "Worst Year to Be Alive" (536 CE)
 
@@ -1738,6 +1871,8 @@ And it wasn't the only time either:
 ## Pumapunku - Tiwanaku, Bolivia (536 CE)
 
 * [Pumapunku](https://en.wikipedia.org/wiki/Pumapunku)
+
+## Mesoamerican Late Classic (600 CE - 900 CE)
 
 ## Human versus climatic influences on late-Holocene fire regimes in southwestern Nicaragua (600 BCE - 2000 CE)
 
@@ -1782,9 +1917,24 @@ This is a Tairona Culture site. The Arhuaco (Ijka, Ifca), Kogui, Wiwa, and Kanku
 
 * [Tairona](https://en.wikipedia.org/wiki/Tairona)
 
+## Las Ánimas culture - Norte Chico, Chile (700 CE - 1000 CE)
+
+Preceeded by El Molle Complex. Evolved into Diaguita Culture.
+
+* [Las Ánimas culture](https://en.wikipedia.org/wiki/Las_%C3%81nimas_complex)
+  * `Pottery recovered from Las Ánimas complex has linear designs painted with white, red or black.[2] The black colour derives from specular hematite.[2] Las Ánimas complex has the earliest evidence for copper metallurgy in Norte Chico.[3] `
+
 ## Sican culture - Lambayeque, Peru (750 CE - 1375 CE)
 
 * [Sican culture](https://en.wikipedia.org/wiki/Sican_culture)
+
+## Chichen Itza - Pisté, Yucatán, MX (750 CE - 1588 CE)
+
+* [Chichen Itza](https://en.wikipedia.org/wiki/Chichen_Itza)
+* [Cenote Sagrado](https://en.wikipedia.org/wiki/Sacred_Cenote)
+* [El Castillo](https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza)
+* [Kukulkan](https://en.wikipedia.org/wiki/Kukulkan)
+* http://artdaily.com/news/80741/Archaeologists-report-Kukulkan-Pyramid-at-Chichen-Itza-built-over-an-underground-river
 
 ## Hohokam Ballcourts - Arizona, USA (750 CE - 1200 CE)
 
@@ -1870,7 +2020,12 @@ Puuc Region/Style. Possibly Chontal.
 * [Chan Chan](https://en.wikipedia.org/wiki/Chan_Chan)
 * [West, Michael. Community Settlement Patterns at Chan Chan, Peru. American Antiquity. Vol. 35. No. 1 (Jan 1970) pp. 74-86.](https://www.jstor.org/stable/278179)
 
-## Ilhuatzio, Pátzcuaro Basin, Michoacán, Mexico (900 CE - 1530 CE) - Purepecha
+## Ruins of Quilmes - Calchaquí Valleys, Tucumán Province, Argentina (850 CE - 1665 CE)
+
+* [Ruins of Quilmes](https://en.wikipedia.org/wiki/Ruins_of_Quilmes)
+* [Quilmes people](https://en.wikipedia.org/wiki/Quilmes_people)
+
+## Ilhuatzio, Pátzcuaro Basin, Michoacán, Mexico (900 CE - 1530 CE) - P'urepecha
 
 * [Ilhuatzio](https://en.wikipedia.org/wiki/Ihuatzio_(archaeological_site))
 
@@ -1905,6 +2060,16 @@ Shows Huastec, Otomi, Totonac, & Olmec influence. Indications the area was occup
   * References question the precision of the designation Otomi, which is good, since many Oto-Manguean groups were in the area.
 * [Mesa de Cacahuatenco. Diario Xalapa.](https://web.archive.org/web/20110722224254/http://www.oem.com.mx/diariodexalapa/notas/n1123007.htm) &mdash; picture of pyramid.
 
+## Chojolom - Cantel, Quetzaltenango Department, Guatemala (900 CE - 1200 CE)
+
+"By the Head"; might relate to the scupltures.
+
+* [Chojolom](https://en.wikipedia.org/wiki/Chojolom)
+
+## Cerro Quiac - Cantel, Quetzaltenango Department, Guatemala (950 CE - 1200 CE)
+
+* [Cerro Quiac](https://en.wikipedia.org/wiki/Cerro_Quiac)
+
 ## Azcapotzalco - Western shore of Lake Texcoco, Mexico, MX - Chichimeca (995 CE - 1428 CE)
 
 * [Azcapotzalco](https://es.wikipedia.org/wiki/Azcapotzalco_(alt%C3%A9petl))
@@ -1931,12 +2096,24 @@ Olmec-vixtoti, Toltec, Mexica.
 
 * [Ancient mound builders carefully timed their occupation of coastal Louisiana site](https://www.heritagedaily.com/2018/05/ancient-mound-builders-carefully-timed-their-occupation-of-coastal-louisiana-site/119826)
 
+## Diaguita - Norte Chico, Chile (1000 CE - 1550 CE)
+
+Preceeded by Las Animas Culture.
+
+* [Diaguita](https://en.wikipedia.org/wiki/Diaguita)
+
 ### Ritual Black Drink consumption at Cahokia - Illinois, USA (1050 CE - 1250 CE)
 
-This indicates that there were estalbished trade routes between the natural range of [Ilex vomitoria](https://github.com/Cuauhtlatoatzin/plants/blob/master/README.md#ilex) and Cahokia.
+This indicates that there were estalbished trade routes between the natural range of [Ilex vomitoria](https://github.com/Cuauhtlatoatzin/plants/blob/master/README.md#ilex) and Cahokia (which makes sense, since the SW imported it by 750 CE).
 
 * [Ritual Black Drink consumption at Cahokia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435207/)
 * [Researchers find evidence of ritual use of 'black drink' at Cahokia](https://news.illinois.edu/view/6367/205015)
+
+## Casas Grandes/Paquimé - Chihuahua, MX (1130 CE - 1450 CE)
+
+Complex water systems, copperwork, pottery, shell beads, macaw feathers, a meteorite wrapped in linen, I-shaped Mesoamerican ballcorts
+
+* [Casas Grandes](https://en.wikipedia.org/wiki/Casas_Grandes)
 
 ## Postclassic (1200 CE - Present)
 
@@ -1961,6 +2138,10 @@ This indicates that there were estalbished trade routes between the natural rang
 See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 
 * [Texcoco](https://en.wikipedia.org/wiki/Texcoco_(altepetl))
+
+## Chutixtiox/Chu'Taxtyoox (Sakapultek) (possibly Kumatz) - Sacapulas, Quiché Department, Guatemala (1200 CE - 1524 CE)
+
+* [Chutixtiox](https://en.wikipedia.org/wiki/Chutixtiox)
 
 ## Tlaxcallan - Tlaxcala, MX (1250 CE - 1550 CE)
 
@@ -2058,6 +2239,10 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
 
   * [Lightfoot KG (2015) Dynamics of change in multiethnic societies: An archaeological perspective from colonial North America. PNAS. 112(30): 9216-9223.](https://doi.org/10.1073/pnas.1422190112)
+
+## Qʼumqaraqʼaj/qʼumarˈkah/Utatlán - Santa Cruz del Quiché, Quiché Department, Guatemala (1400 CE - 1524 CE)
+
+* [Qʼumarkaj](https://en.wikipedia.org/wiki/Q%CA%BCumarkaj)
 
 ## North American Colonial
 
@@ -2180,7 +2365,6 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 * [Smith ME (2018) Why I am skeptical about the new Maya LiDAR results from NGS. Personal Blog. Retrieved October 19, 2019.](http://publishingarchaeology.blogspot.com/2018/02/why-i-am-skeptical-about-new-maya-lidar.html)
 * http://artdaily.com/news/58025/Archaeologists--anthropologists-and-other-experts-meet--Mayas-prophesized--but-not-end-of-world-
 * http://artdaily.com/news/55294/Archaeologists-find-ancient-Mayan-workshop-for-astronomers-in-northeastern-Guatemala
-* http://artdaily.com/news/80741/Archaeologists-report-Kukulkan-Pyramid-at-Chichen-Itza-built-over-an-underground-river
 * http://artdaily.com/news/35667/1000-Year-Old-Monument-with-Image-of-Mayan-Ruler-Found
 * [(2012) Ancient Mayan theater was political tool](https://www.archaeology.wiki/blog/2012/09/06/ancient-mayan-theater-was-political-tool/)
 * [(2012) Encuentran antiguo teatro maya en Ocosingo.](http://www.inah.gob.mx/boletines/3420-encuentran-antiguo-teatro-maya-en-ocosingo)
