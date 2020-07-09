@@ -2,7 +2,7 @@
 
 Genetic studies are an area fraught with criticism. Some of these criticisms are for good reason, some from fear ([and there can be good reason behind the fear, too](https://en.wikipedia.org/wiki/Human_Genome_Diversity_Project#Potential_problems)). A proper scientific understanding of genetics is necessary to draw conclusions about the following papers. Any understanding mired in the nonsense of racism is bound to produce further nonscientific nonsense. Any studies which do not respect that ownership and copyright are not concepts recognized by indigenous peoples sovereign nations. The earth and all of creation "owns" the genetics. No one can retain ownership or copyright over genetics. Those concepts applied to genes and genetics are rendered as nonsense in many indigenous worldviews, including my own.
 
-That being said, here is a the high-level overview of the very basics:
+That being said, here is a the high-level overview of the very basics of human genetics:
 
 * An average person has an estimated 37,200,000,000,000 cells containing some genetic material.
 * Genetic material contains DNA and RNA.
@@ -51,21 +51,18 @@ The following journal papers contain most of the overview that one would need to
 * [Reich D (2016) The Genomic Ancient DNA Revolution. Edge. Feb.](https://www.edge.org/conversation/david_reich-the-genomic-ancient-dna-revolution)
 * [Salem MSZ (2016) Formal genetic maps. Egyptian Journal of Medical Human Genetics. 16(2): 101-116.](https://doi.org/10.1016/j.ejmhg.2014.11.006)
 * [Jo B, Chois SS (2015) Introns: The Functional Benefits of Introns in Genomes. Genomics & Informatics. 13(4): 112-118.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4742320/)
+### Relatedness and Divergence over time.
+
+* [Sethuraman A (2018) Estimating Genetic Relatedness in Admixed Populations. Genes Genomes Genetics. 8(10): 3203–3220.](https://dx.doi.org/10.1534%2Fg3.118.200485)
 * [McIver LJ, McCormick JF, Martin A, Fondon III JW, Garner HR (2013) Population-scale analysis of human microsatellites reveals novel sources of exonic variation. Gene. 516(2)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3815531/)
 * [Kwong M, Pemberton TJ (2014) Sequence differences at orthologous microsatellites inflate estimates of human-chimpanzee differentiation. BMC Genomics. 15: 990.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4253012/)
 * [Vaksman Z, Fonville NC, Tae H, Garner HR (2014) Exome-Wide Somatic Microsatellite Variation Is Altered in Cells with DNA Repair Deficiencies. PLoS ONE 9(11): e110263. https://doi.org/10.1371/journal.pone.0110263](https://doi.org/10.1371/journal.pone.0110263)
-* [Race, Ethnicity, and Genetics Working Group (2005) The Use of Racial, Ethnic, and Ancestral Categories in Human Genetics Research. American Journal of Human Genetics. 77(4): 519–532.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275602/)
-* [Rosenberg NA (2011) A Population-Genetic Perspective on the Similarities and Differences among Worldwide Human Populations. Human Biology. 83(6): 659-684.](https://doi.org/10.3378/027.083.0601) &mdash; [Open Access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531797/)
-* [Carja O et al. (2017) Worldwide patterns of human epigenetic variation. Nature Ecology & Evolution. 1: 1577–1583.](https://www.nature.com/articles/s41559-017-0299-z) &mdash; [bioRXiv](https://www.biorxiv.org/content/early/2015/07/05/021931)
 * [Pemberton TJ et al. (2013) Population Structure in a Comprehensive Genomic Data Set on Human Microsatellite Variation. Genes Genomes Genetics. 3(5): 891-907.](https://doi.org/10.1534/g3.113.005728)
-* [Rosenberg NA, Mahajan S, Ramachandran S, Zhao C, Pritchard JK, Feldman MW (2005) Clines, Clusters, and the Effect of Study Design on the Inference of Human Population Structure. PLoS Genet 1(6): e70. https://doi.org/10.1371/journal.pgen.0010070](https://doi.org/10.1371/journal.pgen.0010070)
-* [Driscoll CA et al. (2002) Genomic Microsatellites as Evolutionary Chronometers: A Test in Wild Cats. Genome Research. 12(3):414-23.](https://www.researchgate.net/publication/11487684_Genomic_Microsatellites_as_Evolutionary_Chronometers_A_Test_in_Wild_Cats)
-* [Rosenberg NA et al. (2002) Genetic Structure of Human Populations. Science. 298(5602): 2381-2385.](https://science.sciencemag.org/content/298/5602/2381.full) &mdash; [PDF](https://www.researchgate.net/publication/10980474_Genetic_Structure_of_Human_Populations) &mdash; This is the original paper that started the meme that humans are roughly 99.9% the same. The biggest take away from the paper is that self reporting would likely be a reliable proxy for what genetic conditions they might get. The second take away was the intra-group genetic variation is greater than inter-group genetic variation.
-* [Li JZ, Absher DD, et al. (2008) Worldwide Human Relationships Inferred from Genome-Wide Patterns of Variation. Science. 319(5866): 1100-1104.](https://science.sciencemag.org/content/319/5866/1100) &mdash; [PDF](https://pdfs.semanticscholar.org/b8de/1df47f30b54c57dce03fb14a4a94459b2e46.pdf) &mdash; Re-iterates the above finding.
-  * `Together, these results reaffirm that within-population variation accounts for most of the genetic diversity in humans. However, the between-population variance is sufficient to reveal consistent population structure because subtle but nonrandom differences between populations accumulate over a large number of loci and yield principal components that can account for a major portion of the variation (21).`
 * [López Herráez D, Bauchet M, Tang K, Theunert C, Pugach I, Li J, et al. (2009) Genetic Variation and Recent Positive Selection in Worldwide Human Populations: Evidence from Nearly 1 Million SNPs. PLoS ONE 4(11): e7888. https://doi.org/10.1371/journal.pone.0007888](https://doi.org/10.1371/journal.pone.0007888)
+* [Rosenberg NA, Mahajan S, Ramachandran S, Zhao C, Pritchard JK, Feldman MW (2005) Clines, Clusters, and the Effect of Study Design on the Inference of Human Population Structure. PLoS Genet 1(6): e70. https://doi.org/10.1371/journal.pgen.0010070](https://doi.org/10.1371/journal.pgen.0010070)
 * [Zhivotovsky LA, Rosenberg NA, Feldman MW (2003) Features of Evolution and Expansion of Modern Humans, Inferred from Genomewide Microsatellite Markers. American Journal of Human Genetics. 72(5): 1171–1186.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180270/)
-* [Sethuraman A (2018) Estimating Genetic Relatedness in Admixed Populations. Genes Genomes Genetics. 8(10): 3203–3220.](https://dx.doi.org/10.1534%2Fg3.118.200485)
+* [Driscoll CA et al. (2002) Genomic Microsatellites as Evolutionary Chronometers: A Test in Wild Cats. Genome Research. 12(3):414-23.](https://www.researchgate.net/publication/11487684_Genomic_Microsatellites_as_Evolutionary_Chronometers_A_Test_in_Wild_Cats)
+
 
 ### Accounting for Sequencing Errors
 
@@ -76,6 +73,24 @@ The following journal papers contain most of the overview that one would need to
 * [Trimble WL et al. (2012) Short-read reading-frame predictors are not created equal: sequence error causes loss of signal. BMC Informatics. 13: 183. doi: 10.1186/1471-2105-13-183](https://doi.org/10.1186/1471-2105-13-183)
 * [Wang XV et al. (2012) Estimation of sequencing error rates in short reads. BMC Bioinformatics. 13: 185. doi: 10.1186/1471-2105-13-185](https://dx.doi.org/10.1186%2F1471-2105-13-185)
 * [Richterich T (1998) Estimation of Errors in "Raw" DNA Sequences: A Validation Study. Genome Research. 8: 251-259. doi: 10.1101/gr.8.3.251](https://genome.cshlp.org/content/8/3/251.full.html)
+
+### The Myth of "Race"
+
+* [Norton, H.L., Quillen, E.E., Bigham, A.W. et al. Human races are not like dog breeds: refuting a racist analogy. Evo Edu Outreach 12, 17 (2019). https://doi.org/10.1186/s12052-019-0109-y](https://doi.org/10.1186/s12052-019-0109-y)
+* [Carja O et al. (2017) Worldwide patterns of human epigenetic variation. Nature Ecology & Evolution. 1: 1577–1583.](https://www.nature.com/articles/s41559-017-0299-z) &mdash; [bioRXiv](https://www.biorxiv.org/content/early/2015/07/05/021931)
+* [Rosenberg NA (2011) A Population-Genetic Perspective on the Similarities and Differences among Worldwide Human Populations. Human Biology. 83(6): 659-684.](https://doi.org/10.3378/027.083.0601) &mdash; [Open Access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531797/)
+* [Li JZ, Absher DD, et al. (2008) Worldwide Human Relationships Inferred from Genome-Wide Patterns of Variation. Science. 319(5866): 1100-1104.](https://science.sciencemag.org/content/319/5866/1100) &mdash; [PDF](https://pdfs.semanticscholar.org/b8de/1df47f30b54c57dce03fb14a4a94459b2e46.pdf) &mdash; Re-iterates the above finding.
+  * `Together, these results reaffirm that within-population variation accounts for most of the genetic diversity in humans. However, the between-population variance is sufficient to reveal consistent population structure because subtle but nonrandom differences between populations accumulate over a large number of loci and yield principal components that can account for a major portion of the variation (21).`
+* [Race, Ethnicity, and Genetics Working Group (2005) The Use of Racial, Ethnic, and Ancestral Categories in Human Genetics Research. American Journal of Human Genetics. 77(4): 519–532.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275602/)
+* [Rosenberg NA et al. (2002) Genetic Structure of Human Populations. Science. 298(5602): 2381-2385.](https://science.sciencemag.org/content/298/5602/2381.full) &mdash; [PDF](https://www.researchgate.net/publication/10980474_Genetic_Structure_of_Human_Populations) &mdash; This is the original paper that started the meme that humans are roughly 99.9% the same. The biggest take away from the paper is that self reporting would likely be a reliable proxy for what genetic conditions they might get. The second take away was the intra-group genetic variation is greater than inter-group genetic variation.
+
+## In Case You Are Interested in Dog Genetics
+
+* [Norton, H.L., Quillen, E.E., Bigham, A.W. et al. Human races are not like dog breeds: refuting a racist analogy. Evo Edu Outreach 12, 17 (2019). https://doi.org/10.1186/s12052-019-0109-y](https://doi.org/10.1186/s12052-019-0109-y)
+* [Leathlobhair, M. N., Perri, A. R., Irving-Pease, E. K., Witt, K. E., Linderholm, A., Haile, J., ... & Brace, S. (2018). The evolutionary history of dogs in the Americas. Science, 361(6397), 81-85.](https://doi.org/10.1126/science.aao4776)
+* [Hecht, J. (2018) What a Dog Geneticist Wants You to Know about Dog Genetics. Dog Spies Blog. Scientific American.](https://blogs.scientificamerican.com/dog-spies/what-a-dog-geneticist-wants-you-to-know-about-dog-genetics/)
+* [Parker, H. G., Dreger, D. L., Rimbault, M., Davis, B. W., Mullen, A. B., Carpintero-Ramirez, G., & Ostrander, E. A. (2017). Genomic analyses reveal the influence of geographic origin, migration, and hybridization on modern dog breed development. Cell reports, 19(4), 697-708.](https://doi.org/10.1016/j.celrep.2017.03.079)
+* [Ostrander, E. A. (2007). Genetics and the shape of dogs: studying the new sequence of the canine genome shows how tiny genetic changes can create enormous variation within a single species. American Scientist, 95(5), 406-413.](https://www.americanscientist.org/article/genetics-and-the-shape-of-dogs)
 
 ## Genetic Evidence for the Peopling of the Americas
 
