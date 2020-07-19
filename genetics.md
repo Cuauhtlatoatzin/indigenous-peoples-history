@@ -63,7 +63,6 @@ The following journal papers contain most of the overview that one would need to
 * [Zhivotovsky LA, Rosenberg NA, Feldman MW (2003) Features of Evolution and Expansion of Modern Humans, Inferred from Genomewide Microsatellite Markers. American Journal of Human Genetics. 72(5): 1171–1186.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1180270/)
 * [Driscoll CA et al. (2002) Genomic Microsatellites as Evolutionary Chronometers: A Test in Wild Cats. Genome Research. 12(3):414-23.](https://www.researchgate.net/publication/11487684_Genomic_Microsatellites_as_Evolutionary_Chronometers_A_Test_in_Wild_Cats)
 
-
 ### Accounting for Sequencing Errors
 
 * [Ma X et al. (2019) Analysis of error profiles in deep next-generation sequencing data. Genome Biology. 20.](https://doi.org/10.1186/s13059-019-1659-6)
@@ -82,21 +81,17 @@ The following journal papers contain most of the overview that one would need to
 * [Li JZ, Absher DD, et al. (2008) Worldwide Human Relationships Inferred from Genome-Wide Patterns of Variation. Science. 319(5866): 1100-1104.](https://science.sciencemag.org/content/319/5866/1100) &mdash; [PDF](https://pdfs.semanticscholar.org/b8de/1df47f30b54c57dce03fb14a4a94459b2e46.pdf) &mdash; Re-iterates the above finding.
   * `Together, these results reaffirm that within-population variation accounts for most of the genetic diversity in humans. However, the between-population variance is sufficient to reveal consistent population structure because subtle but nonrandom differences between populations accumulate over a large number of loci and yield principal components that can account for a major portion of the variation (21).`
 * [Race, Ethnicity, and Genetics Working Group (2005) The Use of Racial, Ethnic, and Ancestral Categories in Human Genetics Research. American Journal of Human Genetics. 77(4): 519–532.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275602/)
+* [Excoffier, L., & Hamilton, G. (2003). Comment on genetic structure of human populations. Science, 300(5627), 1877. DOI: 10.1126/science.1083411](https://doi.or/10.1126/science.1083411)
 * [Rosenberg NA et al. (2002) Genetic Structure of Human Populations. Science. 298(5602): 2381-2385.](https://science.sciencemag.org/content/298/5602/2381.full) &mdash; [PDF](https://www.researchgate.net/publication/10980474_Genetic_Structure_of_Human_Populations) &mdash; This is the original paper that started the meme that humans are roughly 99.9% the same. The biggest take away from the paper is that self reporting would likely be a reliable proxy for what genetic conditions they might get. The second take away was the intra-group genetic variation is greater than inter-group genetic variation.
-
-## In Case You Are Interested in Dog Genetics
-
-* [Norton, H.L., Quillen, E.E., Bigham, A.W. et al. Human races are not like dog breeds: refuting a racist analogy. Evo Edu Outreach 12, 17 (2019). https://doi.org/10.1186/s12052-019-0109-y](https://doi.org/10.1186/s12052-019-0109-y)
-* [Leathlobhair, M. N., Perri, A. R., Irving-Pease, E. K., Witt, K. E., Linderholm, A., Haile, J., ... & Brace, S. (2018). The evolutionary history of dogs in the Americas. Science, 361(6397), 81-85.](https://doi.org/10.1126/science.aao4776)
-* [Hecht, J. (2018) What a Dog Geneticist Wants You to Know about Dog Genetics. Dog Spies Blog. Scientific American.](https://blogs.scientificamerican.com/dog-spies/what-a-dog-geneticist-wants-you-to-know-about-dog-genetics/)
-* [Parker, H. G., Dreger, D. L., Rimbault, M., Davis, B. W., Mullen, A. B., Carpintero-Ramirez, G., & Ostrander, E. A. (2017). Genomic analyses reveal the influence of geographic origin, migration, and hybridization on modern dog breed development. Cell reports, 19(4), 697-708.](https://doi.org/10.1016/j.celrep.2017.03.079)
-* [Ostrander, E. A. (2007). Genetics and the shape of dogs: studying the new sequence of the canine genome shows how tiny genetic changes can create enormous variation within a single species. American Scientist, 95(5), 406-413.](https://www.americanscientist.org/article/genetics-and-the-shape-of-dogs)
 
 ## Genetic Evidence for the Peopling of the Americas
 
+* [Ioannidis, A.G., Blanco-Portillo, J., Sandoval, K. et al. (2020) Native American gene flow into Polynesia predating Easter Island settlement. Nature. https://doi.org/10.1038/s41586-020-2487-2]
 * [Blell M, Hunter MA (2019) Direct-to-Consumer Genetic Testing's Red Herring: “Genetic Ancestry” and Personalized Medicine. Frontiers in Medicine. 29 March.](https://doi.org/10.3389/fmed.2019.00048)
 * [Walajahi H, Wilson DR, Hull SC (2019) Constructing Identities: The Implications of DTC Ancestry Testing for Tribal Communities. Genetic Medicine. 21(8): 1744-1750.](https://dx.doi.org/10.1038%2Fs41436-018-0429-2)
 * [Pinotti T et al. (2019) Y Chromosome Sequences Reveal a Short Beringian Standstill, Rapid Expansion, and early Population structure of Native American Founders. Current Biology. 29(1): 149-157.](https://doi.org/10.1016/j.cub.2018.11.029)
+* [Sikora, M., Pitulko, V. V., Sousa, V. C., Allentoft, M. E., Vinner, L., Rasmussen, S., ... & Yang, M. A. (2019). The population history of northeastern Siberia since the Pleistocene. Nature, 570(7760), 182-188.](https://doi.org/10.1038/s41586-019-1279-z)
+* [Flegontov, P., Altınışık, N. E., Changmai, P., Rohland, N., Mallick, S., Adamski, N., ... & Flegontova, O. (2019). Palaeo-Eskimo genetic ancestry and the peopling of Chukotka and North America. Nature, 570(7760), 236-240.](https://doi.org/10.1038/s41586-019-1251-y)
 * [Gnecchi-Ruscone GA et al. (2019) Dissecting the Pre-Columbian Genomic Ancestry of Native Americans along the Andes–Amazonia Divide, Molecular Biology and Evolution. 36(6): 1254–1269](https://doi.org/10.1093/molbev/msz066)
 * [Grugni V et al. (2019) Analysis of the human Y-chromosome haplogroup Q characterizes ancient population movements in Eurasia and the Americas. BMC Biology. 17, 3.](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0622-4)
 * [Wright JL et al. (2018) Ancient nuclear genomes enable repatriation of Indigenous human remains. Science Advances. 4(12): eaau5064.](https://dx.doi.org/10.1126%2Fsciadv.aau5064)
@@ -135,6 +130,7 @@ The following journal papers contain most of the overview that one would need to
 * [Kemp BM et al. (2007), Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. Am. J. Phys. Anthropol., 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
 * [Reséndez A, Kemp BM, et al. (2005) "An Analysis of Ancient Aztec mtDNA from Tlatelolco: Pre-Columbian Relations and the Spread of Uto-Aztecan." Biomolecular Archeology: Genetic Approaches to the Past. Center for Archeological Investigations, Ocassional Paper No. 32.](https://migrationcluster.ucdavis.edu/research/national-identity-shifting-border-texas-and-new-mexico-age-transition-1821-1848-0)
 * [Malhi RS et al. (2003) Native American mtDNA prehistory in the American Southwest. American Journal of Physical Anthropology. 120(2): 108-124. <http://hdl.handle.net/2027.42/34277>](http://hdl.handle.net/2027.42/34277)
+* [Hurles, M. E., Matisoo-Smith, E., Gray, R. D., & Penny, D. (2003). Untangling Oceanic settlement: the edge of the knowable. Trends in Ecology & Evolution, 18(10), 531-540.](https://doi.org/10.1016/S0169-5347(03)00245-3)
 * [Torroni A, Schurr TG, et al. (1993) Asian affinities and continental radiation of the four founding Native American mtDNAs. American Journal of Human Genetics. American Journal of Human Genetics. 53(3): 563-590.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682412/)
 * [Torroni A, Sukernik RI, Schurr TG, et al. (1993). mtDNA variation of aboriginal Siberians reveals distinct genetic affinities with Native Americans. American journal of human genetics, 53(3), 591-608.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682407/)
 * [Shields GF, Schmiechen AM, Frazier BL, Redd A Voevoda MI, Reed JK, Ward RH (1993) mtDNA sequences suggest a recent evolutionary divergence for Beringian and northern North American populations. American Journal of Human Genetics. 53(3): 549-562.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682422/)
@@ -241,6 +237,17 @@ This includes archeological and genetics papers to build a perspective on the di
 * [Bramanti B et al. (2009) Genetic Discontinuity Between Local Hunter-Gatherers and Central Europe’s First Farmers. Science. 326(5949): 137-140.](https://science.sciencemag.org/content/326/5949/137.abstract)
 * [Lalueza-Fox C, Römpler H, et al. (2007) A Melanocortin 1 Receptor Allele Suggests Varying Pigmentation Among Neanderthals. Science. 318(5855): 1453-1455.](https://science.sciencemag.org/content/318/5855/1453)
 * [Plagnol V, Wall JD (2006) Possible Ancestral Structure in Human Populations. PLoS Genet 2(7): e105.](https://doi.org/10.1371/journal.pgen.0020105)
+
+## In Case You Are Interested in Dog Genetics
+
+* [Norton, H.L., Quillen, E.E., Bigham, A.W. et al. Human races are not like dog breeds: refuting a racist analogy. Evo Edu Outreach 12, 17 (2019). https://doi.org/10.1186/s12052-019-0109-y](https://doi.org/10.1186/s12052-019-0109-y)
+* [Leathlobhair, M. N., Perri, A. R., Irving-Pease, E. K., Witt, K. E., Linderholm, A., Haile, J., ... & Brace, S. (2018). The evolutionary history of dogs in the Americas. Science, 361(6397), 81-85.](https://doi.org/10.1126/science.aao4776)
+* [Hecht, J. (2018) What a Dog Geneticist Wants You to Know about Dog Genetics. Dog Spies Blog. Scientific American.](https://blogs.scientificamerican.com/dog-spies/what-a-dog-geneticist-wants-you-to-know-about-dog-genetics/)
+* [Parker, H. G., Dreger, D. L., Rimbault, M., Davis, B. W., Mullen, A. B., Carpintero-Ramirez, G., & Ostrander, E. A. (2017). Genomic analyses reveal the influence of geographic origin, migration, and hybridization on modern dog breed development. Cell reports, 19(4), 697-708.](https://doi.org/10.1016/j.celrep.2017.03.079)
+* [Larson, G., Karlsson, E. K., Perri, A., Webster, M. T., Ho, S. Y., Peters, J., ... & Comstock, K. E. (2012). Rethinking dog domestication by integrating genetics, archeology, and biogeography. Proceedings of the National Academy of Sciences, 109(23), 8878-8883.](https://doi.org/10.1073/pnas.1203005109)
+* [Sutter, N. B., Bustamante, C. D., Chase, K., Gray, M. M., Zhao, K., Zhu, L., ... & Quignon, P. (2007). A single IGF1 allele is a major determinant of small size in dogs. Science, 316(5821), 112-115.](https://doi.org/10.1126/science.1137045)
+* [Ostrander, E. A. (2007). Genetics and the shape of dogs: studying the new sequence of the canine genome shows how tiny genetic changes can create enormous variation within a single species. American Scientist, 95(5), 406-413.](https://www.americanscientist.org/article/genetics-and-the-shape-of-dogs)
+* [Parker, H. G., & Ostrander, E. A. (2005). Canine genomics and genetics: running with the pack. PLoS Genet, 1(5), e58.](https://doi.org/10.1371/journal.pgen.0010058)
 
 ## Was farming a mistake? (Should this go somewhere else?)
 
