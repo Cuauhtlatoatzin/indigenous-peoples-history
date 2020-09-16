@@ -2,6 +2,15 @@
 
 Genetic studies are an area fraught with criticism. Some of these criticisms are for good reason, some from fear ([and there can be good reason behind the fear, too](https://en.wikipedia.org/wiki/Human_Genome_Diversity_Project#Potential_problems)). A proper scientific understanding of genetics is necessary to draw conclusions about the following papers. Any understanding mired in the nonsense of racism is bound to produce further nonscientific nonsense. Any studies which do not respect that ownership and copyright are not concepts recognized by indigenous peoples sovereign nations. The earth and all of creation "owns" the genetics. No one can retain ownership or copyright over genetics. Those concepts applied to genes and genetics are rendered as nonsense in many indigenous worldviews, including my own.
 
+Genetic studies provide an additional layer of information which might be missed if just looking at other measurements. For instance, there is the case of the Kennewick Man. The Kennewick Man is the skeleton of a male human from anywhere between approximately 7250 BCE &mdash; 6390 BCE in what is now known as SE Washington by the Columbia River. Initial studies measured various aspects of the man's bone structure. Based on that evidence and surrounding context, the study concluded that [NAGPRA](https://science.sciencemag.org/content/330/6001/166.1.full) did not apply and that the person was from the Aleutian Islands or even Asia. Based on a remark that measurements of the skull matched measurements of Ainu and Polynesian people, a Samoan living in California claimed that the "Ancient One" was one of the descendants of the first rulers of Polynesia. However, genetic testing confirmed that members of the Colvile Tribes where a close match to the "Ancient One". Their ancestor has since been repatriated.
+
+* [The AP. (2001) KENNEWICK MAN: Descendant of Polynesian ruler claims rights to remains. Kitsap Sun. July 26.](https://web.archive.org/web/20200914065247/https://products.kitsapsun.com/archive/2001/07-26/0018_kennewick_man__descendant_of_poly.html)
+* [NYT Staff. (2001) Northwest: Oregon: New Claim In Ancient-Bones Case. The New York Times. July 28.](https://web.archive.org/web/20110210102252/https://www.nytimes.com/2001/07/28/us/national-briefing-northwest-oregon-new-claim-in-ancient-bones-case.html)
+* [Lawler, A. (2010). Grave disputes. Science. 330(6001): 166-170.](https://doi.org/10.1126/science.330.6001.166-a)
+* [Achenbach, J. (2014) Scientists: Mysterious Kennewick Man looked Polynesian and came from far away.Washington Post. August 25.](https://web.archive.org/web/20140828073652/https://www.washingtonpost.com/national/health-science/scientists-mysterious-kennewick-man-looked-polynesian-and-came-from-far-away/2014/08/25/45411b2a-27b3-11e4-86ca-6f03cbd15c1a_story.html)
+* [Rasmussen M, Sikora M, Albrechtsen A, Korneliussen TS, Moreno-Mayar JV, Poznik GD, et al. (2015) The ancestry and affiliations of Kennewick Man. Nature. 523: 455–458. 10.1038/nature14625](https://www.nature.com/articles/nature14625)
+* [Raja, Tasneem. (2016) A Long, Complicated Battle Over 9,000-Year-Old Bones Is Finally Over. Code Switch. NPR. May 5.](https://web.archive.org/web/20160508050128/https://www.npr.org/sections/codeswitch/2016/05/05/476631934/a-long-complicated-battle-over-9-000-year-old-bones-is-finally-over)
+
 That being said, here is a the high-level overview of the very basics of human genetics:
 
 * An average person has an estimated 37,200,000,000,000 cells containing some genetic material.
@@ -51,6 +60,7 @@ The following journal papers contain most of the overview that one would need to
 * [Reich D (2016) The Genomic Ancient DNA Revolution. Edge. Feb.](https://www.edge.org/conversation/david_reich-the-genomic-ancient-dna-revolution)
 * [Salem MSZ (2016) Formal genetic maps. Egyptian Journal of Medical Human Genetics. 16(2): 101-116.](https://doi.org/10.1016/j.ejmhg.2014.11.006)
 * [Jo B, Chois SS (2015) Introns: The Functional Benefits of Introns in Genomes. Genomics & Informatics. 13(4): 112-118.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4742320/)
+
 ### Relatedness and Divergence over time.
 
 * [Sethuraman A (2018) Estimating Genetic Relatedness in Admixed Populations. Genes Genomes Genetics. 8(10): 3203–3220.](https://dx.doi.org/10.1534%2Fg3.118.200485)
@@ -145,7 +155,6 @@ The following journal papers contain most of the overview that one would need to
 * [Ward RH, Redd A, Valencia D, Pääbo S (1993) Genetic and linguistic differentiation in the Americas. PNAS. 90(22): 10663-10667.](https://dx.doi.org/10.1073%2Fpnas.90.22.10663)
 * [Ward RH, Frazier BL, Dew-Jager K, Pääbo S (1991) Extensive mitochondrial diversity within a single Amerindian tribe. PNAS. 88(19): 8720-8724.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC52581/)
 * [Schurr TG et al. (1990) Amerindian mitochondrial DNAs have rare Asian mutations at high frequencies, suggesting they derived from four primary maternal lineages. American Journal of Human Genetics. 46(3): 613-623.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1683611/)
-
 * [Genetics and the History of Latin America](https://migrationcluster.ucdavis.edu/research/genetics-and-history-latin-america)
 * [Genetics, Linguistics, and Prehistoric Migrations: An Analysis of California Indian Mitochondrial DNA Lineages](https://escholarship.org/uc/item/6g135010)
 * [Genome-wide insights into the genetic history of human populations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381409/)

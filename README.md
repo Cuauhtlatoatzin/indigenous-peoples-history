@@ -241,6 +241,8 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * [Gross M (2013) The paradoxical evolution of agriculture. Current Biology. 23(16): PR667-R670.](https://doi.org/10.1016/j.cub.2013.08.001)
   * [Bowles S (2011) Cultivation of cereals by the first farmers was not more productive than foraging. PNAS. 108(12): 4760-4765.](https://doi.org/10.1073/pnas.1010733108)
   * [Gignoux CR, Henn BM, Mountain JL (2011) Rapid, global demographic expansions after the origins of agriculture. PNAS. 108(15): 6044-6049.](https://doi.org/10.1073/pnas.0914274108) &mdash; for comparison with the other hemisphere.
+  * **GINI Coefficients of Settlements Around The World**
+    * [Kohler, T. A., Smith, M. E., Bogaard, A., Feinman, G. M., Peterson, C. E., Betzenhauser, A., ... & Ellyson, L. J. (2017). Greater post-Neolithic wealth disparities in Eurasia than in North America and Mesoamerica. Nature, 551(7682), 619-622.](https://doi.org/10.1038/nature24646) &mdash; [PDF](http://ses.wsu.edu/wp-content/uploads/2018/03/Kohler-et-al-2017-Nature_Greater-post-Neolithic-wealth-disparities.pdf)
 
 ## Food sharing patterns might indicate common origins of cultures
 
@@ -759,6 +761,24 @@ Trade between here and the south east:
 * [Sanger MC et al. (2018) Early metal use and crematory practices in the American Southeast. PNAS. 115(33): E7672-E7679.](https://doi.org/10.1073/pnas.1808819115)
 * [Smith KN (2018) Find shows 4,000-year-old trade routes stretched from Carolinas to Great Lakes. Ars Technica. July 31.](https://arstechnica.com/science/2018/07/ancient-north-american-trade-networks-reached-farther-than-we-thought/)
 
+## Carribean (5840 BCE - 5720 BCE)
+
+* [Reyes, R. P., Ramos, R. R. (2019) La Colección de las Piedras del Padre Nazario. Universidad de Puerto Rico, Recinto de Utuado.](https://www.academia.edu/40115167/La_Colecci%C3%B3n_de_las_Piedras_del_Padre_Nazario_Cat%C3%A1logo_Materia_Frontal_2019_)
+  * [Israel, D. (2019) Pre-Columbian Carvings from Puerto Rico Examined at Haifa University. Jewish Press. July 11.](https://web.archive.org/web/20190712143653/https://www.jewishpress.com/news/on-campus/pre-columbian-carvings-from-puerto-rico-examined-at-haifa-university/2019/07/11/)
+  * [Staff. (2019) Ancient and Unknown pre-Columbian Cultural Artifacts Pop In for a Visit at the University of Haifa. University of Haifa Communications and Media Relations. July 11.](https://web.archive.org/web/20191104023921/https://www.haifa.ac.il/index.php/en/about-top-blue-3/2013-07-01-13-28-00/3767-ancient-and-unknown-pre-columbian-cultural-artifacts-pop-in-for-a-visit-at-the-university-of-haifa.html)
+* [Ramos, R. R. (2019). Current Perspectives in the Precolonial Archaeology of Puerto Rico. In Oxford Research Encyclopedia of Latin American History.](https://www.researchgate.net/publication/335082724_Current_Perspectives_in_the_Precolonial_Archaeology_of_Puerto_Rico)
+  * Puerto Rico settlment horizon 3300 BCE.
+* [Pagán-Jiménez, J. R., Rodríguez-Ramos, R., Reid, B. A., van den Bel, M., & Hofman, C. L. (2015). Early dispersals of maize and other food plants into the Southern Caribbean and Northeastern South America. Quaternary Science Reviews, 123, 231-246.](https://doi.org/10.1016/j.quascirev.2015.07.005) &mdash; [PDF](https://www.academia.edu/14138047/2015_Early_dispersals_of_maize_and_other_food_plants_into_the_Southern_Caribbean_and_Northeastern_South_America)
+  * Maize was detected in St. John, Virgin Islands dated between 5840 BCE - 5720 BCE.
+* [Roksandic M, Alarie K, Rodríguez Suárez R, Huebner E, Roksandic I (2016) Not of African Descent: Dental Modification among Indigenous Caribbean People from Canímar Abajo, Cuba. PLoS ONE 11(4): e0153536.](https://doi.org/10.1371/journal.pone.0153536)
+* [Laffoon, J. E., Ramos, R. R., Baik, L. C., Storde, Y. N., Lopez, M. R., Davies, G. R., & Hofman, C. L. (2014). Long-distance exchange in the precolonial Circum-Caribbean: A multi-isotope study of animal tooth pendants from Puerto Rico. Journal of Anthropological Archaeology, 35, 220-233.](https://doi.org/10.1016/j.jaa.2014.06.004) &mdash; [PDF](https://www.researchgate.net/publication/263774933_Long-distance_exchange_in_the_precolonial_Circum-Caribbean_A_multi-isotope_study_of_animal_tooth_pendants_from_Puerto_Rico)
+* [Lambert, J. B., Santiago-Blay, J. A., Ramos, R. R., Wu, Y., & Levy, A. J. (2014). Nuclear magnetic resonance (NMR) examination of fossilized semi-fossilized and modern resins from the Caribbean Basin and surrounding regions. Life the Excitement of Biology, 2, 180-209.](https://www.academia.edu/11531380/Nuclear_Magnetic_Resonance_NMR_Examination_of_Fossilized_Semi_fossilized_and_Modern_Resins_from_the_Caribbean_Basin_and_Surrounding_Regions)
+* [Ramos, R. R., Hofman, C. L., & van Duijvenbode, A. (2011). The circulation of jadeitite across the Caribbeanscape. In Communities in Contact. Essays in Archaeology, Ethnohistory & Ethnography of the Amerindian Circum-Caribbean (pp. 117-136). Sidestone Press Leiden.](https://www.academia.edu/11530981/The_Circulation_of_Jadeitite_across_the_Caribbeanscape)
+* [Ramos, R. R., & de Utuado, R. (2010). What is the Caribbean? An archaeological perspective. Journal of Caribbean Archaeology, 3, 19-51.](https://www.researchgate.net/publication/268398689_WHAT_IS_THE_CARIBBEAN_AN_ARCHAEOLOGICAL_PERSPECTIVE)
+* [Ramos, R. R. (2008). From the Guanahatabey to the Archaic of Puerto Rico: The nonevident evidence. Ethnohistory, 55(3), 393-415.](https://www.academia.edu/11531667/From_the_Guanahatabey_to_the_Archaic_of_Puerto_Rico_The_Non_Evident_Evidence) &mdash; 
+* [Ramos, R. R., Babilonia, E., Curet, L. A., & Ulloa, J. (2008). The pre-Arawak pottery horizon in the Antilles: A new approximation. Latin American Antiquity, 47-63.](https://www.cambridge.org/core/journals/latin-american-antiquity/article/prearawak-pottery-horizon-in-the-antilles-a-new-approximation/3257495F50B625CC01DB2D971C80BB09) &mdash; [PDF](https://www.academia.edu/11531508/The_Pre_Arawak_Pottery_Horizon_in_the_Antilles_A_New_Approximation)
+* [Ramos, R. R., & Jiménez, J. P. (2006). Interacciones multivectoriales en el Circum-Caribe precolonial: Un vistazo desde las Antillas. Caribbean Studies, 99-139.](https://www.researchgate.net/publication/237266870_Interacciones_Multivectoriales_en_el_circum-Caribe_Precolonial_Un_Vistazo_desde_las_Antillas)
+
 ## Coxcatlan Phase - Tehuacán Valley, MX (5700 BCE - 3825 BCE)
 
 * [Coxcatlan Phase](https://en.wikipedia.org/wiki/Coxcatlan_Cave)
@@ -1020,6 +1040,9 @@ The fox pouch is interesting, but it could just be a coincidence that the place 
 ## Capacha - Colima, MX (2000 BCE - 1000 BCE)
 
 * [Capacha](https://en.wikipedia.org/wiki/Capacha)
+* [La Campana](https://en.wikipedia.org/wiki/La_Campana_(archaeological_site))
+* [El Chanal](https://en.wikipedia.org/wiki/El_Chanal)
+* [Piedra Mapa, Comala, Colima (200 BCE - 200 CE)](https://www.inah.gob.mx/boletines/9193-en-colima-inah-registra-petroglifo-usado-como-piedra-mapa-hace-alrededor-de-dos-mil-anos) &mdash; [Photos](https://www.inah.gob.mx/images/boletines/2020_193/demo/#img/foto1.jpg)
 
 ## Altica - Basin of Mexico, Mexico, MX (?)
 
@@ -1219,10 +1242,6 @@ Technically, this still lives on as the town of Ángel R. Cabada. It reached it'
 
 * [Nakbe](https://en.wikipedia.org/wiki/Nakbe)
 
-## Capacha - West coast from Sinaloa to Guerrero, possibly through Ecuador - Nahuatl (1300 BCE - 1521 CE)
-
-* [Capacha](https://en.wikipedia.org/wiki/Capacha)
-
 ## Chorrera culture - Ecuador (1300 BCE - 300 BCE)
 
 * [Chorrera culture](https://en.wikipedia.org/wiki/Chorrera_culture)
@@ -1323,6 +1342,8 @@ This was a Mayan site which started declining in 200 BCE and was aboandoned when
 
 ## Post-archaic (1000 BCE - Present)
 
+## Formative (1000 BCE - 500 BCE)
+
 ## Tres Zapotes - Papaloapan River Basin, Veracruz, MX - Olmec, Epi-Olmec, Classic Veracruz (1000 BCE - 900 CE)
 
 * [Tres Zapotes](https://en.wikipedia.org/wiki/Tres_Zapotes)
@@ -1341,7 +1362,9 @@ This was a Mayan site which started declining in 200 BCE and was aboandoned when
 
 * [Scattolin, M. Cristina. UNA MÁSCARA DE COBRE DE TRES MIL AÑOS. ESTUDIOS ARQUEOMETALÚRGICOS Y COMPARACIONES REGIONALES (A 3000-YEAR-OLD COPPER MASK. ARCHAEOMETALURGICAL ANALYSIS AND REGIONAL COMPARISONS) Bol. Mus. Chil. Arte Precolomb. v.15 n.1 Santiago. 2010.](https://scielo.conicyt.cl/scielo.php?pid=S0718-68942010000100003&script=sci_arttext)
 
-## Formative (1000 BCE - 500 BCE)
+## Aguada Fénix (Tabasco, Mexico) [1000 BCE - 800 BCE]
+
+* [Inomata, T., Triadan, D., López, V. A. V., Fernandez-Diaz, J. C., Omori, T., Bauer, M. B. M., ... & Nasu, H. (2020). Monumental architecture at Aguada Fénix and the rise of Maya civilization. Nature, 1-4.](https://doi.org/10.1038/s41586-020-2343-4) &mdash; [PDF](https://www.researchgate.net/publication/341887503_Monumental_architecture_at_Aguada_Fenix_and_the_rise_of_Maya_civilization)
 
 ## Ceiba, Guatemala - Maya (1000 BCE - 950 CE)
 
