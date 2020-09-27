@@ -101,9 +101,15 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * [Goebel T, Waters MR, O'Rourke DH (2008) The Late Pleistocene Dispersal of Modern Humans in the Americas. Science. 319(5869): 1497-1502.](https://science.sciencemag.org/content/319/5869/1497)
   * [Heintzman PD (2016) Bison phylogeography constrains dispersal and viability of the Ice Free Corridor in western Canada. PNAS. 113(29): 8057-8063.](https://www.pnas.org/content/113/29/8057)
 
-## Glaciers, Corridors, and Climate Change
+## Glaciers and Climate Change
 
-* [Dobson, J. E., Spada, G., & Galassi, G. (2020). Global Choke Points May Link Sea Level and Human Settlement at the Last Glacial Maximum. Geographical Review.](https://doi.org/10.1080/00167428.2020.1728195) &mdash; [PDF](https://www.researchgate.net/publication/339396051_Global_Choke_Points_May_Link_Sea_Level_and_Human_Settlement_at_the_Last_Glacial_Maximum)
+* [Berner, L. T., Massey, R., Jantz, P., Forbes, B. C., Macias-Fauria, M., Myers-Smith, I., ... & Burns, P. (2020). Summer warming explains widespread but not uniform greening in the Arctic tundra biome. Nature Communications, 11(1), 1-12.](https://doi.org/10.1038/s41467-020-18479-5)
+* [Dal Corso, J., Bernardi, M., Sun, Y., Song, H., Seyfullah, L. J., Preto, N., ... & Merico, A. (2020). Extinction and dawn of the modern world in the Carnian (Late Triassic). Science Advances, 6(38), eaba0099.](https://doi.org/10.1126/sciadv.aba0099)
+* [Martínez, C., Jaramillo, C., Correa-Metrío, A., Crepet, W., Moreno, J. E., Aliaga, A., ... & Bush, M. B. (2020). Neogene precipitation, vegetation, and elevation history of the Central Andean Plateau. Science Advances, 6(35), eaaz4724.](https://doi.org/10.1126/sciadv.aaz4724)
+* [Watson, A. J., Schuster, U., Shutler, J. D., Holding, T., Ashton, I. G., Landschützer, P., ... & Goddijn-Murphy, L. (2020). Revised estimates of ocean-atmosphere CO 2 flux are consistent with ocean carbon inventory. Nature Communications, 11(1), 1-6.](https://doi.org/10.1038/s41467-020-18203-3)
+  * [Bakker, D. C. E., Pfeil, B. Landa, C. S., Metzl, N., O’Brien, K. M., Olsen, A., Smith, K., Cosca, C., Harasawa, S., Jones, S. D., Nakaoka, S., Nojiri, Y., Schuster, U., Steinhoff, T., Sweeney, C., Takahashi, T., Tilbrook, B., Wada, C., Wanninkhof, R., Alin, S. R., Balestrini, C. F., Barbero, L., Bates, N. R., Bianchi, A. A., Bonou, F., Boutin, J., Bozec, Y., Burger, E. F., Cai, W.-J., Castle, R. D., Chen, L., Chierici, M., Currie, K., Evans, W., Featherstone, C., Feely, R. A., Fransson, A., Goyet, C., Greenwood, N., Gregor, L., Hankin, S., Hardman-Mountford, N. J., Harlay, J., Hauck, J., Hoppema, M., Humphreys, M. P., Hunt, C. W., Huss, B., Ibánhez, J. S. P., Johannessen, T., Keeling, R., Kitidis, V., Körtzinger, A., Kozyr, A., Krasakopoulou, E., Kuwata, A., Landschützer, P., Lauvset, S. K., Lefèvre, N., Lo Monaco, C., Manke, A., Mathis, J. T., Merlivat, L., Millero, F. J., Monteiro, P. M. S., Munro, D. R., Murata, A., Newberger, T., Omar, A. M., Ono, T., Paterson, K., Pearce, D., Pierrot, D., Robbins, L. L., Saito, S., Salisbury, J., Schlitzer, R., Schneider, B., Schweitzer, R., Sieger, R., Skjelvan, I., Sullivan, K. F., Sutherland, S. C., Sutton, A. J., Tadokoro, K., Telszewski, M., Tuma, M., Van Heuven, S. M. A. C., Vandemark, D., Ward, B., Watson, A. J., Xu, S. (2016) A multi-decade record of high quality fCO₂ data in version 3 of the Surface Ocean CO₂ Atlas (SOCAT). Earth Syst. Sci. Data, 8, 383-413, doi:10.5194/essd-8-383-2016.](https://doi.org/10.5194/essd-8-383-2016)
+  * [SOCAT](https://www.socat.info/)
+* [Griffiths, M. L., Johnson, K. R., Pausata, F. S., White, J. C., Henderson, G. M., Wood, C. T., ... & Sekhon, N. (2020). End of Green Sahara amplified mid-to late Holocene megadroughts in mainland Southeast Asia. Nature Communications, 11(1), 1-12.](https://doi.org/10.1038/s41467-020-17927-6)
 * [Lodolo E, Galassi G, Spada G, Zecchin M, Civile D, Bressoux M (2020) Post-LGM coastline evolution of the NW Sicilian Channel: Comparing high-resolution geophysical data with Glacial Isostatic Adjustment modeling. PLoS ONE 15(2): e0228087.](https://doi.org/10.1371/journal.pone.0228087)
 * [Malik, N. (2020). Uncovering transitions in paleoclimate time series and the climate driven demise of an ancient civilization. Chaos: An Interdisciplinary Journal of Nonlinear Science, 30(8), 083108.](http://dx.doi.org/10.1063/5.0012059)
 * [Judd, E. J., Bhattacharya, T., & Ivany, L. C. (2020). A dynamical framework for interpreting ancient sea surface temperatures. Geophysical Research Letters, e2020GL089044.](https://doi.org/10.1029/2020GL089044)
@@ -117,9 +123,11 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 * [Willeit M, Ganapolsky A, Calov R, Brovkin V (2019) Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal. Science Advances. 5(4): eaav7337. DOI: 10.1126/sciadv.aav7337](https://advances.sciencemag.org/content/5/4/eaav7337)
 * [Ganopolski A, Brovkin V (2017) Simulation of climate, ice sheets and CO2 evolution during the last four glacial cycles with an Earth system model of intermediate complexity. Climate of the Past. 13: 1695–1716.](https://doi.org/10.5194/cp-13-1695-2017)
 * [Menounos B, Goehring BM, Osborn G, Margold M, Ward B, Bond J, Clarke GKC, Clague JJ, Lakeman T, Koch J, Caffee MW, Gosse J, Stroeven AP, Seguinot J, Heyman J (2017) Cordilleran Ice Sheet mass loss preceded climate reversals near the Pleistocene Termination. Science. 358(6364): 781-784.](https://doi.org/10.1126/science.aan3001)
+* [Petrie, C. A., Singh, R. N., Bates, J., Dixit, Y., French, C. A., Hodell, D. A., ... & Pandey, A. K. (2017). Adaptation to variable environments, resilience to climate change: Investigating land, water and settlement in Indus Northwest India. Current Anthropology, 58(1).](https://doi.org/10.1086/690112)
 * [Ganopolski A, Winkelmann R, Schellnhuber HJ. (2016) Critical insolation–CO2 relation for diagnosing past and future glacial inception. Nature. 529: 200-203.](https://www.nature.com/articles/nature16494)
+* [Schmid, B. V., Büntgen, U., Easterday, W. R., Ginzler, C., Walløe, L., Bramanti, B., & Stenseth, N. C. (2015). Climate-driven introduction of the Black Death and successive plague reintroductions into Europe. Proceedings of the National Academy of Sciences, 112(10), 3020-3025.](https://doi.org/10.1073/pnas.1412887112)
+* [Lawler, A. (2014). In search of Green Arabia. Science, 345(6200), 994-997.](https://doi.org/10.1126/science.345.6200.994)
 * [Swisher ME, Jenkins DL, Jackson Jr. LE, Phillips FM (2013) A Reassessment of the Role of the Canadian Ice-free Corridor in Light of New Geological Evidence. Current Archaeological Happenings in Oregon. 38(4): 9-14.](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence) &mdash; Good conceptualizations of the range of the glacial ice sheets.
-* [Murphy JB, Nance RD (2013) Speculations on the mechanisms for the formation and breakup of supercontinents. Geoscience Frontiers. 4(2): 185-194.](https://doi.org/10.1016/j.gsf.2012.07.005)
 * [Robinson A, Calov A, Ganopolski A (2012) Multistability and critical thresholds of the Greenland ice sheet. Nature Climate Change. (2): 429–432.](https://doi.org/10.1038/nclimate1449) &mdash; [PDF](https://www.researchgate.net/publication/230662041_Multistability_and_critical_thresholds_of_the_Greenland_Ice_Sheet)
 
 ## Drainage of Glaciers to Ocean
@@ -132,6 +140,7 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 
 * [McLaren, D., Fedje, D., Mackie, Q., Davis, L. G., Erlandson, J., Gauvreau, A., & Vogelaar, C. (2020). Late Pleistocene Archaeological Discovery Models on the Pacific Coast of North America. PaleoAmerica, 6(1), 43-63.](https://doi.org/10.1080/20555563.2019.1670512) &mdash; [PDF](https://www.researchgate.net/profile/Quentin_Mackie/publication/337034728_Late_Pleistocene_Archaeological_Discovery_Models_on_the_Pacific_Coast_of_North_America/links/5dc79bb8299bf1a47b27545a/Late-Pleistocene-Archaeological-Discovery-Models-on-the-Pacific-Coast-of-North-America.pdf)
   * Contains bits of methodology useful in reconstructing local sea level histories along coasts.
+* [Dobson, J. E., Spada, G., & Galassi, G. (2020). Global Choke Points May Link Sea Level and Human Settlement at the Last Glacial Maximum. Geographical Review.](https://doi.org/10.1080/00167428.2020.1728195) &mdash; [PDF](https://www.researchgate.net/publication/339396051_Global_Choke_Points_May_Link_Sea_Level_and_Human_Settlement_at_the_Last_Glacial_Maximum)
 * [Rohling EJ, et al. (2019) Asynchronous Antarctic and Greenland ice-volume contributions to the last interglacial sea-level highstand. Nature Communications. 10: 5040.](https://www.nature.com/articles/s41467-019-12874-3)
 * [Lambeck K, Rouby H, Purcell A, Sun Y, Sambridge M (2014) Sea level and global ice volumes from the Last Glacial Maximum to the Holocene. PNAS. 111(43): 15296-15303.](https://doi.org/10.1073/pnas.1411762111)
 * [Kemp AC, Horton BP, Donnelly JP, Mann ME, Vermeer M, Rahmstorf S (2011) Climate related sea-level variations over the past two millennia. PNAS. 108(27) 11017-11022.](https://doi.org/10.1073/pnas.1015619108)
@@ -146,6 +155,11 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 
 ## Extraterrestial Impacts
   * [Hergerten S, Kenkmann T (2015) The number of impact craters on Earth: Any room for further discoveries? Earth and Planetary Science Letters. 425: 187-192](https://doi.org/10.1016/j.epsl.2015.06.009)
+
+## Supercontinents and Tectonic Plates
+
+* [Nishiyama, T., Ohfuji, H., Fukuba, K., Terauchi, M., Nishi, U., Harada, K., ... & Mori, Y. (2020). Microdiamond in a low-grade metapelite from a Cretaceous subduction complex, western Kyushu, Japan. Scientific reports, 10(1), 1-11.](https://doi.org/10.1038/s41598-020-68599-7)
+* [Murphy JB, Nance RD (2013) Speculations on the mechanisms for the formation and breakup of supercontinents. Geoscience Frontiers. 4(2): 185-194.](https://doi.org/10.1016/j.gsf.2012.07.005)
 
 ## Ållerød–Younger Dryas boundary (11000 BCE - 10900 BCE)
 
@@ -221,9 +235,9 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 * [Kirkpatrick JF, Fazio PM (2003, revised 2010) Wild Horses as Native North American Wildlife. Wild Horses as Native North American Wildlife. The Science and Conservation Center, ZooMontana, Billings. 8 pages](https://awionline.org/content/wild-horses-native-north-american-wildlife)
 * [Frison GC (1998) Paleoindian large mammal hunters on the plains of North America. PNAS. 95(24): 14576-14583.](https://doi.org/10.1073/pnas.95.24.14576)
 
-## Population Growth
+## Population Growth & Economics
 
-* Size of settlements:
+* **Size of settlements**
   * [Beach T et al. (2019) Ancient Maya wetland fields revealed under tropical forest canopy from laser scanning and multiproxy evidence. PNAS. In press.](https://doi.org/10.1073/pnas.1910553116)
   * [Fisher CT et al. (2019) A Typology of Ancient Purépecha (Tarascan) Architecture from Angamuco, Michoacán, Mexico. Latin American Antiquity. 30(3): 510-528.](https://doi.org/10.1017/laq.2019.50)
   * [Beach T et al. (2019) Ancient lowland Maya complexity as revealed by airborne laser scanning of northern Guatemala](http://science.sciencemag.org/content/361/6409/eaau0137)
@@ -232,7 +246,7 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * [Dylan S. Davis, Matthew C. Sanger & Carl P. Lipo (2018) Automated mound detection using lidar and object-based image analysis in Beaufort County, South Carolina, Southeastern Archaeology, DOI: 10.1080/0734578X.2018.1482186](https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1002&context=anthro_data)
   * [Fisher CT, Cohen AS, Fernández-Diaz JC, Leisz SJ (2017) The application of airborne mapping LiDAR for the documentation of ancient cities and regions in tropical regions. Quaternary International. 448: 129-138.](https://doi.org/10.1016/j.quaint.2016.08.050)
   * [Fisher CT, Fernández-Diaz JC, Cohen AS, Neil Cruz O, Gonzáles AM, Leisz SJ, et al. (2016) Identifying Ancient Settlement Patterns through LiDAR in the Mosquitia Region of Honduras. PLoS ONE 11(8): e0159890.](https://doi.org/10.1371/journal.pone.0159890)
-* Farming vs. hunting/gathering
+* **Farming vs. hunting/gathering**
   * [Bowels S, Choi J-K (2019) The Neolithic Agricultural Revolution and the Origins of Private Property. Journal of Political Economy. 127(5): 2186-2228.](https://doi.org/10.1086/701789)
   * [Zahid HJ, Ronbinson E, Kelly RL (2016) Agriculture, population growth, and statistical analysis of the radiocarbon record. PNAS. 113(4): 931-935.](https://doi.org/10.1073/pnas.1517650112)
   * [Bettinger RL (2016) Prehistoric hunter–gatherer population growth rates rival those of agriculturalists. PNAS. 113(4): 812-814.](https://doi.org/10.1073/pnas.1523806113)
@@ -241,8 +255,9 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * [Gross M (2013) The paradoxical evolution of agriculture. Current Biology. 23(16): PR667-R670.](https://doi.org/10.1016/j.cub.2013.08.001)
   * [Bowles S (2011) Cultivation of cereals by the first farmers was not more productive than foraging. PNAS. 108(12): 4760-4765.](https://doi.org/10.1073/pnas.1010733108)
   * [Gignoux CR, Henn BM, Mountain JL (2011) Rapid, global demographic expansions after the origins of agriculture. PNAS. 108(15): 6044-6049.](https://doi.org/10.1073/pnas.0914274108) &mdash; for comparison with the other hemisphere.
-  * **GINI Coefficients of Settlements Around The World**
-    * [Kohler, T. A., Smith, M. E., Bogaard, A., Feinman, G. M., Peterson, C. E., Betzenhauser, A., ... & Ellyson, L. J. (2017). Greater post-Neolithic wealth disparities in Eurasia than in North America and Mesoamerica. Nature, 551(7682), 619-622.](https://doi.org/10.1038/nature24646) &mdash; [PDF](http://ses.wsu.edu/wp-content/uploads/2018/03/Kohler-et-al-2017-Nature_Greater-post-Neolithic-wealth-disparities.pdf)
+* **Economics**
+    * [Kohler, T. A., Smith, M. E., Bogaard, A., Feinman, G. M., Peterson, C. E., Betzenhauser, A., ... & Ellyson, L. J. (2017). Greater post-Neolithic wealth disparities in Eurasia than in North America and Mesoamerica. Nature, 551(7682), 619-622.](https://doi.org/10.1038/nature24646) &mdash; [PDF](http://ses.wsu.edu/wp-content/uploads/2018/03/Kohler-et-al-2017-Nature_Greater-post-Neolithic-wealth-disparities.pdf) &mdash; GINI coefficients of settlements around the World
+  * [Ortman, S., & Lobo, J. (2020). Smithian growth in a nonindustrial society. Science advances, 6(25), eaba5694.](https://doi.org/10.1126/sciadv.aba5694)
 
 ## Food sharing patterns might indicate common origins of cultures
 
@@ -276,11 +291,17 @@ What's interesting is that this coincides with another glacial maximum, the last
 * [Sam L. VanLandingham "Corroboration of Sangamonian age of artifacts from the Valsequillo region, Puebla, Mexico by means of diatom biostratigraphy," Micropaleontology 50(4), (1 December 2004).](https://doi.org/10.1661/0026-2803(2004)050[0313:COSAOA]2.0.CO;2)
 * [Metcalfe, S. E., Leng, M. J., Kirby, J. R., Huddart, D. , Vane, C. H. and Gonzalez, S. (2016), Early–Mid Pleistocene environments in the Valsequillo Basin, Central Mexico: a reassessment. J. Quaternary Sci., 31: 325-336. doi:10.1002/jqs.2851](https://doi.org/10.1002/jqs.2851)
 
+## Homo Sapiens 120000 years ago in Levant and Arabia
+
+This is evidence that Homo Sapiens had left Africa by 120k years ago.
+
+* [Stewart, M., Clark-Wilson, R., Breeze, P. S., Janulis, K., Candy, I., Armitage, S. J., ... & Cuthbertson, P. (2020). Human footprints provide snapshot of last interglacial ecology in the Arabian interior. Science Advances, 6(38), eaba8940.](https://doi.org/10.1126/sciadv.aba8940)
+
 ## The Highly Disputed Calico Early Man Site, San Bernardino County, California, USA (135 KA BP)
 
 There was a rock ring discovered beneath a 100000 year old soil profile -- but there is controversy over potential contamination. There are potentially some tools from then, too. However, most of the tools discovered here come from later times 30 KA BP and 14.4 KA BP.
 
-It is also interesting to note that this coincides with another glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001). This means there was likely a land brige the Denisovans could have crossed over to enter North America, see Douka et al. (2019) for more on the possible lineages of Denisovans whom could have mode this journey.
+It is also interesting to note that this coincides with another glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001). This means there was likely a land brige humans could have crossed over to enter North America, see Douka et al. (2019) for more on the possible lineages of Denisovans whom could have mode this journey along with Stewart, Clark-Wilson, Breeze, Janulis, et al. (2020) for the tantalizing possibility that Homo Sapiens could have been out of Africa already.
 
 * [Calico Early Man Site](https://en.wikipedia.org/wiki/Calico_Early_Man_Site)
 * [Lake Manix](https://en.wikipedia.org/wiki/Lake_Manix)
@@ -631,6 +652,11 @@ Structures are dated from 3550 BCE to 1650 BCE. The earliest ceremonial structur
 * [Kemp BM, Malhi RS, McDonough J , Bolnick DA, Eshleman JA, Rickards O, Martinez‐Labarga C, Johnson JR, Lorenz JG, Dixon EJ, Fifield TE, Heaton TH, Worl R, Smith DG (2007) Genetic analysis of early holocene skeletal remains from Alaska and its implications for the settlement of the Americas. American Journal of Physical Anthropology. 132: 605-621. doi:10.1002/ajpa.20543](https://doi.org/10.1002/ajpa.20543) &mdash; [PDF](https://www.igb.illinois.edu/sites/default/files/Kempetal2007.pdf)
 
 ## Early Archaic (8000 BCE - 6000 BCE)
+
+## Arabian fluted points arise independently of "New World" fluted points (6086 BCE – 5716 BCE)
+
+* [Crassard R, Charpentier V, McCorriston J, Vosges J, Bouzid S, Petraglia MD (2020) Fluted-point technology in Neolithic Arabia: An independent invention far from the Americas. PLoS ONE 15(8): e0236314](https://doi.org/10.1371/journal.pone.0236314)
+  * `Our description of Arabian and American fluting technology demonstrates that similar innovations and inventions were developed under different circumstances, and that highly-skilled and convergent production methods can have different anthropological implications.`
 
 ## Ajuereado Phase, Tehuacán Valley, MX (9000 BCE - 7000 BCE)
 
@@ -1619,17 +1645,34 @@ So maybe it was actually started in 1500 BCE: `Si bien Tiahuanaco se fundó en e
 
 ## Teotihuacán - Valley of Mexico, Mexico, MX (300 BCE - 535 CE)
 
-* [Manzanilla LR (2015) Cooperation and tensions in multiethnic corporate societies using Teotihuacan, Central Mexico, as a case study. PNAS. 112(30): 9210-9215.](https://doi.org/10.1073/pnas.1419881112)
+* [Garcia-Des Lauriers, C. (2020) "Gods, Cacao, and Obsidian: Early Classic (250-650 CE) Interactions between Teotihuacan and the Southeastern Pacific Coast of Mesoamerica", Teotihuacan: The World Beyond the City. United States: Dumbarton Oaks.](https://www.academia.edu/42187872/Gods_Cacao_and_Obsidian_Early_Classic_250-650_CE_Interactions_between_Teotihuacan_and_the_Southeastern_Pacific_Coast_of_Mesoamerica)
+* [Carballo, D.M. (2020) "Power, Politics, and Governance at Teotihuacan", Teotihuacan: The World Beyond the City. United States: Dumbarton Oaks.](https://www.academia.edu/42842408/Power_Politics_and_Governance_at_Teotihuacan)
+* [Manzanilla, L. (2019). Teopancazco como centro de barrio multiétnico de Teotihuacan. Los sectores funcionales y el intercambio a larga distancia.](https://www.academia.edu/37861741/Teopancazco_como_centro_de_barrio_multi%C3%A9tnico_de_Teotihuacan._Los_sectores_funcionales_y_el_intercambio_a_larga_distancia)
+* [Faugère, B., Pierce, D., & Cabadas-Báez, H. (2019). Teotihuacan neighborhoods’ expansion in Northwestern Mexico. Cultural implications and social processes from ceramic analysis of El Mezquital-Los Azules, Guanajuato. Journal of Anthropological Archaeology, 56, 101116.](https://www.academia.edu/40902048/Teotihuacan_neighborhoods_expansion_in_Northwestern_Mexico._Cultural_implications_and_social_processes_from_ceramic_analysis_of_El_Mezquital-Los_Azules_Guanajuato)
+* [Englehardt, J. D., & Carrasco, M. D. (2018). Interregional interaction in ancient Mesoamerica. University Press of Colorado.](https://www.academia.edu/38851342/Interregional_Interaction_in_Ancient_Mesoamerica_Full_text_)
 * [Curtis, Wayne. Rich Man, Poor Man: Archaeologists are taking the study of wealth inequality into the distant past. American Archeology Magazine. 20 Jun. 2018.](https://www.archaeologicalconservancy.org/rich-man-poor-man/)
   * `In the first half of the first millennium A.D., Teotihuacan in central Mexico was the largest city in the western hemisphere. At its peak, it had about 125,000 residents and was estimated to be the sixth largest city in the world. Among its features were a number of elaborate “apartment complexes” dotting the site, with clusters of three to ten households each sharing a central courtyard. “These were large, walled compounds and each one had several apartments,” said Michael Smith, an Arizona State University archaeologist and Director of the Teotihuacan Research Laboratory. “If I had excavated this apartment compound at one of the Aztec sites I’ve excavated, I’d say this is a noble’s house for sure—it’s so big and luxurious and fancy,” he said.`
   * `But it wasn’t for nobility. “That was the standard form at Teotihuacan,” said Smith. While future excavations may show a less affluent class lived more humbly nearby, currently the evidence suggests a society where the gulf between the richest and poorest was relatively narrow compared to other cultures at the time. Among those other contemporaneous cultures was the Roman Empire, which was flourishing on the other side of the Atlantic. The gulf between rich and poor was markedly larger there, perhaps most famously at Pompeii, where the evidence of how people lived was preserved following the catastrophic volcanic explosion.`
+* [Nielsen, J., & Helmke, C. (2018). 'Where the sun came into being': Rites of Pyrolatry, Transition, and Transformation in Early Classic Teotihuacan. In Smoke, Flames, and the Human Body in Mesoamerican Ritual Practice (pp. 77-107). Dumbarton Oaks Research Library and Collection.](https://www.academia.edu/36426579/_Where_the_Sun_Came_into_Being_Rites_of_Pyrolatry_Transition_and_Transformation_in_Early_Classic_Teotihuacan)
+* [Mendoza, R. G., & Lucido, J. A. (2017). TOLLAN TEOTIHUACAN Multiethnic Mosaics, Corporate Interaction, and Social Complexity in Mesoamerica. In Feast, Famine or Fighting? (pp. 337-392). Springer, Cham.](https://www.academia.edu/30373041/Chapter_13_TOLLAN_TEOTIHUACAN_Multiethnic_Mosaics_Corporate_Interaction_and_Social_Complexity_in_Mesoamerica_2017_)
+* [Somerville, A. D., Sugiyama, N., Manzanilla, L. R., & Schoeninger, M. J. (2017). Leporid management and specialized food production at Teotihuacan: stable isotope data from cottontail and jackrabbit bone collagen. Archaeological and Anthropological Sciences, 9(1), 83-97.](https://www.academia.edu/30680083/Somerville_Manzanilla_et_al._2016_Leporid_management_and_specialized_food_production_at_Teotihuacan_stable_isotope_data_from_cottontail_and_jackrabbit_bone_collagen)
+* [Faugère, B., Lefèbvre, K., & Cuenot, J. F. (2016). Circulation of goods and communication routes between the Acambaro Valley and Central Mexico: from Chupicuaro to Teotihuacan. Cultural Dynamics and Production Activities in Ancient Western Mexico. BAR International series. Archaeopress, Oxford, 187-200.](https://www.academia.edu/34205914/Circulation_of_goods_and_communication_routes_between_the_Ac%C3%A1mbaro_valley_and_central_Mexico_from_Chup%C3%ADcuaro_to_Teotihuacan)
+* [Manzanilla LR (2015) Cooperation and tensions in multiethnic corporate societies using Teotihuacan, Central Mexico, as a case study. PNAS. 112(30): 9210-9215.](https://doi.org/10.1073/pnas.1419881112)
 * [Álvarez-Sandoval BA, Manzanilla LR, González-Ruiz M, Malgosa A, Montiel R (2015) Genetic Evidence Supports the Multiethnic Character of Teopancazco, a Neighborhood Center of Teotihuacan, Mexico (AD 200-600). PLoS ONE 10(7): e0132371.](https://doi.org/10.1371/journal.pone.0132371)
-* [Manzanilla, L. (2019). Teopancazco como centro de barrio multiétnico de Teotihuacan. Los sectores funcionales y el intercambio a larga distancia.](https://www.academia.edu/37861741/Teopancazco_como_centro_de_barrio_multi%C3%A9tnico_de_Teotihuacan._Los_sectores_funcionales_y_el_intercambio_a_larga_distancia)
+* [Nielsen, J. & Helmke, C. (2014). "House of the Serpent Mat, House of Fire: The names of buildings in Teotihuacan writing", Mesoamerican Writing Systems. Contributions in New World Archeology. 7.](https://www.academia.edu/42857949/House_of_the_Serpent_Mat_House_of_Fire_The_names_of_buildings_in_Teotihuacan_writing)
+* [Helmke, C., Źrałka, J., & Banach, M. (2014). "If Mountains Could Speak: Ancient Toponyms Recorded at Teotihuacan, Mexico", Mesoamerican Writing Systems. Contributions in New World Archeology. 7.](https://www.academia.edu/14179342/If_Mountains_Could_Speak_Ancient_Toponyms_Recorded_at_Teotihuacan_Mexico)
+* [TESIS - 2014 - La presencia maya en la antigua ciudad de Teotihuacan. Estudio de la interacción y propuesta para un modelo explicativo.](https://www.academia.edu/7576497/TESIS_-_2014_-_La_presencia_maya_en_la_antigua_ciudad_de_Teotihuacan._Estudio_de_la_interacci%C3%B3n_y_propuesta_para_un_modelo_explicativo)
+* [Anderson, K. W., & Helmke, C. (2013). The personifications of celestial water: the many guises of the Storm god in the pantheon and cosmology of Teotihuacan. Contributions in New World Archaeology, 5, 165-196.](https://www.academia.edu/6394681/The_Personifications_of_Celestial_Water_The_Many_Guises_of_the_Storm_god_in_the_Pantheon_and_Cosmology_of_Teotihuacan)
 * [Nielsen J, Helmke C (2011) Reinterpreting the Plaza de los Glifos, la Ventilla, Teotihuacan. Ancient Mesoamerica. 22(2): 345-370.](https://www.researchgate.net/publication/231997323_Reinterpreting_the_Plaza_de_los_Glifos_la_Ventilla_teotihuacan)
     * This paper argues for a strong Tutunaku presence in Teotihuacan based on previous research.
     * States that multiple languages were present: Tutunaku, Nahuan (a variety of Nawatl), and a now extinct form of Mixe-Zoque (related to languages still spoken in Oaxaca, Veracruz, and Chiapas).
     * Also states that the symbolic scripts likely choose logograms over a phonetic system to allow easy interpretation in multi-lingual contexts.
-    * Also has info relevant to the diffusion of the horned/deer sepent across the entire North American continent. [This happened either through an earlier shared cultural space (Lenca cultural sphere) and/or long distance trading by my ancestors. - JB]
+    * Also has info relevant to the diffusion of the horned/deer sepent across the entire North American continent. [This happened either through an earlier shared cultural space (Lenca cultural sphere) and/or long distance trading by my ancestors and other groups. - JB]
+* [Clayton, S. C. (2011). Gender and mortuary ritual at ancient Teotihuacan, Mexico: A study of intrasocietal diversity. Cambridge Archaeological Journal, 21(1), 31-52.](https://www.academia.edu/2950465/Gender_and_Mortuary_Ritual_at_Ancient_Teotihuacan_Mexico_a_Study_of_Intrasocietal_Diversity)
+* [Clayton, S. C. (2009). Ritual diversity and social identities: A study of mortuary behaviors at Teotihuacan. Arizona State University.](https://www.academia.edu/37494337/RITUAL_DIVERSITY_AND_SOCIAL_IDENTITIES_A_STUDY_OF_MORTUARY_BEHAVIORS_AT_TEOTIHUACAN)
+* [De Lucia, K. (2008). 2 Looking Beyond Gender Hierarchy: Rethinking Gender at Teotihuacan, Mexico. Archeological Papers of the American Anthropological Association, 18(1), 17-36.](https://www.academia.edu/214191/Looking_Beyond_Gender_Hierarchy_Rethinking_Gender_at_Teotihuacan_Mexico)
+
+### Non-scholarly articles
 * [Teotihuacan](https://en.wikipedia.org/wiki/Teotihuacan)
 * [Teotihuacán](https://es.wikipedia.org/wiki/Teotihuac%C3%A1n)
   * `Hay varias hipótesis sobre la identidad étnica y lingüística de los fundadores de Teotihuacán.`
@@ -1639,25 +1682,11 @@ So maybe it was actually started in 1500 BCE: `Si bien Tiahuanaco se fundó en e
 * [Teotihuacán, the City of the Gods -- video](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-teotihuacan-city-gods/3019/)
 * [Archaeologists explore the tunnel below the Pyramid of the Feathered Serpent -- video](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-archaeologists-explore-tunnel-pyramid-feathered-serpent/3022/) &mdash; This has physical manifestations which map to Lenca stories.
 * [Archeologist Sounds Bummed to Find No Royal Tomb at Teotihuacán This Year](https://pictorial.jezebel.com/archeologist-sounds-bummed-to-find-no-royal-tomb-at-teo-1794596857)
+* [Laity, Paul. (2017) Lakes of mercury and human sacrifices – after 1,800 years, Teotihuacan reveals its treasures. The Guardian. 24 Sep.](https://web.archive.org/web/20170925000914/https://www.theguardian.com/artanddesign/2017/sep/24/teotihuacan-pyramids-treasures-secret-de-young-museum-san-francisco)
 * [Where did the ancient Teotihuacanos come from?](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-ancient-teotihuacanos-come/3025/)
 * [The History of the Native Peoples of the Americas/Mesoamerican Cultures/Teotihuacanos](https://en.wikibooks.org/wiki/The_History_of_the_Native_Peoples_of_the_Americas/Mesoamerican_Cultures/Teotihuacanos)
 * [Totonac](https://en.wikipedia.org/wiki/Totonac)
 * [de Young Museum Curators. "Teotihuacan: City of Water, City of Fire." Digital Stories. de Young Museum.](https://digitalstories.famsf.org/teo/#start)
-* [Helmke, C., Źrałka, J., & Banach, M. (2014). "If Mountains Could Speak: Ancient Toponyms Recorded at Teotihuacan, Mexico", Mesoamerican Writing Systems. Contributions in New World Archeology. 7.](https://www.academia.edu/14179342/If_Mountains_Could_Speak_Ancient_Toponyms_Recorded_at_Teotihuacan_Mexico)
-* [Nielsen, J. & Helmke, C. (2014). "House of the Serpent Mat, House of Fire: The names of buildings in Teotihuacan writing", Mesoamerican Writing Systems. Contributions in New World Archeology. 7.](https://www.academia.edu/42857949/House_of_the_Serpent_Mat_House_of_Fire_The_names_of_buildings_in_Teotihuacan_writing)
-* [Nielsen, J., & Helmke, C. (2018). 'Where the sun came into being': Rites of Pyrolatry, Transition, and Transformation in Early Classic Teotihuacan. In Smoke, Flames, and the Human Body in Mesoamerican Ritual Practice (pp. 77-107). Dumbarton Oaks Research Library and Collection.](https://www.academia.edu/36426579/_Where_the_Sun_Came_into_Being_Rites_of_Pyrolatry_Transition_and_Transformation_in_Early_Classic_Teotihuacan)
-* [Mendoza, R. G., & Lucido, J. A. (2017). TOLLAN TEOTIHUACAN Multiethnic Mosaics, Corporate Interaction, and Social Complexity in Mesoamerica. In Feast, Famine or Fighting? (pp. 337-392). Springer, Cham.](https://www.academia.edu/30373041/Chapter_13_TOLLAN_TEOTIHUACAN_Multiethnic_Mosaics_Corporate_Interaction_and_Social_Complexity_in_Mesoamerica_2017_)
-* [Anderson, K. W., & Helmke, C. (2013). The personifications of celestial water: the many guises of the Storm god in the pantheon and cosmology of Teotihuacan. Contributions in New World Archaeology, 5, 165-196.](https://www.academia.edu/6394681/The_Personifications_of_Celestial_Water_The_Many_Guises_of_the_Storm_god_in_the_Pantheon_and_Cosmology_of_Teotihuacan)
-* [Garcia-Des Lauriers, C. (2020) "Gods, Cacao, and Obsidian: Early Classic (250-650 CE) Interactions between Teotihuacan and the Southeastern Pacific Coast of Mesoamerica", Teotihuacan: The World Beyond the City. United States: Dumbarton Oaks.](https://www.academia.edu/42187872/Gods_Cacao_and_Obsidian_Early_Classic_250-650_CE_Interactions_between_Teotihuacan_and_the_Southeastern_Pacific_Coast_of_Mesoamerica)
-* [Carballo, D.M. (2020) "Power, Politics, and Governance at Teotihuacan", Teotihuacan: The World Beyond the City. United States: Dumbarton Oaks.](https://www.academia.edu/42842408/Power_Politics_and_Governance_at_Teotihuacan)
-* [Faugère, B., Pierce, D., & Cabadas-Báez, H. (2019). Teotihuacan neighborhoods’ expansion in Northwestern Mexico. Cultural implications and social processes from ceramic analysis of El Mezquital-Los Azules, Guanajuato. Journal of Anthropological Archaeology, 56, 101116.](https://www.academia.edu/40902048/Teotihuacan_neighborhoods_expansion_in_Northwestern_Mexico._Cultural_implications_and_social_processes_from_ceramic_analysis_of_El_Mezquital-Los_Azules_Guanajuato)
-* [Faugère, B., Lefèbvre, K., & Cuenot, J. F. (2016). Circulation of goods and communication routes between the Acambaro Valley and Central Mexico: from Chupicuaro to Teotihuacan. Cultural Dynamics and Production Activities in Ancient Western Mexico. BAR International series. Archaeopress, Oxford, 187-200.](https://www.academia.edu/34205914/Circulation_of_goods_and_communication_routes_between_the_Ac%C3%A1mbaro_valley_and_central_Mexico_from_Chup%C3%ADcuaro_to_Teotihuacan)
-* [Englehardt, J. D., & Carrasco, M. D. (2018). Interregional interaction in ancient Mesoamerica. University Press of Colorado.](https://www.academia.edu/38851342/Interregional_Interaction_in_Ancient_Mesoamerica_Full_text_)
-* [TESIS - 2014 - La presencia maya en la antigua ciudad de Teotihuacan. Estudio de la interacción y propuesta para un modelo explicativo.](https://www.academia.edu/7576497/TESIS_-_2014_-_La_presencia_maya_en_la_antigua_ciudad_de_Teotihuacan._Estudio_de_la_interacci%C3%B3n_y_propuesta_para_un_modelo_explicativo)
-* [De Lucia, K. (2008). 2 Looking Beyond Gender Hierarchy: Rethinking Gender at Teotihuacan, Mexico. Archeological Papers of the American Anthropological Association, 18(1), 17-36.](https://www.academia.edu/214191/Looking_Beyond_Gender_Hierarchy_Rethinking_Gender_at_Teotihuacan_Mexico)
-* [Clayton, S. C. (2011). Gender and mortuary ritual at ancient Teotihuacan, Mexico: A study of intrasocietal diversity. Cambridge Archaeological Journal, 21(1), 31-52.](https://www.academia.edu/2950465/Gender_and_Mortuary_Ritual_at_Ancient_Teotihuacan_Mexico_a_Study_of_Intrasocietal_Diversity)
-* [Clayton, S. C. (2009). Ritual diversity and social identities: A study of mortuary behaviors at Teotihuacan. Arizona State University.](https://www.academia.edu/37494337/RITUAL_DIVERSITY_AND_SOCIAL_IDENTITIES_A_STUDY_OF_MORTUARY_BEHAVIORS_AT_TEOTIHUACAN)
-* [Somerville, A. D., Sugiyama, N., Manzanilla, L. R., & Schoeninger, M. J. (2017). Leporid management and specialized food production at Teotihuacan: stable isotope data from cottontail and jackrabbit bone collagen. Archaeological and Anthropological Sciences, 9(1), 83-97.](https://www.academia.edu/30680083/Somerville_Manzanilla_et_al._2016_Leporid_management_and_specialized_food_production_at_Teotihuacan_stable_isotope_data_from_cottontail_and_jackrabbit_bone_collagen)
 
 ## La Mojarra - Papaloapan River Basin, Veracruz, MX - Epi-Olmec (300 BCE - 1000 CE)
 
@@ -2091,6 +2120,16 @@ Puuc Region/Style. Possibly Chontal.
 
 * [Ilhuatzio](https://en.wikipedia.org/wiki/Ihuatzio_(archaeological_site))
 
+## Corn makes it to the "American Bottom"
+
+* [Emerson, T. E., Hedman, K. M., Simon, M. L., Fort, M. A., & Witt, K. E. (2020). Isotopic Confirmation of the Timing and Intensity of Maize Consumption in Greater Cahokia. American Antiquity, 85(2), 241-262.](https://doi.org/10.1017/aaq.2020.7)
+* [Wang, L., Josephs, E. B., Lee, K. M., Roberts, L. M., Rellán-Álvarez, R., Ross-Ibarra, J., & Hufford, M. B. (2020). Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. bioRxiv.]()
+* [Simon, M. L. (2017). Reevaluating the evidence for middle woodland maize from the holding site. American Antiquity, 82(1), 140-150.](https://doi.org/10.1017/aaq.2016.2) &mdash; [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4B6927141786E14A3A2520304E48A8F5/S0002731616000020a.pdf/reevaluating_the_evidence_for_middle_woodland_maize_from_the_holding_site.pdf)
+
+## Cahokia (1050 CE - 1350 CE)
+
+* [Benson, L. V., Pauketat, T. R., & Cook, E. R. (2009). Cahokia's boom and bust in the context of climate change. American Antiquity, 467-483.](https://www.jstor.org/stable/20622439)
+
 ## Oneota (900 CE - 1650 CE)
 
 * [Lauren W. Ritterbush & Brad Logan (2000) Late Prehistoric Oneota Population Movement into the Central Plains, Plains Anthropologist, 45:173, 257-272, DOI: 10.1080/2052546.2000.11931975](http://www.academia.edu/1393919/9._Late_Prehistoric_Oneota_in_the_Central_Plains)
@@ -2215,6 +2254,11 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 
 * [de Souza JG et al. (2018) Pre-Columbian earth-builders settled along the entire southern rim of the Amazon. Nature Communications. 9: 1125.](https://www.nature.com/articles/s41467-018-03510-7)
 
+## Exodus of Tewa from Central Mesa Verde to North Rio Grande (1280 CE)
+
+* [Kemp BM, Judd K, Monroe C, Eerkens JW, Hilldorfer L, Cordray C, et al. (2017) Prehistoric mitochondrial DNA of domesticate animals supports a 13th century exodus from the northern US southwest. PLoS ONE 12(7): e0178882.](https://doi.org/10.1371/journal.pone.0178882)
+* [Schwindt, D. M., Bocinsky, R. K., Ortman, S. G., Glowacki, D. M., Varien, M. D., & Kohler, T. A. (2016). The social consequences of climate change in the central Mesa Verde region. American Antiquity, 74-96.](https://research.wsulibs.wsu.edu/xmlui/handle/2376/6485)
+
 ## Blood Run - South Dakota/Iowa, USA (1300 CE - 1700 CE)
 
 * [Native history, Bakken pipeline clash in Iowa's Blood Run area](https://www.desmoinesregister.com/story/news/2016/06/06/native-history-bakken-pipeline-clash-iowas-blood-run-area/85360706/)
@@ -2252,6 +2296,7 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 
 Visited by the Spanish in 1601. These are the ancestors of the Present day Wichita Tribe.
 
+* [Casana, J., Laugier, E. J., Hill, A. C., & Blakeslee, D. A Council Circle at Etzanoa? Multi-sensor Drone Survey at an Ancestral Wichita Settlement in Southeastern Kansas. American Antiquity, 1-20.](https://doi.org/10.1017/aaq.2020.49) &mdash; [PDF](https://www.academia.edu/43948229/A_Council_Circle_at_Etzanoa_Multi_sensor_Drone_Survey_at_an_Ancestral_Wichita_Settlement_in_Southeastern_Kansas)
 * [Tanner, Beccy. Mysterious 'Lost City' of Etzanoa in south-central Kansas now open to tours. The Wichita Eagle. 28 Apr. 2018.](https://www.kansas.com/news/state/article208617349.html)
 * [Kelly, David. Archaeologists explore a rural field in Kansas, and a lost city emerges. Los Angles Times. 19 Aug. 2018.](http://www.latimes.com/nation/la-na-kansas-lost-city-20180819-htmlstory.html)
   * `The early Great Plains had long been imagined as a vast empty space populated by nomadic tribes following buffalo herds. But if Blakeslee is right, at least some of the tribes were urban. They built large towns, raised crops, made fine pottery, processed bison on a massive scale and led a settled existence. There were trade connections all the way to the Aztec capital Tenochtitlan in Mexico.`
@@ -2319,6 +2364,10 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 * [Wood GD (2017) The Volcano That Shrouded the Earth and Gave Birth to a Monster. Nautilus. October 5.](http://nautil.us/issue/53/monsters/the-volcano-that-shrouded-the-earth-and-gave-birth-to-a-monster-rp)
 
 ## Mesoamerican Postcolonial (1821 CE - Present)
+
+## Mayan workers taken aboard a ship on false pretenses and made into slaves (1860 CE)
+
+* [Rendón, G.U.L., Méndez, A. (2020) Identifica INAH al primer naufragio esclavista de mayas en México. INAH. 15 Sep.](https://web.archive.org/web/20200920165811/https://inah.gob.mx/boletines/9412-identifica-inah-al-primer-naufragio-esclavista-de-mayas-en-mexico)
 
 ## Domestication of Various Plants (10000 BCE - 4000 BCE)
 
