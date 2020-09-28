@@ -177,6 +177,8 @@ The following journal papers contain most of the overview that one would need to
 
 This includes archeological and genetics papers to build a perspective on the diffusion of Hominids and modern humans.
 
+* [Cox, T. J., Fazenda, B. M., & Greaney, S. E. (2020). Using scale modelling to assess the prehistoric acoustics of stonehenge. Journal of Archaeological Science, 122, 105218.](https://doi.org/10.1016/j.jas.2020.105218)
+* [Groucutt, H. S., Breeze, P. S., Guagnin, M., Stewart, M., Drake, N., Shipton, C., ... & Petraglia, M. D. (2020). Monumental landscapes of the Holocene humid period in Northern Arabia: The mustatil phenomenon. The Holocene, 0959683620950449.](https://doi.org/10.1177/0959683620950449)
 * [Hublin, J. J., Sirakov, N., Aldeias, V., Bailey, S., Bard, E., Delvigne, V., ... & Kromer, B. (2020). Initial Upper Palaeolithic Homo sapiens from Bacho Kiro Cave, Bulgaria. Nature, 1-4.](https://doi.org/10.1038/s41586-020-2259-z) &mdash; [PDF](https://www.researchgate.net/publication/341299437_Initial_Upper_Palaeolithic_Homo_sapiens_from_Bacho_Kiro_Cave_Bulgaria)
   * [David, A. (2020) A Tooth Changes Everything We Know About Humans Reaching Europe. Haaretz. 13 May.](https://web.archive.org/web/20200604133024if_/https://www.haaretz.com/science-and-health/.premium-a-tooth-changes-everything-we-know-about-humans-reaching-europe-1.8836555)
 * [Fewlass, H., Talamo, S., Wacker, L., Kromer, B., Tuna, T., Fagault, Y., ... & Martisius, N. L. (2020). A 14 C chronology for the Middle to Upper Palaeolithic transition at Bacho Kiro Cave, Bulgaria. Nature Ecology & Evolution, 1-8.](https://doi.org/10.1038/s41559-020-1136-3)
