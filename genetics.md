@@ -99,6 +99,7 @@ The following journal papers contain most of the overview that one would need to
 * [Ioannidis, A.G., Blanco-Portillo, J., Sandoval, K. et al. (2020) Native American gene flow into Polynesia predating Easter Island settlement. Nature.](https://doi.org/10.1038/s41586-020-2487-2)
   * [Armitage, Hanae. Polynesians, Native Americans made contact before European arrival, genetic study finds. Stanford Medicine News Center. July 8. 2020.](https://med.stanford.edu/news/all-news/2020/07/polynesians-and-native-americans-made-early-contact.html)
   * [Zimmer, Carl. Some Polynesians Carry DNA of Ancient Native Americans, New Study Finds. The New York Times. July 8. 2020.](https://www.nytimes.com/2020/07/08/science/polynesian-ancestry.html)
+* [Urban, M., & Barbieri, C. (2020). North and South in the ancient Central Andes: Contextualizing the archaeological record with evidence from linguistics and molecular anthropology. Journal of Anthropological Archaeology, 60, 101233.](https://doi.org/10.1016/j.jaa.2020.101233) &mdash; [PDF](https://pure.mpg.de/rest/items/item_3257439/component/file_3257446/content)
 * [Nakatsuka, N., Lazaridis, I., Barbieri, C., Skoglund, P., Rohland, N., Mallick, S., ... & Michel, M. (2020). A paleogenomic reconstruction of the deep population history of the andes. Cell.](https://doi.org/10.1016/j.cell.2020.04.015) &mdash; [PDF](https://www.semanticscholar.org/paper/A-Paleogenomic-Reconstruction-of-the-Deep-History-Nakatsuka-Lazaridis/08d47345499ef6578de9aaa9ec98201549c6db41?p2df)
 * [Blell M, Hunter MA (2019) Direct-to-Consumer Genetic Testing's Red Herring: “Genetic Ancestry” and Personalized Medicine. Frontiers in Medicine. 29 March.](https://doi.org/10.3389/fmed.2019.00048)
 * [Walajahi H, Wilson DR, Hull SC (2019) Constructing Identities: The Implications of DTC Ancestry Testing for Tribal Communities. Genetic Medicine. 21(8): 1744-1750.](https://dx.doi.org/10.1038%2Fs41436-018-0429-2)
@@ -176,7 +177,9 @@ The following journal papers contain most of the overview that one would need to
 ## Early Hominid through Modern Human
 
 This includes archeological and genetics papers to build a perspective on the diffusion of Hominids and modern humans.
-
+* [Schierup, M. H. (2020). The last pieces of a puzzling early meeting. Science, 369(6511), 1565-1566](https://doi.org/10.1126/science.abe2766)
+* [Petr, M., Hajdinjak, M., Fu, Q., Essel, E., Rougier, H., Crevecoeur, I., ... & de la Rasilla, M. (2020). The evolutionary history of Neandertal and Denisovan Y chromosomes. Science, 369(6511), 1653-1656](https://doi.org/10.1126/science.abb6460)
+* [Haws, J. A., Benedetti, M. M., Talamo, S., Bicho, N., Cascalheira, J., Ellis, M. G., ... & Zinsious, B. K. (2020). The early Aurignacian dispersal of modern humans into westernmost Eurasia. Proceedings of the National Academy of Sciences, 117(41), 25414-25422.](https://doi.org/10.1073/pnas.2016062117)
 * [Cox, T. J., Fazenda, B. M., & Greaney, S. E. (2020). Using scale modelling to assess the prehistoric acoustics of stonehenge. Journal of Archaeological Science, 122, 105218.](https://doi.org/10.1016/j.jas.2020.105218)
 * [Groucutt, H. S., Breeze, P. S., Guagnin, M., Stewart, M., Drake, N., Shipton, C., ... & Petraglia, M. D. (2020). Monumental landscapes of the Holocene humid period in Northern Arabia: The mustatil phenomenon. The Holocene, 0959683620950449.](https://doi.org/10.1177/0959683620950449)
 * [Hublin, J. J., Sirakov, N., Aldeias, V., Bailey, S., Bard, E., Delvigne, V., ... & Kromer, B. (2020). Initial Upper Palaeolithic Homo sapiens from Bacho Kiro Cave, Bulgaria. Nature, 1-4.](https://doi.org/10.1038/s41586-020-2259-z) &mdash; [PDF](https://www.researchgate.net/publication/341299437_Initial_Upper_Palaeolithic_Homo_sapiens_from_Bacho_Kiro_Cave_Bulgaria)

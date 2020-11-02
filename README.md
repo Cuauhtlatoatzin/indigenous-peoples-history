@@ -281,6 +281,14 @@ This is really close to the land bridge, if these Denisovans made trips across t
 
 These links support discoveries on the continent prior to any currently established theories (as of 2018).
 
+## Great American Biotic Interchange (2500000 BCE - 10000 BCE)
+
+* [Carrillo, J. D., Faurby, S., Silvestro, D., Zizka, A., Jaramillo, C., Bacon, C. D., & Antonelli, A. (2020). Disproportionate extinction of South American mammals drove the asymmetry of the Great American Biotic Interchange. Proceedings of the National Academy of Sciences, 117(42), 26281-26287.](https://doi.org/10.1073/pnas.2009397117)
+
+## Jaguars split into their current separate lineages (510000 - 280000)
+
+* [Eizirik, E., Kim, J. H., Menotti‐Raymond, M., Crawshaw Jr, P. G., O’Brien, S. J., & Johnson, W. E. (2001). Phylogeography, population history and conservation genetics of jaguars (Panthera onca, Mammalia, Felidae). Molecular Ecology, 10(1), 65-79.](https://www.semanticscholar.org/paper/Phylogeography%2C-population-history-and-conservation-Eizirik-Kim/5bd14c9ccc8cc43ed15352fc86075b8d6b8cccee)
+
 ## Hueyatlaco, Puebla, Mexico (250 KA BP, ~248000 BCE)
 
 What's interesting is that this coincides with another glacial maximum, the last in the middle pleistoncene, according to Miller KG et al. (2005) and Kominz (2001). This means there was likely a land brige the Denisovans could have crossed over to enter North America from Diring Yuriakh.
@@ -290,11 +298,9 @@ What's interesting is that this coincides with another glacial maximum, the last
 * [Sam L. VanLandingham "Corroboration of Sangamonian age of artifacts from the Valsequillo region, Puebla, Mexico by means of diatom biostratigraphy," Micropaleontology 50(4), (1 December 2004).](https://doi.org/10.1661/0026-2803(2004)050[0313:COSAOA]2.0.CO;2)
 * [Metcalfe, S. E., Leng, M. J., Kirby, J. R., Huddart, D. , Vane, C. H. and Gonzalez, S. (2016), Early–Mid Pleistocene environments in the Valsequillo Basin, Central Mexico: a reassessment. J. Quaternary Sci., 31: 325-336. doi:10.1002/jqs.2851](https://doi.org/10.1002/jqs.2851)
 
-## Homo Sapiens 120000 years ago in Levant and Arabia
+## Bison Enter America (195 BCE - 135 BCE)
 
-This is evidence that Homo Sapiens had left Africa by 120k years ago.
-
-* [Stewart, M., Clark-Wilson, R., Breeze, P. S., Janulis, K., Candy, I., Armitage, S. J., ... & Cuthbertson, P. (2020). Human footprints provide snapshot of last interglacial ecology in the Arabian interior. Science Advances, 6(38), eaba8940.](https://doi.org/10.1126/sciadv.aba8940)
+* [Froese, D., Stiller, M., Heintzman, P. D., Reyes, A. V., Zazula, G. D., Soares, A. E., ... & MacPhee, R. D. (2017). Fossil and genomic evidence constrains the timing of bison arrival in North America. Proceedings of the National Academy of Sciences, 114(13), 3457-3462.](https://doi.org/10.1073/pnas.1620754114)
 
 ## The Highly Disputed Calico Early Man Site, San Bernardino County, California, USA (135 KA BP)
 
@@ -319,6 +325,12 @@ Again, this coincides with a glacial maximum, the first in the late pleistoncene
 * [Wong, Kate. Ancient Bones Spark Fresh Debate over First Humans in the Americas. Scientific American. 26 Apr. 2017.](https://www.scientificamerican.com/article/ancient-bones-spark-fresh-debate-over-first-humans-in-the-americas/)
 * [Niler, Eric. A 130,000-Year-Old Mastodon Threatens to Upend Human History. Wired. 26 Apr. 2017.](https://www.wired.com/2017/04/130000-year-old-mastodon-threatens-upend-human-history/)
 * [Benton, Adam. 130,000 year old “first Americans” disproven. Filthy Monkey Men. 19 Oct. 2017.](https://www.filthymonkeymen.com/2017/10/19/130000-first-americans-disproven/)
+
+## Homo Sapiens 120000 years ago in Levant and Arabia
+
+This is evidence that Homo Sapiens had left Africa by 120k years ago.
+
+* [Stewart, M., Clark-Wilson, R., Breeze, P. S., Janulis, K., Candy, I., Armitage, S. J., ... & Cuthbertson, P. (2020). Human footprints provide snapshot of last interglacial ecology in the Arabian interior. Science Advances, 6(38), eaba8940.](https://doi.org/10.1126/sciadv.aba8940)
 
 ## 70 - 10 KA BP (68000 BCE - 8000 BCE)
 
@@ -369,6 +381,15 @@ This is technically not "North America", but it's connected and may demonstrate 
 ## La Senna and Lovewell, Kansas & Nebraska, USA (19000 BCE - 16000 BCE)
 
 * [Holen, S. R. (2006). Taphonomy of two last glacial maximum mammoth sites in the central Great Plains of North America: A preliminary report on La Sena and Lovewell. Quaternary International, 142, 30-43.](https://doi.org/10.1016/j.quaint.2005.03.003) &mdash; [PDF](http://capr.tdcart.com/uploads/Holen%20QI%202006.pdf)
+
+## Chiribiquete - Guaviare, Columbia (20000 BP)
+
+"The Maloca [House] of the Jaguar"
+
+[Chiribiquete National Park](https://en.wikipedia.org/wiki/Chiribiquete_National_Park)
+[Un viaje literario por Chiribiquete, la maloca del jaguar en la orilla del mundo](https://www.corazondelaamazonia.org/post/un-viaje-literario-por-chiribiquete-la-maloca-del-jaguar-en-la-orilla-del-mundo)
+[Serranía de Chiribiquete: Chiribiquete National Park, World Heritage Site (Colombia)](https://lacgeo.com/serrania-chiribiquete-national-park-colombia)
+[Chiribiquete National Park – “The Maloca of the Jaguar”](https://whc.unesco.org/en/list/1174/gallery/)
 
 ## Toca da Janela da Barra do Antonião-North, Piauí, Brazil (18400 BCE - 17000 BCE)
 
@@ -443,6 +464,10 @@ This is technically not "North America", but it's connected and may demonstrate 
 * [Joseph M. McAvoy, Lynn D. McAvoy (1997) Archeological Investigations of Site 44SX202, Cactus Hill, Sussex County Virginia. Virginia Department of Historic Resources. Research Report Series No. 8.](https://www.dhr.virginia.gov/pdf_files/Archeo_Reports/SX-019_AE_Investigations_44SX202_Cactus_Hill_1997_NRSAR_report.pdf)
 * [Pre-Clovis Occupation on the Nottoway River in Virginia](https://web.archive.org/web/20071017032525/http://www.athenapub.com/cacthill.htm)
 
+## Pre-colombian Dogs Which Migrated to the Americas Become Genetically Distinct from Domesticated Dogs in Europe (14484 BCE - 10965 BCE)
+
+* [Leathlobhair, M. N., Perri, A. R., Irving-Pease, E. K., Witt, K. E., Linderholm, A., Haile, J., ... & Brace, S. (2018). The evolutionary history of dogs in the Americas. Science, 361(6397), 81-85.](https://doi.org/10.1126/science.aao4776)
+
 ## Schaefer and Hebior Kill Sites, Illinois, USA (12500 BCE)
 
 * [Nikhil Swaminathan (2014) Schaefer and Hebior Kill Sites. Archaeology. September/October.](https://www.archaeology.org/issues/145-1409/features/2372-peopling-the-americas-schaefer-hebior)
@@ -451,16 +476,6 @@ This is technically not "North America", but it's connected and may demonstrate 
 
 * [Dillehay TD et al. (2017) Simple technologies and diverse food strategies of the Late Pleistocene and Early Holocene at Huaca Prieta, Coastal Peru. Science Advances. 3(5): e1602778](https://advances.sciencemag.org/content/3/5/e1602778)
 * **Beans in 12436 BCE**
-  * See Dillehay TD et al. (2017).
-* **Avocados in 8429 BCE**
-  * See Dillehay TD et al. (2017).
-* **Chiles in 8358 BCE**
-  * See Dillehay TD et al. (2017).
-* **Corn in 4825 BCE**
-  * [Grobman A et al. (2012) Preceramic maize from Paredones and Huaca Prieta, Peru. PNAS. 109(5): 1755–1759.](https://dx.doi.org/10.1073%2Fpnas.1120270109)
-* **Indigo in 4250 BCE**
-  * [Splitstoser JC et al. (2016) Early pre-Hispanic use of indigo blue in Peru. Science Advances. 2(9): e1501623](https://advances.sciencemag.org/content/2/9/e1501623.full) &mdash; Predates Egyption use by ~1500 years.
-  * [LA Times. (2019) 6,000-year-old fabric reveals Peruvians were dyeing textiles with indigo long before Egyptians (Video). Los Angeles Times. September 16.](https://www.latimes.com/science/sciencenow/la-sci-sn-oldest-indigo-dye-20160915-snap-story.html)
 
 ## Page-Ladsen site, Aucilla River, Florida, USA (12400 BCE)
 
@@ -645,6 +660,13 @@ Structures are dated from 3550 BCE to 1650 BCE. The earliest ceremonial structur
 
 ## Dalton Tradition (8500 BCE - 7900 BCE)
 
+## Manioc (cassava, yuca) domesticated in Llanos de las Moxos (8400 BCE)
+
+* [Lombardo, U., Iriarte, J., Hilbert, L., Ruiz-Pérez, J., Capriles, J. M., & Veit, H. (2020). Early Holocene crop cultivation and landscape modification in Amazonia. Nature, 581(7807), 190-193.](https://doi.org/10.1038/s41586-020-2162-7)
+  * **Squash (8300 BCE)**
+  * **Avocados in Huaca Prieta (8429 BCE)** (Dillehay TD et al. 2017)
+  * **Chiles in Huaca Prieta (8358 BCE)** (Dillehay TD et al. 2017)
+
 ## On Your Knees Cave, Tongass National Forest, Alaska, USA (8300 BCE)
 
 * [Lawler A (2010) A Tale of Two Skeletons. Science. 330(6001): 171-172. DOI: 10.1126/science.330.6001.171](https://science.sciencemag.org/content/330/6001/171)
@@ -828,6 +850,16 @@ Trade between here and the south east:
 
 * [Mount Taylor period](https://en.wikipedia.org/wiki/Mount_Taylor_period)
 
+## Maize in Llanos de las Moxos (4900 BCE)
+
+See (Lombardo, Iriarte, Hilbert, et al. 2020).
+
+## Maize in Huaca Prieta (4825 BCE)
+
+See (Dillehay TD et al. 2017)
+
+  * [Grobman A et al. (2012) Preceramic maize from Paredones and Huaca Prieta, Peru. PNAS. 109(5): 1755–1759.](https://dx.doi.org/10.1073%2Fpnas.1120270109)
+
 ## Horr's Island archaeological site - Island off Southern Florida, USA (4730 - 2030 BCE)
 
 * [Horr's Island archaeological site](https://en.wikipedia.org/wiki/Horr%27s_Island_archaeological_site)
@@ -843,6 +875,11 @@ This could be the first use of irrigation canals in the "Americas".
 
 * [Afshar, Z. (2014). Mobility and Economic Transition in the 5th to the 2nd Millennium BC in the Population of the Central Iranian Plateau, Tepe Hissar (Doctoral dissertation, Durham University).](http://etheses.dur.ac.uk/11064/1/Zahra_Afshar_PhD_Thesis_.pdf)
 
+## Indigo in Huaca Prieta (4250 BCE)
+
+* [Splitstoser JC et al. (2016) Early pre-Hispanic use of indigo blue in Peru. Science Advances. 2(9): e1501623](https://advances.sciencemag.org/content/2/9/e1501623.full) &mdash; Predates Egyption use by ~1500 years.
+* [LA Times. (2019) 6,000-year-old fabric reveals Peruvians were dyeing textiles with indigo long before Egyptians (Video). Los Angeles Times. September 16.](https://www.latimes.com/science/sciencenow/la-sci-sn-oldest-indigo-dye-20160915-snap-story.html)
+
 ## Meanwhile, across the pond, Tripolye, Modern Eastern Romania + Molova + South Eastern Ukraine (4100–3600 BCE)
 
 * [Hofmann R, Müller J, Shatilo L, Videiko M, Ohlrau R, Rud V, et al. (2019) Governing Tripolye: Integrative architecture in Tripolye settlements. PLoS ONE 14(9): e0222243.](https://doi.org/10.1371/journal.pone.0222243)
@@ -856,6 +893,12 @@ This complex contains what would be the first stepped pyramid in the Americas, a
 ## Vichama, Huaura, Peru (4100 BCE - 2000 BCE) - Norte Chico/Caral Culture
 
 * [Staff (2019) Mural from 3,800 years ago unveiled by Peru archaeologists. BBC. August 20.](https://www.bbc.com/news/world-latin-america-49407795)
+
+## Copena Culture - Muscle Shoals, Colbert County, Alabama, USA (4000 BCE - 500 CE)
+
+Called copena because of their use of copper and galena. Became part of the Hopewell Tradition.
+
+* [Prehistoric Copena Culture at the Shoals](https://web.archive.org/web/20201030232508/https://www.timesdaily.com/archives/prehistoric-copena-culture-at-the-shoals/article_a6ebcb12-3527-531b-bfdb-20a3f2f8ecf1.html)
 
 ## Abejas Phase - Tehuacán Valley, MX (3825 BCE - 2600 BCE)
 
@@ -920,7 +963,7 @@ Occupation was carbon dated to at least 3000 BCE. Main Chavín culture articfact
 
 * [Chavín de Hauntar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
 
-## Piruro - Huánuco Region, Huamalíes Province, Tantamayo District (2500/3000 BCE - ?)
+## Piruro - Huánuco Region, Huamalíes Province, Tantamayo District (3000 BCE - ?)
 
 The stone structures were built between 2100 BCE and 1930 BCE.
 
@@ -1024,7 +1067,7 @@ The round face is interesting, especially since it seems quite similar to the ro
 
 ## Cueva del Chileno - Near Alota Canton, Sora River valley, Lípez highlands, Bolivia (2136 BCE – 1778 BCE, 905 CE – 1170 CE)
 
-There was a bundle from 905 CE – 1170 CE found in this cave. It contined a bag made of three fox snouts (Lycalopex culpaeus) which had residue of many psychoactive substances. Of note is the colorful woven headband of green, red, and yellow with the very obvious xicalcoliuhqui designs. These colors are important for at least the Lenca and Tutunaku Tachiwiin, and likely many others in the trading region between them.
+There was a bundle from 905 CE – 1170 CE found in this cave. It contined a bag made of three fox snouts (Lycalopex culpaeus) which had residue of many psychoactive substances. Of note is the colorful woven headband of green, red, and yellow with the very obvious xicalcoliuhqui designs. These colors are important for at least the Lenca, Olmec (Mixe and Zoque) and Tutunaku Tachiwiin, and likely many others in the trading region between them.
 
 The fox pouch is interesting, but it could just be a coincidence that the place where the first xicalcoliuhqui has two foxes on other side of a round face.
 
@@ -1446,6 +1489,17 @@ See Quelepa below for some more details.
 
 * [San Andres](https://es.wikipedia.org/wiki/San_Andr%C3%A9s_(sitio_arqueol%C3%B3gico))
 
+## Deptford Culture - NW Coast of Florida, USA; S Alabama Coast, USA; Georgia Coast, USA; South Carolina Coast, USA; North Carolina Coast, USA (800 BCE - 700 CE)
+
+* [Deptford Culture](https://en.wikipedia.org/wiki/Deptford_culture)
+  * `The culture is defined by the presence of sand-tempered pottery decorated with the impressions of carved wooden paddles that were pressed against the vessels before they were fired. The sand-tempering distinguishes Deptford ceramics from the fiber-tempered ceramics of the late-Archaic Stallings Island/St. Simons, Orange, and Norwood cultures that preceded it. Other contemporary cultures of the southeastern United States also produced paddle decorated ceramics.[2][3]`
+  * `The Deptford culture was oriented to the coast. From northern Georgia it spread along the Atlantic coast, reaching Cape Fear, North Carolina to the north and the mouth of the St. Johns River to the south. The Deptford culture also spread along the Gulf of Mexico coast, reaching from the Perdido River on the western border of Florida to Tampa Bay on the lower west coast of Florida. Deptford culture appeared in Florida around 500 BCE. The Deptford culture in the Gulf region (Florida Panhandle, southeast Alabama and southwest Georgia) evolved into the Swift Creek and Santa Rosa-Swift Creek cultures around 200 CE, while the culture in the Atlantic coastal region continued until about 700.[4][5]`
+  * `Early Deptford ceramics appear to have been developed in Georgia around 2,600 years ago out of the Early Woodland Refuge phase (near Savannah), and spread north into South Carolina and North Carolina and south into Florida. Deptford ceramics continued to be made and found on Middle Woodland sites in the southeastern U.S. until about 600 BCE. Occupation for the Atlantic coastal plain of Georgia and the Carolinas seems to have followed a seasonal pattern of winter shellfish camps on the coast, then inland occupation during the spring and summer for deer hunting, and fall for nut gathering.[25]`
+  * Integrated into the Hopewell exchange network around 100 CE.
+* [https://www.ldeo.columbia.edu/~peter/Resources/Andy's%20Page/Figures/wwwnwfl.pdf](https://www.ldeo.columbia.edu/~peter/Resources/Andy's%20Page/Figures/wwwnwfl.pdf)
+  * `The cultures of northwest Florida during the Woodland period are known as Deptford (2500 B.P.-A.D. 100), Santa Rosa (A.D. 100-300), Swift Creek (A.D. 100-300), and Weeden Island (A.D. 300-900). As elsewhere in the Southeast, these post-Archaic cultures are characterized by the appearance of elaborate ceremonial complexes, mound burial, permanent settlements, population growth, increasing reliance on cultigens, and increasing sociopolitical complexity.`
+* [Wood, W. D., & Bowen, W. R. (1995). Woodland Period Archaeology of Northern Georgia (No. 9). Department of Anthropology, University of Georgia.](https://archaeology.uga.edu/sites/default/files/lab-series/uga_lab_series_33.pdf)
+
 ## Chupícuaro culture - Acámbaro, Guanajuato, MX - (800 BCE - 1525 CE)
 
 Expanded into Michoacán, Guerrero, Mexico State, Hidalgo, Colima, Nayarit, Querétaro and Zacatecas.
@@ -1636,6 +1690,18 @@ So maybe it was actually started in 1500 BCE: `Si bien Tiahuanaco se fundó en e
 * [Kimsa Chata (Ingavi)](https://en.wikipedia.org/wiki/Kimsa_Chata_(Ingavi))
 * [Khonkho Wankane/Qhunqhu Wankani](https://es.wikipedia.org/wiki/Khonkho_Wankane) &mdash; 100 BCE - 500 CE
 
+## Fourche Maline Culture - SE Oklahoma, USA; SW Arkansas, USA; NE Texas, USA (300 BCE - 800 CE)
+
+Considered the ancestors of the moddern Caddo Nation of Oklahoma. The cultural successors are the Caddoan Mississippi Culture (1000 CE - 1540 CE). `By 800 CE early Caddoan society began to coalesce into one of the earlier Mississippian cultures.` (from [Caddoan Mississippi Culture](https://en.wikipedia.org/wiki/Caddoan_Mississippian_culture))
+
+* [Fourche Maline Culture](https://en.wikipedia.org/wiki/Fourche_Maline_culture)
+
+## Western Mexican shaft-tomb tradition - Mexico: Jalisco, Nayarit, Colima, not including Capacha culture regions (300 BCE - 400 CE)
+
+This is really ill-defined culturally, so this needs to be broken up into multiple sites in cultural areas.
+
+* [Western Mexican shaft-tomb tradition](https://en.wikipedia.org/wiki/Western_Mexico_shaft_tomb_tradition)
+
 ## San Bartolo, Guatemala - Maya, Epi-Olmec? (~300 BCE - ~100 BCE)
 
 * [Saturno WA, Stuart D, Beltrán B (2006) Early Maya Writing at San Bartolo, Guatemala. Science. 311(5765): 1281-1283.](https://science.sciencemag.org/content/311/5765/1281)
@@ -1644,6 +1710,17 @@ So maybe it was actually started in 1500 BCE: `Si bien Tiahuanaco se fundó en e
 * https://www.world-archaeology.com/issues/issue-47/early-maya-sistine-chapel/
 
 ## Teotihuacán - Valley of Mexico, Mexico, MX (300 BCE - 535 CE)
+
+This is not the original name. It is possible that the original name is lost forever. This name was given by the Mexica as they discovered it abandoned and slightly deteriorated.
+
+* | teotl | &mdash; god, deity, divinity, creator, something blessed, something devine, a sacred force. pl. teteoh
+* | teotl | + | ti | => | teoti | &mdash; to become teotl.
+* | teoti | + | hua | => | teotihua | &mdash; "they became teotl" or "teotl come into being"
+* | teotihua | + | can | => | teotihuacan | &mdash; It can have several meanings:
+  * "Place where teotl/teteoh came into being."
+  * "Place where they became teotl/teteoh."
+  * "May the teteoh come into being." (plural optative verb ending, instead of the locative).
+  * "May they become teteoh." (plural optative verb ending, instead of the locative).
 
 * [Garcia-Des Lauriers, C. (2020) "Gods, Cacao, and Obsidian: Early Classic (250-650 CE) Interactions between Teotihuacan and the Southeastern Pacific Coast of Mesoamerica", Teotihuacan: The World Beyond the City. United States: Dumbarton Oaks.](https://www.academia.edu/42187872/Gods_Cacao_and_Obsidian_Early_Classic_250-650_CE_Interactions_between_Teotihuacan_and_the_Southeastern_Pacific_Coast_of_Mesoamerica)
 * [Carballo, D.M. (2020) "Power, Politics, and Governance at Teotihuacan", Teotihuacan: The World Beyond the City. United States: Dumbarton Oaks.](https://www.academia.edu/42842408/Power_Politics_and_Governance_at_Teotihuacan)
@@ -1720,6 +1797,12 @@ This is a sacred site many of the tribes in the area. There are penis shaped sto
 * [Parque Arqueológico de Monquirá](https://es.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_de_Monquir%C3%A1)
 * [El Infiernito](https://en.wikipedia.org/wiki/El_Infiernito)
 
+## Zeolite Water Purification in Tikal (235 BCE)
+
+* [Tankersley, K. B., Dunning, N. P., Carr, C., Lentz, D. L., & Scarborough, V. L. (2020). Zeolite water purification at Tikal, an ancient Maya city in Guatemala. Scientific Reports, 10(1), 1-7.](https://doi.org/10.1038/s41598-020-75023-7)
+  * `The Corriental zeolite water purification system was functioning as early as ~ 2185 cal. yr. B.P. (Section S3). The construction of this purification system is ~ 600 years older than the South Asian sand and gravel water filtration described in the Suśrutasaṃhitā (Sushruta Samhita), which dates ~ 1700–1600 years ago3. The Corriental system is ~ 1800 years older than Robert Bacon’s sand filtration system developed in 1627 CE and ~ 2155 years older than the first use of zeolite in European water purification systems3.`
+  * `By the Late Preclassic cultural period, the Maya installed a successful and sustainable euhedral quartz and zeolite water purification system at Tikal. This system was critical for survival in a humid tropical environment with unpredictable catastrophic cyclonic and volcanic events, seasonal droughts, and drinking water contaminated by harmful microbes and toxic mineral leachates. Zeolite provided the people of Tikal with safe drinking water for more than 1000 years. It not only represents the oldest Indigenous water filtration system of its kind in the Western Hemisphere, it greatly predates by millennia comparable methods of water purification developed by other cultures in the Old World.`
+
 ## Xochicalco - Miacatlán, Morelos, MX - (200 BCE - 900 CE, 1200 CE - onward)
 
 In the Toluca Valley, likely initially pjiekak'joo (Matlatzinca, Otopamean, Otomanguean). 
@@ -1738,29 +1821,39 @@ In the Toluca Valley, likely initially pjiekak'joo (Matlatzinca, Otopamean, Otom
 
 ## Middle Woodland (200 BCE - 500 CE)
 
-### Havana Hopewell - Illinois, USA (200 BCE - 400 CE)
+## Havana Hopewell - Havana, Illinois, USA (200 BCE - 400 CE)
 
 * [Goering, Laurie. Burial Site of Indians is Verified. Chicago Tribune. 01 Jul. 1990.](https://web.archive.org/web/20181004043100/http://www.chicagotribune.com/news/ct-xpm-1990-07-01-9002230055-story.html)
 
-### Kansas City Hopewell (100 BCE - 700 CE)
+## Kansas City Hopewell - Kansas City, MO, USA (100 BCE - 700 CE)
 
-### Swift Creek Hopewell (100 CE - 500 CE)
+* [Kansas City Hopewell](https://en.wikipedia.org/wiki/Kansas_City_Hopewell)
 
-### Santa Rosa Swift Creek (100 CE - 300 CE)
+Sites:
 
-### Marksville (1 CE - 400 CE)
+* [Nebo Hill Archeological Site - Fishing River, Excelsior Springs, Clay County, Missouri, USA (3000 BCE - 1000 BCE)](https://en.wikipedia.org/wiki/Nebo_Hill_Archeological_Site) &mdash; Thought to be ancestral to Kansas City Hopewell. Also see [The Archaic Period](http://fishingriver.com/archaic.html).
+* [Renner Village Archeological Site - Riverside, Platte County, Missouri, USA (1 CE - 500 CE)](https://en.wikipedia.org/wiki/Renner_Village_Archeological_Site) &mdash; also occupied through the Middle Mississippian Culture (1200–1400).
+* [Trowbridge Archaeological Site - Kansas City, Wyandotte County, Kansas, USA (200 CE - 600 CE)](https://en.wikipedia.org/wiki/Trowbridge_Archeological_Site)
+* [Cloverdale archaeological site - St. Joseph, Buchanan County, Missouri, USA (100 CE - 500 CE)](https://en.wikipedia.org/wiki/Cloverdale_archaeological_site) &mdash; later affiliated with the [Steed-Kisker culture](https://en.wikipedia.org/wiki/Steed-Kisker_culture)
 
-### Fourche Maline (300 BCE - 800 CE)
+## Marksville Culture (100 BCE - 400 CE)
 
-### Copena (1 CE - 500 CE)
+Preceeded by [Tchefuncte Culture](https://en.wikipedia.org/wiki/Tchefuncte_site#Tchefuncte_culture). Succeeded by [Troyville Culture](https://en.wikipedia.org/wiki/Troyville_culture), [Baytown Culture](https://en.wikipedia.org/wiki/Baytown_culture), [Coles Creek](https://en.wikipedia.org/wiki/Coles_Creek_culture), and [Plum Bayou](https://en.wikipedia.org/wiki/Plum_Bayou_culture). Ancestral to Natchez and Taensa. Influenced Santa Rosa Swift Creek.
 
-## Western Mexican shaft-tomb tradition - Mexico: Jalisco, Nayarit, Colima, not including Capacha culture regions
-
-* [Western Mexican shaft-tomb tradition](https://en.wikipedia.org/wiki/Western_Mexico_shaft_tomb_tradition)
+* [Marksville Culture](https://en.wikipedia.org/wiki/Marksville_culture)
+* [Marksville Prehistoric Indian Site](https://en.wikipedia.org/wiki/Marksville_Prehistoric_Indian_Site)
+* [Grand Gulf Mound](https://en.wikipedia.org/wiki/Grand_Gulf_Mound)
+* [Crooks Mound](https://en.wikipedia.org/wiki/Crooks_Mound)
 
 ## Remojadas - Golf Coast, Veracruz, MX - Classic Veracruz Culture (100 BCE - 800 CE)
 
 * [Remojadas](https://en.wikipedia.org/wiki/Remojadas)
+
+## Santa Rosa Swift Creek Culture - W. Florida Panhandle, Florida, USA; Alabama, USA (50 BCE - 650 CE)
+
+This grew out of the Deptford Culture. It became part fo the larger Hopewell exchange network around 100 CE. The Santa Rosa pottery is an outgrowth of the the Marksville Culture. There are copper panpipes which have been excavated from here.
+
+* [Santa Rosa Swift Creek Culture](https://en.wikipedia.org/wiki/Santa_Rosa-Swift_Creek_culture)
 
 ## Coba - Quintana Roo, MX (50 BCE - 1550 CE)
 
@@ -1770,9 +1863,44 @@ In the Toluca Valley, likely initially pjiekak'joo (Matlatzinca, Otopamean, Otom
 
 * [Morales GT, Gagnon C, Prieto G (2018) Violence among the Gallinazo: New Insights from Pampa la Cruz, Moche Valley. Presented at The 82nd Annual Meeting of the Society for American Archaeology, Washington, DC. tDAR id: 442597](https://core.tdar.org/document/442597/violence-among-the-gallinazo-new-insights-from-pampa-la-cruz-moche-valley)
 
-## Tattooing Instrument Found, SW USA (79 CE - 130 CE)
+## Tambo Viejo, Acari Valley, Peru (50 CE - 1540 CE)
+
+* [Valdez, L. M., Huamaní, M. N., Bettcher, K. J., Liza, M. A., Aylas, K., & Alarcón, W. (2020). Recent Archaeological Research at Tambo Viejo, Acari Valley, Peru. Latin American Antiquity, 31(1), 202-208.](https://www.researchgate.net/publication/338700945_Recent_Archaeological_Research_at_Tambo_Viejo_Acari_Valley_Peru)
+
+## Tattooing Instrument Found - SW USA (79 CE - 130 CE)
 
 * [Gillreath-Brown A et al. (2019) Redefining the age of tattooing in western North America: A 2000-year-old artifact from Utah. Journal of Archaeological Science: Reports. 24: 1064-1075.](https://doi.org/10.1016/j.jasrep.2019.02.015) &mdash; [PDF](https://www.researchgate.net/publication/331101081_Redefining_the_age_of_tattooing_in_western_North_America_A_2000-year-old_artifact_from_Utah)
+
+## Swift Creek Culture - Tennessee, USA; Georgia, USA; Alabama, USA; South Carolina, USA (100 CE - 800 CE)
+
+* [Swift Creek Culture](https://en.wikipedia.org/wiki/Swift_Creek_culture)
+  * `Swift Creek peoples practiced mound-building but were generally non-sedentary. Their sustenance resulted from hunting, gathering/collecting, and fishing. Swift Creek are characterized by earthenware pottery with complicated stamped designs, involving mostly curvilinear elements. Examples of a type of pottery decoration consisting of diamond-shaped checks found at the Swift Creek sites are also known from Hopewell sites in Ohio (such as Seip Earthworks, Rockhold, Harness, and Turner), and the Mann Site in southern Indiana[1] as well as the Crystal River Site in Florida.[2]`
+* [Swift Creek Pottery from Pinson Mounds and the Development of a Complicated Stamped Pottery Design Matching Application](https://web.archive.org/web/20201028052532/https://tennesseearchaeologycouncil.wordpress.com/2019/09/18/swift-creek-pottery-from-pinson-mounds-and-the-development-of-a-complicated-stamped-pottery-design-matching-application/)
+* [Wallis, N. J., Boulanger, M. T., Ferguson, J. R., & Glascock, M. D. (2010). Woodland period ceramic provenance and the exchange of Swift Creek Complicated Stamped vessels in the southeastern United States. Journal of Archaeological Science, 37(10), 2598-2611.](https://doi.org/10.1016/j.jas.2010.05.020) &mdash; [PDF](https://www.researchgate.net/publication/222215558_Woodland_Period_ceramic_provenance_and_the_exchange_of_Swift_Creek_Complicated_Stamped_pottery_in_the_southeastern_United_States)
+* [Swift Creek Pottery Collection](https://www.floridamuseum.ufl.edu/flarch/collections/swift-creek-pottery/)
+* [O'Keefe, J. M. (2017). Feasting in Florida: Evidence of Swift Creek Ceremonial Feasting and Multi-Group Interactions at Byrd Hammock South (8WA30), Wakulla County, FL.](https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=5514&context=gradschool_theses)
+
+Sites:
+  * Icehouse Bottom
+  * Garden Creek
+  * [Leake Mounds](https://en.wikipedia.org/wiki/Leake_Mounds), Bartow County, Georgia, USA (near [Etowah Mounds](https://en.wikipedia.org/wiki/Etowah_Indian_Mounds), but younger)
+  * Summerour
+  * Six Flags
+  * Cold Springs
+  * Swift Creek, Bibb County, Georgia, USA
+  * Hartford
+  * Milamo
+  * [Mandeville Site](https://en.wikipedia.org/wiki/Mandeville_Site), Clay County, Georgia, USA
+    * [Kellar, J. H., Kelly, A. R., & McMichael, E. V. (1962). The Mandeville site in southwest Georgia. American Antiquity, 336-355.](https://doi.org/10.2307/277800)
+  * [Kolomoki Mounds](https://en.wikipedia.org/wiki/Kolomoki_Mounds), Early County, Georgia, USA
+  * Evelyn
+  * Block-Sterns
+  * McKeithen
+  * Byrd Hammock
+  * Pierce
+  * Murphy Island
+  * [Yent-Green Point complex](https://en.wikipedia.org/wiki/Yent_Mound), Franklin County, Florida, USA
+  * [Crystal River](https://en.wikipedia.org/wiki/Crystal_River_Archaeological_State_Park), Florida, USA
 
 ## Tazumal - Chalchuapa, El Salvador (100 CE - 1200 CE)
 
@@ -1835,6 +1963,12 @@ These are a few major sites:
 * Galindo
 * [Huanchaco](https://en.wikipedia.org/wiki/Huanchaco) - Origin of Ceviche
 * [Pañamarca](https://en.wikipedia.org/wiki/Pa%C3%B1amarca)
+
+## Weeden Island I - Alabama, USA; Florida, USA; Georgia, USA (200 AD - 900 AD)
+
+Grew out of Deptford Culture and the Hopewell Tradition.
+
+* [Letchworth-Love Mounds Archaeological State Park](https://en.wikipedia.org/wiki/Letchworth-Love_Mounds_Archaeological_State_Park)
 
 ## Yohualichan - Yohualichan, Puebla, MX (200 CE - 1200 CE)
 
@@ -2045,6 +2179,10 @@ Many ball games have been played throughout the Americas. In a testament to a po
   * Uarhukua is P’urhépecha for "stick". It is a game dated to at least 1500 BCE played with a faming ball of wood and pine pitch.
 * [Games. Mississippi Valley Archaeology Center (MVAC) at the University of Wisconsin-La Crosse (UW-L).](http://mvac.uwlax.edu/past-cultures/native-knowledge/games/)
 
+## Wakulla Weeden Island Culture - (750 CE - 1200 CE)
+
+[Wakulla’s ancient cultures](https://www.thewakullanews.com/content/wakulla%E2%80%99s-ancient-cultures)
+
 ## Cacao and Holly Based Caffeinated Drinks Traded (750 CE - 1400 CE)
 
 A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (and probably earlier, but we have no evidence). Chocolate (theobroma cacao) was also imported around the same time, becoming more popular by 1200 CE.
@@ -2116,19 +2254,11 @@ Puuc Region/Style. Possibly Chontal.
 * [Ruins of Quilmes](https://en.wikipedia.org/wiki/Ruins_of_Quilmes)
 * [Quilmes people](https://en.wikipedia.org/wiki/Quilmes_people)
 
-## Ilhuatzio, Pátzcuaro Basin, Michoacán, Mexico (900 CE - 1530 CE) - P'urepecha
-
-* [Ilhuatzio](https://en.wikipedia.org/wiki/Ihuatzio_(archaeological_site))
-
-## Corn makes it to the "American Bottom"
+## Corn makes it to the "American Bottom" (898 CE - 920 CE)
 
 * [Emerson, T. E., Hedman, K. M., Simon, M. L., Fort, M. A., & Witt, K. E. (2020). Isotopic Confirmation of the Timing and Intensity of Maize Consumption in Greater Cahokia. American Antiquity, 85(2), 241-262.](https://doi.org/10.1017/aaq.2020.7)
-* [Wang, L., Josephs, E. B., Lee, K. M., Roberts, L. M., Rellán-Álvarez, R., Ross-Ibarra, J., & Hufford, M. B. (2020). Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. bioRxiv.]()
+* [Wang, L., Josephs, E. B., Lee, K. M., Roberts, L. M., Rellán-Álvarez, R., Ross-Ibarra, J., & Hufford, M. B. (2020). Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. bioRxiv.](https://doi.org/10.1101/2020.07.31.227629)
 * [Simon, M. L. (2017). Reevaluating the evidence for middle woodland maize from the holding site. American Antiquity, 82(1), 140-150.](https://doi.org/10.1017/aaq.2016.2) &mdash; [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4B6927141786E14A3A2520304E48A8F5/S0002731616000020a.pdf/reevaluating_the_evidence_for_middle_woodland_maize_from_the_holding_site.pdf)
-
-## Cahokia (1050 CE - 1350 CE)
-
-* [Benson, L. V., Pauketat, T. R., & Cook, E. R. (2009). Cahokia's boom and bust in the context of climate change. American Antiquity, 467-483.](https://www.jstor.org/stable/20622439)
 
 ## Oneota (900 CE - 1650 CE)
 
@@ -2136,12 +2266,17 @@ Puuc Region/Style. Possibly Chontal.
 * [Lauren W. Ritterbush (2002) Drawn By The Bison Late Prehistoric Native Migration Into The Central Plains, Great Plains Quarterly Vol. 22, No. 4, Fall 2002, pp. 259-70.](http://digitalcommons.unl.edu/greatplainsquarterly/2308/)
 * [Directory of Oneota Scholars](http://dos.matrix.msu.edu/index.html)
 
-## Mesoamerican Early Postclassic (900 CE - 1200 CE)
+## Fort Walton Culture - Fort Walton Beach, Okaloosa County, Florida, USA and surrounding areas (900 CE - 1500 CE)
 
-### Colapse of Maya classic civilization begins (900 CE)
+Believed to develop from the Weeden Island Culture. Developed into the Leon-Jefferson Culture. The [Apalachee](https://en.wikipedia.org/wiki/Apalachee) developed out of this lineage.
 
-* [Scientists measure severity of drought during the Maya collapse](https://www.heritagedaily.com/2018/08/scientists-measure-severity-of-drought-during-the-maya-collapse/121384)
-* [Quantification of drought during the collapse of the classic Maya civilization](https://doi.org/10.1126/science.aas9871)
+[Fort Walton Culture](https://en.wikipedia.org/wiki/Fort_Walton_culture)
+
+* [Cayson Mound and Village Site](https://en.wikipedia.org/wiki/Cayson_Mound_and_Village_Site)
+* [Roods Landing Site](https://en.wikipedia.org/wiki/Roods_Landing_Site)
+* [Yon Mound and Village Site](https://en.wikipedia.org/wiki/Yon_Mound_and_Village_Site)
+* [Lake Jackson Mounds Archaeological State Park](https://en.wikipedia.org/wiki/Lake_Jackson_Mounds_Archaeological_State_Park)
+* [Velda Mound](https://en.wikipedia.org/wiki/Velda_Mound)
 
 ## Chaco Canyon - New Mexico, USA (900 CE - 1150 CE)
 
@@ -2152,6 +2287,12 @@ Puuc Region/Style. Possibly Chontal.
 
 * [Fajada Butte](https://en.wikipedia.org/wiki/Fajada_Butte)
 
+## Mesoamerican Early Postclassic (900 CE - 1200 CE)
+
+## Ilhuatzio, Pátzcuaro Basin, Michoacán, Mexico (900 CE - 1530 CE) - P'urepecha
+
+* [Ilhuatzio](https://en.wikipedia.org/wiki/Ihuatzio_(archaeological_site))
+
 ## Mesa de Cacahuatenco - Ixhuatlán de Madero, Veracruz, MX (900 CE - 1500 CE)
 
 Shows Huastec, Otomi, Totonac, & Olmec influence. Indications the area was occupied by 5600 BCE. Hydraulic road system.
@@ -2160,6 +2301,11 @@ Shows Huastec, Otomi, Totonac, & Olmec influence. Indications the area was occup
   * `The Olmec-vixtoti Culture became the cuexteca or Huastec culture. In relation to the Maya and Toltec societies, there was an important influence on the site sculptures. However, there is another version that says that the sculptural style corresponds to a Toltec occupation.`
   * References question the precision of the designation Otomi, which is good, since many Oto-Manguean groups were in the area.
 * [Mesa de Cacahuatenco. Diario Xalapa.](https://web.archive.org/web/20110722224254/http://www.oem.com.mx/diariodexalapa/notas/n1123007.htm) &mdash; picture of pyramid.
+
+## Colapse of Maya classic civilization begins (900 CE)
+
+* [Scientists measure severity of drought during the Maya collapse](https://www.heritagedaily.com/2018/08/scientists-measure-severity-of-drought-during-the-maya-collapse/121384)
+* [Quantification of drought during the collapse of the classic Maya civilization](https://doi.org/10.1126/science.aas9871)
 
 ## Chojolom - Cantel, Quetzaltenango Department, Guatemala (900 CE - 1200 CE)
 
@@ -2183,6 +2329,23 @@ Shows Huastec, Otomi, Totonac, & Olmec influence. Indications the area was occup
 
 ## Fort Ancient (1000 CE - 1577 CE)
 
+## Early Mississippian (1000 CE - 1200 CE)
+
+* [Ancient mound builders carefully timed their occupation of coastal Louisiana site](https://www.heritagedaily.com/2018/05/ancient-mound-builders-carefully-timed-their-occupation-of-coastal-louisiana-site/119826)
+
+## Caddoan Mississippian (1000 CE - 1400+ CE)
+
+This culture had begun to emerge from the Woodland periods groups and Fourch Maline culture interaction with the Missippian Cultures. It became the [Caddo Nation](https://en.wikipedia.org/wiki/Caddo).
+
+[Caddoan](https://en.wikipedia.org/wiki/Caddoan_Mississippian_culture) Mississippian Culture had ties to diverse places: Cahokia (Illinois), Etowah (Georgia), Ocmulgee (Georgia), Moundville (Alabama), flint from New Mexico (could be from the Ilex Vomitorium trade), conch shells from the gulf, mica from the Carolinas, and black obsidian from Mexico.
+
+* [Battle Mound Site, Lafayette County, Arkansas, USA](https://en.wikipedia.org/wiki/Battle_Mound_Site)
+* [Belcher Mound Site, Caddo Parish, Louisiana, USA](https://en.wikipedia.org/wiki/Belcher_Mound_Site)
+* [Bluffton Mound Site, Yell County, Arkansas, USA](https://en.wikipedia.org/wiki/Bluffton_Mound_Site)
+* [Caddoan Mounds Historic Site/George C. Davis Site, Cherokee County, Texas, USA](https://en.wikipedia.org/wiki/Caddoan_Mounds_State_Historic_Site)
+* [Gahagan Mounds Site, Red River Parish, Louisiana, USA](https://en.wikipedia.org/wiki/Gahagan_Mounds_Site)
+* [Spiro Mounds, Le Flore County, Oklahoma, USA](https://en.wikipedia.org/wiki/Spiro_Mounds)
+
 ## Castillo de Teayo - Teayo, Veracruz, MX (1000 CE - 1200 CE)
 
 Olmec-vixtoti, Toltec, Mexica.
@@ -2192,10 +2355,6 @@ Olmec-vixtoti, Toltec, Mexica.
 ## Cempoala - Úrsulo Galván, Veracruz, MX - Totonacs, Chinantecas and Zapotecs (1000 CE - 1577 CE)
 
 * [Cempoala](https://es.wikipedia.org/wiki/Cempoala)
-
-## Early Mississippian (1000 CE - 1200 CE)
-
-* [Ancient mound builders carefully timed their occupation of coastal Louisiana site](https://www.heritagedaily.com/2018/05/ancient-mound-builders-carefully-timed-their-occupation-of-coastal-louisiana-site/119826)
 
 ## Diaguita - Norte Chico, Chile (1000 CE - 1550 CE)
 
@@ -2209,6 +2368,31 @@ This indicates that there were estalbished trade routes between the natural rang
 
 * [Ritual Black Drink consumption at Cahokia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435207/)
 * [Researchers find evidence of ritual use of 'black drink' at Cahokia](https://news.illinois.edu/view/6367/205015)
+
+## Cahokia (1050 CE - 1350 CE)
+
+* [Benson, L. V., Pauketat, T. R., & Cook, E. R. (2009). Cahokia's boom and bust in the context of climate change. American Antiquity, 467-483.](https://www.jstor.org/stable/20622439)
+
+## Pensacola Culture - Biloxi, Harrison County, Mississippi, USA; Selma, Dallas County, Alabama, USA; Fort Walton Beach, Okaloosa County, Florida, USA (1100 CE - 1700 CE)
+
+Believed to develop from the Weeden Island Culture. The Pensacola people spoke a Muskogean language. By 1764 they had merged into various [Chahta](https://en.wikipedia.org/wiki/Choctaw) (Choctaw) and [Muskogee](https://en.wikipedia.org/wiki/Muscogee) groups who joined the [Tanêksa](https://en.wikipedia.org/wiki/Biloxi_people) (Biloxi) on their migration to the new [Tunica](https://en.wikipedia.org/wiki/Tunica_people) settlement outside the French settlement of Pointe Coupée in Modern day Louisiana, USA. In addition to those tribes above they were also joined by some [Mosopelea](https://en.wikipedia.org/wiki/Mosopelea) (Ofo) people, [Pascagoula](https://en.wikipedia.org/wiki/Pascagoula), and [Avoyel](https://en.wikipedia.org/wiki/Avoyel). Their descendants are the [Tunica-Biloxi Tribe](https://en.wikipedia.org/wiki/Tunica-Biloxi).
+
+[Pensacola Culture](https://en.wikipedia.org/wiki/Pensacola_culture)
+
+* [Bottle Creek Indian Mounds, Baldwin County, Alabama, USA](https://en.wikipedia.org/wiki/Bottle_Creek_Indian_Mounds)
+* [Butcherpen Mound, Santa Rosa County, Florida, USA](https://en.wikipedia.org/wiki/Butcherpen_Mound)
+* [Dauphin Island Mound, Dauphin Island, Mobile County, Alabama, USA](https://en.wikipedia.org/wiki/Indian_Mound_Park_(Dauphin_Island,_Alabama))
+* [Fort Walton Mound, Okaloosa County, Florida, USA](https://en.wikipedia.org/wiki/Fort_Walton_Mound)
+* [Hickory Ridge Cemetery Archeological Site, Escambia County, Florida, USA](https://en.wikipedia.org/wiki/Hickory_Ridge_Cemetery_Archeological_Site)
+* [Naval Live Oaks Cemetery, Santa Rosa County, Florida, USA](https://en.wikipedia.org/wiki/Naval_Live_Oaks_Cemetery)
+
+## Tinned Copper and Iron - Qikiqtaġruk (Kotzebue), AK, USA (1122 CE - 1460 CE)
+
+These kinds of metals are more common in Asia than they are in the archeological record in the American Arctic.
+
+* [Cooper, H. K., Mason, O. K., Mair, V., Hoffecker, J. F., & Speakman, R. J. (2016). Evidence of Eurasian metal alloys on the Alaskan coast in prehistory. Journal of Archaeological Science, 74, 176-183.](https://doi.org/10.1016/j.jas.2016.04.021) &mdash; [PDF](https://www.sciencedirect.com/science/article/am/pii/S0305440316300358)
+  * `Meteoritic and naturally occurring telluric iron were available in the eastern Arctic but no artifacts made of these metals have been identified in the western Arctic (Buchwald, 1975; Buchwald and Mosdal 1985; Wayman 1989b). Iron was smelted in northwest China by approximately 700 BC (Craddock, 1995; DiCosmo, 1999) and appears along the northern Okhotsk coast in the first millennium BC (Lebedintsev, 2000). Iron was smelted during the latter period further south in the Amur Basin (Nesterov et al., 2008) and by the first century AD on the Upper Lena River in Yakutia (Okladnikov, 1963) where it was included in burials in the 6th century AD (Stepanov, 2010). Non-local iron and other metals could have reached the coast of the western Arctic one of two ways, via trade across Bering Strait or scavenged from ship wreckage and other flotsam and jetsam, i.e., 'drift iron' (Keddie, 1990; Quimby, 1948). The latter was a source of iron for Native peoples on the North Pacific coast such as the Tlingit (de Laguna et al., 1964), Chugachmiut (de Laguna, 1956), and Koniag (Davydov, 1977; Holmberg, 1985), but has not been documented for people living along the Bering Sea.`
+  * `Prehistoric native copper use in the North American Arctic and Subarctic was concentrated in the two main source areas, south-central Alaska and southwestern Yukon, and the Central Canadian Arctic and Subarctic. In both regions, most of the evidence for its use dates to ca. AD 1000 and later, and primarily in the form of tools such as awls, knives, and projectile points (Cooper, 2012; Franklin et al., 1981). The closest reported occurrences of native copper to Cape Espenberg lie in the Shungnak River valley, a tributary >250 km up the Kobuk River from the coast (Smith, 1913), but there is no oral history or archaeological evidence for the exploitation of native copper from this the source. Copper artifacts have been found elsewhere in northwestern Alaska associated with Late Prehistoric contexts (e.g., Giddings, 1952; Kunz et al., 2005), but none have been identified as smelted alloyed products. If any of the copper is native copper it most likely originated from one of the sources areas mentioned above to the east, but the remaining material must have arrived at the site from Asia across Bering Strait.` 
 
 ## Casas Grandes/Paquimé - Chihuahua, MX (1130 CE - 1450 CE)
 
@@ -2267,6 +2451,13 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 * [Blood Run National Historic Landmark](https://iowaculture.gov/history/sites/blood-run-national-historic-landmark)
 * [Blood Run Site](https://en.wikipedia.org/wiki/Blood_Run_Site)
 * [Blood Run by Allison Adelle Hedge Coke](https://www.saltpublishing.com/products/blood-run-9781844712663)
+
+## Fischer-Hallman - Kitchener, Ontario, Canada (1300 CE - 1600 CE)
+
+Late Woodland Iroquoian village
+
+* [Weidner, Johanna. (2020) More than 35,000 Indigenous artifacts unearthed on Fischer-Hallman, so far. Cambridge Times. 15 Oct.](https://www.cambridgetimes.ca/news-story/10223321-more-than-35-000-indigenous-artifacts-unearthed-on-fischer-hallman-so-far/)
+* [Bugos, Claire. (2020) Remnants of Woodland Iroquois Village Discovered in Ontario. SmartNews. Smithsonian. 21 Oct.](https://www.smithsonianmag.com/smart-news/remnants-iroquois-woodland-village-discovered-ontario-180976099/)
 
 ## Xalapa - Xalapa, Veracruz, MX - Totonac, Chichimecas, Toltecs, Teochichimecas (1313 CE - 1521 CE)
 
@@ -2342,6 +2533,10 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
   * [William M. Denevan. The Pristine Myth: The Landscape of the Americas in 1492. Notes for Indigenous Conservation Knowledge.](http://jan.ucc.nau.edu/~alcoze/for398/class/pristinemyth.html)
 * **Other**
   * [Cavanaugh KC, et al. (2019) Climate-driven regime shifts in a mangrove–salt marsh ecotone over the past 250 years. PNAS. 116(43): 21602-21608.](https://doi.org/10.1073/pnas.1902181116)
+
+## Leon-Jefferson culture - Leon County, Florida, USA; Jefferson County, Florida, USA (1500 CE - 1704 CE)
+
+This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of the Fort Walton Culture up through colonization and the collapse of their traditional society and many people moving to the Mvskokvlke (Muskogee Confederacy). They Occupied the Velda Mound when the Spaniards arrived.
 
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
 
