@@ -267,50 +267,19 @@ The stem for many of the words for house/hut/camp shows some very interesting si
 
 Please note, these says nothing about the relatedness of the languages, just my percieved closeness of the words.
 
-Hut/House (\*qu/*qa):
-* Somali: aqal
-* Afghan/Pashto: kherga
-* Mongolian: ger
-* Algonkian
-    * *gu
-        * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
-        * wi-*ku-om (Mi'kmaq)
-    * *ge
-        * wi-*këwam (Unami/Lenape)
-        * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
-    * *gi
-        * mii/wii-*giwaam (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
-            * wii-*gwa(a)m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
-        * 8i-*chi8am (Nipmuc)
-        * wi-*kiaami (Myaamia/Miami-Illinois)
-        * mi-*kiwahp (Nehiyaw/Cree)
-        * mi-*ciwāhp (Innu-aimun/Montagnais)
-        * wii-*kiyaapi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
-        * wi-*kiop (Oma͞eqnomenew/Menominee)
-* Iroqouian
-    * *kanónh-sa (Kanienʼkéha/Mohawk)
-    * ᎦᎵᏦᏕ[ga-li-tso-de] (Tsalagi/Cherokee) (The stem is likely ᎦᎵᏦᏗ [galitsodi]; Contrast with: ᎦᎵᏦᎯᏓ [galitsohida] fat; ᎦᎵᏦᎯᏛ [galitsohidv] tallow, fatty; ᎦᎵᏦᎢᏛ [galitsoidv] fatness)
-        * ᎦᎵᏦᏓᏗ[ga-li-tso-da-di] (Tsalagi/Cherokee) tent
-        * Likely not related linguistically to any of the other words here.
-* Uto-Aztecan
-    * *ga
-        * \*kah-ni / *gah-ni (newe ta̲i̲kwappe/Shoshoni) (affinity with Kanienʼkéha *kanónh)
-        * *ca-lli (Nahuatl)
-        * *ka-ri (Yoeme/Yaqui)
-    * *gi
-        * *kii-hu (Hopílavayi/Hopi)
-        * *kii-y (Tongva)
-        * *ki-h (O'odham)
-        * *kí-sh (vilyuat/Cahuila)
-        * Athabaskan: kin (Diné bizaad/Navajo) (affinity with Uto-Aztecan *ki)
-* Athabaskan: qenqʔa (Kahtnuht'ana Qenaga/Kenaitze)
+Hut/House (\*qu/\*ʑu/\*qa/\*ʑɜ):
 * *qu
-    * Welsh: cwt[kʊt]
-    * Hindi: कुटिया[kutiya] (not sure of the stem)
-    * Arabic: كوخ[kukh]
-    * Yenesian: *quˀs (Ket)
-    * Athabaskan: kų́ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
+    * Yenesian
+        * *quˀs (Ket)
     * *ku
+        * Chiricahua
+            * kuughą
+        * Eastern Samic
+            * kuáti (Inari Sami)
+            * kuẹʹtt (Skolt Sami)
+            * куэдтҍ [kuedtʹ] (Kildin Sami)
+        * Athabaskan
+            *kų́ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
         * Uralic
             * kunyhó (Hungarian)
         * Japanese
@@ -319,75 +288,179 @@ Hut/House (\*qu/*qa):
             * 家屋 [kao-*ku] - house (家 [ie] - house, but pronounced [kao] in this word)
                 * 小屋 [ko-*ya] - hut (小 [ko] — small; 屋 [ya] — shop, but is pronounced as ku in 家屋 [kao-*ku], perhaps this evolved into [ya])
             * 生息 [se-i-so-*ku] - habitat
-    * *ko
-        * Miwok: kotcha
-        * Uralic
-            * *ko-ta (Finnish)
-            * *χo-t (Khanty) (affinity with Tlingit hít)
+        * Tamil
+            * குடி [kuṭi]
+        * Hindi
+            * कुटिया [kutiya] (not sure of the stem)
+        * Arabic
+            * كوخ [kukh]
+        * *kutą (Proto-Germanic)
+            * High German (Does everything below here actually derrive from *h)
+                * hutta
+                * Old French
+                    * hutte
+                    * Middle English
+                        * hutte
+                        * English
+                            * hut
+                * Dutch
+                    * hutte
+                * Danish
+                    * hytte
+                * Swedish
+                    * hytta
+        * *kot
+            * Ainu
+                * コタン (kotan) (village)
+            * Miwok
+                * kotcha
+            * Uralic
+                * *kot-a (Finnish, Karelian)
+                    * kõta (Votic)
+                    * *kod
+                        * koda (Veps, Estonian, Võro)
+                        * kodu (Estonian)
+                        * kodi (Finnish)
+                * *χo-t (Khanty)
+                    * hít (Tlingit)
+                    * хот [ˈxɔtʰ] (Mongolian) (town/city)
+                    * hooghan [hoːɣan] (Diné/Navajo)
+                    * yi hakan (Powhatan)
+                    * ház [ˈhaːz] (Hungarian)
+                        * could proto-Germanic *hūsą be related and the uralic shift to χ/x/h be earlier branching off *ku?
+            * Welsh
+                * cwt [kʊt]
+            * Old Norse/Dutch
+                * kot
+                * Norwegian Nynorsk/Norwegian Bokmål
+                    * kott
+            * Old English
+                * cot
+    * *gu
+        * Algonkian
+            * wi-*ku-om (Mi'kmaq)
+        * Chiricahua
+            * guughą
+    * *ʑuː
+        * *t͡ɕum
+            * Uralic
+                * *ću-m [t͡ɕum] (Udmurt)
+                * *ćo-m [t͡ɕom] (Komi)
+        * Chinese
+            * 住 [zhù] - verb: live, dwell, reside, stop, bide, fare
+        * Japonese
+            * 住 [jū] - living, dwelling, same symbol as Chinese [zhù]
+            * 住居 [jū-kyo] - residence, dwelling, house (居 [i] — residence)
+            * 住家 [jū-ka] - dwelling, residence (家 [ie] - house)
+        * Evenks (Previously "Tungusic" but that means "pig", so don't be an asshole — use Evenks)
+            * ǯū [d͡ʒuː] (Evenki) (affinity with Vuntut Gwich'in zheh, connected to Chinese 住 [zhù] and Japanese 住 [jū])
+        * *ʑɜː
+            * Athabaskan
+                * zheh (Vuntut Gwich'in) (affinity with Chinese zhàng and zhái)
+            * Chinese
+                * 宅 [*zhái] - residence, abode, habitation
+                    * 住宅 [zhù-*zhái] - residence, dwelling (see 住 [zhù] above)
+                * 帳 [*zhàng] - tent, mosquito net, most commonly now used as 'account', 'debt', 'credit'.
+                    * 帳篷 [*zhàng-péng] - tent, wigwam (篷 [péng] - canopy, sail)
+                    * 篷帳 [péng *zhàng] - tent
+                    * 营帐 [yíng-*zhàng] - tent (营 [yíng] - camp)
     * *go
-        * Northern Sámi: goahti
+        * Western Samic
+            * goahti (Northern Sámi)
             * goahte (Lule Sámi)
             * gåetie (Southern Sámi)
             * gåhte (Pite Sámi)
             * gåhtie (Ume Sámi)
-        * Western Apache: gowąh
-        * Chiricahua: guughą, kuughą
-* *d͡ʒuː
-    * Evenks (Previously "Tungusic" but that means "pig", so don't be an asshole — use Evenks)
-        * ǯū [d͡ʒuː] (Evenki) (affinity with Vuntut Gwich'in zheh, connected to Chinese 住 [zhù] and Japanese 住 [jū])
-    * Chinese
-        * 住 [zhù] - verb: live, dwell, reside, stop, bide, fare
-        * 住宅 [zhù-*zhái] - residence, dwelling
-    * Japonese
-        * 住 [jū] - living, dwelling, same symbol as Chinese [zhù]
-        * 住居 [jū-kyo] - residence, dwelling, house (居 [i] — residence)
-        * 住家 [jū-ka] - dwelling, residence (家 [ie] - house)
-    * *t͡ɕ(o/u)m
-        * Uralic
-            * *ćo-m [t͡ɕom] (Komi)
-            * *ću-m [t͡ɕum] (Udmurt)
-    * *ʑɜː
-        * Athabaskan: zheh (Vuntut Gwich'in) (affinity with Chinese zhàng and zhái)
-        * Chinese
-            * 宅 [*zhái] - residence, abode, habitation
-            * 帳 [*zhàng] - tent, mosquito net, most commonly now used as 'account', 'debt', 'credit'.
-                * 帳篷 [*zhàng-péng] - tent, wigwam (篷 [péng] - canopy, sail)
-                * 篷帳 [péng *zhàng] - tent
-                * 营帐 [yíng-*zhàng] - tent (营 [yíng] - camp)
+        * Western Apache
+            * gowąh
+        * Algonkian
+            * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
+* *qa
+    * Somali 
+        * aqal
+    * *ga
+        * Uto-Aztecan
+            * \*kah-ni / *gah-ni (newe ta̲i̲kwappe/Shoshoni) (affinity with Kanienʼkéha *kanónh)
+            * *ca-lli (Nahuatl)
+            * *ka-ri (Yoeme/Yaqui)
+        * Pawnee
+            * karacaape, káracapiʾ
+        * Iroqouian
+            * *kanónh-sa (Kanienʼkéha/Mohawk)
+            * ᎦᎵᏦᏕ[ga-li-tso-de] (Tsalagi/Cherokee) (The stem is likely ᎦᎵᏦᏗ [galitsodi]; Contrast with: ᎦᎵᏦᎯᏓ [galitsohida] fat; ᎦᎵᏦᎯᏛ [galitsohidv] tallow, fatty; ᎦᎵᏦᎢᏛ [galitsoidv] fatness)
+                * ᎦᎵᏦᏓᏗ[ga-li-tso-da-di] (Tsalagi/Cherokee) tent
+                * Likely not related linguistically to any of the other words here.
+    * Athabaskan
+        * qenqʔa (Kahtnuht'ana Qenaga/Kenaitze)
+    * *ge
+        * Algonkian
+            * wi-*këwam (Unami/Lenape)
+            * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
+        * Mongolian
+            * ger
+        * Southern Altai
+            * кереге [keɾeɣe]
+        * Afghan/Pashto
+            * kherga
+        * Chukchi
+            * yaranga [jaraŋə]
+        * Hungarian
+            * jurta
+        * Türkçe
+            * yurt, yurdu
+    * *gi
+        * Algonkian
+            * mii/wii-*giwaam (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
+                * wii-*gwa(a)m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
+            * 8i-*chi8am (Nipmuc)
+            * wi-*kiaami (Myaamia/Miami-Illinois)
+            * mi-*kiwahp (Nehiyaw/Cree)
+            * mi-*ciwāhp (Innu-aimun/Montagnais)
+            * wii-*kiyaapi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
+            * wi-*kiop (Oma͞eqnomenew/Menominee)
+        * *ki
+            * Uto-Aztecan
+                * *kii-hu (Hopílavayi/Hopi)
+                * *kii-y (Tongva)
+                * *ki-h (O'odham)
+                * *kí-sh (vilyuat/Cahuila)
+            * Athabaskan
+                * kin (Diné bizaad/Navajo)
 
-Roof/Hut (\*tu/*ate):
-* *hatep
+Roof/Hut:
+* *atɜp
+    * hateup (Sudanese)
     * atap (Malay, Indonesian, Javanese)
     * atipan v. (Filipino) — to roof
-    * tafo (Malagasy)
-    * *(ha)tau
-        * hateup (Sudanese)
+    * *ta
+        * tafo (Malagasy)
         * t'ara (Amharic)
         * tau/t'au (Lenca)
-        * *tɑɣ
-            * tag (Danish)
-            * tak (Swedish, Norwegian)
-            * þak (Icelandic)
-        * *tʊ
-            * toit [tʊʷa] (French)
-            * տուն [tun] (Armenian) — people argue it comes from *dṓm in Proto-Indo-European, but I'm going to argue against that.
-            * tukul (Ethiopia, Sudan)
-        * *tɨɣ (Proto-Brythonic)
-            * tig [tɪɡ] (Old Welsh) — interestingly, this is a vowel change towards *tɜɣ away from *tɨɣ
-                * tŷ [tɨː] (Welsh)
-        * *tɜɣ
-            * teach [tʲæːx] (Irish)
-            * taigh [tʰɤj] (Scots Gaelic)
-            * τέγος [tégos] (Proto-Hellenic)
-            * στέγος [stégos] - Proto-Hellenic
-            * tectum (Latin)
-            * *tɜt(ʃ)
-                * tettu (Corsican)
-                * tető (Hungarian)
-                * teto (Portuguese)
-                * teito (Asturias)
-                * techo [tɜtʃo] (Spanish) - roof
-                * etxe [ɜtʃɜ] (Basque)
+    * *tu
+        * tukul (Ethiopia, Sudan)
+        * տուն [tun] (Armenian) — people argue it comes from *dṓm in Proto-Indo-European, but I'm going to argue against that.
+    * *tʊ
+        * toit [tʊʷa] (French)
+    * *tɑɣ
+        * tag (Danish)
+        * tak (Swedish, Norwegian)
+        * þak (Icelandic)
+    * *tɨɣ (Proto-Brythonic)
+        * tig [tɪɡ] (Old Welsh) — interestingly, this is a vowel change towards *tɜɣ away from *tɨɣ
+            * tŷ [tɨː] (Welsh)
+    * *tɜɣ
+        * teach [tʲæːx] (Irish)
+        * taigh [tʰɤj] (Scots Gaelic)
+        * τέγος [tégos] (Proto-Hellenic)
+        * στέγος [stégos] (Proto-Hellenic)
+        * tectum (Latin)
+    * *tɜt(ʃ)
+        * tettu (Corsican)
+        * tető (Hungarian)
+        * teto (Portuguese)
+        * teito (Asturias)
+        * techo [tɜtʃo] (Spanish) - roof
+        * etxe [ɜtʃɜ] (Basque)
 
 Other References:
 
