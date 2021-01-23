@@ -278,18 +278,85 @@ Please note, these says nothing about the relatedness of the languages, just my 
 Hut/House
 * *quʔ
     * Yenesian
-        * *quˀs (Ket)
+        * quˀs (Ket)
+    * Athabaskan
+        * qenqʔa (Kahtnuht'ana Qenaga/Kenaitze)
+    * *qaʔ
+        * Somali 
+            * aqal
+    * *ga
+        * Uto-Aztecan
+            * \*kah-ni / *gah-ni (newe ta̲i̲kwappe/Shoshoni) (affinity with Kanienʼkéha *kanónh)
+            * *ca-lli (Nahuatl)
+            * *ka-ri (Yoeme/Yaqui)
+        * Pawnee
+            * karacaape, káracapiʾ
+        * Iroqouian
+            * *kanónh-sa (Kanienʼkéha/Mohawk)
+            * ᎦᎵᏦᏕ[ga-li-tso-de] (Tsalagi/Cherokee) (The stem is likely ᎦᎵᏦᏗ [galitsodi]; Contrast with: ᎦᎵᏦᎯᏓ [galitsohida] fat; ᎦᎵᏦᎯᏛ [galitsohidv] tallow, fatty; ᎦᎵᏦᎢᏛ [galitsoidv] fatness)
+                * ᎦᎵᏦᏓᏗ[ga-li-tso-da-di] (Tsalagi/Cherokee) tent
+                * Likely not related linguistically to any of the other words here.
+    * *ge
+        * Algonkian
+            * wi-*këwam (Unami/Lenape)
+            * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
+        * Mongolian
+            * ger
+        * Southern Altai
+            * кереге [keɾeɣe]
+        * Afghan/Pashto
+            * kherga
+        * Chukchi
+            * yaranga [jaraŋə]
+        * Hungarian
+            * jurta
+        * Türkçe
+            * yurt, yurdu
+    * *gi
+        * Algonkian
+            * mii/wii-*giwaam (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
+                * wii-*gwa(a)m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
+            * 8i-*chi8am (Nipmuc)
+            * wi-*kiaami (Myaamia/Miami-Illinois)
+            * mi-*kiwahp (Nehiyaw/Cree)
+            * mi-*ciwāhp (Innu-aimun/Montagnais)
+            * wii-*kiyaapi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
+            * wi-*kiop (Oma͞eqnomenew/Menominee)
+        * *ki
+            * Uto-Aztecan
+                * *kii-hu (Hopílavayi/Hopi)
+                * *kii-y (Tongva)
+                * *ki-h (O'odham)
+                * *kí-sh (vilyuat/Cahuila)
+            * Athabaskan
+                * kin (Diné bizaad/Navajo)
+    * *go
+        * Algonkian
+            * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
+    * *gu
+        * Algonkian
+            * wi-*ku-om (Mi'kmaq)
     * *kuʔ
-        * Chiricahua
-            * kuughą
         * Athabaskan
-            *kų́ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
+            * kų́ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
+        * kug
+            * Chiricahua
+                * kuughą
+                * guughą
+            * Western Apache
+                * gowąh
+            * Western Samic
+                * goahti (Northern Sámi)
+                * goahte (Lule Sámi)
+                * gåetie (Southern Sámi)
+                * gåhte (Pite Sámi)
+                * gåhtie (Ume Sámi)
         * Uralic
             * kunyhó (Hungarian)
         * Arabic
             * كوخ [kukh]
         * *kutą (Proto-Germanic)
-            * High German (Does everything below here actually derrive from *h)
+            * High German (Does everything below here actually derrive from *χot? Or maybe or *χut?)
                 * hutta
                 * Old French
                     * hutte
@@ -311,7 +378,7 @@ Hut/House
         * Tamil
             * குடி [kuṭi]
         * Hindi
-            * कुटिया [kutiya] (not sure of the stem)
+            * कुटिया [kutiya]
         * *kot
             * Ainu
                 * コタン (kotan) (village)
@@ -332,9 +399,10 @@ Hut/House
                     * kott
             * Old English
                 * cot
-            * *χo-t (Khanty)
-                * hít (Tlingit)
+            * *χot
+                * χot (Khanty/ńuki)
                 * хот [ˈxɔtʰ] (Mongolian) (town/city)
+                * hít (Tlingit)
                 * hooghan [hoːɣan] (Diné/Navajo)
                 * yi hakan (Powhatan)
                 * ház [ˈhaːz] (Hungarian)
@@ -376,73 +444,6 @@ Hut/House
                     * 帳篷 [*zhàng-péng] - tent, wigwam (篷 [péng] - canopy, sail)
                     * 篷帳 [péng *zhàng] - tent
                     * 营帐 [yíng-*zhàng] - tent (营 [yíng] - camp)
-    * *go
-        * Western Samic
-            * goahti (Northern Sámi)
-            * goahte (Lule Sámi)
-            * gåetie (Southern Sámi)
-            * gåhte (Pite Sámi)
-            * gåhtie (Ume Sámi)
-        * Western Apache
-            * gowąh
-        * Algonkian
-            * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
-    * *gu
-        * Algonkian
-            * wi-*ku-om (Mi'kmaq)
-        * Chiricahua
-            * guughą
-* *qa
-    * Somali 
-        * aqal
-    * *ga
-        * Uto-Aztecan
-            * \*kah-ni / *gah-ni (newe ta̲i̲kwappe/Shoshoni) (affinity with Kanienʼkéha *kanónh)
-            * *ca-lli (Nahuatl)
-            * *ka-ri (Yoeme/Yaqui)
-        * Pawnee
-            * karacaape, káracapiʾ
-        * Iroqouian
-            * *kanónh-sa (Kanienʼkéha/Mohawk)
-            * ᎦᎵᏦᏕ[ga-li-tso-de] (Tsalagi/Cherokee) (The stem is likely ᎦᎵᏦᏗ [galitsodi]; Contrast with: ᎦᎵᏦᎯᏓ [galitsohida] fat; ᎦᎵᏦᎯᏛ [galitsohidv] tallow, fatty; ᎦᎵᏦᎢᏛ [galitsoidv] fatness)
-                * ᎦᎵᏦᏓᏗ[ga-li-tso-da-di] (Tsalagi/Cherokee) tent
-                * Likely not related linguistically to any of the other words here.
-    * Athabaskan
-        * qenqʔa (Kahtnuht'ana Qenaga/Kenaitze)
-    * *ge
-        * Algonkian
-            * wi-*këwam (Unami/Lenape)
-            * vee-*ʔe (Tsėhésenėstsestȯtse/Cheyenne)
-        * Mongolian
-            * ger
-        * Southern Altai
-            * кереге [keɾeɣe]
-        * Afghan/Pashto
-            * kherga
-        * Chukchi
-            * yaranga [jaraŋə]
-        * Hungarian
-            * jurta
-        * Türkçe
-            * yurt, yurdu
-    * *gi
-        * Algonkian
-            * mii/wii-*giwaam (Anishinàbemiwin/Algonquin, Ojibwemowin/Anishinaabe)
-                * wii-*gwa(a)m (Eastern Ojibwe,Nishnaabemwin,Bodéwadmimwen/Potawatomi)
-            * 8i-*chi8am (Nipmuc)
-            * wi-*kiaami (Myaamia/Miami-Illinois)
-            * mi-*kiwahp (Nehiyaw/Cree)
-            * mi-*ciwāhp (Innu-aimun/Montagnais)
-            * wii-*kiyaapi (Thâkiwâtowêweni/Sauk, Thâkiwâtowêweni/Sauk)
-            * wi-*kiop (Oma͞eqnomenew/Menominee)
-        * *ki
-            * Uto-Aztecan
-                * *kii-hu (Hopílavayi/Hopi)
-                * *kii-y (Tongva)
-                * *ki-h (O'odham)
-                * *kí-sh (vilyuat/Cahuila)
-            * Athabaskan
-                * kin (Diné bizaad/Navajo)
 
 Roof/Hut
 * *atɑ
