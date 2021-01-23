@@ -232,6 +232,14 @@ Other cultures have similar structures:
     * oca (Tupi-Guarani) — https://en.wikipedia.org/wiki/Oca_(structure)
     * shabono (Yanomami) — https://en.wikipedia.org/wiki/Shabono
     * maloca — https://en.wikipedia.org/wiki/Maloca
+    * nakamal (Bislama) — https://en.wikipedia.org/wiki/Nakamal
+    * gamali (Raga) — https://en.wikipedia.org/wiki/Nakamal
+    * wharenui (Maori) — https://en.wikipedia.org/wiki/Wharenui
+    * rumah betang (Malay)
+    * rumah panjai (Iban)
+    * uma (Sakuddei)
+    * nhà dài (Vietnamese)
+    * badaghar (Tharu)
 * beit al-sha’ar (Bedouin) — http://www.alhakaya.net/product.php?id_product=115 (best picture I could get with some cultural context)
     * baku (Tibetan) — https://www.norlha.com/blogs/life-at-norlha-blog/the-tibetan-tent
     * pole marquee (English) — https://en.wikipedia.org/wiki/Pole_marquee
@@ -267,31 +275,17 @@ The stem for many of the words for house/hut/camp shows some very interesting si
 
 Please note, these says nothing about the relatedness of the languages, just my percieved closeness of the words.
 
-Hut/House (\*qu/\*ʑu/\*qa/\*ʑɜ):
-* *qu
+Hut/House
+* *quʔ
     * Yenesian
         * *quˀs (Ket)
-    * *ku
+    * *kuʔ
         * Chiricahua
             * kuughą
-        * Eastern Samic
-            * kuáti (Inari Sami)
-            * kuẹʹtt (Skolt Sami)
-            * куэдтҍ [kuedtʹ] (Kildin Sami)
         * Athabaskan
             *kų́ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
         * Uralic
             * kunyhó (Hungarian)
-        * Japanese
-            * 宅 [ta-*ku] - home, which uses the same symbol as Chinese [zhái]
-            * 家宅 [ka-ta-*ku] - house (家 [ie] - house, but pronounced [ka] in this word)
-            * 家屋 [kao-*ku] - house (家 [ie] - house, but pronounced [kao] in this word)
-                * 小屋 [ko-*ya] - hut (小 [ko] — small; 屋 [ya] — shop, but is pronounced as ku in 家屋 [kao-*ku], perhaps this evolved into [ya])
-            * 生息 [se-i-so-*ku] - habitat
-        * Tamil
-            * குடி [kuṭi]
-        * Hindi
-            * कुटिया [kutiya] (not sure of the stem)
         * Arabic
             * كوخ [kukh]
         * *kutą (Proto-Germanic)
@@ -309,6 +303,15 @@ Hut/House (\*qu/\*ʑu/\*qa/\*ʑɜ):
                     * hytte
                 * Swedish
                     * hytta
+    * *kut
+        * Eastern Samic
+            * kuáti (Inari Sami)
+            * kuẹʹtt (Skolt Sami)
+            * куэдтҍ [kuedtʹ] (Kildin Sami)
+        * Tamil
+            * குடி [kuṭi]
+        * Hindi
+            * कुटिया [kutiya] (not sure of the stem)
         * *kot
             * Ainu
                 * コタン (kotan) (village)
@@ -321,13 +324,6 @@ Hut/House (\*qu/\*ʑu/\*qa/\*ʑɜ):
                         * koda (Veps, Estonian, Võro)
                         * kodu (Estonian)
                         * kodi (Finnish)
-                * *χo-t (Khanty)
-                    * hít (Tlingit)
-                    * хот [ˈxɔtʰ] (Mongolian) (town/city)
-                    * hooghan [hoːɣan] (Diné/Navajo)
-                    * yi hakan (Powhatan)
-                    * ház [ˈhaːz] (Hungarian)
-                        * could proto-Germanic *hūsą be related and the uralic shift to χ/x/h be earlier branching off *ku?
             * Welsh
                 * cwt [kʊt]
             * Old Norse/Dutch
@@ -336,11 +332,27 @@ Hut/House (\*qu/\*ʑu/\*qa/\*ʑɜ):
                     * kott
             * Old English
                 * cot
-    * *gu
-        * Algonkian
-            * wi-*ku-om (Mi'kmaq)
-        * Chiricahua
-            * guughą
+            * *χo-t (Khanty)
+                * hít (Tlingit)
+                * хот [ˈxɔtʰ] (Mongolian) (town/city)
+                * hooghan [hoːɣan] (Diné/Navajo)
+                * yi hakan (Powhatan)
+                * ház [ˈhaːz] (Hungarian)
+                    * could proto-Germanic *hūsą be related and the uralic shift to χ/x/h be earlier branching off *ku?
+        * *kat
+            * Mazanderani
+                * کَت‎ [kat]
+            * Avestan
+                * 𐬐𐬀𐬙𐬀‎ [kata]
+            * Latin
+                * casa
+    * *ku
+        * Japanese
+            * 宅 [ta-*ku] - home, which uses the same symbol as Chinese [zhái]
+            * 家宅 [ka-ta-*ku] - house (家 [ie] - house, but pronounced [ka] in this word)
+            * 家屋 [kao-*ku] - house (家 [ie] - house, but pronounced [kao] in this word)
+                * 小屋 [ko-*ya] - hut (小 [ko] — small; 屋 [ya] — shop, but is pronounced as ku in 家屋 [kao-*ku], perhaps this evolved into [ya])
+            * 生息 [se-i-so-*ku] - habitat
     * *ʑuː
         * *t͡ɕum
             * Uralic
@@ -375,6 +387,11 @@ Hut/House (\*qu/\*ʑu/\*qa/\*ʑɜ):
             * gowąh
         * Algonkian
             * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
+    * *gu
+        * Algonkian
+            * wi-*ku-om (Mi'kmaq)
+        * Chiricahua
+            * guughą
 * *qa
     * Somali 
         * aqal
@@ -427,7 +444,7 @@ Hut/House (\*qu/\*ʑu/\*qa/\*ʑɜ):
             * Athabaskan
                 * kin (Diné bizaad/Navajo)
 
-Roof/Hut:
+Roof/Hut
 * *atɑ
     * atap (Malay, Indonesian, Javanese)
     * hateup (Sudanese)
@@ -467,7 +484,7 @@ Roof/Hut:
                 * tʉjc (Sayula Popoluca)
                 * ta̱jc (Totontepec Mixe)
             * Zoque
-                * tʌc (Copainalá Zoque) tʌc
+                * tʌc (Copainalá Zoque)
                 * tøc (Francisco León Zoque)
                 * tɨc (Highland Popoluca)
                 * tʌjk (Rayón Zoque)
