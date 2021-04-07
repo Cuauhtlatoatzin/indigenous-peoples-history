@@ -494,6 +494,10 @@ Mt. Adams
 
 [The Washington Historian [WashHist]. (1899). United States: Washington State Historical Society.](https://www.google.com/books/edition/The_Washington_Historian/srQTAAAAYAAJ?hl=en&gbpv=1&dq=Elwood%20Evans%20and%20John%20Flett&pg=RA1-PA45&printsec=frontcover&bsq=Elwood%20Evans)
 
+[The Southern Workman. (1913). United States: Hampton Institute Press. 42(11) p. 592](https://www.google.com/books/edition/The_Southern_Workman/M6oiAQAAIAAJ?hl=en&gbpv=1&dq=D%C5%ADh-hw%C3%A4hk&pg=PA592&printsec=frontcover)
+
+[The Mountaineer. (1916). United States: The Mountaineers. Voulmes 9-12.](https://www.google.com/books/edition/The_Mountaineer/R2hMAAAAYAAJ?hl=en&gbpv=1&dq=D%C5%ADh-hw%C3%A4hk&pg=PA33&printsec=frontcover)
+
 [Kaylor, F. C., Hunt, H. [DuhhwakKulshan]. (1917). Washington, West of the Cascades: Historical and Descriptive; the Explorers, the Indians, the Pioneers, the Modern. United States: S.J. Clarke Publishing Company.](https://www.google.com/books/edition/Washington_West_of_the_Cascades/V3gUAAAAYAAJ?hl=en&gbpv=1&&pg=PA512&bsq=Duh-hwahk)
 
 [Blee, L. (2009). Mount Rainier and Indian Economies of Place, 1850–1925. Western Historical Quarterly, 40(4), 419-443. Retrieved March 19, 2021, from http://www.jstor.org/stable/40505517](http://www.jstor.org/stable/40505517)
@@ -505,4 +509,6 @@ http://arcadianabe.blogspot.com/2012/12/koma-kulshan-mysterious-mountain-moniker
 https://whatcomwatch.org/index.php/article/native-languages-and-names-for-mt-baker/
 
 [Thompson, E. N. (1981). Mount Rainier National Park, Washington, Historic Resource Study. Denver Service Center, Historic Preservation Branch, Pacific Northwest/Western Team, National Park Service, US Department of the Interior.](http://www.npshistory.com/publications/mora/hrs.pdf)
+
+[Wray, J. (1997). Olympic National Park ethnographic overview and assessment. Olympic National Park, US National Park Service.](http://npshistory.com/publications/olym/eoa.pdf)
 
