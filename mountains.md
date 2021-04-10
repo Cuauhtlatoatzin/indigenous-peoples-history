@@ -6,7 +6,7 @@ If you've benefitted from this document, [please consider tipping me](https://ad
 
 ## Issues with certain recorded names
 
-[Burrows, J. (2021) The Original Name for Mt. Olympus. Writing. Jillian Ada Burrows. April 7. Retreived April 10 from https://adaburrows.com/writing/2021-04-07-olympic-mountains/](https://adaburrows.com/writing/2021-04-07-olympic-mountains/)
+[Burrows, J. (2021) The Original Name for Mt. Olympus. Writing. Jillian Ada Burrows. April 7. Retrieved April 10 from https://adaburrows.com/writing/2021-04-07-olympic-mountains/](https://adaburrows.com/writing/2021-04-07-olympic-mountains/)
   * This contains a review of the literature around the naming of Mt. Olympus and peels apart the layers of mistakes that were made in recording the names. These kinds of mistakes are common in many of the names recorded by explorers. This means a certain amount of either linguistic detective work or interaction with knowledgeable elders is necessary to arrive at the correct names.
 
 ## Mountains in the PNW
@@ -119,7 +119,7 @@ River east of Mt. Cheam' 'third mountain west of Tl'ítl'xeleqw, as seen from Si
 
 ### Nooksack
 
-[Schwarz, B. (2010) Revitalization project hopes to revive Nooksack language. Foothills Gazette. February 14. Retreived March 19, 2021 from https://web.archive.org/web/20101217163152/http://foothillsgazette.com/2010/02/14/nooksack-language-to-be-passed-on-through-revitalization-project/](https://web.archive.org/web/20101217163152/http://foothillsgazette.com/2010/02/14/nooksack-language-to-be-passed-on-through-revitalization-project/)
+[Schwarz, B. (2010) Revitalization project hopes to revive Nooksack language. Foothills Gazette. February 14. Retrieved March 19, 2021 from https://web.archive.org/web/20101217163152/http://foothillsgazette.com/2010/02/14/nooksack-language-to-be-passed-on-through-revitalization-project/](https://web.archive.org/web/20101217163152/http://foothillsgazette.com/2010/02/14/nooksack-language-to-be-passed-on-through-revitalization-project/)
 
 > Lhéchalosem, the Nooksack native language
 
@@ -192,7 +192,7 @@ Specifically the map: https://nooksacktribe.org/wp-content/uploads/2020/01/Nooks
 >
 > Our mountain, təqʷuʔmaʔ/təqʷuʔbəd, for example, was renamed after a Rear Admiral in the British Royal Navy. ... We most often refer to her today as təqʷuʔmaʔ/təqʷuʔbəd, though we recognize and respect the many names our tribal relatives have given her throughout history.
 
-[Puyallup Tribe [txʷǝlšucid]. About Twulshootseed. Puyallup Tribal Language Program. Retreived March 19, 2021 from https://www.puyalluptriballanguage.org/about/](https://www.puyalluptriballanguage.org/about/)
+[Puyallup Tribe [txʷǝlšucid]. About Twulshootseed. Puyallup Tribal Language Program. Retrieved March 19, 2021 from https://www.puyalluptriballanguage.org/about/](https://www.puyalluptriballanguage.org/about/)
 
 > The names for Lushootseed varies between the tribes. They include:
 >
@@ -239,7 +239,7 @@ Taken directly from: https://tulaliplushootseed.com/wp-content/themes/the-langua
 * mímxʷtən '[Elwha River Range](https://www.topozone.com/washington/clallam-wa/range/elwha-river-range/): Griff Peak, Unicorn Horn, Unicorn Peak (looks like a reclining lady)' (KlallamPlaces)
 * ʔáʔašit 'Olympic mountains south of Crescent Bay and Port Angeles.' (KWOTD4) [[Baldy Ridge, including Mount Storm King & Mount Baldy](https://www.topozone.com/washington/clallam-wa/ridge/baldy-ridge/)]
 
-[Klallam Word of the Day. [KWOTD4] (2018, January 31) ʔáʔašit 'Olympic mountains south of Crescent Bay and Port Angeles.' [Facebook status update]. Retreived from https://www.facebook.com/KlallamWOTD/posts/10155516286022029](https://www.facebook.com/KlallamWOTD/posts/10155516286022029)
+[Klallam Word of the Day. [KWOTD4] (2018, January 31) ʔáʔašit 'Olympic mountains south of Crescent Bay and Port Angeles.' [Facebook status update]. Retrieved from https://www.facebook.com/KlallamWOTD/posts/10155516286022029](https://www.facebook.com/KlallamWOTD/posts/10155516286022029)
 
 [Nəxʷsƛ̕ay̕əmúcən [KlallamPlaces]. Klallam Language Wordlist: Place Names. http://klallam.montler.net/WordList/PLACENAMES.htm](http://klallam.montler.net/WordList/PLACENAMES.htm)
 
@@ -497,7 +497,7 @@ Mt. Adams
 
 [Carpenter, M. (2020). Pioneer Problems: “Wanton Murder,” Indian War Veterans, and Oregon's Violent History. Oregon Historical Quarterly, 121(2), 156-185. doi:10.5403/oregonhistq.121.2.0156](https://doi.org/10.5403/oregonhistq.121.2.0156)
 
-[Flora, S [Flora]. John Flett. Pioneer of 1841. OregonPioneers.com Retreived March 22, from http://www.oregonpioneers.com/bios/JohnFlett_1841.pdf](http://www.oregonpioneers.com/bios/JohnFlett_1841.pdf)
+[Flora, S [Flora]. John Flett. Pioneer of 1841. OregonPioneers.com Retrieved March 22, from http://www.oregonpioneers.com/bios/JohnFlett_1841.pdf](http://www.oregonpioneers.com/bios/JohnFlett_1841.pdf)
 
 [The Washington Historian [WashHist]. (1899). United States: Washington State Historical Society.](https://www.google.com/books/edition/The_Washington_Historian/srQTAAAAYAAJ?hl=en&gbpv=1&dq=Elwood%20Evans%20and%20John%20Flett&pg=RA1-PA45&printsec=frontcover&bsq=Elwood%20Evans)
 
