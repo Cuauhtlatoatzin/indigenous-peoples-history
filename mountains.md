@@ -2,6 +2,8 @@
 
 This is a draft and will hopefully always be improved upon.
 
+If you've benefitted from this document, [please consider tipping me](https://adaburrows.com/support-me/).
+
 ## Issues with certain recorded names
 
 [Burrows, J. (2021) The Original Name for Mt. Olympus. Writing. Jillian Ada Burrows. April 7. Retreived April 10 from https://adaburrows.com/writing/2021-04-07-olympic-mountains/](https://adaburrows.com/writing/2021-04-07-olympic-mountains/)

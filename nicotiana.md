@@ -1,5 +1,7 @@
 # Nicotiana
 
+If you've benefitted from this document, [please consider tipping me](https://adaburrows.com/support-me/).
+
 The tobacco plant is a very old plant which has medicinal and sacred uses from Oceania through to the Americas. It has very interesting genetic properties and many of the plants that have been on separate continents do not mix into readily viable hybrids, though there is a combination of N. fragrans and N. tabacum which does mix. Additional research has shown that N. fragrans is part of the oldest variation of section Suaveolentes, see Marks CE, Newbigin E, Ladiges PY (2011).
 
 * Section Sylvestres

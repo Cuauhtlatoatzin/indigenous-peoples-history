@@ -4,6 +4,8 @@ This is an attempt at documenting a full chronology of the so called "Americas" 
 
 Any Wikipedia articles are placeholders until more research is done to gather primary and secondary sources.
 
+If you've benefitted from this document, [please consider tipping me](https://adaburrows.com/support-me/).
+
 ## Overview of Current Lands of Indigenous People
 
 The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually authoritative, nor does it actually necessarily represent the boundaries at any particular time in history.
@@ -30,24 +32,6 @@ Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master
 ### Sources
 
 Moved to the [genetics page under Early Modern Human Emergence From Africa](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history/blob/master/genetics.md#early-modern-human-emergence-from-africa).
-
-## Cloning and Contributing to This Repository
-
-1. Make sure you [have `git-lfs` installed](https://git-lfs.github.com/).
-
-2. Clone this repository:
-
-   ```sh
-   git clone git@github.com:Cuauhtlatoatzin/indigenous-peoples-history.git
-   ```
-
-3. Make sure you've initialized the hooks and setup for `git-lfs`:
-
-   ```sh
-   git lfs install
-   ```
-
-4. Start contributing using your favorite text editor.
 
 ## Overview of new findings
 

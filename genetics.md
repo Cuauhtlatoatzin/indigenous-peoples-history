@@ -1,5 +1,9 @@
 # Genetics
 
+If you've benefitted from this document, [please consider tipping me](https://adaburrows.com/support-me/).
+
+## Criticism
+
 Genetic studies are an area fraught with criticism. Some of these criticisms are for good reason, some from fear ([and there can be good reason behind the fear, too](https://en.wikipedia.org/wiki/Human_Genome_Diversity_Project#Potential_problems)). A proper scientific understanding of genetics is necessary to draw conclusions about the following papers. Any understanding mired in the nonsense of racism is bound to produce further nonscientific nonsense. Any studies which do not respect that ownership and copyright are not concepts recognized by indigenous peoples sovereign nations. The earth and all of creation "owns" the genetics. No one can retain ownership or copyright over genetics. Those concepts applied to genes and genetics are rendered as nonsense in many indigenous worldviews, including my own.
 
 Genetic studies provide an additional layer of information which might be missed if just looking at other measurements. For instance, there is the case of the Kennewick Man. The Kennewick Man is the skeleton of a male human from anywhere between approximately 7250 BCE &mdash; 6390 BCE in what is now known as SE Washington by the Columbia River. Initial studies measured various aspects of the man's bone structure. Based on that evidence and surrounding context, the study concluded that [NAGPRA](https://science.sciencemag.org/content/330/6001/166.1.full) did not apply and that the person was from the Aleutian Islands or even Asia. Based on a remark that measurements of the skull matched measurements of Ainu and Polynesian people, a Samoan living in California claimed that the "Ancient One" was one of the descendants of the first rulers of Polynesia. However, genetic testing confirmed that members of the Colvile Tribes where a close match to the "Ancient One". Their ancestor has since been repatriated.

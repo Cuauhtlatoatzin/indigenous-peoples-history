@@ -2,6 +2,8 @@
 
 I've found some interesting similarities between various different cultures and spiritual practices which aren't too far from each other. However, these could just be coincidences.
 
+If you've benefitted from this document, [please consider tipping me](https://adaburrows.com/support-me/).
+
 ## Mound
 
 * [Wikipedia Contributors, Mound](https://en.wikipedia.org/wiki/Mound)
