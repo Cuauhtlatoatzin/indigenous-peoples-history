@@ -2,6 +2,11 @@
 
 This is a draft and will hopefully always be improved upon.
 
+## Issues with certain recorded names
+
+[Burrows, J. (2021) The Original Name for Mt. Olympus. Writing. Jillian Ada Burrows. April 7. Retreived April 10 from https://adaburrows.com/writing/2021-04-07-olympic-mountains/](https://adaburrows.com/writing/2021-04-07-olympic-mountains/)
+  * This contains a review of the literature around the naming of Mt. Olympus and peels apart the layers of mistakes that were made in recording the names. These kinds of mistakes are common in many of the names recorded by explorers. This means a certain amount of either linguistic detective work or interaction with knowledgeable elders is necessary to arrive at the correct names.
+
 ## Mountains in the PNW
 
 ### Situate oneself
