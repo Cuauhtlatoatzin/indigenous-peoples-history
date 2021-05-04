@@ -1,6 +1,6 @@
 # Research Related to Indigenous Peoples Of The So Called Americas
 
-This is an attempt at documenting a full chronology of the so called "Americas" since the first settlement up to 250000 years ago. Below is a timeline for the entire continent not constrained to any particular modern day country -- because modern day country borders are completely artificial and lifeless. They take no account of how people live on the geography of the Earth, they were established by colonization by extractive empire which set the course for the destruction of countless ecosystems and ways of life.
+This is an attempt at documenting a full chronology of the so called "Americas" up to 500000 years ago. Below is a timeline for the entire continent not constrained to any particular modern day country -- because modern day country borders are completely artificial and lifeless. Modern borders take no account of how people live on the geography of the Earth, they were established by colonization by extractive empire which set the course for the destruction of countless ecosystems and ways of life.
 
 Any Wikipedia articles are placeholders until more research is done to gather primary and secondary sources.
 
@@ -8,7 +8,7 @@ If you've benefitted from this document, [please consider tipping me](https://ad
 
 ## Overview of Current Lands of Indigenous People
 
-The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually authoritative, nor does it actually necessarily represent the boundaries at any particular time in history.
+The [Native Land](https://native-land.ca/) web app is currently what seems to best represent the boundaries of indigenous nations. However, as it says on it's disclaimer -- it's not actually authoritative, nor does it actually necessarily represent the boundaries at any particular time in history, nor does it necessarily have all tribal lands represented.
 
 ## Authority of Indigenous Histories
 
@@ -24,29 +24,32 @@ Humans have a very messy story of migration and intermingling with other varieti
 
 * Somewhere around 400,000 - 300,000 thousand years ago modern humans appeared in the northern part of Africa and in the Middle East.
 * During the next 200,000 years modern humans migrated south through Africa and most likely interbred with our existing relatives already in the continent.
+* Humans and hominids came across from Eurasia multiple times, seemingly three times by land and one or more times by water. (Part of me wonders if there couldn't be multiple lines of hominid evolution outside of Africa that made it to North America before 150000 BCE and persisted along submerged coastal regions &mdash; this is of course crazy talk, but I do wonder.)
 * 70,000 years ago, a large group left Africa and traveled through SE Asia and Indonesia and down into Australia.
 * Many more migrations in different areas and directions occurred. These migrations likely encountered more of our genetic relatives and we likely interbred with them.
-
-Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master/README.md) repository.
+* Humans were present in the Americas since at least 30000 BCE.
+* Once the ice free corridor opened up, gene flow moved from North America back to Beringia. There are still detectable North American genetic traces in Sakha (Yakut).
+* There are traces of Australasian ancestry in South America up through Mexico that date back to about 10,000 years ago.
+* Around 500-800 CE, Native Americans from Ecuador traveled with Polynesians back to Rapa Nui. There is genetic evidence of this, plus this is likely when Polynesia got the sweet potato and why it uses the same word for sweet potato as the Indigenous peoples of Ecuador. It's entirely possible that this happened before or that people also moved and traded between the west coast of the Americas for thousands of years before colonization.
 
 ### Sources
 
-Moved to the [genetics page under Early Modern Human Emergence From Africa](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history/blob/master/genetics.md#early-modern-human-emergence-from-africa).
+Moved to the [Genetics](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history/blob/master/genetics.md) page.
 
-## Overview of new findings
+Also see the [Languages](https://github.com/Cuauhtlatoatzin/language/blob/master/README.md) repository.
 
-[Genetic](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history/blob/master/genetics.md#early-modern-human-emergence-from-africa) studies show some very interesting finds. Here's a summary from that page and this page:
+## Overview of Migration Theories
 
-* Humans and hominids came across from Eurasia multiple times, seemingly three times by land and one or more times by water. (Part of me wonders if there couldn't be multiple lines of hominid evolution outside of Africa that made it to North America before 150000 BCE and persisted along submerged coastal regions &mdash; this is of course crazy talk, but I do wonder.)
-* Humans were present in the Americas since at least 30000 BCE.
-* Once the ice free corridor opened up, gene flow moved from North America back to Beringia. There are still detectable North American genetic traces in Sakha (Yakut).
-* Native Americans from Ecuador traveled with Polynesians back to Rapa Nui. It's entirely possible that this happened before or that people also moved and traded between the west coast of the Americas for thousands of years before colonization.
+Bear in mind, these are just theories and every Indigenous culture will have their own beliefs and knowledge of their origin. Many of these theories tend to only allow about 13K years of history, which contradicts native stories and physical evidence that is "pre-clovis". The actual picture is likely much more detailed and complicated than any scientist will be able to fathom on their own.
 
-### Papers & Articles
+In addition to this list, there's the [Earth Science, Megafuana, Horses, Population Growth, & Economics](earth_science.md) page which can provide helpful context.
 
 * [Becerra-Valdivia, L., & Higham, T. (2020). The timing and effect of the earliest human arrivals in North America. Nature, 1-5.](https://doi.org/10.1038/s41586-020-2491-6) &mdash; [PDF](https://www.researchgate.net/publication/343144741_The_timing_and_effect_of_the_earliest_human_arrivals_in_North_America)
 * [McLaren, D., Fedje, D., Mackie, Q., Davis, L. G., Erlandson, J., Gauvreau, A., & Vogelaar, C. (2020). Late Pleistocene Archaeological Discovery Models on the Pacific Coast of North America. PaleoAmerica, 6(1), 43-63.](https://doi.org/10.1080/20555563.2019.1670512) &mdash; [PDF](https://www.researchgate.net/profile/Quentin_Mackie/publication/337034728_Late_Pleistocene_Archaeological_Discovery_Models_on_the_Pacific_Coast_of_North_America/links/5dc79bb8299bf1a47b27545a/Late-Pleistocene-Archaeological-Discovery-Models-on-the-Pacific-Coast-of-North-America.pdf)
   * Contains bits of methodology useful in reconstructing local sea level histories along coasts.
+  * `Much of Haida Gwaii was ice-free by 18,000 calendar years ago (cal yr BP) (Lacourse et al. 2005; Ramsey et al. 2004; Shaw et al. 2019) and there are indications of a full glacial biotic refugium on the now-drowned Hecate Plain immediately east of the archipelago (Mathewes and Clague 2017). The shoreline history of the archipelago is complex. Earliest post-glacial (ca. 18,000–15,000 cal yr BP) relative sea level histories are poorly constrained. Well-constrained sea level histories extend from ca. 14,500 cal yr BP to the present. Shorelines dating to 14,500 cal yr BP are 150 m below modern level. Subsequently, relative sea level rose rapidly, passing modern level at 10,700 cal yr BP and reaching 15 m above modern level by 10,000 cal yr BP (Fedje 1993; Fedje et al. 2005a). Paleoshorelines dating to the early Holocene (10,000–6000 cal yr BP) stabilized 15 m above modern level, when local tectonic uplift was balanced by eustatic sea level rise. Relative sea level then fell to modern level during the late Holocene due to ongoing tectonic uplift.`
+  * `In recent years, an increasing number of archaeological components that predate 14,000 cal yr BP have been investigated from interior regions in the Americas (Dillehay et al. 2015; Jenkins et al. 2012; Waters et al. 2018; Waters, Forman, et al. 2011; Williams et al. 2018). These sites are older than most of the earliest sites found along the Pacific margin of North America (Table 1) and appear to be variable in their lithic assemblages, projectile point types, and resource use strategies (Williams and Madsen 2019). In North America, as described here, evidence for late Pleistocene Pacific coastal occupation appears by at least ca. 14,000–13,700 cal yr BP, with a possible earlier component at Daisy Cave (18,810–18,530 cal yr BP). However, radiocarbon dated late Pleistocene sites are relatively few and far between until ∼12,500 cal yr BP (Table 1). If Pacific coastal archaeologists working in North America are going to help address questions regarding the earliest human populations in the Americas, we need to start targeting pre-14,000-year-old shorelines wherever they are found, above or below the sea.`
+  * `There is more evidence of early Pacific coast archaeology sites from South America. The clearest indication of a coastal affiliation in the pre-Clovis time period comes from radiocarbon dates on nine species of seaweed found at the Monte Verde wet site, in Chile, with calibrated ages between ∼14,220 and 13,980 cal yr BP (Davis et al. 2019; Dillehay et al. 2008). Huaca Prieta, in Peru, has a long-term sequence of occupation with earliest evidence dating to ∼15,000 cal yr BP (Dillehay 2017). Also, from the Monte Verde sites, ephemeral occupations are reported between 18,500 and 14,500 cal yr BP (Dillehay et al. 2015). In this context, the 18,800–18,500 cal yr BP component from Daisy Cave (Erlandson et al. 1996) may not be out of order. Clearly, however, better quality evidence is needed to make the case for a pre16,000 cal yr BP human presence in the Americas.`
 * [Prufer KM, Alsgaard AV, Robinson M, Meredith CR, Culleton BJ, Dennehy T, et al. (2019) Linking late Paleoindian stone tool technologies and populations in North, Central and South America. PLoS ONE 14(7): e0219812.](https://doi.org/10.1371/journal.pone.0219812)
   * `We document a late Pleistocene/early Holocene stone tool tradition from Belize, located in southern Mesoamerica. This represents the first endogenous Paleoindian stone tool technocomplex recovered from well dated stratigraphic contexts for Mesoamerica. Previously designated Lowe, these artifacts share multiple features with contemporary North and South American Paleoindian tool types. Once hafted, these bifaces appear to have served multiple functions for cutting, hooking, thrusting, or throwing. The tools were developed at a time of technological regionalization reflecting the diverse demands of a period of pronounced environmental change and population movement. Combined stratigraphic, technological, and population paleogenetic data suggests that there were strong ties between lowland neotropic regions at the onset of the Holocene.`
 * [Smith H, Goebel T (2018) Origins and spread of fluted-point technology in the Canadian Ice-Free Corridor and eastern Beringia. Proceedings of the National Academy of Sciences. 115(16): 4116-4121. DOI: 10.1073/pnas.1800312115](https://doi.org/10.1073/pnas.1800312115)
@@ -59,6 +62,7 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
 * [Potter BA, Baichtal JF, Beaudoin AB, Fehren-Schmitz L, Haynes CV, Holliday VT, Holmes CE, Ives JW, Kelly RL, Llamas B, Malhi RS, Miller DS, Reich D, Reuther JS, Schiffels S, Surovell TA (2018) Current evidence allows multiple models for the peopling of the Americas. Science Advances. 4(8), eaat5473 DOI: 10.1126/sciadv.aat5473](https://advances.sciencemag.org/content/4/8/eaat5473.full)
 * [Faught MK (2017) Where was the PaleoAmerind standstill? Quaternary International. 444 B: 10-18.](https://doi.org/10.1016/j.quaint.2017.04.038) &mdash; [PDF](https://www.researchgate.net/publication/317720922_Where_was_the_PaleoAmerind_standstill)
 * [Morlan RE (2017) Current perspectives on the Pleistocene archaeology of eastern Beringia. Quarternary Research. 60(1): 123-132.](https://doi.org/10.1016/S0033-5894(03)00070-X)
+* [Heintzman PD (2016) Bison phylogeography constrains dispersal and viability of the Ice Free Corridor in western Canada. PNAS. 113(29): 8057-8063.](https://www.pnas.org/content/113/29/8057)
 * [Langlois K, Heather Pringle. A Sunken Bridge the Size of a Continent. Hakai. 20 Sep. 2016](https://www.hakaimagazine.com/features/sunken-bridge-size-continent/?xid=PS_smithsonian)
 * [Than K (2014) On Way to New World, First Americans Made a 10,000-Year Pit Stop. National Geographic. 27 Feb.](https://news.nationalgeographic.com/news/2014/04/140227-native-americans-beringia-bering-strait-pit-stop/)
 * [Archeology Page w/ Overview (2014)](https://www.archaeology.org/issues/145-1409/features/2366-peopling-the-americas-preclovis)
@@ -77,174 +81,7 @@ Moved to the [genetics page under Early Modern Human Emergence From Africa](http
   * `The similarity of the sequence divergences of the Amerind clusters A, C, and D suggest that those were the founding linages of the Paleoindians. Using the weighted mean value of 0.084%, the Amerind mtDNA lineages are estimated to have begun radiating between 21,000 - 42,000 YBP. If most of this radiation occurred after entry into the Americas, this time range would suggest that the Americas were colonized before the dates associated with the oldest Paleoindian skeletal remains (14,00 YBP) and Clovis lithic artifacts (11,500 YBP), and would be consistent with the estimated ages of the oldest American archeological sites.`
 * [Bonnichsen, R. (1979). Pleistocene bone technology in the Beringian Refugium. University of Ottawa Press.](https://press.uottawa.ca/pleistocene-bone-technology-in-the-beringian-refugium-pdf.html)
 * [Fladmark KR (1979) Routes: Alternate Migration Corridors for Early Man in North America. American Antiquity. 44(1): 55-69.](https://doi.org/10.2307/279189) &mdash; [JSTOR](https://www.jstor.org/stable/279189?read-now=1&refreqid=excelsior%3Abcbb65353a76778de6decc3781de16e0&seq=8#page_scan_tab_contents)
-* **Related Papers**
-  * [Llamas B (2016) Ancient mitochondrial DNA provides high-resolution time scale of the peopling of the Americas. Science Advances. 2(4).](https://advances.sciencemag.org/content/2/4/e1501385)
-  * [Goebel T, Waters MR, O'Rourke DH (2008) The Late Pleistocene Dispersal of Modern Humans in the Americas. Science. 319(5869): 1497-1502.](https://science.sciencemag.org/content/319/5869/1497)
-  * [Heintzman PD (2016) Bison phylogeography constrains dispersal and viability of the Ice Free Corridor in western Canada. PNAS. 113(29): 8057-8063.](https://www.pnas.org/content/113/29/8057)
 
-## Glaciers and Climate Change
-
-* [Lapointe, F., Bradley, R. S., Francus, P., Balascio, N. L., Abbott, M. B., Stoner, J. S., ... & Labarre, T. (2020). Annually resolved Atlantic sea surface temperature variability over the past 2,900 y. Proceedings of the National Academy of Sciences.](https://doi.org/10.1073/pnas.2014166117)
-* [Raia, P., Mondanaro, A., Melchionna, M., Di Febbraro, M., Diniz-Filho, J. A., Rangel, T. F., ... & Profico, A. (2020). Past Extinctions of Homo Species Coincided with Increased Vulnerability to Climatic Change. One Earth.](https://doi.org/10.1016/j.oneear.2020.09.007)
-* [Berner, L. T., Massey, R., Jantz, P., Forbes, B. C., Macias-Fauria, M., Myers-Smith, I., ... & Burns, P. (2020). Summer warming explains widespread but not uniform greening in the Arctic tundra biome. Nature Communications, 11(1), 1-12.](https://doi.org/10.1038/s41467-020-18479-5)
-* [Dal Corso, J., Bernardi, M., Sun, Y., Song, H., Seyfullah, L. J., Preto, N., ... & Merico, A. (2020). Extinction and dawn of the modern world in the Carnian (Late Triassic). Science Advances, 6(38), eaba0099.](https://doi.org/10.1126/sciadv.aba0099)
-* [Martínez, C., Jaramillo, C., Correa-Metrío, A., Crepet, W., Moreno, J. E., Aliaga, A., ... & Bush, M. B. (2020). Neogene precipitation, vegetation, and elevation history of the Central Andean Plateau. Science Advances, 6(35), eaaz4724.](https://doi.org/10.1126/sciadv.aaz4724)
-* [Watson, A. J., Schuster, U., Shutler, J. D., Holding, T., Ashton, I. G., Landschützer, P., ... & Goddijn-Murphy, L. (2020). Revised estimates of ocean-atmosphere CO 2 flux are consistent with ocean carbon inventory. Nature Communications, 11(1), 1-6.](https://doi.org/10.1038/s41467-020-18203-3)
-  * [Bakker, D. C. E., Pfeil, B. Landa, C. S., Metzl, N., O’Brien, K. M., Olsen, A., Smith, K., Cosca, C., Harasawa, S., Jones, S. D., Nakaoka, S., Nojiri, Y., Schuster, U., Steinhoff, T., Sweeney, C., Takahashi, T., Tilbrook, B., Wada, C., Wanninkhof, R., Alin, S. R., Balestrini, C. F., Barbero, L., Bates, N. R., Bianchi, A. A., Bonou, F., Boutin, J., Bozec, Y., Burger, E. F., Cai, W.-J., Castle, R. D., Chen, L., Chierici, M., Currie, K., Evans, W., Featherstone, C., Feely, R. A., Fransson, A., Goyet, C., Greenwood, N., Gregor, L., Hankin, S., Hardman-Mountford, N. J., Harlay, J., Hauck, J., Hoppema, M., Humphreys, M. P., Hunt, C. W., Huss, B., Ibánhez, J. S. P., Johannessen, T., Keeling, R., Kitidis, V., Körtzinger, A., Kozyr, A., Krasakopoulou, E., Kuwata, A., Landschützer, P., Lauvset, S. K., Lefèvre, N., Lo Monaco, C., Manke, A., Mathis, J. T., Merlivat, L., Millero, F. J., Monteiro, P. M. S., Munro, D. R., Murata, A., Newberger, T., Omar, A. M., Ono, T., Paterson, K., Pearce, D., Pierrot, D., Robbins, L. L., Saito, S., Salisbury, J., Schlitzer, R., Schneider, B., Schweitzer, R., Sieger, R., Skjelvan, I., Sullivan, K. F., Sutherland, S. C., Sutton, A. J., Tadokoro, K., Telszewski, M., Tuma, M., Van Heuven, S. M. A. C., Vandemark, D., Ward, B., Watson, A. J., Xu, S. (2016) A multi-decade record of high quality fCO₂ data in version 3 of the Surface Ocean CO₂ Atlas (SOCAT). Earth Syst. Sci. Data, 8, 383-413, doi:10.5194/essd-8-383-2016.](https://doi.org/10.5194/essd-8-383-2016)
-  * [SOCAT](https://www.socat.info/)
-* [Griffiths, M. L., Johnson, K. R., Pausata, F. S., White, J. C., Henderson, G. M., Wood, C. T., ... & Sekhon, N. (2020). End of Green Sahara amplified mid-to late Holocene megadroughts in mainland Southeast Asia. Nature Communications, 11(1), 1-12.](https://doi.org/10.1038/s41467-020-17927-6)
-* [Lodolo E, Galassi G, Spada G, Zecchin M, Civile D, Bressoux M (2020) Post-LGM coastline evolution of the NW Sicilian Channel: Comparing high-resolution geophysical data with Glacial Isostatic Adjustment modeling. PLoS ONE 15(2): e0228087.](https://doi.org/10.1371/journal.pone.0228087)
-* [Malik, N. (2020). Uncovering transitions in paleoclimate time series and the climate driven demise of an ancient civilization. Chaos: An Interdisciplinary Journal of Nonlinear Science, 30(8), 083108.](http://dx.doi.org/10.1063/5.0012059)
-* [Judd, E. J., Bhattacharya, T., & Ivany, L. C. (2020). A dynamical framework for interpreting ancient sea surface temperatures. Geophysical Research Letters, e2020GL089044.](https://doi.org/10.1029/2020GL089044)
-* [Oster, J. L., Weisman, I. E., & Sharp, W. D. (2020). Multi-proxy stalagmite records from northern California reveal dynamic patterns of regional hydroclimate over the last glacial cycle. Quaternary Science Reviews, 241, 106411.](https://doi.org/10.1016/j.quascirev.2020.106411)
-* [Ghil, M., & Lucarini, V. (2020). The physics of climate variability and climate change. Reviews of Modern Physics, 92(3), 035002.](https://doi.org/10.1103/RevModPhys.92.035002)
-* [Bird, M. I., Condie, S. A., O’Connor, S., O’Grady, D., Reepmeyer, C., Ulm, S., … Bradshaw, C. J. A. (2019). Early human settlement of Sahul was not an accident. Scientific Reports, 9(1).](https://doi.org/10.1038/s41598-019-42946-9)
-* [Peito M (2019) Exceptionally High 2018 Equilibrium Line Altitude on Taku Glacier, Alaska. Remote Sensing. 11(20): 2378.](https://doi.org/10.3390/rs11202378)
-* [Zhu J, Poulsen CJ, Tierney JE (2019) Simulation of Eocene extreme warmth and high climate sensitivity through cloud feedbacks. Science Advances. 5(9): eaa1874. DOI: 10.1126/sciadv.aax1874](https://advances.sciencemag.org/content/5/9/eaax1874)
-* [Kleinen T, Milolajewicz U, Brovkin V (2019) Terrestrial methane emissions from Last Glacial Maximum to preindustrial. Clim. Past Discuss. https://doi.org/10.5194/cp-2019-109, in review](https://doi.org/10.5194/cp-2019-109)
-* [Morée A, Schwinger J (2019) A Last Glacial Maximum forcing dataset for ocean modelling. Earth Syst. Sci. Data Discuss. https://doi.org/10.5194/essd-2019-79, in review](https://doi.org/10.5194/essd-2019-79)
-* [Willeit M, Ganapolsky A, Calov R, Brovkin V (2019) Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal. Science Advances. 5(4): eaav7337. DOI: 10.1126/sciadv.aav7337](https://advances.sciencemag.org/content/5/4/eaav7337)
-* [Ganopolski A, Brovkin V (2017) Simulation of climate, ice sheets and CO2 evolution during the last four glacial cycles with an Earth system model of intermediate complexity. Climate of the Past. 13: 1695–1716.](https://doi.org/10.5194/cp-13-1695-2017)
-* [Menounos B, Goehring BM, Osborn G, Margold M, Ward B, Bond J, Clarke GKC, Clague JJ, Lakeman T, Koch J, Caffee MW, Gosse J, Stroeven AP, Seguinot J, Heyman J (2017) Cordilleran Ice Sheet mass loss preceded climate reversals near the Pleistocene Termination. Science. 358(6364): 781-784.](https://doi.org/10.1126/science.aan3001)
-* [Petrie, C. A., Singh, R. N., Bates, J., Dixit, Y., French, C. A., Hodell, D. A., ... & Pandey, A. K. (2017). Adaptation to variable environments, resilience to climate change: Investigating land, water and settlement in Indus Northwest India. Current Anthropology, 58(1).](https://doi.org/10.1086/690112)
-* [Ganopolski A, Winkelmann R, Schellnhuber HJ. (2016) Critical insolation–CO2 relation for diagnosing past and future glacial inception. Nature. 529: 200-203.](https://www.nature.com/articles/nature16494)
-* [Schmid, B. V., Büntgen, U., Easterday, W. R., Ginzler, C., Walløe, L., Bramanti, B., & Stenseth, N. C. (2015). Climate-driven introduction of the Black Death and successive plague reintroductions into Europe. Proceedings of the National Academy of Sciences, 112(10), 3020-3025.](https://doi.org/10.1073/pnas.1412887112)
-* [Lawler, A. (2014). In search of Green Arabia. Science, 345(6200), 994-997.](https://doi.org/10.1126/science.345.6200.994)
-* [Swisher ME, Jenkins DL, Jackson Jr. LE, Phillips FM (2013) A Reassessment of the Role of the Canadian Ice-free Corridor in Light of New Geological Evidence. Current Archaeological Happenings in Oregon. 38(4): 9-14.](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence) &mdash; Good conceptualizations of the range of the glacial ice sheets.
-* [Robinson A, Calov A, Ganopolski A (2012) Multistability and critical thresholds of the Greenland ice sheet. Nature Climate Change. (2): 429–432.](https://doi.org/10.1038/nclimate1449) &mdash; [PDF](https://www.researchgate.net/publication/230662041_Multistability_and_critical_thresholds_of_the_Greenland_Ice_Sheet)
-
-## Drainage of Glaciers to Ocean
-
-* [Cornelius, S. (2018). Volume Fractions of Lithologic units deposited per geologic epoch in the Cenozoic, Keathley Canyon and Walker Ridge, Deepwater Gulf of Mexico: Part 1--Sand, Shale, and Siltstone. GCAGS Journal.](https://www.academia.edu/38053365/Volume_Fractions_of_Lithologic_units_deposited_per_geologic_epoch_in_the_Cenozoic_Keathley_Canyon_and_Walker_Ridge_Deepwater_Gulf_of_Mexico_Part_1--Sand_Shale_and_Siltstone)
-* [Fildani A, Hessler AM, Mason CC, McKay MP, Stockli DF (2018) Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. (8) 13839.](https://doi.org/10.1038/s41598-018-32268-7)
-* [Allen PA (2008) From landscapes into geological history. Nature. (451): 274–276.](https://doi.org/10.1038/nature06586)
-
-## Sea Levels
-
-* [McLaren, D., Fedje, D., Mackie, Q., Davis, L. G., Erlandson, J., Gauvreau, A., & Vogelaar, C. (2020). Late Pleistocene Archaeological Discovery Models on the Pacific Coast of North America. PaleoAmerica, 6(1), 43-63.](https://doi.org/10.1080/20555563.2019.1670512) &mdash; [PDF](https://www.researchgate.net/profile/Quentin_Mackie/publication/337034728_Late_Pleistocene_Archaeological_Discovery_Models_on_the_Pacific_Coast_of_North_America/links/5dc79bb8299bf1a47b27545a/Late-Pleistocene-Archaeological-Discovery-Models-on-the-Pacific-Coast-of-North-America.pdf)
-  * Contains bits of methodology useful in reconstructing local sea level histories along coasts.
-* [Dobson, J. E., Spada, G., & Galassi, G. (2020). Global Choke Points May Link Sea Level and Human Settlement at the Last Glacial Maximum. Geographical Review.](https://doi.org/10.1080/00167428.2020.1728195) &mdash; [PDF](https://www.researchgate.net/publication/339396051_Global_Choke_Points_May_Link_Sea_Level_and_Human_Settlement_at_the_Last_Glacial_Maximum)
-* [Rohling EJ, et al. (2019) Asynchronous Antarctic and Greenland ice-volume contributions to the last interglacial sea-level highstand. Nature Communications. 10: 5040.](https://www.nature.com/articles/s41467-019-12874-3)
-* [Lambeck K, Rouby H, Purcell A, Sun Y, Sambridge M (2014) Sea level and global ice volumes from the Last Glacial Maximum to the Holocene. PNAS. 111(43): 15296-15303.](https://doi.org/10.1073/pnas.1411762111)
-* [Kemp AC, Horton BP, Donnelly JP, Mann ME, Vermeer M, Rahmstorf S (2011) Climate related sea-level variations over the past two millennia. PNAS. 108(27) 11017-11022.](https://doi.org/10.1073/pnas.1015619108)
-* [Stanford JD, Hemingway R, Rohling EJ, Challenor PG, Medina-Elizalde M, Lester AJ (2011) Sea-level probability for the last deglaciation: A statistical analysis of far-field records. Global and Planetary Change. 79(3-4): 193-203.](https://doi.org/10.1016/j.gloplacha.2010.11.002) &mdash; [PDF](https://www.academia.edu/11010295/Sea-level_probability_for_the_last_deglaciation_A_statistical_analysis_of_far-field_records)
-* [Miller KG et al. (2011) A 180-Million-Year Record of Sea Level and Ice Volume Variations from Continental Margin and Deep-Sea Isotopic Records. Oceanography. 24(2): 40-53.](https://www.jstor.org/stable/24861267?read-now=1&seq=5#page_scan_tab_contents)
-* [Clark PU et al. (2009) The Last Glacial Maximum. Science. 325(5941): 710-714.](https://science.sciencemag.org/content/325/5941/710.full)
-* [Miller KG et al. (2005) The Phanerozoic Record of Global Sea-Level Change. Science. 310(5752): 1293-1298](https://science.sciencemag.org/content/310/5752/1293.long)
-* [Kominz MA (2001) "Sea Level Variations Over Geologic Time." Encyclopedia of Ocean Sciences. Academic Press. 2605-2613.](http://dx.doi.org/10.1006/rwos.2001.0255) &mdash; [PDF](http://www.curry.eas.gatech.edu/Courses/6140/ency/Chapter10/Ency_Oceans/Sea_Level_Variations.pdf)
-
-## Radiative Imbalance
-  * [Baggenstos D et al. (2019) Earth’s radiative imbalance from the Last Glacial Maximum to the present. PNAS. 116(30) 14881-14886.](https://doi.org/10.1073/pnas.1905447116)
-
-## Extraterrestial Impacts
-  * [Hergerten S, Kenkmann T (2015) The number of impact craters on Earth: Any room for further discoveries? Earth and Planetary Science Letters. 425: 187-192](https://doi.org/10.1016/j.epsl.2015.06.009)
-
-## Supercontinents and Tectonic Plates
-
-* [Nishiyama, T., Ohfuji, H., Fukuba, K., Terauchi, M., Nishi, U., Harada, K., ... & Mori, Y. (2020). Microdiamond in a low-grade metapelite from a Cretaceous subduction complex, western Kyushu, Japan. Scientific reports, 10(1), 1-11.](https://doi.org/10.1038/s41598-020-68599-7)
-* [Murphy JB, Nance RD (2013) Speculations on the mechanisms for the formation and breakup of supercontinents. Geoscience Frontiers. 4(2): 185-194.](https://doi.org/10.1016/j.gsf.2012.07.005)
-
-## Ållerød–Younger Dryas boundary (11000 BCE - 10900 BCE)
-
-* [Carlson A.E. (2013) The Younger Dryas Climate Event. In: Elias S.A. (ed.) The Encyclopedia of Quaternary Science, vol. 3, pp. 126-134. Amsterdam: Elsevier.](http://people.oregonstate.edu/~carlsand/carlson_encyclopedia_Quat_2013_YD.pdf)
-* [Fiedel, S. (1999). Older Than We Thought: Implications of Corrected Dates for Paleoindians. American Antiquity, 64(1), 95-115. doi:10.2307/2694348](https://www.jstor.org/stable/2694348?read-now=1&seq=1#page_scan_tab_contents)
-* [J. R. Marlon, P. J. Bartlein, M. K. Walsh, S. P. Harrison, K. J. Brown, M. E. Edwards, P. E. Higuera, M. J. Power, R. S. Anderson, C. Briles, A. Brunelle, C. Carcaillet, M. Daniels, F. S. Hu, M. Lavoie, C. Long, T. Minckley, P. J. H. Richard, A. C. Scott, D. S. Shafer,r W. Tinner, C. E. Umbanhowar, Jr, and C. Whitlock. Wildfire responses to abrupt climate change in North America. Proceedings of the National Academy of Sciences of the USA. 24 February. 2009. 106(8): 2519-2524.](https://dx.doi.org/10.1073%2Fpnas.0808212106)
-* [D.J. Kennett, J.P. Kennett, G.J. West, J.M. Erlandson, J.R. Johnson, I.L. Hendy, A. West, B.J. Culleton, T.L. Jones, Thomas W. Stafford,Jr. Wildfire and abrupt ecosystem disruption on California’s Northern Channel Islands at the Ållerød–Younger Dryas boundary (13.0–12.9 ka). Quat. Sci. Rev. 27, 2530 (2008). doi:10.1016/j.quascirev.2008.09.006](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1025&context=ssci_fac)
-* **Younger Dryas Impact Hypothesis or Volcano**
-  * [Sun, N., Brandon, A. D., Forman, S. L., Waters, M. R., & Befus, K. S. (2020). Volcanic origin for Younger Dryas geochemical anomalies ca. 12,900 cal BP. Science Advances, 6(31), eaax8587.](https://doi,org/10.1126/sciadv.aax8587)
-    * `In Hall’s Cave, layers below, above, and in the YD have 187Os/188Os ratios consistent with incorporation of extraterrestrial or mantle-derived material. The HSE abundances indicate that these layers contain volcanic gas aerosols and not extraterrestrial materials. The most likely explanation is that episodic, distant volcanic emissions were deposited in Hall’s Cave sediments. Coupled 187Os/188Os ratios and HSE concentration data at close stratigraphic intervals are required to effectively differentiate between bolide and volcanic origins.`
-  * [Sonia Fernandez. Earth-changing asteroid impact theory gets new evidence. Futurity. 20 March. 2019.](https://www.futurity.org/younger-dryas-impact-hypothesis-evidence-2013702/)
-  * [Mario Pino, Ana M. Abarzúa, Giselle Astorga, Alejandra Martel-Cea, Nathalie Cossio-Montecinos, R. Ximena Navarro, Maria Paz Lira, Rafael Labarca, Malcolm A. LeCompte, Victor Adedeji, Christopher R. Moore, Ted E. Bunch, Charles Mooney, Wendy S. Wolbach, Allen West, and James P. Kennett. Sedimentary record from Patagonia, southern Chile supports cosmic-impact triggering of biomass burning, climate change, and megafaunal extinctions at 12.8 ka. Scientific Reports. 13 March. 2019. 9: 4413.](https://dx.doi.org/10.1038%2Fs41598-018-38089-y)
-  * [Wendy S. Wolbach, Joanne P. Ballard, Paul A. Mayewski, Victor Adedeji, Ted E. Bunch, Richard B. Firestone, Timothy A. French, George A. Howard, Isabel Israde-Alcántara, John R. Johnson, David Kimbel, Charles R. Kinzie, Andrei Kurbatov, Gunther Kletetschka, Malcolm A. LeCompte, William C. Mahaney, Adrian L. Melott, Abigail Maiorana-Boutilier, Siddhartha Mitra, Christopher R. Moore, William M. Napier, Jennifer Parlier, Kenneth B. Tankersley, Brian C. Thomas, James H. Wittke, Allen West, and James P. Kennett. Extraordinary Biomass-Burning Episode and Impact Winter Triggered by the Younger Dryas Cosmic Impact ∼12,800 Years Ago. 1. Ice Cores and Glaciers. March. 2018. 126(2)](https://www.journals.uchicago.edu/doi/10.1086/695703) &mdash; [PDF](https://cosmictusk.com/wp-content/uploads/Wolbach-2018-Fire-Part-1-MS.pdf)
-  * [Paul Voosen. Ice age impact. Science. 16 November. 2018. 362(6416): 738-742.](https://science.sciencemag.org/content/362/6416/738)
-  * [Paul Voosen. Massive crater under Greenland’s ice points to climate-altering impact in the time of humans. Science News. 14 November. 2018.](https://www.sciencemag.org/news/2018/11/massive-crater-under-greenland-s-ice-points-climate-altering-impact-time-humans)
-  * [Kurt H. Kjær, Nicolaj K. Larsen, Tobias Binder, Anders A. Bjørk, Olaf Eisen, Mark A. Fahnestock, Svend Funder, Adam A. Garde, Henning Haack, Veit Helm, Michael Houmark-Nielsen, Kristian K. Kjeldsen, Shfaqat A. Khan, Horst Machguth, Iain McDonald, Mathieu Morlighem, Jérémie Mouginot, John D. Paden, Tod E. Waight, Christian Weikusat, Eske Willerslev, and Joseph A. MacGregor. A large impact crater beneath Hiawatha Glacier in northwest Greenland. Science Advances. 2 November. 2018. 4(11)](https://advances.sciencemag.org/content/4/11/eaar8173)
-  * [Wendy S. Wolbach, Joanne P. Ballard, Paul A. Mayewski, Victor Adedeji, Ted E. Bunch, Richard B. Firestone, Timothy A. French, George A. Howard, Isabel Israde-Alcántara, John R. Johnson, David Kimbel, Charles R. Kinzie, Andrei Kurbatov, Gunther Kletetschka, Malcolm A. LeCompte, William C. Mahaney, Adrian L. Melott, Abigail Maiorana-Boutilier, Siddhartha Mitra, Christopher R. Moore, William M. Napier, Jennifer Parlier, Kenneth B. Tankersley, Brian C. Thomas, James H. Wittke, Allen West, and James P. Kennett. Extraordinary Biomass-Burning Episode and Impact Winter Triggered by the Younger Dryas Cosmic Impact ∼12,800 Years Ago. 2. Lake, Marine, and Terrestrial Sediments March. 2018. 126(2)](https://www.journals.uchicago.edu/doi/10.1086/695703) &mdash; [PDF](https://cosmictusk.com/wp-content/uploads/Wolbach-2018-Fire-Part-2-MS.pdf)
-  * [Christopher R. Moore, Allen West, Malcolm A. LeCompte, Mark J. Brooks, I. Randolph Daniel, Jr., Albert C. Goodyear, Terry A. Ferguson, Andrew H. Ivester, James K. Feathers, James P. Kennett, Kenneth B. Tankersley, A. Victor Adedeji, and Ted E. Bunch. Widespread platinum anomaly documented at the Younger Dryas onset in North American sedimentary sequences. Scientific Reports. 9 March. 2017. 7: 44031.](https://dx.doi.org/10.1038%2Fsrep44031)
-  * [Péter Németh, Laurence A. J. Garvie, and Peter R. Buseck. Twinning of cubic diamond explains reported nanodiamond polymorphs. Scientific Reports. 2015. 5: 18381.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4680963/)
-  * [James P. Kennett, Douglas J. Kennett, Brendan J. Culleton, J. Emili Aura Tortosa, James L. Bischoff, Ted E. Bunch, I. Randolph Daniel, Jr., Jon M. Erlandson, David Ferraro, Richard B. Firestone, Albert C. Goodyear, Isabel Israde-Alcántara, John R. Johnson, Jesús F. Jordá Pardo, David R. Kimbel, Malcolm A. LeCompte, Neal H. Lopinot, William C. Mahaney, Andrew M. T. Moore, Christopher R. Moore, Jack H. Ray, Thomas W. Stafford, Jr., Kenneth Barnett Tankersley, James H. Wittke, Wendy S. Wolbach, and Allen West. Bayesian chronological analyses consistent with synchronous age of 12,835–12,735 Cal B.P. for Younger Dryas boundary on four continents. PNAS. 11 August. 2015. 112(32): E4344–E4353.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538614/)
-  * [David J. Meltzer, Vance T. Holliday, Michael D. Cannon, and D. Shane Miller. Chronological evidence fails to support claim of an isochronous widespread layer of cosmic impact indicators dated to 12,800 years ago. PNAS. 27 May. 2014. 111(21): E2162–E2171](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4040610/)
-  * [Mark Boslough. Greenland Pt anomaly may point to noncataclysmic Cape York meteorite entry. Proceedings of the National Academy of Sciences of the United States of America. 24 December. 2013. 110(52): E5035.](https://dx.doi.org/10.1073%2Fpnas.1320328111)
-  * [Mark Boslough, Alan W. Harris, Clark Chapman, and David Morrison. Younger Dryas impact model confuses comet facts, defies airburst physics. PNAS. 5 November. 2013. 110(45) E4170.](https://doi.org/10.1073/pnas.1313495110)
-  * [Michail I. Petaev, Shichun Huang, Stein B. Jacobsen, and Alan Zindler. Large Pt anomaly in the Greenland ice core points to a cataclysm at the onset of Younger Dryas. PNAS 6 August. 2013. 110(32): 12917–12920.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3740870/)
-  * [Wu Y, Sharma M, LeCompte MA, Demitroff MN, Landis JD. Origin and provenance of spherules and magnetic grains at the Younger Dryas boundary. PNAS. 17 September. 2013. 110(38):E3557-66. doi: 10.1073/pnas.1304059110.](https://www.ncbi.nlm.nih.gov/pubmed/24009337)
-  * [Mark Hardiman, Andrew C. Scott, Margaret E. Collinson, and R. Scott Anderson. Inconsistent redefining of the carbon spherule “impact” proxy. PNAS. 21 August. 2012. 109(34): E2244.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427080/)
-  * [Jacquelyn L. Gill, Jessica L. Blois, Simon Goring, Jennifer R. Marlon, Patrick J. Bartlein, Kathleen Nicoll, Andrew C. Scott, and Cathy Whitlock. Paleoecological changes at Lake Cuitzeo were not consistent with an extraterrestrial impact. PNAS. 21 August. 2012. 109(34): E2243.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427112/)
-  * [Tyrone L. Daulton. Suspect cubic diamond “impact” proxy and a suspect lonsdaleite identification. PNAS. 21 August. 2012. 109(34): E2242.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427052/)
-  * [Mark Boslough. Inconsistent impact hypotheses for the Younger Dryas. PNAS. 21 August. 2012. 109(34): E2241.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427067/)
-  * [Maarten Blaauw, Vance T. Holliday, Jacquelyn L. Gill, and Kathleen Nicoll. Age models and the Younger Dryas Impact Hypothesis. PNAS. 21 August. 2012. 109(34): E2240.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427088/)
-  * [Ted E. Bunch, Robert E. Hermes, Andrew M.T. Moore, Douglas J. Kennett, James C. Weaver, James H. Wittke, Paul S. DeCarli, James L. Bischoff, Gordon C. Hillman, George A. Howard, David R. Kimbel, Gunther Kletetschka, Carl P. Lipo, Sachiko Sakai, Zsolt Revay, Allen West, Richard B. Firestone, and James P. Kennett. Very high-temperature impact melt products as evidence for cosmic airbursts and impacts 12,900 years ago. PNAS. 10 July. 2012. 109(28): E1903-E1912.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396500/)
-  * [Annelies van Hoesel, Wim Z. Hoek, Freek Braadbaart, Johannes van der Plicht, Gillian M. Pennock, and Martyn R. Drury. Nanodiamonds and wildfire evidence in the Usselo horizon postdate the Allerød-Younger Dryas boundary. 15 May. 2012. 109(20): 7648-7653.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356666/)
-  * [Jeffrey S. Pigati, Claudio Latorre, Jason A. Rech, Julio L. Betancourt, Katherine E. Martínez, and James R. Budahn. Accumulation of impact markers in desert wetlands and implications for the Younger Dryas impact hypothesis. PNAS. 8 May. 2012. 109(19): 7208-7212.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3358914/)
-  * [Isabel Israde-Alcántara, James L. Bischoff, Gabriela Domínguez-Vázquez, Hong-Chun Li, Paul S. DeCarli, Ted E. Bunch, James H. Wittke, James C. Weaver, Richard B. Firestone, Allen West, James P. Kennett, Chris Mercer, Sujing Xie, Eric K. Richman, Charles R. Kinzie, and Wendy S. Wolbach. Evidence from central Mexico supporting the Younger Dryas extraterrestrial impact hypothesis. PNAS. 27 March. 2012. 109(13): E738-E747.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3324006/)
-  * [M. Boslough, K. Nicoll, V. Holliday, T. L. Daulton, D. Meltzer, N. Pinter, A. C. Scott, T. Surovell, P. Claeys, J. Gill, F. Paquay, J. Marlon, P. Bartlein, C. Whitlock, D. Grayson, A.J.T. Jull. "Arguments and Evidence Against a Younger Dryas Impact Event." Climates, Landscapes, and Civilizations. Liviu Giosan, Dorian Q. Fuller, Kathleen Nicoll, Rowan K. Flad, Peter D. Clift, ed. Volume 198. January. 2012.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2012GM001209)
-  * [H. Tian, D. Schryvers, and Ph. Claeys. Nanodiamonds do not provide unique evidence for a Younger Dryas impact. PNAS. 4 January. 2011. 108(1): 40-44.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3017148/)
-  * [Vance T. Holliday, David J. Meltzer. The 12.9-ka ET Impact Hypothesis and North American Paleoindians. Current Anthropology. October. 2010. 51(5): 575-607.](https://doi.org/10.1086/656015)
-  * [Tyrone L. Daulton, Nicholas Pinter, and Andrew C. Scott. No evidence of nanodiamonds in Younger–Dryas sediments to support an impact event. PNAS. 14 September. 2010. 107(37): 16043-16047.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2941276/)
-  * [Todd A. Surovell, Vance T. Holliday, Joseph A. M. Gingerich, Caroline Ketron, C. Vance Haynes Jr, Ilene Hilman, Daniel P. Wagner, Eileen Johnson, and Philippe Claeys (2009). An independent evaluation of the Younger Dryas extraterrestrial impact hypothesis. PNAS. 106(43): 18155-18158](https://doi.org/10.1073/pnas.0907857106)
-  * [François S. Paquay, Steven Goderis, Greg Ravizza, Frank Vanhaeck, Matthew Boyd, Todd A. Surovell, Vance T. Holliday, C. Vance Haynes, Jr., and Philippe Claeys. Absence of geochemical evidence for an impact event at the Bølling–Allerød/Younger Dryas transition. PNAS. 22 December. 2009. 106(51): 21505-21510.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2799824/)
-  * [D. J. Kennett, J. P. Kennett, A. West, C. Mercer, S. S. Que Hee, L. Bement, T. E. Bunch, M. Sellers, W. S. Wolbach. Nanodiamonds in the Younger Dryas Boundary Sediment Layer. Science. 2 January. 2009. 323(5910): 94.](https://science.sciencemag.org/content/323/5910/94)
-  * [Richard A. Kerr. Did the Mammoth Slayer Leave a Diamond Calling Card? Science. 2 January. 2009. 323(5910): 26.](https://science.sciencemag.org/content/323/5910/26)
-  * [Briggs Buchanan, Mark Collard, and Kevan Edinborough. Paleoindian demography and the extraterrestrial impact hypothesis. Proc Natl Acad Sci USA. 19 August. 2008. 105(33): 11651-11654.](https://dx.doi.org/10.1073%2Fpnas.0803762105)
-* **Megafuana Extinction**
-  * [Lord, E., Dussex, N., Kierczak, M., Díez-del-Molino, D., Ryder, O. A., Stanton, D. W., ... & Lorenzen, E. D. (2020). Pre-extinction Demographic Stability and Genomic Signatures of Adaptation in the Woolly Rhinoceros. Current Biology.](https://doi.org/10.1016/j.cub.2020.07.046)
-  * [Graham RW, et al. (2016) Timing and causes of mid-Holocene mammoth extinction on St. Paul Island, Alaska. PNAS. 113(33): 9310-9314.](https://doi.org/10.1073/pnas.1604903113)
-  * [Malhi Y, Doughty CE, Galetti M, Smith FA, Svenning J-C, Terbough JW (2016) Megafauna and ecosystem function from the Pleistocene to the Anthropocene. PNAS. 113(4): 838-846.](https://doi.org/10.1073/pnas.1502540113)
-  * [Zazula DG, et al. (2014) American mastodon extirpation in the Arctic and Subarctic predates human colonization and terminal Pleistocene climate change. PNAS. 111(52): 18460-18465.](https://www.pnas.org/content/111/52/18460)
-  * [Sergey Zimov, Nikita Zimov (2014). Role of Megafauna and Frozen Soil in the Atmospheric CH4 Dynamics. 9(4): e93331.](https://dx.doi.org/10.1371%2Fjournal.pone.0093331)
-  * [Metcalfe JZ, Longstaffe FJ, Ballenger JAM, Haynes CV Jr. (2011) Isotopic paleoecology of Clovis mammoths from Arizona. PNAS. 108(44): 17916-17920.](https://doi.org/10.1073/pnas.1113881108) &mdash; This has some interesting points:
-    * `On the basis of the consistency in seasonal patterns among Clovis mammoths, they probably had little or no preceding experience with such a drastic change in climatic conditions within their lifetimes, making it potentially difficult for them to adapt.`
-    * `These seasonal patterns may have played a role in mammoth extirpation from the SPV, whether by climate change or by human hunting. Knowledge of the seasonal behaviors of extinct proboscideans should be useful to researchers modeling Clovis foraging behavior and late Pleistocene extinction processes.`
-  * [Switek B (2011) Mastodon fossil throws up questions over 'rapid' extinction. Nature News. 20 October.](https://www.nature.com/news/2011/111020/full/news.2011.606.html)
-  * [Faith JT (2011) Late Pleistocene climate change, nutrient cycling, and the megafaunal extinctions in North America. Quaternary Science Reviews. 30(13-14): 1675-1680.](https://doi.org/10.1016/j.quascirev.2011.03.011) &mdash; [PDF](https://www.academia.edu/3245085/Late_Pleistocene_climate_change_nutrient_cycling_and_the_megafaunal_extinctions_in_North_America) &mdash; The cycle described here has implications for global climate change.
-  * [Eric Scott (2010). Extinctions, scenarios, and assumptions: Changes in latest Pleistocene large herbivore abundance and distribution in western North America. 217(1-2): 225-239.](https://doi.org/10.1016/j.quaint.2009.11.003)
-  * [Clark PU, Dyke AS, Shakun JD, Carlson AE, Clark J, Wohlfarth B, Mitrovica JX, Hostetler SW, McCabe AM (2009) The Last Glacial Maximum. Science. 325(5941): 710-714.](https://doi.org/10.1126/science.1172873)
-  * [Gill JL, Williams JW, Jackson ST, Lininger KB, Robinson GS (2009) Pleistocene Megafaunal Collapse, Novel Plant Communities, and Enhanced Fire Regimes in North America. Science. 326: 1100-1103.](https://science.sciencemag.org/content/326/5956/1100) &mdash; [PDF](http://www.blc.arizona.edu/courses/schaffer/182h/Mass%20Extinction/Gill%20Plaistocene%20Megafaunal%20Collapse.pdf)
-  * [Marc A. Carrasco, Anthony D. Barnosky, and Russell W. Graham (2009). Quantifying the Extent of North American Mammal Extinction Relative to the Pre-Anthropogenic Baseline. 4(12): e8331.](https://dx.doi.org/10.1371%2Fjournal.pone.0008331)
-  * [Anthony D. Barnosky (2008). Megafauna biomass tradeoff as a driver of Quaternary and future extinctions. PNAS. 105: 11543-11548](https://doi.org/10.1073/pnas.0801918105)
-  * [A. Hubbe, M. Hubbe, W. Neves (2007). Early Holocene survival of megafauna in South America. Journal of Biogeography. 34(9): 1642-1646.](https://doi.org/10.1111/j.1365-2699.2007.01744.x)
-  * [A. J. Stuart, P. A. Kosintsev, T. F. G. Higham & A. M. Lister (2004). Pleistocene to Holocene extinction dynamics in giant deer and woolly mammoth. Nature. 431: 684–689](https://www.nature.com/articles/nature02890)
-* **Relation to current fire dynamics with climate change**
-  * [Ryan Kelly, Melissa L. Chipman, Philip E. Higuera, Ivanka Stefanova, Linda B. Brubaker, and Feng Sheng Hua (2013). Recent burning of boreal forests exceeds fire regime limits of the past 10,000 years. 110(32): 13055–13060.](https://dx.doi.org/10.1073%2Fpnas.1305069110)
-
-## Horse like animals existed for millions of years until 11000 BCE (possibly later)
-
-* [Barrón-Ortiz CI, Rodrigues AT, Theodor JM, Kooyman BP, Yang DY, Speller CF (2017) Cheek tooth morphology and ancient mitochondrial DNA of late Pleistocene horses from the western interior of North America: Implications for the taxonomy of North American Late Pleistocene Equus. PLoS ONE 12(8): e0183045.](https://doi.org/10.1371/journal.pone.0183045)
-* [Heintzman PD et al. (2017) A new genus of horse from Pleistocene North America. eLife. 6: e29944.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5705217/)
-* [Waters MR, Stafford TW Jr., Kooyman B, Hills LV (2015) Late Pleistocene horse and camel hunting at the southern margin of the ice-free corridor: Reassessing the age of Wally’s Beach, Canada. PNAS 112(14): 4263-4267.](https://doi.org/10.1073/pnas.1420650112)
-* [Vilstrup JT, Seguin-Orlando A, Stiller M, Ginolhac A, Raghavan M, Nielsen SCA, et al. (2013) Mitochondrial Phylogenomics of Modern and Ancient Equids. PLoS ONE 8(2): e55950.](https://doi.org/10.1371/journal.pone.0055950)
-* [Weinstock J, Willerslev E, Sher A, Tong W, Ho SY, Rubenstein D, et al. (2005) Evolution, Systematics, and Phylogeography of Pleistocene Horses in the New World: A Molecular Perspective. PLoS Biol 3(8): e241.](https://doi.org/10.1371/journal.pbio.0030241)
-* [Pichardo M (2004) Review of Horses in Paleoindian Sites of the Americas. Anthropologischer Anzeiger. 62(1): 11-35.](https://www.jstor.org/stable/29542517?seq=1#page_scan_tab_contents)
-* [Kirkpatrick JF, Fazio PM (2003, revised 2010) Wild Horses as Native North American Wildlife. Wild Horses as Native North American Wildlife. The Science and Conservation Center, ZooMontana, Billings. 8 pages](https://awionline.org/content/wild-horses-native-north-american-wildlife)
-* [Frison GC (1998) Paleoindian large mammal hunters on the plains of North America. PNAS. 95(24): 14576-14583.](https://doi.org/10.1073/pnas.95.24.14576)
-
-## Population Growth & Economics
-
-* **Size of settlements**
-  * [Beach T et al. (2019) Ancient Maya wetland fields revealed under tropical forest canopy from laser scanning and multiproxy evidence. PNAS. In press.](https://doi.org/10.1073/pnas.1910553116)
-  * [Fisher CT et al. (2019) A Typology of Ancient Purépecha (Tarascan) Architecture from Angamuco, Michoacán, Mexico. Latin American Antiquity. 30(3): 510-528.](https://doi.org/10.1017/laq.2019.50)
-  * [Beach T et al. (2019) Ancient lowland Maya complexity as revealed by airborne laser scanning of northern Guatemala](http://science.sciencemag.org/content/361/6409/eaau0137)
-  * [de Souza JG et al. (2018) Pre-Columbian earth-builders settled along the entire southern rim of the Amazon. Nature Communications. 9: 1125.](https://www.nature.com/articles/s41467-018-03510-7)
-  * [Inomata T, Triadan D, Pinzón F, Burham M, Ranchos JL, Aoyama K, et al. (2018) Archaeological application of airborne LiDAR to examine social changes in the Ceibal region of the Maya lowlands. PLoS ONE 13(2): e0191619.](https://doi.org/10.1371/journal.pone.0191619)
-  * [Dylan S. Davis, Matthew C. Sanger & Carl P. Lipo (2018) Automated mound detection using lidar and object-based image analysis in Beaufort County, South Carolina, Southeastern Archaeology, DOI: 10.1080/0734578X.2018.1482186](https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1002&context=anthro_data)
-  * [Fisher CT, Cohen AS, Fernández-Diaz JC, Leisz SJ (2017) The application of airborne mapping LiDAR for the documentation of ancient cities and regions in tropical regions. Quaternary International. 448: 129-138.](https://doi.org/10.1016/j.quaint.2016.08.050)
-  * [Fisher CT, Fernández-Diaz JC, Cohen AS, Neil Cruz O, Gonzáles AM, Leisz SJ, et al. (2016) Identifying Ancient Settlement Patterns through LiDAR in the Mosquitia Region of Honduras. PLoS ONE 11(8): e0159890.](https://doi.org/10.1371/journal.pone.0159890)
-* **Farming vs. hunting/gathering**
-  * [Bowels S, Choi J-K (2019) The Neolithic Agricultural Revolution and the Origins of Private Property. Journal of Political Economy. 127(5): 2186-2228.](https://doi.org/10.1086/701789)
-  * [Zahid HJ, Ronbinson E, Kelly RL (2016) Agriculture, population growth, and statistical analysis of the radiocarbon record. PNAS. 113(4): 931-935.](https://doi.org/10.1073/pnas.1517650112)
-  * [Bettinger RL (2016) Prehistoric hunter–gatherer population growth rates rival those of agriculturalists. PNAS. 113(4): 812-814.](https://doi.org/10.1073/pnas.1523806113)
-  * [Bowels S, Choi J-K (2013) Coevolution of farming and private property during the early Holocene. PNAS. 110(22): 8830-8835.](https://doi.org/10.1073/pnas.1212149110)
-    * [Early presentation paper](http://aslea.org/program2016/4A_Choi.pdf)
-  * [Gross M (2013) The paradoxical evolution of agriculture. Current Biology. 23(16): PR667-R670.](https://doi.org/10.1016/j.cub.2013.08.001)
-  * [Bowles S (2011) Cultivation of cereals by the first farmers was not more productive than foraging. PNAS. 108(12): 4760-4765.](https://doi.org/10.1073/pnas.1010733108)
-  * [Gignoux CR, Henn BM, Mountain JL (2011) Rapid, global demographic expansions after the origins of agriculture. PNAS. 108(15): 6044-6049.](https://doi.org/10.1073/pnas.0914274108) &mdash; for comparison with the other hemisphere.
-* **Economics**
-    * [Kohler, T. A., Smith, M. E., Bogaard, A., Feinman, G. M., Peterson, C. E., Betzenhauser, A., ... & Ellyson, L. J. (2017). Greater post-Neolithic wealth disparities in Eurasia than in North America and Mesoamerica. Nature, 551(7682), 619-622.](https://doi.org/10.1038/nature24646) &mdash; [PDF](http://ses.wsu.edu/wp-content/uploads/2018/03/Kohler-et-al-2017-Nature_Greater-post-Neolithic-wealth-disparities.pdf) &mdash; GINI coefficients of settlements around the World
-  * [Ortman, S., & Lobo, J. (2020). Smithian growth in a nonindustrial society. Science advances, 6(25), eaba5694.](https://doi.org/10.1126/sciadv.aba5694)
-
-## Food sharing patterns might indicate common origins of cultures
-
-* [Ahedo V, Caro J, Bortolini E, Zurro D, Madella M, Galán JM (2019) Quantifying the relationship between food sharing practices and socio-ecological variables in small-scale societies: A cross-cultural multi-methodological approach. PLoS ONE 14(5): e0216302.](https://doi.org/10.1371/journal.pone.0216302)
 
 ## Denisova Cave, Southern Siberia, Altai Krai, Russia (334000 - 222000 BCE)
 
@@ -263,17 +100,17 @@ This is really close to the land bridge, if these Denisovans made trips across t
 
 ## Pre Clovis (before 11000 BCE)
 
-These links support discoveries on the continent prior to any currently established theories (as of 2018).
-
 ## Great American Biotic Interchange (2500000 BCE - 10000 BCE)
 
 * [Carrillo, J. D., Faurby, S., Silvestro, D., Zizka, A., Jaramillo, C., Bacon, C. D., & Antonelli, A. (2020). Disproportionate extinction of South American mammals drove the asymmetry of the Great American Biotic Interchange. Proceedings of the National Academy of Sciences, 117(42), 26281-26287.](https://doi.org/10.1073/pnas.2009397117)
 
-## Jaguars split into their current separate lineages (510000 - 280000)
+## Jaguars split into their current lineages (510000 - 280000)
 
 * [Eizirik, E., Kim, J. H., Menotti‐Raymond, M., Crawshaw Jr, P. G., O’Brien, S. J., & Johnson, W. E. (2001). Phylogeography, population history and conservation genetics of jaguars (Panthera onca, Mammalia, Felidae). Molecular Ecology, 10(1), 65-79.](https://www.semanticscholar.org/paper/Phylogeography%2C-population-history-and-conservation-Eizirik-Kim/5bd14c9ccc8cc43ed15352fc86075b8d6b8cccee)
 
-## More about jaguars
+### Jaguars and the House of the Jaguar
+
+Jaguars have a interesting culture and the House of the Jaguar followed from what Indigenous people learned about these beautiful animals.
 
 * [Gunyup, S. (2011) The Jaguar Freeway. Smithsonian Magazine. October.](https://www.smithsonianmag.com/science-nature/the-jaguar-freeway-73586097/)
 * [Worrall, S. (2014) "Indomitable" Jaguars May Have Lessons in Survival for Us. National Geographic. October 2.](https://www.nationalgeographic.com/animals/article/141003-jaguar-alan-rabinowitz-cockscomb-corridor-cites-big-cats-ngbooktalk)
@@ -327,9 +164,10 @@ This is evidence that Homo Sapiens had left Africa by 120k years ago.
 
 ## 70 - 10 KA BP (68000 BCE - 8000 BCE)
 
-## [Fildani, Andrea et al. Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. 14 Sep. 8:13839 (2018)](https://www.nature.com/articles/s41598-018-32268-7)
+This article highlights a few holes in our knowledge and where we might go searching for answers. If there is a chance that some of the evidence for Indigenous life in North America was swept away by glacial drainage, then there's a chance a decent number of sites would be found burried in ocean sediment at the confluence of river drainages and the ocean basin. The question then becomes how do we find anything of the sort and how do we study it when it has been geologically displaced?
 
-`Here we integrate data from the deepest sediment core drilled by the Deep Sea Drilling Program (DSDP) Leg 96 on the Mississippi fan (Fig. 1) to reveal major modifications to the Mississippi–Missouri drainage by the southern LIS over the past ~70 ka. Growth of the LIS began over the eastern Canadian Arctic ~116 ka (MIS 5d), and experienced punctuated episodes of expansion (~65 ka: MIS 4) and retreat (~50–40 ka: MIS 3) until reaching its maximum extent during the LGM approximately 26–25 ka (MIS 2). Mountain glaciers were near or at their maximum extent by ~30 ka, which is broadly contemporaneous with the interval when global ice sheets first reached their maxima.`
+* [Fildani, Andrea et al. Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. 14 Sep. 8:13839 (2018)](https://www.nature.com/articles/s41598-018-32268-7)
+  * > Here we integrate data from the deepest sediment core drilled by the Deep Sea Drilling Program (DSDP) Leg 96 on the Mississippi fan (Fig. 1) to reveal major modifications to the Mississippi–Missouri drainage by the southern LIS over the past ~70 ka. Growth of the LIS began over the eastern Canadian Arctic ~116 ka (MIS 5d), and experienced punctuated episodes of expansion (~65 ka: MIS 4) and retreat (~50–40 ka: MIS 3) until reaching its maximum extent during the LGM approximately 26–25 ka (MIS 2). Mountain glaciers were near or at their maximum extent by ~30 ka, which is broadly contemporaneous with the interval when global ice sheets first reached their maxima.
 
 ## Old Crow Basin, Yukon, Canada (40000 BCE - 34500 BCE)
 
@@ -347,7 +185,7 @@ This is evidence that Homo Sapiens had left Africa by 120k years ago.
 
 ## Yana RHS, Siberia (28000 BCE)
 
-This is technically not "North America", but it's connected and may demonstrate part of the path our ancestors took to get here.
+This is technically not "North America", but it's connected and may demonstrate part of the path some of our ancestors took to get here.
 
 * [Pringle, H. (2014) Welcome to Beringia. Science. 343(6174): 961-963.](https://science.sciencemag.org/content/343/6174/961)
 * [By V. V. Pitulko, P. A. Nikolsky, E. Yu. Girya, A. E. Basilyan, V. E. Tumskoy, S. A. Koulakov, S. N. Astakhov, E. Yu. Pavlova, M. A. Anisimov (2004) The Yana RHS Site: Humans in the Arctic Before the Last Glacial Maximum. Science. 303(5654): 52-56.](https://science.sciencemag.org/content/303/5654/52.full?_ga=2.223773532.61086061.1566785266-478062606.1565127902) &mdash; [PDF](https://www.academia.edu/17919797/The_Yana_RHS_Site_Humans_in_the_Arctic_Before_the_Last_Glacial_Maximum) &mdash; Clovis like tools. Would be considered western Beringia (the name of the land bridge).
@@ -526,6 +364,10 @@ This is technically not "North America", but it's connected and may demonstrate 
 ## Clovis (11100 BCE)
 
 * [Michael R. Waters, Thomas W. Stafford Jr (2007) Redefining the Age of Clovis: Implications for the Peopling of the Americas. Science. 315(5815): 1122-1126.](https://science.sciencemag.org/content/315/5815/1122.long)
+
+## Ållerød–Younger Dryas boundary (11000 BCE - 10900 BCE)
+
+See [Earth Science, Megafuana, Horses, Population Growth, & Economics](earth_science.md)
 
 ## Northern Channel Islands, California, USA (11000 BCE)
 
