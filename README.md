@@ -922,6 +922,7 @@ There was a bundle from 905 CE – 1170 CE found in this cave. It contined a bag
 The fox pouch is interesting, but it could just be a coincidence that the place where the first xicalcoliuhqui has two foxes on other side of a round face.
 
 * [Miller, M. J., Albarracin-Jordan, J., Moore, C., & Capriles, J. M. (2019). Chemical evidence for the use of multiple psychotropic plants in a 1,000-year-old ritual bundle from South America. Proceedings of the National Academy of Sciences, 116(23), 11207-11212.](https://doi.org/10.1073/pnas.1902174116)
+* [VanPool, C. (2019). Ancient medicinal plants of South America. Proceedings of the National Academy of Sciences, 116(23), 11087-11089.](https://doi.org/10.1073/pnas.1906805116)
 
 ## Caballo Muerto, Peru - Moche Valley - Cupisnique culture (2100 BCE - 200 BCE)
 
@@ -1531,6 +1532,11 @@ Became a part of Chichen Itza in 950.
 
 * [Yaxuná](https://en.wikipedia.org/wiki/Yaxun%C3%A1)
 
+## Paracas, Cerro del Gentil, Chincha Valley, Peru (400 BCE - 100 CE)
+
+* [Tantaleán H, Stanish C, Rodríguez A, Pérez K (2016) The Final Days of Paracas in Cerro del Gentil, Chincha Valley, Peru. PLoS ONE 11(5): e0153465. https://doi.org/10.1371/journal.pone.0153465](https://doi.org/10.1371/journal.pone.0153465)
+
+
 ## Tiwananku/Tiahuanacu - Tiwanaku Municipality, Bolivia (400 BCE - 1200 CE)
 
 So maybe it was actually started in 1500 BCE: `Si bien Tiahuanaco se fundó en el año 1500 a. C. el gran período de construcción y expansión ocurrió a partir del 45 d. C.11​ Esta fase fue creada a través de las unidades de parentesco, que al alcanzar la sociedad un nivel estatal, hizo que el estado se expandiera para crear excedentes que sustenten a la administración y a las élites.`
@@ -1711,6 +1717,14 @@ Preceeded by [Tchefuncte Culture](https://en.wikipedia.org/wiki/Tchefuncte_site#
 
 * [Remojadas](https://en.wikipedia.org/wiki/Remojadas)
 
+### Jaltipan, Veracruz (1 CE - 700 CE)
+
+* [Gannon, Megan. (2013) Ancient Graves, Pyramid Ruins Found in Mexico. Live Science](https://www.livescience.com/38155-ancient-graves-pyramid-mexico.html)
+* [Entierros prehispánicos y pirámide en Veracruz](http://www.inah.gob.mx/boletines/1971-entierros-prehispanicos-y-piramide-en-veracruz)
+  * > Al hacer la revisión de la superficie se halló muy poco material, por lo que los arqueólogos empezaron a excavar hasta una profundidad de 80 centímetros. Ahí se encontraron gran cantidad de restos óseos acompañados de ofrendas que contenían huesos de animales, cuentas de jade, espejos —probablemente de pirita— y figurillas de origen teotihuacano, maya, nahua, popoluca y de la cultura de Remojadas (del centro de Veracruz), por lo que de inmediato se procedió al rescate de los materiales.
+  * > “Tenemos elementos olmecoides, como cerámica bicroma, figurillas y vasijas, como tecomates. También encontramos figurillas de ojos punzonados, de la fase terminal de Tres Zapotes, esto daría un primer fechamiento correspondiente al siglo I de nuestra era, y tenemos vasijas teotihuacanas con decoración en grano de café, que nos ubica a fines del periodo Clásico Temprano (400 d.C.)”, destacó el arqueólogo.
+* [Arqueólogos mexicanos encuentran 30 entierros y una pirámide en Veracruz](https://expansion.mx/entretenimiento/2013/07/10/arqueologos-mexicanos-encuentran-30-entierros-y-una-piramide-en-veracruz)
+
 ## Santa Rosa Swift Creek Culture - W. Florida Panhandle, Florida, USA; Alabama, USA (50 BCE - 650 CE)
 
 This grew out of the Deptford Culture. It became part fo the larger Hopewell exchange network around 100 CE. The Santa Rosa pottery is an outgrowth of the the Marksville Culture. There are copper panpipes which have been excavated from here.
@@ -1789,7 +1803,7 @@ Taken over by Mixtec in 1000. Note the reference to "cloud people" -- which Mixt
 
 * [Moche Culture](https://en.wikipedia.org/wiki/Moche_culture) - Predecessor of the Chimú culture.
 * [Odd Pyramid Had Rooftop Homes, Ritual Sacrifices?](https://news.nationalgeographic.com/news/2010/10/101021-moche-pyramid-peru-science-sacrifice-archaeology-ancient/) (500 CE - 800 CE)
-* [CSI Tools Bring a Mummy's Face to Life](https://news.nationalgeographic.com/2017/06/csi-tools-mummy-moche-peru-cao-brujo/)
+* [Williams AR (2017) CSI Tools Bring a Mummy's Face to Life. National Geographic. July 4.](https://news.nationalgeographic.com/2017/06/csi-tools-mummy-moche-peru-cao-brujo/)
 * [Ancient Throne and Ceremonial Hall Unearthed in Peru](https://news.nationalgeographic.com/2018/01/ancient-peruvian-moche-civilization-throne-banquet-hall-ceremony-spd/)
 * [Tomb of a Powerful Moche Priestess-Queen Found in Peru](https://news.nationalgeographic.com/news/http-/news/news/2013/08/130808-moche-priestess-queen-tomb-discovery-peru-archaeology-science/) - (750 CE)
 * [New Clues About Human Sacrifices at Ancient Peruvian Temple](https://news.nationalgeographic.com/news/2013/11/131119-moche-human-sacrifice-war-victims-burials-archaeology-science/)
@@ -1999,6 +2013,8 @@ Possible Oto-manguean connections.
 ## Xaltocan - Valley of Mexico, Mexico, MX - Otomies until 1395, Chichimeca, Tepaneca, Mexica (700 CE - 1521 CE)
 
 * [Xaltocan](https://en.wikipedia.org/wiki/Xaltocan)
+* [Ghose, Tia. (2013) Mass Human Sacrifice? Pile of Ancient Skulls Found. Live Science. January 25.](https://www.livescience.com/26609-mass-human-sacrifice-pile-of-ancient-skulls-found.html)
+  * [Image Gallery](https://www.livescience.com/26611-ancient-human-sacrifice-site-discovered-in-mexico.html)
 
 ## Teyuna (Cuidad Perdida/Lost City, Buritaca) - Santa Marta, Magdalena, Colombia (700 CE - 1600 CE)
 
@@ -2075,6 +2091,8 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 ## 800 CE
 
 * [1200 Year Old Mayan Theatre Discovered in Mexico](https://archaeologynewsnetwork.blogspot.com/2012/08/1200-year-old-mayan-theatre-discovered.html#tGhOYGzW0RrPCRVS.97)
+* [(2012) Ancient Mayan theater was political tool](https://www.archaeology.wiki/blog/2012/09/06/ancient-mayan-theater-was-political-tool/)
+* [(2012) Encuentran antiguo teatro maya en Ocosingo.](http://www.inah.gob.mx/boletines/3420-encuentran-antiguo-teatro-maya-en-ocosingo)
 
 ## Mesoamerican Terminal Classic (800 CE - 900/1000 CE)
 
@@ -2112,6 +2130,10 @@ Puuc Region/Style. Possibly Chontal.
 * [Chimú culture](https://en.wikipedia.org/wiki/Chim%C3%BA_culture)
 * [Quingnam language](https://en.wikipedia.org/wiki/Quingnam_language)
 * [Chimor](https://en.wikipedia.org/wiki/Chimor)
+
+### Huarmey Queen
+
+* [Greshko, M (2017) Face of Ancient Queen Revealed for First Time. National Geographic. December 12.](https://www.nationalgeographic.com/history/article/wari-noblewoman-queen-el-castillo-face-reconstruction-archaeology)
 
 ### Chan Chan - Moche Valley, Trujillo, Peru - Chimú culture (850 CE - 1470 CE)
 
@@ -2332,9 +2354,9 @@ Late Woodland Iroquoian village
 
 * [Xalapa](http://siglo.inafed.gob.mx/enciclopedia/EMM30veracruz/municipios/30087a.html)
 
-## Tenechitlan - Mexico City, Mexico, MX - Mexica, Nahuatl (1325 CE - 1521 CE)
+## Tenochitlan - Mexico City, Mexico, MX - Mexica, Nahuatl (1325 CE - 1521 CE)
 
-* [Tenechitlan](https://en.wikipedia.org/wiki/Tenochtitlan)
+* [Tenochitlan](https://en.wikipedia.org/wiki/Tenochtitlan)
 
 ## Tlatelolco - Mexico City, Mexico, MX - Tlatelolca, Nahuatl (1337 CE - 1521 CE)
 
@@ -2342,6 +2364,7 @@ Late Woodland Iroquoian village
 
 ## Pampa la Cruz, Huanchaco, Peru (1400 CE - 1450 CE)
 
+* [Prieto, G., Verano, J. W., Goepfert, N., Kennett, D., Quilter, J., LeBlanc, S., ... & Tschinkel, K. (2019). A mass sacrifice of children and camelids at the Huanchaquito-Las Llamas site, Moche Valley, Peru. PloS one, 14(3), e0211691.](https://doi.org/10.1371/journal.pone.0211691)
 * [Parker BJ, Prieto G, Osores C (2018) Methodological advances in household archaeology: an application of microartifact analysis at Pampa La Cruz, Huanchaco, Peru. Ñawpa Pacha: Journal of Andean Archeology. 38(1): 57-75.](https://www.tandfonline.com/doi/abs/10.1080/00776297.2018.1465381) &mdash; [ResearchGate](https://www.researchgate.net/publication/325061336_Methodological_advances_in_household_archaeology_an_application_of_microartifact_analysis_at_Pampa_La_Cruz_Huanchaco_Peru)
 * [Staff (2019) Archaeologists find unprecedented Chimu textiles at mass child sacrifice site in Peru. Andina. January 16.](https://andina.pe/ingles/noticia-archaeologists-find-unprecedented-chimu-textiles-at-mass-child-sacrifice-site-in-peru-739445.aspx)
 * [Staff (2019) Peru: Archaeologists find exotic feather headdress and tabard in Pampa La Cruz. Andina. August 29.](https://andina.pe/ingles/noticia-peru-archaeologists-find-exotic-feather-headdress-and-tabard-in-pampa-cruz-765073.aspx)
@@ -2349,6 +2372,19 @@ Late Woodland Iroquoian village
   * Mentions medieval anomaly (extended dry period) in which the Chimu Culture emerged.
   * Increased flooding happened from 1250 CE - 1450 CE, and the killing happened in the last 50 years.
   * Twenty years later, they were conquered by the Tawantinsuyu (Inca)
+
+## Tawatinsuyu (1438–1533 CE)
+
+* [Davidson, R., Fehren-Schmitz, L., & Llamas, B. (2021). A Multidisciplinary Review of the Inka Imperial Resettlement Policy and Implications for Future Investigations. Genes, 12(2), 215.](https://doi.org/10.3390/genes12020215)
+* [Panzer S, Wittig H, Zesch S, Rosendahl W, Blache S, Müller-Gerbl M, et al. (2017) Evidence of neurofibromatosis type 1 in a multi-morbid Inca child mummy: A paleoradiological investigation using computed tomography. PLoS ONE 12(4): e0175000.](https://doi.org/10.1371/journal.pone.0175000)
+* [Ceruti, M. C. (2015). Frozen mummies from Andean mountaintop shrines: Bioarchaeology and ethnohistory of Inca human sacrifice. BioMed research international, 2015.](https://dx.doi.org/10.1155%2F2015%2F439428)
+* [Wilson, A. S., Brown, E. L., Villa, C., Lynnerup, N., Healey, A., Ceruti, M. C., ... & Taylor, T. (2013). Archaeological, radiological, and biological evidence offer insight into Inca child sacrifice. Proceedings of the National Academy of Sciences, 110(33), 13322-13327.](https://doi.org/10.1073/pnas.1305117110)
+* [Wade, L (2013) 'Llullaillaco Maiden' May Have Been Drugged Before Sacrificed. Science News. July 29.](https://www.sciencemag.org/news/2013/07/llullaillaco-maiden-may-have-been-drugged-sacrificed)
+* [Balter M (2001) An Incan Feast Before Death. Science News. October 2.](https://www.sciencemag.org/news/2007/10/incan-feast-death)
+
+### Sacrifices around the world
+
+* [Gibbons, A. (2012). The ultimate sacrifice. Science, 336(6083), 834-837. DOI: 10.1126/science.336.6083.834](https://doi.org/10.1126/science.336.6083.834)
 
 ## Late Mississippian (1400 CE - 1500 CE or Euro contact)
 
@@ -2417,6 +2453,9 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
   * > The tobacco plant is a very old plant which has medicinal and sacred uses from Oceania through to the Americas. It has very interesting genetic properties and many of the plants that have been on separate continents do not mix into readily viable hybrids, though there is a combination of N. fragrans and N. tabacum which does mix. Additional research has shown that N. fragrans is part of the oldest variation of section Suaveolentes, see Marks CE, Newbigin E, Ladiges PY (2011).
   * See [Section on Nicotiana Sections, Species, and Locations](./nicotiana.md)
 * **Maize**
+  * [Kistler, L., Thakar, H. B., VanDerwarker, A. M., Domic, A., Bergström, A., George, R. J., ... & Kennett, D. J. (2020). Archaeological Central American maize genomes suggest ancient gene flow from South America. Proceedings of the National Academy of Sciences, 117(52), 33124-33129.](https://doi.org/10.1073/pnas.2015560117)
+    * > Our genomic analyses establish a clear link between El Gigante maize and modern and ancient maize from South America. On the basis of links to southern Pan-American maize alone, this could be a result of a simple one-way dispersal of the Pan-American lineage where El Gigante maize acts as an outgroup to southern Pan-American genomes. However, this pattern does not explain the AIM-based links between El Gigante and earlier-dispersed South American lineages, nor the outgroup-f3 results tying El Gigante to ancient genomes in South America. Instead, we hypothesize that the South American signal in El Gigante maize provides evidence for Indigenous farmers carrying or dispersing maize northward through the Isthmus of Panama prior to ∼2,000 y ago.<br/><br/>Admixture graphs and f4 statistics reinforce multiple waves of dispersal southward out of the center of domestication. First, by around 7,000 cal. BP, an initial wave of semidomesticated maize was carried southward, where it likely underwent secondary improvement in the southwestern Amazon before diversifying across the continent (26, 37). Later, a second population of maize was transported southward, carrying the signal for excess gene flow with teosinte in the domestication center.
+    * > The correlation between genome size and distance to the domestication center in the Pan-American group runs counter to the broad pattern in maize. This pattern may reflect a south-to-north dispersal as the ancestors to El Gigante maize—and possibly other landraces in Central America—were dispersed by farmers. This genome size gradient thus may represent the imprint of an ancestral dispersal vector consistent with our other analyses, but more research is necessary to further explore this pattern. Alternatively, it is possible that genome size, or the heterochromatic knob fraction, expanded for unknown reasons during the dispersal history of the Pan-American lineage.<br/><br/>The transit of ancestral Pan-American maize into South America would have conferred reproductive isolation from wild teosinte, perhaps for the first prolonged period in the history of this lineage. The isolation from crop–wild gene flow likely would have encouraged the development of robust domesticated phenotypes and true-breeding landraces. It is also possible that gene flow from first-wave South American lineages boosted Pan-American maize diversity, leading to increased performance through hybrid vigor. In total, ancient interbreeding between ancestral first-wave South American maize and second-wave Pan-American maize could have been responsible for the emergence of robust new forms that were carried northward, as well as spreading with Indigenous farmers throughout South America.
   * [Matsuoka Y, Vigouroux Y, Goodman MM, Sanchez GJ, Buckler E, Doebley J (2002). A single domestication for maize shown by multilocus microsatellite genotyping. Proceedings of the National Academy of Sciences of the United States of America, 99(9), 6080–6084. http://doi.org/10.1073/pnas.052125199](http://doi.org/10.1073/pnas.052125199)
   * [Benz BF (2001) Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca. PNAS. 98(4): 2104-2106.](https://doi.org/10.1073/pnas.98.4.2104)
   * [A single domestication for maize shown by multilocus microsatellite genotyping](https://doi.org/10.1073/pnas.052125199)
@@ -2475,22 +2514,17 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
 * http://artdaily.com/news/58025/Archaeologists--anthropologists-and-other-experts-meet--Mayas-prophesized--but-not-end-of-world-
 * http://artdaily.com/news/55294/Archaeologists-find-ancient-Mayan-workshop-for-astronomers-in-northeastern-Guatemala
 * http://artdaily.com/news/35667/1000-Year-Old-Monument-with-Image-of-Mayan-Ruler-Found
-* [(2012) Ancient Mayan theater was political tool](https://www.archaeology.wiki/blog/2012/09/06/ancient-mayan-theater-was-political-tool/)
-* [(2012) Encuentran antiguo teatro maya en Ocosingo.](http://www.inah.gob.mx/boletines/3420-encuentran-antiguo-teatro-maya-en-ocosingo)
 * [Geggel, Laura. (2018) 1,500-Year-Old Maya Altar Reveals Amazing Secrets of the 'Snake Kings'. Live Science.](https://www.livescience.com/63652-maya-altar-discovered.html)
-* [Gannon, Megan. (2013) Mysterious 2,000-year-old graves, pyramid ruins found in Mexico. NBC News.](https://www.nbcnews.com/sciencemain/mysterious-2-000-year-old-graves-pyramid-ruins-found-mexico-6C10626146)
-* [Entierros prehispánicos y pirámide en Veracruz](http://www.inah.gob.mx/boletines/1971-entierros-prehispanicos-y-piramide-en-veracruz)
-* [Arqueólogos mexicanos encuentran 30 entierros y una pirámide en Veracruz](https://expansion.mx/entretenimiento/2013/07/10/arqueologos-mexicanos-encuentran-30-entierros-y-una-piramide-en-veracruz)
 * [Thompson, Andrea. (2008) Oldest Gold Artifact in Americas Found. Live Science.](https://www.livescience.com/2415-oldest-gold-artifact-americas.html)
 * [Choi, Charles Q. (2009) Ancient Mayans Likely Had Fountains and Toilets. Live Science.](https://www.livescience.com/5959-ancient-mayans-fountains-toilets.html)
 * [Jarus, Owen. (2015) Mysterious Jade Artifact May Have Been Offering to Ancient Gods. Live Science.](https://www.livescience.com/50080-mysterious-jade-artifact-discovered-in-mexico.html)
-* [Gannon, Megan. (2013) Ancient Graves, Pyramid Ruins Found in Mexico. Live Science](https://www.livescience.com/38155-ancient-graves-pyramid-mexico.html)
+* [Capriles, J. M., Santoro, C. M., George, R. J., Bedregal, E. F., Kennett, D. J., Kistler, L., & Rothhammer, F. (2021). Pre-Columbian transregional captive rearing of Amazonian parrots in the Atacama Desert. Proceedings of the National Academy of Sciences, 118(15).](https://doi.org/10.1073/pnas.2020020118)
+* [Sugiyama N, Fash WL, France CAM (2018) Jaguar and puma captivity and trade among the Maya: Stable isotope data from Copan, Honduras. PLoS ONE 13(9): e0202958. https://doi.org/10.1371/journal.pone.0202958](https://doi.org/10.1371/journal.pone.0202958)
 * [Pappas, Stephanie. (2018) Big Cats and 'Ritual' Dogs Lived in Maya Captivity. Live Science.](https://www.livescience.com/62061-ritual-dogs-mayan-pyramid.html)
 * [Weisberger, Mindy. (2018) Earthquake in Mexico Cracked a Pyramid and Revealed an Ancient Temple. Live Science.](https://www.livescience.com/63063-surprise-temple-mexico.html)
 * [Jarus, Owen. (2017) The Maya: History, Culture & Religion. Live Science.](https://www.livescience.com/41781-the-maya.html)
 * [Pappas, Stephanie. (2013) Oldest Maya Sun Observatory Hints at Origin of Civilization. Live Science.](https://www.livescience.com/29053-oldest-maya-observatory-ceibal.html) - Ceibal (1000 BCE)
 * [Gallery: Excavating the Oldest Maya Observatory](https://www.livescience.com/29055-images-ceibal-maya-excavations.html)
-* [Ghose, Tia. (2013) Mass Human Sacrifice? Pile of Ancient Skulls Found. Live Science.](https://www.livescience.com/26609-mass-human-sacrifice-pile-of-ancient-skulls-found.html)
 * http://artdaily.com/news/63370/Team-of-international-archaeologists-finds-Mayan-city-believed-to-be-1-400-years-old
 * http://artdaily.com/news/68690/Mexican-archaeologists-find-ancient-ball-game-court-on-construction-site-of-basketball-court
 * http://artdaily.com/news/39979/Funerary-Masks-of-Six-Maya-Rulers-on-View-at-the-National-Museum-of-Anthropology-
@@ -2503,15 +2537,11 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
 * [Pringle, Heather. Untouched. National Geographic. Jun. 2014. (Peru, Wari, El Castillo)](https://www.nationalgeographic.com/magazine/2014/06/peru-royal-tomb/)
 * http://artdaily.com/news/57759/Mexican-archaeologists-enter--for-the-first-time--a-1-500-year-old-tomb-in-Palenque-
 * http://artdaily.com/news/60129/In-new-study--Mexican-researchers-extract-intact-DNA-from-Palenque-s-Red-Queen
-* [Face of Ancient Queen Revealed for First Time](https://news.nationalgeographic.com/2017/12/wari-noblewoman-queen-el-castillo-face-reconstruction-archaeology/)
-* [Wade, Lizzie. Mummy genomes reveal just how catastrophic European contact was for New World. Science. Apr. 2016.](http://www.sciencemag.org/news/2016/04/mummy-genomes-reveal-just-how-catastrophic-european-contact-was-new-world)
-* [Wade, Lizzie. Inca child mummy reveals lost genetic history of South America. Science. Nov. 2015](http://www.sciencemag.org/news/2015/11/inca-child-mummy-reveals-lost-genetic-history-south-america)
 * [Confederación chalca](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_chalca)
 * [Core/Biface Ratios, Mobility, Refitting, and Artifact Use-Lives: A Paleoindian Example](https://www.researchgate.net/publication/260468488_CoreBiface_Ratios_Mobility_Refitting_and_Artifact_Use-Lives_A_Paleoindian_Example)
 * [A new technique makes it possible to extract the DNA from hominids preserved in sediments](https://www.heritagedaily.com/2017/05/a-new-technique-makes-it-possible-to-extract-the-dna-from-hominids-preserved-in-sediments/114683)
 * [Parts of the Amazon thought uninhabited were actually home to up to a million people](https://www.heritagedaily.com/2018/03/parts-of-the-amazon-thought-uninhabited-were-actually-home-to-up-to-a-million-peopl/118681)
 * [New Nasca lines found in Peru](https://www.heritagedaily.com/2018/04/new-nasca-lines-found-in-peru/118794)
-* [Sugiyama N, Fash WL, France CAM (2018) Jaguar and puma captivity and trade among the Maya: Stable isotope data from Copan, Honduras. PLoS ONE 13(9): e0202958. https://doi.org/10.1371/journal.pone.0202958](https://doi.org/10.1371/journal.pone.0202958)
 * [Salt: Mover and shaker in ancient Maya society](https://www.heritagedaily.com/2018/10/salt-mover-and-shaker-in-ancient-maya-society/121840)
 * [Venezuelan rock art mapped in unprecedented detail](https://www.heritagedaily.com/2017/12/venezuelan-rock-art-mapped-unprecedented-detail/117741)
 * [Archaeologist says fire, not corn, key to prehistoric survival in arid Southwest](https://www.heritagedaily.com/2017/12/archaeologist-says-fire-not-corn-key-prehistoric-survival-arid-southwest/117660)

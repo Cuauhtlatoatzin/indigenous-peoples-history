@@ -195,6 +195,10 @@
 * [Heckenberger M J, et al. (2007) The legacy of cultural landscapes in the Brazilian Amazon: implications for biodiversity. Philosophical Transactions B. 362(1478): 197-208.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2311456/)
 * [Heckenberger M J, et al. (2003) Amazonia 1492: Pristine Forest or Cultural Parkland?. Science. 301(5640: 1710-1714. DOI: 10.1126/science.1086112)](https://science.sciencemag.org/content/301/5640/1710)
 
+### Guano
+
+* [Santana-Sagredo, F., Schulting, R. J., Méndez-Quiros, P., Vidal-Elgueta, A., Uribe, M., Loyola, R., ... & Lee-Thorp, J. (2021). ‘White gold’guano fertilizer drove agricultural intensification in the Atacama Desert from ad 1000. Nature Plants, 7(2), 152-158.](https://doi.org/10.1038/s41477-020-00835-4)
+
 
 ## Horse like animals existed for millions of years until 11000 BCE (possibly later)
 
