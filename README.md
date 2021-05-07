@@ -1581,6 +1581,8 @@ This is not the original name. It is possible that the original name is lost for
 * |teoti| + |-hua-| => "Divinities/the divine come into being" or "it becomes divine/they become divinities" 
 * | teotihua | + | can | => | teotihuacan | &mdash; "Place where divinities/the divine come into being." or "Place where people/things become divine/divinities."
 
+Articles
+
 * [Garcia-Des Lauriers, C. (2020) "Gods, Cacao, and Obsidian: Early Classic (250-650 CE) Interactions between Teotihuacan and the Southeastern Pacific Coast of Mesoamerica", Teotihuacan: The World Beyond the City. United States: Dumbarton Oaks.](https://www.academia.edu/42187872/Gods_Cacao_and_Obsidian_Early_Classic_250-650_CE_Interactions_between_Teotihuacan_and_the_Southeastern_Pacific_Coast_of_Mesoamerica)
 * [Carballo, D.M. (2020) "Power, Politics, and Governance at Teotihuacan", Teotihuacan: The World Beyond the City. United States: Dumbarton Oaks.](https://www.academia.edu/42842408/Power_Politics_and_Governance_at_Teotihuacan)
 * [Manzanilla, L. (2019). Teopancazco como centro de barrio multiétnico de Teotihuacan. Los sectores funcionales y el intercambio a larga distancia.](https://www.academia.edu/37861741/Teopancazco_como_centro_de_barrio_multi%C3%A9tnico_de_Teotihuacan._Los_sectores_funcionales_y_el_intercambio_a_larga_distancia)
