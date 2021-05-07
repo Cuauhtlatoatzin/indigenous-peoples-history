@@ -85,18 +85,15 @@ In addition to this list, there's the [Earth Science, Megafuana, Horses, Populat
 
 ## Denisova Cave, Southern Siberia, Altai Krai, Russia (334000 - 222000 BCE)
 
-* [Wong K (2019) Cave That Housed Neandertals and Denisovans Challenges View of Cultural Evolution. Scientific American. January 30.](https://www.scientificamerican.com/article/cave-that-housed-neandertals-and-denisovans-challenges-view-of-cultural-evolution/)
-* [Dennell R (2019) Dating hominin discoveries at Denisova. Nature News. January 30.](https://www.nature.com/articles/d41586-019-00264-0)
-* [Morley MW et al. (2019) Hominin and animal activities in the microstratigraphic record from Denisova Cave (Altai Mountains, Russia). Scientific Reports. 9: 13785.](https://www.nature.com/articles/s41598-019-49930-3)
-* [Jacobs A et al. (2019) Timing of archaic hominin occupation of Denisova Cave in southern Siberia. Nature. 565: 594-599.](https://www.nature.com/articles/s41586-018-0843-2)
-* [Douka K et al. (2019) Age estimates for hominin fossils and the onset of the Upper Palaeolithic at Denisova Cave. Nature. 565: 640-644.](https://www.nature.com/articles/s41586-018-0870-z?_sg=HnHYAGx6TrgPF2A_usC7TI5caZ2-WjcdkmpxVWnaV0ZHwkkc-3JeeAzXd4rBtIcckyJpTe2WULuCVv4.fWw-pU6PDxJers3nN6eg1KwXhcPIuaX2eoGduCnTH7WaXIzyMy7SYCGkRQXyrTIAw85glW1XzhBx63O67-t8DQ)
+Not as close to the land bridge (it's 5000 km hike to Diring Yuriakh), but shows the span of the Denisovans.
+
+See [Genetics: Early Hominid through Modern Human](genetics.md#early-hominid-through-modern-human).
 
 ## Diring Yuriakh, Yakutsk, Russia (260 KA, ~ 258000 BCE)
 
-This is really close to the land bridge, if these Denisovans made trips across the ocean at that time or one of the times when the land bridge emerged since 500000 BCE, that could explain the earliest and highly contested sites: Hueyatlaco, Calico, and Cerutti.
+This is close to the land bridge. In fact, crossing the land bridge would be just as far away as traveling to Denisova Cave. If these Denisovans made trips across the ocean at that time or one of the times when the land bridge emerged since 500000 BCE, that could explain the earliest and highly contested sites: Hueyatlaco, Calico, and Cerutti.
 
-* [Water MR, Forman SL, Person JM (1997) Diring Yuriakh: A Lower Paleolithic Site in Central Siberia. Science. 275(5304): 1281-1284](https://science.sciencemag.org/content/275/5304/1281)
-* [Hall DA (1996) Thermoluminescence Dating Proves Early Peopling of Siberia. Mammoth Trumpet. 11(1): 1.](https://csfa.tamu.edu/wp-content/uploads/2015/12/vol11_num1.pdf)
+See [Genetics: Early Hominid through Modern Human](genetics.md#early-hominid-through-modern-human).
 
 ## Pre Clovis (before 11000 BCE)
 
@@ -121,7 +118,7 @@ Jaguars have a interesting culture and the House of the Jaguar followed from wha
 
 ## Hueyatlaco, Puebla, Mexico (250 KA BP, ~248000 BCE)
 
-What's interesting is that this coincides with another glacial maximum, the last in the middle pleistoncene, according to Miller KG et al. (2005) and Kominz (2001). This means there was likely a land brige the Denisovans could have crossed over to enter North America from Diring Yuriakh.
+This coincides with another glacial maximum, the last in the middle pleistoncene, according to Miller KG et al. (2005) and Kominz (2001). This means there was likely a land brige the Denisovans could have crossed over to enter North America from Diring Yuriakh.
 
 * [Hueyatlaco](https://en.wikipedia.org/wiki/Hueyatlaco#Aftermath)
 * [VanLandingham, SL. 2006. Diatom evidence for autochthonous artifact deposition in the Valsequillo region, Puebla, Mexico during the Sangamonian (sensu lato = 80,000 to ca. 220,000 yr BP and Illinoian (220,000 to 430,000 yr BP)). Journal of Paleolimnology 36: 101– 116 [DOI: 10.1007/s10933‐006‐0008‐4]](https://doi.org/10.1007/s10933-006-0008-4)
@@ -130,13 +127,17 @@ What's interesting is that this coincides with another glacial maximum, the last
 
 ## Bison Enter America (195000 BCE - 135000 BCE)
 
+I want to take a moment to point out that if Bison were able to move freely into the "Americas", then it should also be pretty trivial for hunters to follow them.
+
+This coincides with another glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001). This means there was likely a land brige humans could have crossed over to enter North America, see Douka et al. (2019) for more on the possible lineages of Denisovans whom could have mode this journey along with Stewart, Clark-Wilson, Breeze, Janulis, et al. (2020) for the tantalizing possibility that Homo Sapiens could have been out of Africa already.
+
 * [Froese, D., Stiller, M., Heintzman, P. D., Reyes, A. V., Zazula, G. D., Soares, A. E., ... & MacPhee, R. D. (2017). Fossil and genomic evidence constrains the timing of bison arrival in North America. Proceedings of the National Academy of Sciences, 114(13), 3457-3462.](https://doi.org/10.1073/pnas.1620754114)
 
 ## The Highly Disputed Calico Early Man Site, San Bernardino County, California, USA (135 KA BP)
 
 There was a rock ring discovered beneath a 100000 year old soil profile -- but there is controversy over potential contamination. There are potentially some tools from then, too. However, most of the tools discovered here come from later times 30 KA BP and 14.4 KA BP.
 
-It is also interesting to note that this coincides with another glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001). This means there was likely a land brige humans could have crossed over to enter North America, see Douka et al. (2019) for more on the possible lineages of Denisovans whom could have mode this journey along with Stewart, Clark-Wilson, Breeze, Janulis, et al. (2020) for the tantalizing possibility that Homo Sapiens could have been out of Africa already.
+This coincides with a glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001).
 
 * [Calico Early Man Site](https://en.wikipedia.org/wiki/Calico_Early_Man_Site)
 * [Lake Manix](https://en.wikipedia.org/wiki/Lake_Manix)
@@ -158,16 +159,15 @@ Again, this coincides with a glacial maximum, the first in the late pleistoncene
 
 ## Homo Sapiens 120000 years ago in Levant and Arabia
 
-This is evidence that Homo Sapiens had left Africa by 120k years ago.
+This is evidence that Homo Sapiens had left Africa and spread out by 120k years ago.
 
-* [Stewart, M., Clark-Wilson, R., Breeze, P. S., Janulis, K., Candy, I., Armitage, S. J., ... & Cuthbertson, P. (2020). Human footprints provide snapshot of last interglacial ecology in the Arabian interior. Science Advances, 6(38), eaba8940.](https://doi.org/10.1126/sciadv.aba8940)
+* See the [genetics](genetics.md#early-hominid-through-modern-human) page for the research.
 
 ## 70 - 10 KA BP (68000 BCE - 8000 BCE)
 
-This article highlights a few holes in our knowledge and where we might go searching for answers. If there is a chance that some of the evidence for Indigenous life in North America was swept away by glacial drainage, then there's a chance a decent number of sites would be found burried in ocean sediment at the confluence of river drainages and the ocean basin. The question then becomes how do we find anything of the sort and how do we study it when it has been geologically displaced?
+There are a few articles highlighting holes in our knowledge and where we might go searching for answers. If there is a chance that some of the evidence for Indigenous life in North America was swept away by glacial drainage, then there's a chance a decent number of sites would be found burried in ocean sediment at the confluence of river drainages and the ocean basin. The question then becomes how do we find anything of the sort and how do we study it when it has been geologically displaced?
 
-* [Fildani, Andrea et al. Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. 14 Sep. 8:13839 (2018)](https://www.nature.com/articles/s41598-018-32268-7)
-  * > Here we integrate data from the deepest sediment core drilled by the Deep Sea Drilling Program (DSDP) Leg 96 on the Mississippi fan (Fig. 1) to reveal major modifications to the Mississippi–Missouri drainage by the southern LIS over the past ~70 ka. Growth of the LIS began over the eastern Canadian Arctic ~116 ka (MIS 5d), and experienced punctuated episodes of expansion (~65 ka: MIS 4) and retreat (~50–40 ka: MIS 3) until reaching its maximum extent during the LGM approximately 26–25 ka (MIS 2). Mountain glaciers were near or at their maximum extent by ~30 ka, which is broadly contemporaneous with the interval when global ice sheets first reached their maxima.
+See the [Earth Science: Drainage of Glaciers to Ocean](earth_science.md#drainage-of-glaciers-to-ocean) section of the page.
 
 ## Old Crow Basin, Yukon, Canada (40000 BCE - 34500 BCE)
 
@@ -439,7 +439,7 @@ Carnivores from South America found:
 
 ## Mesoamerican Paleo Indian (10000 BCE - 3500 BCE)
 
-## Meanwhile, across the pond, Göbekli Tepe, Anatolia (9990 ± 30 BC)
+## (meanwhile, across the pond) Göbekli Tepe, Anatolia (9990 ± 30 BC)
 
 This is the first known example of lithic architecture built on a raised platform. Because of how this was found around some of the earliest known agriculture, it sets a little bit of the pattern for what happens as people develop agriculture and temple like structures. As it happens there's a lot of psuedoarcheological claims around this, but the evidence points to it being a community center with many more temporary habitations around it:
 
@@ -458,7 +458,7 @@ Scholarly Research:
   * [Whitehouse H, François P, Savage PE, et al. (2019) Complex societies precede moralizing gods throughout world history. Nature. 568: 226–229. doi:10.1038/s41586-019-1043-4](https://doi.org/10.1038/s41586-019-1043-4)
   * [Botero CA, et al. (2014) The ecology of religious beliefs. PNAS. 111(47): 16784-16789.](https://doi.org/10.1073/pnas.1408701111)
 
-## Meanwhile, across the pond, Ural Mountains: Shigit peat bog (9000-8000 BCE)
+## (meanwhile, across the pond) Ural Mountains: Shigit peat bog (9000-8000 BCE)
 
 This is the oldest known anthropomorhic wooden sculpture.
 
@@ -721,7 +721,7 @@ This could be the first use of irrigation canals in the "Americas".
 * [Zaña Valley](https://en.wikipedia.org/wiki/Za%C3%B1a_Valley)
 * [Dillehay TD, Eling HH Jr, Rossen J (2005) Preceramic irrigation canals in the Peruvian Andes. PNAS. 102(47): 17241-17244.](https://dx.doi.org/10.1073%2Fpnas.0508583102)
 
-## Meanwhile, across the pond, Tepe Hissar, Iran (4300 BCE)
+## (meanwhile, across the pond) Tepe Hissar, Iran (4300 BCE)
 
 * [Afshar, Z. (2014). Mobility and Economic Transition in the 5th to the 2nd Millennium BC in the Population of the Central Iranian Plateau, Tepe Hissar (Doctoral dissertation, Durham University).](http://etheses.dur.ac.uk/11064/1/Zahra_Afshar_PhD_Thesis_.pdf)
 
@@ -730,7 +730,7 @@ This could be the first use of irrigation canals in the "Americas".
 * [Splitstoser JC et al. (2016) Early pre-Hispanic use of indigo blue in Peru. Science Advances. 2(9): e1501623](https://advances.sciencemag.org/content/2/9/e1501623.full) &mdash; Predates Egyption use by ~1500 years.
 * [LA Times. (2019) 6,000-year-old fabric reveals Peruvians were dyeing textiles with indigo long before Egyptians (Video). Los Angeles Times. September 16.](https://www.latimes.com/science/sciencenow/la-sci-sn-oldest-indigo-dye-20160915-snap-story.html)
 
-## Meanwhile, across the pond, Tripolye, Modern Eastern Romania + Molova + South Eastern Ukraine (4100–3600 BCE)
+## (meanwhile, across the pond) Tripolye, Modern Eastern Romania + Molova + South Eastern Ukraine (4100–3600 BCE)
 
 * [Hofmann R, Müller J, Shatilo L, Videiko M, Ohlrau R, Rud V, et al. (2019) Governing Tripolye: Integrative architecture in Tripolye settlements. PLoS ONE 14(9): e0222243.](https://doi.org/10.1371/journal.pone.0222243)
 
@@ -833,14 +833,14 @@ In the Mito/Kotosh style.
 
 * [Huaricoto](https://es.wikipedia.org/wiki/Huaricoto)
 
-## Meanwhile, across the pond, Monte d'Accoddi, Sassari, Sardegna, Italia (~2700 BCE)
+## (meanwhile, across the pond) Monte d'Accoddi, Sassari, Sardegna, Italia (~2700 BCE)
 
 This rework of a previous mastaba-like structure to add another few levels.
 
 * [Melis MG (2011) Monte d’Accoddi and the end of the Neolithic in Sardinia (Italy). Documenta Praehistorica XXXVIII. DOI: 10.4312\dp.38.16](https://web.archive.org/web/20160304001503/http://arheologija.ff.uni-lj.si/documenta/pdf38/38_16.pdf)
 * [Contu E. (2000) "L’altare di Monte d’Accoddi e il territorio circostante" L'altare prstoico di Monte D'accooddi. Sardenga Archeologica. Delfino C ed.](https://web.archive.org/web/20060901012459/http://www.sardegnacultura.it/documenti/7_4_20060402100930.pdf)
 
-## Meanwhile, across the pond, Djoser Pyramid, Saqqara, Egypt (~2680 BCE)
+## (meanwhile, across the pond) Djoser Pyramid, Saqqara, Egypt (~2680 BCE)
 
 This kicks off the tradition of building pyramids. The Great Pyramid of Giza would be built 100 years later.
 
@@ -1272,6 +1272,10 @@ This was a Mayan site which started declining in 200 BCE and was aboandoned when
 * [Tikal](https://en.wikipedia.org/wiki/Tikal)
 * 400 BCE - monumental architecture
 * 200 CE - Teotihuacan embassies in Tikal
+
+* [Proyecto Arqueológico del Sur de Tikal. (2021) Conferencia de prensa sobre hallazgos en Tikal.](https://www.facebook.com/watch/live/?v=272708061108996&ref=watch_permalink) &mdash; Audio starts around 4 minutes.
+* [Pappas S. (2021) Copy of famous Teotihuacan structure discovered in Maya city. LiveScience. April 29.](https://www.livescience.com/teotihuacan-maya-embassy-in-tikal.html)
+  * > A pyramid and courtyard unearthed in the Maya city of Tikal may have once been an embassy of sorts for visitors or ambassadors from the megapolis of Teotihuacan, more than 620 miles (1,000 kilometers) away.<br/><br/>The apparently peaceful outpost may have represented a period of cooperation between Tikal, in what is today Guatemala, and Teotihucan, which is near modern-day Mexico City. A century or so after the structure was built, invaders — quite possibly from Teotihuacan — would take over Tikal.<br/><br/>The enclosed courtyard and stair-step pyramid look like a miniature version of a structure called La Ciudadela, or The Citadel, in Teotihuacan. That citadel contained a temple known as the Pyramid of the Feathered Serpent and a 38-acre (15.2 hectare) courtyard large enough to accommodate 100,000 people. The smaller version in the Maya city of Tikal not only has the same layout, but it also has the same orientation and is full of artifacts with links to Teotihuacan, including a Teotihuacan-style grave.<br/><br/>"That means there is a really long occupation of people associated with Teotihuacan" in Tikal, said excavation leader Edwin Román Ramírez, an archaeologist at the Foundation for Maya Cultural and Natural Heritage (PACUNAM) who announced the finding in a press conference April 8.<br/><br/>Tikal was a Maya city that may have been home to tens of thousands of people during its peak during the Maya Classic Period between about A.D. 250 to A.D. 900. After a series of homegrown rulers, the city was conquered in A.D. 378 by a general named Siyah K'ak. In stone carvings, the general is depicted as serving a leader represented by a spear-thrower and an owl, a carving also found in Teotihuacan. The connection had led many archaeologists to believe that the foreign conquerors came from Teotihuacan.<br/><br/>But the two cities' relationship probably didn't start there. More than 100,000 people may have lived at Teotihuacan during its peak in the first half of the first century A.D., and its cultural influence seems to have had far reach. Teotihuacan-style art and artifacts have long been found in excavations in Guatemala, Román Ramírez told Live Science.
 
 ### Related sites
 
@@ -1820,7 +1824,7 @@ These are a few major sites:
 * [Huanchaco](https://en.wikipedia.org/wiki/Huanchaco) - Origin of Ceviche
 * [Pañamarca](https://en.wikipedia.org/wiki/Pa%C3%B1amarca)
 
-## Weeden Island I - Alabama, USA; Florida, USA; Georgia, USA (200 AD - 900 AD)
+## Weeden Island I - Alabama, USA; Florida, USA; Georgia, USA (200 CE - 900 CE)
 
 Grew out of Deptford Culture and the Hopewell Tradition.
 
@@ -1891,6 +1895,8 @@ Around 1000 CE, Toltec invaded. Population dispersed, but some people remained u
 * [Labna](https://en.wikipedia.org/wiki/Labna) &mdash; Puuc region, Yucatan, MX (862 CE - ?)
 * [Xlapak](https://en.wikipedia.org/wiki/Xlapak) &mdash; Puuc region, Yucatan, MX (?)
 * [Kiuic](https://en.wikipedia.org/wiki/Kiuic) &mdash; Puuc region, Yucatan, MX (? - 880 CE)
+* [ Ringle WM, Gallareta Negrón T, May Ciau R, Seligson KE, Fernandez-Diaz JC, Ortegón Zapata D (2021) Lidar survey of ancient Maya settlement in the Puuc region of Yucatan, Mexico. PLoS ONE 16(4): e0249314. doi:10.1371/journal.pone.0249314](https://doi.org/10.1371/journal.pone.0249314)
+  * > The Puuc is also a distinct physiographic zone of the Yucatan peninsula, whose northern limit is marked by a low escarpment known as the Sierrita de Ticul, a ridge of hills rarely more than 110–120 m above the plains to the north (Fig 3). To the south of the escarpment is an uplifted wedge of rolling terrain (Duch Gary’s [9] lomerío bajo con llanuras). Often the swales between higher ground are filled with soil, resulting in the formation of “flats” of relatively deep soils that are today favored for agriculture (referred to as planadas herein). This zone widens from east to west and is known as the Valle de Sta. Elena, after the largest town within it. Within the Valle de Sta. Elena (VSE) is a shallow basin known locally as the Valle de Yaxhom, important to the study that follows. Finally, a dense zone of kegelkarst or conekarst hills (Duch Gary’s lomerío alto con llanuras), known as the Distrito de Bolonchen (DBC), lies to the south of the VSE. Thousands of such hills divide the landscape, although they hardly ever rise more than 90 m above the surrounding terrain. Bordering the DBC to the south is a zone of seasonal swamps (ak’alches) whose archaeology is understudied [10]. It is important to note that there are basins of varying sizes and uplifted areas bordering them in each of these broad zones, and that soil cover in uplifted areas is usually relatively shallow, enhancing the visibility of archaeological features.
 
 ## Pipil - El Salvador, Nicaragua, Guatamala - Pipil (500 CE - 1530 CE)
 
@@ -2082,15 +2088,20 @@ Apparently, part of why so much history is lost is because Izcoatl, first huey t
 * [Tula (Mesoamerican site)](https://en.wikipedia.org/wiki/Tula_(Mesoamerican_site))
 * [Kristan-Graham, C., & Amrhein, L. M. (Eds.). (2015). "Building Memories at Tula: Sacred Landscapes and Architectural Veneration", Memory traces: analyzing sacred space at five Mesoamerican sites. University Press of Colorado.](https://www.academia.edu/15255658/Building_Memories_at_Tula_Sacred_Landscapes_and_Architectural_Veneration)
 
-## Huamango - Acambay, Mexico, MX - Otomi (850 CE - 1350 CE)
-
-* [Acambay - Historia](https://es.wikipedia.org/wiki/Acambay#Historia)
-
 ## Sayil - (800 CE - 1000 CE)
 
 Puuc Region/Style. Possibly Chontal.
 
 * [Sayil](https://en.wikipedia.org/wiki/Sayil)
+
+## Humans arrive in Northern Bahamas (~830 CE)
+
+* [Fall, P. L., van Hengstum, P. J., Lavold-Foote, L., Donnelly, J. P., Albury, N. A., & Tamalavage, A. E. (2021). Human arrival and landscape dynamics in the northern Bahamas. Proceedings of the National Academy of Sciences, 118(10).](https://doi.org/10.1073/pnas.2015764118)
+  * > The oral history for Amerindian migration through The Bahamas was lost after Columbus’s arrival in 1492 CE and Lucayan enslavement in the early sixteenth century. The Lucayans encountered unique prehuman reptile-dominated terrestrial food webs (i.e., tortoise and crocodile), with palm and hardwood forests that were resilient to regional oceanographic cooling and hurricane perturbations. New evidence indicates that Lucayans arrived in the northern Bahamas by about 830 CE after expanding rapidly throughout The Bahamas in less than 100 y. Following subsequent burning, reptiles were extirpated, and pyrogenic pine forests took over Great Abaco Island. Compounded perturbations, including forecasts of future hurricane intensification, may continue to alter Bahamian ecosystems, particularly pine forests, which are less resilient than precontact tropical hardwood ecosystems.
+
+## Huamango - Acambay, Mexico, MX - Otomi (850 CE - 1350 CE)
+
+* [Acambay - Historia](https://es.wikipedia.org/wiki/Acambay#Historia)
 
 ## Chimú Culture -  Moche Valley, Trujillo, Peru (850 CE - 1470 CE)
 
@@ -2358,34 +2369,6 @@ Visited by the Spanish in 1601. These are the ancestors of the Present day Wichi
 #### European Contact
 
 * [European-contact and Southwestern Artifacts in the Lower Walnut Focus Sites at Arkansas City, Kansas](https://www.researchgate.net/publication/260468487_European-contact_and_Southwestern_Artifacts_in_the_Lower_Walnut_Focus_Sites_at_Arkansas_City_Kansas)
-* **Genocide Induced Climate Change**
-  * [Alexander Kocha, Chris Brierley, Mark M. Maslin, Simon L. Lewis (2019) Earth system impacts of the European arrival and Great Dying in the Americas after 1492. Quarternery Science Reviews. 207: 13-36.](https://doi.org/10.1016/j.quascirev.2018.12.004)
-  * [Matthew J. Liebmann, Joshua Farella, Christopher I. Roos, Adam Stack, Sarah Martini, and Thomas W. Swetnam. Native American depopulation, reforestation, and fire regimes in the Southwest United States, 1492–1900 CE. PNAS. 9 February. 2016 113(6): E696-E704.](https://doi.org/10.1073/pnas.1521744113)
-  * [R.J. Nevle, D.K. Bird, W.F. Ruddiman and R.A. Dull (2011) Neotropical human–landscape interactions, fire, and atmospheric CO2 during European conquest. The Holocene. Sage. DOI: 10.1177/0959683611404578](https://www.researchgate.net/profile/Robert_Dull/publication/254097445_Neotropical_human-landscape_interactions_fire_and_atmospheric_CO2_during_European_conquest/links/54de2fc40cf2814662ee17af.pdf)
-  * [Robert A. Dull , Richard J. Nevle , William I. Woods , Dennis K. Bird , Shiri Avnery & William M. Denevan (2010) The Columbian Encounter and the Little Ice Age: Abrupt Land Use Change, Fire, and Greenhouse Forcing, Annals of the Association of American Geographers,100:4, 755-771, DOI: 10.1080/00045608.2010.502432](https://doi.org/10.1080/00045608.2010.502432) &mdash; [PDF](https://www.bushdoctor.com.au/imagesDB/documents/Dull.EtAl_ColumbianEncounterAndLittleIceAge.AbruptLandUseChangeFireGreenhouseForcing.pdf)
-  * [Richard J. Nevle, Dennis K. Bird (2008) Effects of Syn-Pandemic Reforestation on Atmospheric Carbon Dioxide From 1500 to 1700 A.D. Palaeogeography, Palaeoclimatology, Palaeoecology. 264(1-2): 25-38.](https://doi.org/10.1016/j.palaeo.2008.03.008) &mdash; [PDF](https://www.researchgate.net/publication/252077825_Effects_of_Syn-Pandemic_Reforestation_on_Atmospheric_Carbon_Dioxide_From_1500_to_1700_AD)
-* **Forest Management**
-  * [D.R. Piperno, C.N.H. McMichael, M.B. Bush (2019) Finding forest management in prehistoric Amazonia. Anthropocene. 26: 100211.](https://doi.org/10.1016/j.ancene.2019.100211) &mdash; [PDF](https://repository.si.edu/bitstream/handle/10088/97862/Piperno%20et%20al.%202019%20Finding%20forest%20management.pdf?sequence=1&isAllowed=y)
-  * [Caetano Andrade VL, Flores BM, Levis C, Clement CR, Roberts P, Schöngart J (2019) Growth rings of Brazil nut trees (Bertholletia excelsa) as a living record of historical human disturbance in Central Amazonia. PLoS ONE 14(4): e0214128.](https://doi.org/10.1371/journal.pone.0214128)
-  * [Fulton, A.E. & Yansa, C.H. (2019) Characterization of Native American vegetation disturbance in the forests of central New York State, USA during the late 18th century ce. Veget Hist Archaeobot.](https://doi.org/10.1007/s00334-019-00741-6)
-  * [Coughlan MR, Nelson DR (2018) Influences of Native American land use on the Colonial Euro-American settlement of the South Carolina Piedmont. PLoSONE 13(3):e0195036.](https://doi.org/10.1371/journal.pone.0195036)
-  * [M.W. Palace, C.N.H. McMichael, B.H. Braswell, S.C. Hagen, M.B. Bush, E. Neves, E. Tamanaha, C. Herrick, S. Frolking (2017) Ancient Amazonian populations left lasting impacts on forest structure. Ecosphere. 8(12): e02035.](https://doi.org/10.1002/ecs2.2035)
-  * [A.B. Junqueira, C. Levis, F. Bongers, M. Peña-Claros, C.R. Clement, F. Costa, Hans ter Steege (2017) Response to Comment on “Persistent effects of pre-Columbian plant domestication on Amazonian forest composition”. Science. 358(6361): eaan8347.](https://science.sciencemag.org/content/358/6361/eaan8837.abstract)
-  * [C.W. Dick (2017) A critical take on “Persistent effects of pre-Columbian plant domestication on Amazonian forest composition”. Professional Blog.](https://sites.lsa.umich.edu/cwdick-lab/2017/03/18/a-critical-take-on-persistent-effects-of-pre-columbian-plant-domestication-on-amazonian-forest-composition/)
-  * [C.H. McMichael, K.J. Feeley, C.W. Dick, D.R. Piperno, M.B. Bush (2017) Comment on “Persistent effects of pre-Columbian plant domestication on Amazonian forest composition”. Science. 358(6361): eaan8347.](https://science.sciencemag.org/content/358/6361/eaan8347)
-  * [C. Lewis et al. (2017) Persistent effects of pre-Columbian plant domestication on Amazonian forest composition. Science. 355(6328): 925-931.](https://science.sciencemag.org/content/355/6328/925)
-  * [C.N.H. McMichael, Frazer Matthews-Bird, William Farfan-Rios, and K.J. Feeley (2017) Ancient human disturbances may be skewing our understanding of Amazonian forests. PNAS. 114(3): 522-527.](https://doi.org/10.1073/pnas.1614577114)
-  * [C.R. Clement, W.M. Denevan, M.J. Heckenberger, A.B. Junqueira, E.G. Neves, W.G. Teixeira, W.I. Woods (2015) The domestication of Amazonia before European conquest. Royal Society Proceedings B. 282(1812)](https://doi.org/10.1098/rspb.2015.0813)
-  * [Stephen J. Tulowiecki, Chris P. S. Larsen (2015) Native American impact on past forest composition inferred from species distribution models, Chautauqua County, New York. Ecological Monographs. 85(4): 557-581.](https://doi.org/10.1890/14-2259.1)
-  * [Thompson JR, Carpenter DN, Cogbill CV, Foster DR (2013) Four Centuries of Change in Northeastern United States Forests. PLoS ONE 8(9): e72540.](https://doi.org/10.1371/journal.pone.0072540)
-  * [Cynthia Fowler, Evelyn Konopik (2007) The History of Fire in the Southern United States. Human Ecology Review 14(2): 165-176.](https://www.humanecologyreview.org/pastissues/her142/fowlerandkonopik.pdf)
-  * [Bryan A Black, , Charles M Ruffner, and , Marc D Abrams (2006) Native American influences on the forest composition of the Allegheny Plateau, northwest Pennsylvania. Canadian Journal of Forest Research. 36(5): 1266-1275.](https://doi.org/10.1139/x06-027) &mdash; [PDF](http://personal.psu.edu/faculty/a/g/agl/Black_CJFR_2006_NAI.pdf)
-  * [Foster, H.T., Black, B. & Abrams, M.D. (2004) A Witness Tree Analysis of the Effects of Native American Indians on the Pre-European Settlement Forests in East-Central Alabama. Human Ecology 32: 27.](https://doi.org/10.1023/B:HUEC.0000015211.98991.9c) &mdash; [PDF](http://test.scripts.psu.edu/users/a/g/agl/Human%20ecology%202005.pdf)
-  * [Andrew S Macdougall (2003) Did Native Americans influence the northward migration of plants during the Holocene? Journal of Biogeography. 30(5): 633-647](https://doi.org/10.1046/j.1365-2699.2003.00842.x) &mdash; Also an account of trade networks.
-  * [Russell, E.W. & Davis, R.B. (2001) Five centuries of changing forest vegetation in the Northeastern United States. Plant Ecology. 155: 1.](https://doi.org/10.1023/A:1013252117853) &mdash; [PDF](http://www.colby.edu/geology/GE354/Russell_and_Davis_2001.pdf)
-  * [William M. Denevan. The Pristine Myth: The Landscape of the Americas in 1492. Notes for Indigenous Conservation Knowledge.](http://jan.ucc.nau.edu/~alcoze/for398/class/pristinemyth.html)
-* **Other**
-  * [Cavanaugh KC, et al. (2019) Climate-driven regime shifts in a mangrove–salt marsh ecotone over the past 250 years. PNAS. 116(43): 21602-21608.](https://doi.org/10.1073/pnas.1902181116)
 
 ## Leon-Jefferson culture - Leon County, Florida, USA; Jefferson County, Florida, USA (1500 CE - 1704 CE)
 
@@ -2393,7 +2376,7 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
 
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
 
-  * [Lightfoot KG (2015) Dynamics of change in multiethnic societies: An archaeological perspective from colonial North America. PNAS. 112(30): 9216-9223.](https://doi.org/10.1073/pnas.1422190112)
+* [Lightfoot KG (2015) Dynamics of change in multiethnic societies: An archaeological perspective from colonial North America. PNAS. 112(30): 9216-9223.](https://doi.org/10.1073/pnas.1422190112)
 
 ## Qʼumqaraqʼaj/qʼumarˈkah/Utatlán - Santa Cruz del Quiché, Quiché Department, Guatemala (1400 CE - 1524 CE)
 
@@ -2429,30 +2412,8 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
 * [A Re-Evaluation of the Isotopic and Archaeological Reconstructions of Diet in the Tehuacan Valley](https://www.jstor.org/stable/280636)
 * [The Origins of Plant Cultivation and Domestication in the New World Tropics](https://www.journals.uchicago.edu/doi/10.1086/659998)
 * **Tobacco**
-  * Also see [Section on Nicotiana Sections, Species, and Locations](./nicotiana.md)
-  * [Tushinham S, et al. (2018) Biomolecular archaeology reveals ancient origins of indigenous tobacco smoking in North American Plateau. PNAS. 115(46): 11742-11747.](https://doi.org/10.1073/pnas.1813796115)
-  * [Wikipedia contributors. (2019, April 30). List of Nicotiana species. In Wikipedia, The Free Encyclopedia. Retrieved 01:49, October 8, 2019](https://en.wikipedia.org/w/index.php?title=List_of_Nicotiana_species&oldid=894903602)
-  * [Coyote Tobacco. Native Plants. Natural History Museum of Utah.](https://nhmu.utah.edu/native-plants/plant/Coyote%20Tobacco)
-  * [Quick D (2015) "Magic" native Australian tobacco plant could be key to space-based food production. New Atlas. November 6.](https://newatlas.com/australian-tobacco-plant-gene-space-crops/40253/) &mdash; Nicotiana benthamiana, called pitjuri to Aboriginal tribes.
-  * [Wikipedia contributors. (2019, August 27). Nicotiana benthamiana. In Wikipedia, The Free Encyclopedia. Retrieved 02:46, October 8, 2019.](https://en.wikipedia.org/w/index.php?title=Nicotiana_benthamiana&oldid=912720804) &mdash; `Indigenous names for it include tjuntiwari and muntju.`
-  * [Marlin D, Nicolson SW, Yusuf AA, Stevenson PC, Heyman HM, Krüger K (2014) The Only African Wild Tobacco, Nicotiana africana: Alkaloid Content and the Effect of Herbivory. PLoS ONE 9(7): e102661.](https://doi.org/10.1371/journal.pone.0102661)
-    * > The genus Nicotiana contains 86 recognized species [32], [33], [34], with approximately 75% occurring naturally in the Americas and 25% in Australia. It is likely that the genus evolved east of the Andes in southern South America and dispersed from there to south-western North America, Australia and Africa [35]. The only Nicotiana species indigenous to Africa is N. africana. This species is endemic to Namibia where it is known from three isolated populations confined to the Brandberg, Erongo and Spitzkoppe mountains in the north of the country.
-  * [Carkson JJ et al. (2004) Phylogenetic relationships in Nicotiana (Solanaceae) inferred from multiple plastid DNA regions. Molecular Phylogenetics and Evolution. 33(1): 75-90.](https://doi.org/10.1016/j.ympev.2004.05.002) &mdash; [PDF](https://www.researchgate.net/publication/8386963_Phylogenetic_relationships_in_Nicotiana_Solanaceae_inferred_from_multiple_plastid_DNA_regions)
-  * [Leitch IJ et al. (2008) The Ups and Downs of Genome Size Evolution in Polyploid Species of Nicotiana (Solanaceae). Annals of Botany. 101(6): 805-814.](https://doi.org/10.1093/aob/mcm326)
-    * N. Tabacum, N. arentsii, and N. Rustica are the youngest in the tobacco family all being less than 200000 yrs old.
-    * N. Tabacum was generated from a parent in the section Sylvestres and the section Tomentosae.
-    * N. Arentsii was generated from a N. undulata and N/ wigandioides parent.
-    * N. Rusticum was generated from a parent in the section Undulatae and the section Paniculatae.
-    * N. Clevelandii and N. quadrivalvis are approximately 1000000 years old. Both derive from an unkown parent in section Petunioides and a parent in section Trigonophyllae.
-    * Section Suaveolentes (Australian and African) came about from a parent in section Sylvestres and an unknown parent. It is greater than 10 million years old.
-  * [Tezuka T, Kuboyama T, Matsuda T, Marubashi W (2010) Seven of eight species in Nicotiana section Suaveolentes have common factors leading to hybrid lethality in crosses with Nicotiana tabacum. Annals of Botany. 106(2): 267-276.](https://dx.doi.org/10.1093%2Faob%2Fmcq114)
-    * > Exceptionally, only one wild species, N. fragrans, produced 100 % viable hybrids after crossing with N. tabacum, suggesting that N. fragrans has no factor triggering hybrid lethality.`
-  * [Ladiges PY, Marks CE, Nelson G (2011) Biogeography of Nicotiana section Suaveolentes (Solanaceae) reveals geographical tracks in arid Australia. Journal of Biogeography. 38(11): 2066-2077.](https://doi.org/10.1111/j.1365-2699.2011.02554.x)
-  * [Marks CE, Newbigin E, Ladiges PY (2011) Comparative morphology and phylogeny of Nicotiana section Suaveolentes (Solanaceae) in Australia and the South Pacific. Australian Systematic Botany 24(2): 61-86.](https://doi.org/10.1071/SB11006) &mdash; This has a great bit of information on the location of various species and how the various species likely spread.
-    * > There was some conflict between the morphological and molecular datasets; however, overall there was a level of concordance that identified a phylogenetic sequence of taxa that reflected a reduction in the chromosome number. With N. africana as the functional outgroup, analyses showed N. fragrans (New Caledonia and Tongatapu) and N. fatuhivensis (Marquesas islands, formerly N. fragrans var. fatuhivensis) to be a basal lineage in the Australian and South Pacific clade of Suaveolentes. N. forsteri(eastern mainland Australia, Lord Howe Island and New Caledonia) is the sister taxon to all other Australian species of Suaveolentes, which form a well supported monophyletic group.
-  * [Kelly LJ et al. (2012) Reconstructing the complex evolutionary origin of wild allopolyploid tobaccos (Nicotiana section suaveolentes). Evolution. 67(1): 80-94.](https://doi.org/10.1111/j.1558-5646.2012.01748.x) &mdash; Has a great bit of research on diploid networks which could explain the origin of the Suaveolentes section of Nicotiana.
-  * [Tiedge K, Lohaus G (2017) Nectar sugars and amino acids in day- and night-flowering Nicotiana species are more strongly shaped by pollinators’ preferences than organic acids and inorganic ions. PLoS ONE 12(5): e0176865.](https://doi.org/10.1371/journal.pone.0176865) &mdash; Has pictures of various species flowers. Also has an interesting premise.
-  * [McCarthy EW et al. (2019) Early consequences of allopolyploidy alter floral evolution in Nicotiana (Solanaceae). BMC Plant Biology. 19: 162.](https://dx.doi.org/10.1186%2Fs12870-019-1771-5) &mdash; Has pictures of various species flowers along with phylogenetic trees.
+  * > The tobacco plant is a very old plant which has medicinal and sacred uses from Oceania through to the Americas. It has very interesting genetic properties and many of the plants that have been on separate continents do not mix into readily viable hybrids, though there is a combination of N. fragrans and N. tabacum which does mix. Additional research has shown that N. fragrans is part of the oldest variation of section Suaveolentes, see Marks CE, Newbigin E, Ladiges PY (2011).
+  * See [Section on Nicotiana Sections, Species, and Locations](./nicotiana.md)
 * **Maize**
   * [Matsuoka Y, Vigouroux Y, Goodman MM, Sanchez GJ, Buckler E, Doebley J (2002). A single domestication for maize shown by multilocus microsatellite genotyping. Proceedings of the National Academy of Sciences of the United States of America, 99(9), 6080–6084. http://doi.org/10.1073/pnas.052125199](http://doi.org/10.1073/pnas.052125199)
   * [Benz BF (2001) Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca. PNAS. 98(4): 2104-2106.](https://doi.org/10.1073/pnas.98.4.2104)
@@ -2504,20 +2465,6 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
     * > All the features were well-preserved, having been found in situ in the waterlogged sediments. A series of 40 14C determinations on charred plant remains dates the occupation to around 19,500 14C yr bp (about 23,500 to 22,500 calendar years ago) placing the site within the Upper Palaeolithic period (locally also termed the Early Epipalaeolithic)4.
   * [Wright K (1991) The Origins and development of ground stone assemblages in Late Pleistocene Southwest Asia. Paléorient. 17(1): 19-45.](https://www.persee.fr/doc/paleo_0153-9345_1991_num_17_1_4537?pageid=t1_44)
 
-## Amazonian Dark Earth
-
-* [Macedo R S, et al. (2019) Amazonian dark earths in the fertile floodplains of the Amazon River, Brazil: An example of non-intentional formation of anthropic soils in the Central Amazon region. Boletimdo Museu Paraense Emilio Goeldi:Ciencias Humanas 14(1): 207-227.](https://www.researchgate.net/publication/332854738_Amazonian_dark_earths_in_the_fertile_floodplains_of_the_Amazon_River_Brazil_An_example_of_non-intentional_formation_of_anthropic_soils_in_the_Central_Amazon_region)
-* [Ferreira M J, et al. (2019) Legacies of intensive management in forests around pre-columbian and modern settlements in the Madeira-Tapajós interfluve, Amazonia. Acta Botanica Brasilica. DOI: 10.1590/0102-33062018abb0339](https://www.researchgate.net/publication/332016830_Legacies_of_intensive_management_in_forests_around_pre-columbian_and_modern_settlements_in_the_Madeira-Tapajos_interfluve_Amazonia) &mdash; [PDF](http://www.scielo.br/pdf/abb/2019nahead/0102-3306-abb-0102-33062018abb0339.pdf)
-* [Franco-Moraes J, et al. (2019) Historical landscape domestication in ancestral forests with nutrient-poor soils in northwestern Amazonia. Forest Ecology and Management. 446: 317-330.](https://www.researchgate.net/publication/333805460_Historical_landscape_domestication_in_ancestral_forests_with_nutrient-poor_soils_in_northwestern_Amazonia)
-* [Levis C, et al. (2018) How People Domesticated Amazonian Forests. Frontiers in Ecology and Evolution. 5: 171](https://doi.org/10.3389/fevo.2017.00171)
-* [Maezumi S Y, et al. (2018) The legacy of 4,500 years of polyculture agroforestry in the eastern Amazon. Nature Plants. 4: 540–547](https://www.nature.com/articles/s41477-018-0205-y?_sg=nHaxNUu5TDSarZpEH1yeErdn8S6KtklQLh-r9vBVmERDbF_PDlunSC0WNbzK3CIYQM7B3xPXhmzAmko.pPeo2jwOv_F1M6BmwHZy1e1H7NwznUNKgwOobLZpTmy2EoTtZBtfL2PTgFtUEy4eVqWqBuEuu57lrlDhGy6KrQ) &mdash; [PDF](https://www.researchgate.net/publication/326558685_The_legacy_of_4500_years_of_polyculture_agroforestry_in_the_eastern_Amazon)
-* [Levis C, et al. (2014) "What do we know about the distribution of Amazonian Dark Earth along tributary rivers in Central Amazonia?" Antes de Orellana. Rostain, S ed. Actas del 3er Encuentro Internacional de Arquelolgía Amazónica.](https://www.researchgate.net/publication/298094652_What_do_we_know_about_the_distribution_of_Amazonian_dark_earth_along_tributary_rivers_in_Central_Amazonia)
-* [Watling J, et al. (2017) Impact of pre-Columbian “geoglyph” builders on Amazonian forests. PNAS. 114(8): 1868-1873.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338430/)
-* [Carson J F, et al. (2014) Environmental impact of geometric earthwork construction in pre-Columbian Amazonia. PNAS. 111(29): 10497-10502.](https://doi.org/10.1073/pnas.1321770111)
-* [Schwartzman S, et al. (2013) The natural and social history of the indigenous lands and protected areas corridor of the Xingu River basin. Philosophical Transactions B. 368(1619)](https://doi.org/10.1098/rstb.2012.0164)
-* [Heckenberger M J, et al. (2008) Pre-Columbian Urbanism, Anthropogenic Landscapes, and the Future of the Amazon. Science. 321(5893): 1214-1217. DOI: 10.1126/science.1159769](https://science.sciencemag.org/content/321/5893/1214)
-* [Heckenberger M J, et al. (2007) The legacy of cultural landscapes in the Brazilian Amazon: implications for biodiversity. Philosophical Transactions B. 362(1478): 197-208.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2311456/)
-* [Heckenberger M J, et al. (2003) Amazonia 1492: Pristine Forest or Cultural Parkland?. Science. 301(5640: 1710-1714. DOI: 10.1126/science.1086112)](https://science.sciencemag.org/content/301/5640/1710)
 
 ## To Organize
 
