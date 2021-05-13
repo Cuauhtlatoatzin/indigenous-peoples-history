@@ -50,6 +50,8 @@ In addition to this list, there's the [Earth Science, Megafuana, Horses, Populat
   * > Much of Haida Gwaii was ice-free by 18,000 calendar years ago (cal yr BP) (Lacourse et al. 2005; Ramsey et al. 2004; Shaw et al. 2019) and there are indications of a full glacial biotic refugium on the now-drowned Hecate Plain immediately east of the archipelago (Mathewes and Clague 2017). The shoreline history of the archipelago is complex. Earliest post-glacial (ca. 18,000–15,000 cal yr BP) relative sea level histories are poorly constrained. Well-constrained sea level histories extend from ca. 14,500 cal yr BP to the present. Shorelines dating to 14,500 cal yr BP are 150 m below modern level. Subsequently, relative sea level rose rapidly, passing modern level at 10,700 cal yr BP and reaching 15 m above modern level by 10,000 cal yr BP (Fedje 1993; Fedje et al. 2005a). Paleoshorelines dating to the early Holocene (10,000–6000 cal yr BP) stabilized 15 m above modern level, when local tectonic uplift was balanced by eustatic sea level rise. Relative sea level then fell to modern level during the late Holocene due to ongoing tectonic uplift.
   * > In recent years, an increasing number of archaeological components that predate 14,000 cal yr BP have been investigated from interior regions in the Americas (Dillehay et al. 2015; Jenkins et al. 2012; Waters et al. 2018; Waters, Forman, et al. 2011; Williams et al. 2018). These sites are older than most of the earliest sites found along the Pacific margin of North America (Table 1) and appear to be variable in their lithic assemblages, projectile point types, and resource use strategies (Williams and Madsen 2019). In North America, as described here, evidence for late Pleistocene Pacific coastal occupation appears by at least ca. 14,000–13,700 cal yr BP, with a possible earlier component at Daisy Cave (18,810–18,530 cal yr BP). However, radiocarbon dated late Pleistocene sites are relatively few and far between until ∼12,500 cal yr BP (Table 1). If Pacific coastal archaeologists working in North America are going to help address questions regarding the earliest human populations in the Americas, we need to start targeting pre-14,000-year-old shorelines wherever they are found, above or below the sea.
   * > There is more evidence of early Pacific coast archaeology sites from South America. The clearest indication of a coastal affiliation in the pre-Clovis time period comes from radiocarbon dates on nine species of seaweed found at the Monte Verde wet site, in Chile, with calibrated ages between ∼14,220 and 13,980 cal yr BP (Davis et al. 2019; Dillehay et al. 2008). Huaca Prieta, in Peru, has a long-term sequence of occupation with earliest evidence dating to ∼15,000 cal yr BP (Dillehay 2017). Also, from the Monte Verde sites, ephemeral occupations are reported between 18,500 and 14,500 cal yr BP (Dillehay et al. 2015). In this context, the 18,800–18,500 cal yr BP component from Daisy Cave (Erlandson et al. 1996) may not be out of order. Clearly, however, better quality evidence is needed to make the case for a pre16,000 cal yr BP human presence in the Americas.
+* [Waters, M. R. (2019). Late Pleistocene exploration and settlement of the Americas by modern humans. Science, 365(6449).](https://doi.org/10.1126/science.aat5447)
+  * > Two sites suggest an early human presence in eastern Beringia. From Lake E5 in northern Alaska (Fig. 2A), human fecal biomarkers found in lacustrine sediments suggest human occupation of the region since ~32 ka ago (26). Cutmarks on 15 animal bones dated from ∼24 to ∼15 ka ago at Bluefish Caves in the Yukon are believed to be the result of human activity (Fig. 2A) (27). The absence of stone tools, alternative natural taphonomic explanations for the bone modification, and site formation issues render the evidence from these sites equivocal (28).<br/><br/>The first unequivocal evidence of humans in eastern Beringia appears at Swan Point in central Alaska (Fig. 2A). Here, Yubetsu-style wedge-shaped microblade cores were used to make small blades that were inset into osseous projectile points 14.15 ± 0.15 ka ago (Fig. 2E) (29). This microblade technology is derived from the Siberian Diuktai culture of central Siberia, which dates from ∼18 to ∼12.6 ka ago (29, 30) and is found is western Beringia (31).
 * [Prufer KM, Alsgaard AV, Robinson M, Meredith CR, Culleton BJ, Dennehy T, et al. (2019) Linking late Paleoindian stone tool technologies and populations in North, Central and South America. PLoS ONE 14(7): e0219812.](https://doi.org/10.1371/journal.pone.0219812)
   * > We document a late Pleistocene/early Holocene stone tool tradition from Belize, located in southern Mesoamerica. This represents the first endogenous Paleoindian stone tool technocomplex recovered from well dated stratigraphic contexts for Mesoamerica. Previously designated Lowe, these artifacts share multiple features with contemporary North and South American Paleoindian tool types. Once hafted, these bifaces appear to have served multiple functions for cutting, hooking, thrusting, or throwing. The tools were developed at a time of technological regionalization reflecting the diverse demands of a period of pronounced environmental change and population movement. Combined stratigraphic, technological, and population paleogenetic data suggests that there were strong ties between lowland neotropic regions at the onset of the Holocene.
 * [Smith H, Goebel T (2018) Origins and spread of fluted-point technology in the Canadian Ice-Free Corridor and eastern Beringia. Proceedings of the National Academy of Sciences. 115(16): 4116-4121. DOI: 10.1073/pnas.1800312115](https://doi.org/10.1073/pnas.1800312115)
@@ -681,17 +683,33 @@ Trade between here and the south east:
 
 * [Coxcatlan Phase](https://en.wikipedia.org/wiki/Coxcatlan_Cave)
 
-### El Tajin - Papantla, Veracruz, MX - Totonac (5600 BCE - 1230 BCE)
+## El Tajin - Papantla, Veracruz, MX - Totonac (5600 BCE - 1230 BCE)
 
 * [El Tajin](https://en.wikipedia.org/wiki/El_Taj%C3%ADn)
 
   The Huastec may have been here first. The rise of the civilization seemed to mirror that of the Olmecs.
 
-### Chantuto - Soconusco, Chiapas, MX - Earliest Mokaya? (5500 BCE - 1500 BCE)
+## Chantuto - Soconusco, Chiapas, MX - Earliest Mokaya? (5500 BCE - 1500 BCE)
 
 * [Chantuto](https://en.wikipedia.org/wiki/Chantuto_Archaeological_Site)
 
-### San Andrés, Tabasco, MX - Olmec (5300 BCE - 350 BCE)
+## Mayo-Chinchipe Culture (5500 BCE - 1700 BCE)
+
+* [Mayo-Chinchipe](https://en.wikipedia.org/wiki/Mayo-Chinchipe)
+* [Mayo Chinchipe - Marañón archaeological landscape. UNESCO.](https://whc.unesco.org/en/tentativelists/6091/)
+* [Zarrillo, S., Gaikwad, N., Lanaud, C., Powis, T., Viot, C., Lesur, I., ... & Valdez, F. (2018). The use and domestication of Theobroma cacao during the mid-Holocene in the upper Amazon. Nature ecology & evolution, 2(12), 1879-1888.](https://www.academia.edu/39637452/The_use_and_domestication_of_Theobroma_cacao_during_the_mid_Holocene_in_the_upper_Amazon_Main_Text)
+
+### Santa Ana (La Florida) - Palanda Canton, Zamora-Chinchipe Province, Ecuador ( 3500 BCE)
+
+* [Santa Ana (La Florida)](https://en.wikipedia.org/wiki/Santa_Ana_(La_Florida))
+
+### Montegrande, Jaen, Cajamarca, Peru (~1000 BCE)
+
+ * [Atwood, R. (2017) Connecting Two Realms. Archeology. July/August.](https://www.archaeology.org/issues/266-1707/letter-from/5653-letter-from-peru-spiral-temples)
+ * [Staff. Peru: Get to know ceremonial temple Montegrande in Jaen. Andina. October 5.](https://andina.pe/ingles/noticia-peru-get-to-know-ceremonial-temple-montegrande-in-jaen-727614.aspx)
+   * [Gallery](https://andina.pe/agencia/galeria.aspx?GaleriaId=4796&FotoId=536374)
+
+## San Andrés, Tabasco, MX - Olmec (5300 BCE - 350 BCE)
 
 * [San Andrés](https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(Mesoamerican_site))
 * [Speech Scroll](https://en.wikipedia.org/wiki/Speech_scroll#/media/File:San_Andres_Cylinder_Seal_print_1.svg)
@@ -720,6 +738,13 @@ This could be the first use of irrigation canals in the "Americas".
 
 * [Zaña Valley](https://en.wikipedia.org/wiki/Za%C3%B1a_Valley)
 * [Dillehay TD, Eling HH Jr, Rossen J (2005) Preceramic irrigation canals in the Peruvian Andes. PNAS. 102(47): 17241-17244.](https://dx.doi.org/10.1073%2Fpnas.0508583102)
+
+## Valdivia Culture - Santa Elena, Ecuador (4400 BCE - 1450 BCE)
+
+Area later ocupied by Manteño civilization in 850 CE.
+
+* [Cultura Valdivia](https://es.wikipedia.org/wiki/Cultura_Valdivia)
+* [Valdivia Culture](https://en.wikipedia.org/wiki/Valdivia_culture)
 
 ## (meanwhile, across the pond) Tepe Hissar, Iran (4300 BCE)
 
@@ -760,13 +785,6 @@ Called copena because of their use of copper and galena. Became part of the Hope
 * [Carbon Dating of sites](https://www.fieldmuseum.org/sites/default/files/2003dates.pdf)
 
 ## Mesoamerican Paleo Indian Period Ends (3500 BCE)
-
-## Valdivia Culture - Santa Elena, Ecuador (3500 BCE - 1500 BCE)
-
-Area later ocupied by Manteño civilization in 850 CE.
-
-* [Valdivia Culture](https://en.wikipedia.org/wiki/Valdivia_culture)
-* [Cultura Valdivia](https://es.wikipedia.org/wiki/Cultura_Valdivia)
 
 ## Sechin Bajo - Supe Valley, Barranca Province, Peru (3500 BCE)
 
@@ -1182,6 +1200,10 @@ Technically, this still lives on as the town of Ángel R. Cabada. It reached it'
 ## Cacao in Puerto Escondido, Honduras (1300 BCE - 900 BCE)
 
 * [Henderson JS, et al. (2007) Chemical and archaeological evidence for the earliest cacao beverages. PNAS. 104(48): 18937-18940.](https://doi.org/10.1073/pnas.0708815104)
+
+## Cultura chorrera - Ecuador (1300 BCE - 300 BCE)
+
+* [Cultura chorrera](https://es.wikipedia.org/wiki/Cultura_chorrera)
 
 ## Tlatilco - Valley of Mexico, MX - Tlaticans, Olmecs? (1200 BCE - ?)
 
@@ -1997,6 +2019,11 @@ Possible Oto-manguean connections.
 
 * [Manteño civilization](https://en.wikipedia.org/wiki/Mante%C3%B1o_civilization)
 
+## Cultura Huancavilca/Manteño civilization (600 CE - 1530 CE)
+
+* [Cultura Huancavilca](https://es.wikipedia.org/wiki/Cultura_Huancavilca)
+* [Manteño civilization](https://en.wikipedia.org/wiki/Mante%C3%B1o_civilization)
+
 ## Tiwanaku - Andes (600 CE - 1000 CE)
 
 * [Goldstein PS (2015) Multiethnicity, pluralism, and migration in the south central Andes: An alternate path to state expansion. PNAS. 112(30): 9202-9209.](https://doi.org/10.1073/pnas.1500487112)
@@ -2328,6 +2355,7 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 ## Southern Rim of the Amazon (~1250 CE - ~1500 CE)
 
 * [de Souza JG et al. (2018) Pre-Columbian earth-builders settled along the entire southern rim of the Amazon. Nature Communications. 9: 1125.](https://www.nature.com/articles/s41467-018-03510-7)
+  * [Parts of the Amazon thought uninhabited were actually home to up to a million people](https://www.heritagedaily.com/2018/03/parts-of-the-amazon-thought-uninhabited-were-actually-home-to-up-to-a-million-peopl/118681)
 
 ## Exodus of Tewa from Central Mesa Verde to North Rio Grande (1280 CE)
 
@@ -2381,6 +2409,7 @@ Late Woodland Iroquoian village
 * [Wilson, A. S., Brown, E. L., Villa, C., Lynnerup, N., Healey, A., Ceruti, M. C., ... & Taylor, T. (2013). Archaeological, radiological, and biological evidence offer insight into Inca child sacrifice. Proceedings of the National Academy of Sciences, 110(33), 13322-13327.](https://doi.org/10.1073/pnas.1305117110)
 * [Wade, L (2013) 'Llullaillaco Maiden' May Have Been Drugged Before Sacrificed. Science News. July 29.](https://www.sciencemag.org/news/2013/07/llullaillaco-maiden-may-have-been-drugged-sacrificed)
 * [Balter M (2001) An Incan Feast Before Death. Science News. October 2.](https://www.sciencemag.org/news/2007/10/incan-feast-death)
+* [Choquequirao](https://en.wikipedia.org/wiki/Choquequirao)
 
 ### Sacrifices around the world
 
@@ -2447,7 +2476,6 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
 * [Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama](https://doi.org/10.1073/pnas.0611605104)
 * [Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru](http://science.sciencemag.org/content/316/5833/1890?ijkey=4362f3665dd49aebff7191e37064c12b197de9de&keytype2=tf_ipsecsha)
 * [Origin and Environmental Setting of Ancient Agriculture in the Lowlands of Mesoamerica](http://science.sciencemag.org/content/292/5520/1370?ijkey=aeea2a48ef0a5b00ed8cb29f91294eaa2ec64c2b&keytype2=tf_ipsecsha)
-* [A Re-Evaluation of the Isotopic and Archaeological Reconstructions of Diet in the Tehuacan Valley](https://www.jstor.org/stable/280636)
 * [The Origins of Plant Cultivation and Domestication in the New World Tropics](https://www.journals.uchicago.edu/doi/10.1086/659998)
 * **Tobacco**
   * > The tobacco plant is a very old plant which has medicinal and sacred uses from Oceania through to the Americas. It has very interesting genetic properties and many of the plants that have been on separate continents do not mix into readily viable hybrids, though there is a combination of N. fragrans and N. tabacum which does mix. Additional research has shown that N. fragrans is part of the oldest variation of section Suaveolentes, see Marks CE, Newbigin E, Ladiges PY (2011).
@@ -2456,23 +2484,23 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
   * [Kistler, L., Thakar, H. B., VanDerwarker, A. M., Domic, A., Bergström, A., George, R. J., ... & Kennett, D. J. (2020). Archaeological Central American maize genomes suggest ancient gene flow from South America. Proceedings of the National Academy of Sciences, 117(52), 33124-33129.](https://doi.org/10.1073/pnas.2015560117)
     * > Our genomic analyses establish a clear link between El Gigante maize and modern and ancient maize from South America. On the basis of links to southern Pan-American maize alone, this could be a result of a simple one-way dispersal of the Pan-American lineage where El Gigante maize acts as an outgroup to southern Pan-American genomes. However, this pattern does not explain the AIM-based links between El Gigante and earlier-dispersed South American lineages, nor the outgroup-f3 results tying El Gigante to ancient genomes in South America. Instead, we hypothesize that the South American signal in El Gigante maize provides evidence for Indigenous farmers carrying or dispersing maize northward through the Isthmus of Panama prior to ∼2,000 y ago.<br/><br/>Admixture graphs and f4 statistics reinforce multiple waves of dispersal southward out of the center of domestication. First, by around 7,000 cal. BP, an initial wave of semidomesticated maize was carried southward, where it likely underwent secondary improvement in the southwestern Amazon before diversifying across the continent (26, 37). Later, a second population of maize was transported southward, carrying the signal for excess gene flow with teosinte in the domestication center.
     * > The correlation between genome size and distance to the domestication center in the Pan-American group runs counter to the broad pattern in maize. This pattern may reflect a south-to-north dispersal as the ancestors to El Gigante maize—and possibly other landraces in Central America—were dispersed by farmers. This genome size gradient thus may represent the imprint of an ancestral dispersal vector consistent with our other analyses, but more research is necessary to further explore this pattern. Alternatively, it is possible that genome size, or the heterochromatic knob fraction, expanded for unknown reasons during the dispersal history of the Pan-American lineage.<br/><br/>The transit of ancestral Pan-American maize into South America would have conferred reproductive isolation from wild teosinte, perhaps for the first prolonged period in the history of this lineage. The isolation from crop–wild gene flow likely would have encouraged the development of robust domesticated phenotypes and true-breeding landraces. It is also possible that gene flow from first-wave South American lineages boosted Pan-American maize diversity, leading to increased performance through hybrid vigor. In total, ancient interbreeding between ancestral first-wave South American maize and second-wave Pan-American maize could have been responsible for the emergence of robust new forms that were carried northward, as well as spreading with Indigenous farmers throughout South America.
-  * [Matsuoka Y, Vigouroux Y, Goodman MM, Sanchez GJ, Buckler E, Doebley J (2002). A single domestication for maize shown by multilocus microsatellite genotyping. Proceedings of the National Academy of Sciences of the United States of America, 99(9), 6080–6084. http://doi.org/10.1073/pnas.052125199](http://doi.org/10.1073/pnas.052125199)
-  * [Benz BF (2001) Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca. PNAS. 98(4): 2104-2106.](https://doi.org/10.1073/pnas.98.4.2104)
-  * [A single domestication for maize shown by multilocus microsatellite genotyping](https://doi.org/10.1073/pnas.052125199)
-  * [The earliest archaeological maize (Zea mays L.) from highland Mexico: New accelerator mass spectrometry dates and their implications](https://doi.org/10.1073/pnas.98.4.2101)
-  * [Investigation of the bottleneck leading to the domestication of maize](https://doi.org/10.1073/pnas.95.8.4441)
-  * [Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andrés, Tabasco, Mexico](https://doi.org/10.1073/pnas.0701425104)
-  * [Evidence for maize (Zea mays) in the Late Archaic (3000–1800 B.C.) in the Norte Chico region of Peru](https://doi.org/10.1073/pnas.1219425110)
-  * [Molecular analysis of crosses between Tripsacum dactyloides and Zea diploperennis (Poaceae)](https://link.springer.com/article/10.1007/s001220050469)
-  * [Isoenzymatic Variation in Zea (Gramineae)](https://teosinte.wisc.edu/pdfs/Syst_Bot_1984.pdf)
-  * [Comparative Analysis of the Río Balsas and Tehuacán Models for the Origin of Maize](https://www.jstor.org/stable/1571668)
+  * [Haas, J., Creamer, W., Mesía, L. H., Goldstein, D., Reinhard, K., & Rodríguez, C. V. (2013). Evidence for maize (Zea mays) in the Late Archaic (3000–1800 BC) in the Norte Chico region of Peru. Proceedings of the National Academy of Sciences, 110(13), 4945-4949.](https://doi.org/10.1073/pnas.1219425110)
   * [Grobman A et al. (2012) Preceramic maize from Paredones and Huaca Prieta, Peru. PNAS. 109(5): 1755–1759.](https://dx.doi.org/10.1073%2Fpnas.1120270109)
-  * [The Mysterious Origin of Maize](https://www.jstor.org/stable/425648)
-  * [An Interdisciplinary Perspective on the Origin of Maize](https://www.jstor.org/stable/971761)
-  * [Studies in Archaeological Maize I: The "Wild" Maize from San Marcos Cave Reexamined](https://www.jstor.org/stable/281280)
-  * [Prehistoric Decline in Freshwater Mussels Coincident with the Advent of Maize Agriculture](https://www.srs.fs.usda.gov/pubs/ja/ja_peacock001.pdf)
-  * [Marginal horticulturalists or maize agriculturalists? Archaeobotanical, paleopathological, and isotopic evidence relating to Langford Tradition maize consumption](https://www.academia.edu/1332730/Marginal_horticulturalists_or_maize_agriculturalists_Archaeobotanical_paleopathological_and_isotopic_evidence_relating_to_Langford_Tradition_maize_consumption)
   * [Piperno DR, Ranere AJ, Holst I, Iriarte J, Dickau R (2009) Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico. PNAS. 106(13): 5019-5024.](https://doi.org/10.1073/pnas.0812525106)
+  * [Pohl, M. E., Piperno, D. R., Pope, K. O., & Jones, J. G. (2007). Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andres, Tabasco, Mexico. Proceedings of the National Academy of Sciences, 104(16), 6870-6875.](https://doi.org/10.1073/pnas.0701425104)
+  * [Peacock, E., Haag, W. R., & Warren Jr, M. L. (2005). Prehistoric decline in freshwater mussels coincident with the advent of maize agriculture. Conservation biology, 19(2), 547-551.](https://www.srs.fs.usda.gov/pubs/ja/ja_peacock001.pdf)
+  * [Emerson, T. E., Hedman, K. M., & Simon, M. L. (2005). Marginal horticulturalists or maize agriculturalists? Archaeobotanical, paleopathological, and isotopic evidence relating to Langford Tradition maize consumption. Midcontinental Journal of Archaeology, 30(1), 67-118.](https://www.academia.edu/1332730/Marginal_horticulturalists_or_maize_agriculturalists_Archaeobotanical_paleopathological_and_isotopic_evidence_relating_to_Langford_Tradition_maize_consumption)
+  * [Matsuoka Y, Vigouroux Y, Goodman MM, Sanchez GJ, Buckler E, Doebley J (2002). A single domestication for maize shown by multilocus microsatellite genotyping. Proceedings of the National Academy of Sciences of the United States of America, 99(9), 6080–6084. http://doi.org/10.1073/pnas.052125199](http://doi.org/10.1073/pnas.052125199)
+  * [Eubanks, M. (2001). The Mysterious Origin of Maize. Economic Botany, 55(4), 492-514. Retrieved May 11, 2021, from http://www.jstor.org/stable/4256485](https://www.jstor.org/stable/4256485)
+  * [Eubanks, M. W. (2001). An interdisciplinary perspective on the origin of maize. Latin American Antiquity, 91-98.](https://www.jstor.org/stable/971761)
+  * [Benz BF (2001) Archaeological evidence of teosinte domestication from Guilá Naquitz, Oaxaca. PNAS. 98(4): 2104-2106.](https://doi.org/10.1073/pnas.98.4.2104)
+  * [Piperno, D. R., & Flannery, K. V. (2001). The earliest archaeological maize (Zea mays L.) from highland Mexico: new accelerator mass spectrometry dates and their implications. Proceedings of the National Academy of Sciences, 98(4), 2101-2103.](https://doi.org/10.1073/pnas.98.4.2101)
+  * [MacNeish, R. S., & Eubanks, M. W. (2000). Comparative analysis of the Rio Balsas and Tehuacan models for the origin of maize. Latin American Antiquity, 3-20.](https://www.jstor.org/stable/1571668)
+  * [Eyre-Walker, A., Gaut, R. L., Hilton, H., Feldman, D. L., & Gaut, B. S. (1998). Investigation of the bottleneck leading to the domestication of maize. Proceedings of the National Academy of Sciences, 95(8), 4441-4446.](https://doi.org/10.1073/pnas.95.8.4441)
+  * [Eubanks, M. W. (1997). Molecular analysis of crosses between Tripsacum dactyloides and Zea diploperennis (Poaceae). Theoretical and Applied Genetics, 94(6), 707-712.](https://link.springer.com/article/10.1007/s001220050469)
+  * [Benz, B. F., & Iltis, H. H. (1990). Studies in Archaeological Maize I: The" Wild" Maize from San Marcos Cave Reexamined. American Antiquity, 500-511.](https://www.jstor.org/stable/281280)
+  * [Farnsworth, P., Brady, J. E., DeNiro, M. J., & MacNeish, R. S. (1985). A re-evaluation of the isotopic and archaeological reconstructions of diet in the Tehuacan Valley. American Antiquity, 102-116.](https://www.jstor.org/stable/280636)
+  * [Doebley, J. F., Goodman, M., & Stuber, C. W. (1984). Isoenzymatic variation in Zea (gramineae). Systematic Botany, 203-218.](https://teosinte.wisc.edu/pdfs/Syst_Bot_1984.pdf)
 * **Squash/Gourd**
   * [Duncan NA, Pearsall DM, Benfer RA Jr. (2009) Gourd and squash artifacts yield starch grains of feasting foods from preceramic Peru. PNAS. 106(32): 13202-13206.](https://doi.org/10.1073/pnas.0903322106)
   * [Ranere AJ, Piperno DR, Holst I, Dickau R, Iriarte J (2009) The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley, Mexico. PNAS. 106(13): 5014-5018.](https://doi.org/10.1073/pnas.0812590106)
@@ -2540,7 +2568,6 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
 * [Confederación chalca](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_chalca)
 * [Core/Biface Ratios, Mobility, Refitting, and Artifact Use-Lives: A Paleoindian Example](https://www.researchgate.net/publication/260468488_CoreBiface_Ratios_Mobility_Refitting_and_Artifact_Use-Lives_A_Paleoindian_Example)
 * [A new technique makes it possible to extract the DNA from hominids preserved in sediments](https://www.heritagedaily.com/2017/05/a-new-technique-makes-it-possible-to-extract-the-dna-from-hominids-preserved-in-sediments/114683)
-* [Parts of the Amazon thought uninhabited were actually home to up to a million people](https://www.heritagedaily.com/2018/03/parts-of-the-amazon-thought-uninhabited-were-actually-home-to-up-to-a-million-peopl/118681)
 * [New Nasca lines found in Peru](https://www.heritagedaily.com/2018/04/new-nasca-lines-found-in-peru/118794)
 * [Salt: Mover and shaker in ancient Maya society](https://www.heritagedaily.com/2018/10/salt-mover-and-shaker-in-ancient-maya-society/121840)
 * [Venezuelan rock art mapped in unprecedented detail](https://www.heritagedaily.com/2017/12/venezuelan-rock-art-mapped-unprecedented-detail/117741)
