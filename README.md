@@ -984,7 +984,7 @@ The fox pouch is interesting, but it could just be a coincidence that the place 
 
 ## Altica - Basin of Mexico, Mexico, MX (?)
 
-* [Nichols DL, Stoner WD. (2019) Before Teotihucan&mdash;Altica, Exchange, Interactions, and the Origins of Complex Society in the North East Basin of Mexico. Ancient Mesoamerica. 30. doi:10.1017/S0956536118000305](http://www.academia.edu/download/61710120/9_before_teotihuacanaltica_exchange_interactions_and_the_origins_of_complex_society_in_the_northeast_basin_of_mexico.pdf)
+* [Nichols DL, Stoner WD. (2019) Before Teotihuacan&mdash;Altica, Exchange, Interactions, and the Origins of Complex Society in the North East Basin of Mexico. Ancient Mesoamerica. 30. doi:10.1017/S0956536118000305](http://www.academia.edu/download/61710120/9_before_teotihuacanaltica_exchange_interactions_and_the_origins_of_complex_society_in_the_northeast_basin_of_mexico.pdf)
 
 ## Chocolate Domesticated by Mokaya Culture (1900 BCE)
 
@@ -1637,6 +1637,12 @@ Articles
 * [Clayton, S. C. (2011). Gender and mortuary ritual at ancient Teotihuacan, Mexico: A study of intrasocietal diversity. Cambridge Archaeological Journal, 21(1), 31-52.](https://www.academia.edu/2950465/Gender_and_Mortuary_Ritual_at_Ancient_Teotihuacan_Mexico_a_Study_of_Intrasocietal_Diversity)
 * [Clayton, S. C. (2009). Ritual diversity and social identities: A study of mortuary behaviors at Teotihuacan. Arizona State University.](https://www.academia.edu/37494337/RITUAL_DIVERSITY_AND_SOCIAL_IDENTITIES_A_STUDY_OF_MORTUARY_BEHAVIORS_AT_TEOTIHUACAN)
 * [De Lucia, K. (2008). 2 Looking Beyond Gender Hierarchy: Rethinking Gender at Teotihuacan, Mexico. Archeological Papers of the American Anthropological Association, 18(1), 17-36.](https://www.academia.edu/214191/Looking_Beyond_Gender_Hierarchy_Rethinking_Gender_at_Teotihuacan_Mexico)
+* [Ferguson, K. (2007). The Relationship of the Maya and Teotihuacan: A Mesoamerican Mystery. Inquiry Journal.](https://scholars.unh.edu/inquiry_2007/4/)
+* [Wright, L. E. (2005). In search of Yax Nuun Ayiin I: revisiting the Tikal project's Burial 10. Ancient Mesoamerica, 89-100.](https://www.jstor.org/stable/26309395) &mdash; Strontium analysis indicates that skeletons burried were foreigners to the Maya lowlands.
+
+### Interesting points of view
+
+[Teotihuacan Traders in Tikal’s Royal Dynasty](http://www.iia.unam.mx/images/difusion/La_ruta_de_la_serpiente_Los_gremios_del_comercio_teotihuacano_en_Mesoamrica/lecturas/Ruud-van-Akkeren_Teotihuacan.pdf)
 
 ### Non-scholarly articles
 * [Teotihuacan](https://en.wikipedia.org/wiki/Teotihuacan)
@@ -1647,6 +1653,7 @@ Articles
 * [Infographic: Dig deeper into Teotihuacán](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-teotihuacan-site/3035/)
 * [Teotihuacán, the City of the Gods -- video](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-teotihuacan-city-gods/3019/)
 * [Archaeologists explore the tunnel below the Pyramid of the Feathered Serpent -- video](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-archaeologists-explore-tunnel-pyramid-feathered-serpent/3022/) &mdash; This has physical manifestations which map to Lenca stories.
+* [Clynes, T. (2021) Archaeologists discover mysterious monument hidden in plain sight. National Geographic. April 16.](https://www.nationalgeographic.com/history/article/archaeologists-discover-mayan-monument-hidden-plain-sight)
 * [Archeologist Sounds Bummed to Find No Royal Tomb at Teotihuacán This Year](https://pictorial.jezebel.com/archeologist-sounds-bummed-to-find-no-royal-tomb-at-teo-1794596857)
 * [Laity, Paul. (2017) Lakes of mercury and human sacrifices – after 1,800 years, Teotihuacan reveals its treasures. The Guardian. 24 Sep.](https://web.archive.org/web/20170925000914/https://www.theguardian.com/artanddesign/2017/sep/24/teotihuacan-pyramids-treasures-secret-de-young-museum-san-francisco)
 * [Where did the ancient Teotihuacanos come from?](http://www.pbs.org/wnet/secrets/teotihuacans-lost-kings-ancient-teotihuacanos-come/3025/)
@@ -1933,8 +1940,11 @@ Around 1000 CE, Toltec invaded. Population dispersed, but some people remained u
 * [Labna](https://en.wikipedia.org/wiki/Labna) &mdash; Puuc region, Yucatan, MX (862 CE - ?)
 * [Xlapak](https://en.wikipedia.org/wiki/Xlapak) &mdash; Puuc region, Yucatan, MX (?)
 * [Kiuic](https://en.wikipedia.org/wiki/Kiuic) &mdash; Puuc region, Yucatan, MX (? - 880 CE)
-* [ Ringle WM, Gallareta Negrón T, May Ciau R, Seligson KE, Fernandez-Diaz JC, Ortegón Zapata D (2021) Lidar survey of ancient Maya settlement in the Puuc region of Yucatan, Mexico. PLoS ONE 16(4): e0249314. doi:10.1371/journal.pone.0249314](https://doi.org/10.1371/journal.pone.0249314)
+* [Ringle WM, Gallareta Negrón T, May Ciau R, Seligson KE, Fernandez-Diaz JC, Ortegón Zapata D (2021) Lidar survey of ancient Maya settlement in the Puuc region of Yucatan, Mexico. PLoS ONE 16(4): e0249314. doi:10.1371/journal.pone.0249314](https://doi.org/10.1371/journal.pone.0249314)
   * > The Puuc is also a distinct physiographic zone of the Yucatan peninsula, whose northern limit is marked by a low escarpment known as the Sierrita de Ticul, a ridge of hills rarely more than 110–120 m above the plains to the north (Fig 3). To the south of the escarpment is an uplifted wedge of rolling terrain (Duch Gary’s [9] lomerío bajo con llanuras). Often the swales between higher ground are filled with soil, resulting in the formation of “flats” of relatively deep soils that are today favored for agriculture (referred to as planadas herein). This zone widens from east to west and is known as the Valle de Sta. Elena, after the largest town within it. Within the Valle de Sta. Elena (VSE) is a shallow basin known locally as the Valle de Yaxhom, important to the study that follows. Finally, a dense zone of kegelkarst or conekarst hills (Duch Gary’s lomerío alto con llanuras), known as the Distrito de Bolonchen (DBC), lies to the south of the VSE. Thousands of such hills divide the landscape, although they hardly ever rise more than 90 m above the surrounding terrain. Bordering the DBC to the south is a zone of seasonal swamps (ak’alches) whose archaeology is understudied [10]. It is important to note that there are basins of varying sizes and uplifted areas bordering them in each of these broad zones, and that soil cover in uplifted areas is usually relatively shallow, enhancing the visibility of archaeological features.
+  * [Geggel, L (2021) Details of stunning Maya acropolises and sophisticated civilization revealed by laser scans. LiveScience. April 30.](https://www.livescience.com/amp/lidar-maya-yucatan.html)
+* [McGreevy, N (2021) 1,200 Years Ago, Maya Children Decorated This Hidden Cave With Handprints. Smithsonian Magazine. May 6.](https://www.smithsonianmag.com/smart-news/1200-years-ago-maya-children-decorated-hidden-cave-handprints-180977663/)
+* [Strecker, M (2013) Hand images in Maya caves. ARARA-IFRAO 2013 International rock Art Congress.](https://www.researchgate.net/publication/286439563_Hand_images_in_Maya_caves)
 
 ## Pipil - El Salvador, Nicaragua, Guatamala - Pipil (500 CE - 1530 CE)
 
@@ -2074,17 +2084,9 @@ Preceeded by El Molle Complex. Evolved into Diaguita Culture.
   * > From the Olmec to the Maya to the Aztec, ballgames were one of the defining activities of Mesoamerican cultures. Beginning some time before 1200 B.C., competitors kicked and whacked rubber balls up and down a playing court. These ballgames were rich in symbolism—in some cases the gods were said to have played—and a powerful force that bound communities together. But it’s possible these games weren’t limited to Mesoamerica. Archaeologists have found more than 200 oval-shaped earthen depressions with embankments in central and southern Arizona that resemble the Mesoamerican ballcourts. These features date between roughly A.D. 750 and 1200 and are associated with the Hohokam culture.
   * > Though archaeologists continue to debate their purpose, and ethnographic accounts are silent on this matter, most researchers now surmise that the Hohokam courts were used for ballgames, much as the Mesoamerican ones were, according to Henry Wallace, a senior research archaeologist with Desert Archaeology, Inc., in Tucson, Arizona. In doing so the courts played a major role in strengthening Hohokam identity and interactions among villages. “Whenever you have games, you have people coming together,” Wallace said. “It’s a great way of linking social groups.”
 
-### Speaking of Ballgames
+### Speaking of Games
 
-Many ball games have been played throughout the Americas. In a testament to a possible connection to the Mesoamerican ballgame, the Ojibwe call their version of lacross, baaga`adowe -- which means "bump hips". Other names: dehuntshigwa'es ("men hit a rounded object") - Onondaga, da-nah-wah'uwsdi ("little war") - Eastern Cherokee, begadwe ("little brother of war") - Mohawk, ká:lahse - Oneida, and kapucha toli ("stickball player") - Choctaw
-
-* [History of lacrosse](https://en.wikipedia.org/wiki/History_of_lacrosse)
-* [Indigenous North American stickball](https://en.wikipedia.org/wiki/Indigenous_North_American_stickball)
-* [Ká:lahse a Haudeneshonee Tradition](https://www.oneidanationlacrosse.com/)
-* [Choctaw Stickball: A Game of History, Passion and Pride](https://newsmaven.io/indiancountrytoday/archive/choctaw-stickball-a-game-of-history-passion-and-pride-L4tYhhheoUKit4eYYLgDVQ/)
-* [Uarhukua](http://www.jcarlosmacias.com/autoctonoytradicional/Deportes/RPelota.html)
-  * Uarhukua is P’urhépecha for "stick". It is a game dated to at least 1500 BCE played with a faming ball of wood and pine pitch.
-* [Games. Mississippi Valley Archaeology Center (MVAC) at the University of Wisconsin-La Crosse (UW-L).](http://mvac.uwlax.edu/past-cultures/native-knowledge/games/)
+See the [Games](./games.md) page for futher discussion about ballgames (and other games).
 
 ## Wakulla Weeden Island Culture - (750 CE - 1200 CE)
 

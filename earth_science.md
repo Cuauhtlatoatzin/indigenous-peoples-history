@@ -2,6 +2,7 @@
 
 ## Glaciers and Climate Change
 
+* [Biller-Celander, N., Shakun, J. D., McGee, D., Wong, C. I., Reyes, A. V., Hardt, B., ... & Lauriol, B. (2021). Increasing Pleistocene permafrost persistence and carbon cycle conundrums inferred from Canadian speleothems. Science Advances, 7(18), eabe5799.](https://doi.org/10.1126/sciadv.abe5799)
 * [Lapointe, F., Bradley, R. S., Francus, P., Balascio, N. L., Abbott, M. B., Stoner, J. S., ... & Labarre, T. (2020). Annually resolved Atlantic sea surface temperature variability over the past 2,900 y. Proceedings of the National Academy of Sciences.](https://doi.org/10.1073/pnas.2014166117)
 * [Raia, P., Mondanaro, A., Melchionna, M., Di Febbraro, M., Diniz-Filho, J. A., Rangel, T. F., ... & Profico, A. (2020). Past Extinctions of Homo Species Coincided with Increased Vulnerability to Climatic Change. One Earth.](https://doi.org/10.1016/j.oneear.2020.09.007)
 * [Berner, L. T., Massey, R., Jantz, P., Forbes, B. C., Macias-Fauria, M., Myers-Smith, I., ... & Burns, P. (2020). Summer warming explains widespread but not uniform greening in the Arctic tundra biome. Nature Communications, 11(1), 1-12.](https://doi.org/10.1038/s41467-020-18479-5)
@@ -155,24 +156,30 @@
   * [Ryan Kelly, Melissa L. Chipman, Philip E. Higuera, Ivanka Stefanova, Linda B. Brubaker, and Feng Sheng Hua (2013). Recent burning of boreal forests exceeds fire regime limits of the past 10,000 years. 110(32): 13055–13060.](https://dx.doi.org/10.1073%2Fpnas.1305069110)
 
 
-## Forrest Management
+## Land Use/Forrest Management
 
+* [Thompson, J. C., Wright, D. K., Ivory, S. J., Choi, J. H., Nightingale, S., Mackay, A., ... & Gomani-Chindebvu, E. (2021). Early human impacts and ecosystem reorganization in southern-central Africa. Science Advances, 7(19), eabf9776.](https://doi.org/10.1126/sciadv.abf9776)
+* [Armstrong, C. G., Miller, J. E., McAlvay, A. C., Ritchie, P. M., & Lepofsky, D. (2021). Historical Indigenous Land-Use Explains Plant Functional Trait Diversity.](https://doi.org/10.5751/ES-12322-260206)
 * [Carter, V. A., Brunelle, A., Power, M. J., DeRose, R. J., Bekker, M. F., Hart, I., ... & Codding, B. F. (2021). Legacies of Indigenous land use shaped past wildfire regimes in the Basin-Plateau Region, USA. Communications Earth & Environment, 2(1), 1-9.](https://doi.org/10.1038/s43247-021-00137-3)
+* [Ellis, E. C., Gauthier, N., Goldewijk, K. K., Bird, R. B., Boivin, N., Díaz, S., ... & Watson, J. E. (2021). People have shaped most of terrestrial nature for at least 12,000 years. Proceedings of the National Academy of Sciences, 118(17).](https://doi.org/10.1073/pnas.2023483118)
 * [Oswald, W. W., Foster, D. R., Shuman, B. N., Chilton, E. S., Doucette, D. L., & Duranleau, D. L. (2020). Conservation implications of limited Native American impacts in pre-contact New England. Nature Sustainability, 3(3), 241-246.](https://doi.org/10.1038/s41893-019-0466-0)
+* [Stephens, Lucas, Dorian Fuller, Nicole Boivin, Torben Rick, Nicolas Gauthier, Andrea Kay, Ben Marwick et al. "Archaeological assessment reveals Earth’s early transformation through land use." Science 365, no. 6456 (2019): 897-902.](https://doi.org/10.1126/science.aax1192)
+* [Fisher, J. A., Shackelford, N., Hocking, M. D., Trant, A. J., & Starzomski, B. M. (2019). Indigenous peoples’ habitation history drives present‐day forest biodiversity in British Columbia's coastal temperate rainforest. People and Nature, 1(1), 103-114.](https://doi.org/10.1002/pan3.16)
 * [Hoecker, T. J., & Higuera, P. E. (2019). Forest succession and climate variability interacted to control fire activity over the last four centuries in an Alaskan boreal landscape. Landscape Ecology, 34(2), 227-241.](https://doi.org/10.1007/s10980-018-00766-8)
 * [D.R. Piperno, C.N.H. McMichael, M.B. Bush (2019) Finding forest management in prehistoric Amazonia. Anthropocene. 26: 100211.](https://doi.org/10.1016/j.ancene.2019.100211) &mdash; [PDF](https://repository.si.edu/bitstream/handle/10088/97862/Piperno%20et%20al.%202019%20Finding%20forest%20management.pdf?sequence=1&isAllowed=y)
 * [Caetano Andrade VL, Flores BM, Levis C, Clement CR, Roberts P, Schöngart J (2019) Growth rings of Brazil nut trees (Bertholletia excelsa) as a living record of historical human disturbance in Central Amazonia. PLoS ONE 14(4): e0214128.](https://doi.org/10.1371/journal.pone.0214128)
 * [Fulton, A.E. & Yansa, C.H. (2019) Characterization of Native American vegetation disturbance in the forests of central New York State, USA during the late 18th century ce. Veget Hist Archaeobot.](https://doi.org/10.1007/s00334-019-00741-6)
 * [Coughlan MR, Nelson DR (2018) Influences of Native American land use on the Colonial Euro-American settlement of the South Carolina Piedmont. PLoSONE 13(3):e0195036.](https://doi.org/10.1371/journal.pone.0195036)
 * [M.W. Palace, C.N.H. McMichael, B.H. Braswell, S.C. Hagen, M.B. Bush, E. Neves, E. Tamanaha, C. Herrick, S. Frolking (2017) Ancient Amazonian populations left lasting impacts on forest structure. Ecosphere. 8(12): e02035.](https://doi.org/10.1002/ecs2.2035)
+* [Levis, C., Costa, F. R., Bongers, F., Peña-Claros, M., Clement, C. R., Junqueira, A. B., ... & Gamarra, L. V. (2017). Persistent effects of pre-Columbian plant domestication on Amazonian forest composition. Science, 355(6328), 925-931.](https://doi.org/10.1126/science.aal0157)
 * [A.B. Junqueira, C. Levis, F. Bongers, M. Peña-Claros, C.R. Clement, F. Costa, Hans ter Steege (2017) Response to Comment on “Persistent effects of pre-Columbian plant domestication on Amazonian forest composition”. Science. 358(6361): eaan8347.](https://science.sciencemag.org/content/358/6361/eaan8837.abstract)
 * [C.W. Dick (2017) A critical take on “Persistent effects of pre-Columbian plant domestication on Amazonian forest composition”. Professional Blog.](https://sites.lsa.umich.edu/cwdick-lab/2017/03/18/a-critical-take-on-persistent-effects-of-pre-columbian-plant-domestication-on-amazonian-forest-composition/)
 * [C.H. McMichael, K.J. Feeley, C.W. Dick, D.R. Piperno, M.B. Bush (2017) Comment on “Persistent effects of pre-Columbian plant domestication on Amazonian forest composition”. Science. 358(6361): eaan8347.](https://science.sciencemag.org/content/358/6361/eaan8347)
-* [C. Lewis et al. (2017) Persistent effects of pre-Columbian plant domestication on Amazonian forest composition. Science. 355(6328): 925-931.](https://science.sciencemag.org/content/355/6328/925)
 * [C.N.H. McMichael, Frazer Matthews-Bird, William Farfan-Rios, and K.J. Feeley (2017) Ancient human disturbances may be skewing our understanding of Amazonian forests. PNAS. 114(3): 522-527.](https://doi.org/10.1073/pnas.1614577114)
 * [C.R. Clement, W.M. Denevan, M.J. Heckenberger, A.B. Junqueira, E.G. Neves, W.G. Teixeira, W.I. Woods (2015) The domestication of Amazonia before European conquest. Royal Society Proceedings B. 282(1812)](https://doi.org/10.1098/rspb.2015.0813)
 * [Stephen J. Tulowiecki, Chris P. S. Larsen (2015) Native American impact on past forest composition inferred from species distribution models, Chautauqua County, New York. Ecological Monographs. 85(4): 557-581.](https://doi.org/10.1890/14-2259.1)
 * [Thompson JR, Carpenter DN, Cogbill CV, Foster DR (2013) Four Centuries of Change in Northeastern United States Forests. PLoS ONE 8(9): e72540.](https://doi.org/10.1371/journal.pone.0072540)
+* [Ter Steege, H., Pitman, N. C., Sabatier, D., Baraloto, C., Salomão, R. P., Guevara, J. E., ... & Silman, M. R. (2013). Hyperdominance in the Amazonian tree flora. Science, 342(6156).](https://doi.org/10.1126/science.1243092)
 * [Cynthia Fowler, Evelyn Konopik (2007) The History of Fire in the Southern United States. Human Ecology Review 14(2): 165-176.](https://www.humanecologyreview.org/pastissues/her142/fowlerandkonopik.pdf)
 * [Bryan A Black, , Charles M Ruffner, and , Marc D Abrams (2006) Native American influences on the forest composition of the Allegheny Plateau, northwest Pennsylvania. Canadian Journal of Forest Research. 36(5): 1266-1275.](https://doi.org/10.1139/x06-027) &mdash; [PDF](http://personal.psu.edu/faculty/a/g/agl/Black_CJFR_2006_NAI.pdf)
 * [Foster, H.T., Black, B. & Abrams, M.D. (2004) A Witness Tree Analysis of the Effects of Native American Indians on the Pre-European Settlement Forests in East-Central Alabama. Human Ecology 32: 27.](https://doi.org/10.1023/B:HUEC.0000015211.98991.9c) &mdash; [PDF](http://test.scripts.psu.edu/users/a/g/agl/Human%20ecology%202005.pdf)
@@ -243,3 +250,8 @@
 ### Food sharing patterns might indicate common origins of cultures
 
 * [Ahedo V, Caro J, Bortolini E, Zurro D, Madella M, Galán JM (2019) Quantifying the relationship between food sharing practices and socio-ecological variables in small-scale societies: A cross-cultural multi-methodological approach. PLoS ONE 14(5): e0216302.](https://doi.org/10.1371/journal.pone.0216302)
+
+### Change through human activity
+
+* [Raven, P. H., & Wagner, D. L. (2021). Agricultural intensification and climate change are rapidly decreasing insect biodiversity. Proceedings of the National Academy of Sciences, 118(2).](https://doi.org/10.1073/pnas.2002548117)
+* [Boivin, N. L., Zeder, M. A., Fuller, D. Q., Crowther, A., Larson, G., Erlandson, J. M., ... & Petraglia, M. D. (2016). Ecological consequences of human niche construction: Examining long-term anthropogenic shaping of global species distributions. Proceedings of the National Academy of Sciences, 113(23), 6388-6396.](https://doi.org/10.1073/pnas.1525200113)
