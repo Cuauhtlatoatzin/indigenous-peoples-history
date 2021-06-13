@@ -2,6 +2,8 @@
 
 ## Glaciers and Climate Change
 
+* [Raja, M., & Rosell-Melé, A. (2021). Appraisal of sedimentary alkenones for the quantitative reconstruction of phytoplankton biomass. Proceedings of the National Academy of Sciences, 118(2).](https://doi.org/10.1073/pnas.2014787118)
+* [Knudson, K. P., Ravelo, A. C., Aiello, I. W., Knudson, C. P., Drake, M. K.,  & Sakamoto, T. (2021). Causes and timing of recurring subarctic Pacific hypoxia. Science Advances, 7(23), eabg2906.](https://doi.org/10.1126/sciadv.abg2906)
 * [Biller-Celander, N., Shakun, J. D., McGee, D., Wong, C. I., Reyes, A. V., Hardt, B., ... & Lauriol, B. (2021). Increasing Pleistocene permafrost persistence and carbon cycle conundrums inferred from Canadian speleothems. Science Advances, 7(18), eabe5799.](https://doi.org/10.1126/sciadv.abe5799)
 * [Lapointe, F., Bradley, R. S., Francus, P., Balascio, N. L., Abbott, M. B., Stoner, J. S., ... & Labarre, T. (2020). Annually resolved Atlantic sea surface temperature variability over the past 2,900 y. Proceedings of the National Academy of Sciences.](https://doi.org/10.1073/pnas.2014166117)
 * [Raia, P., Mondanaro, A., Melchionna, M., Di Febbraro, M., Diniz-Filho, J. A., Rangel, T. F., ... & Profico, A. (2020). Past Extinctions of Homo Species Coincided with Increased Vulnerability to Climatic Change. One Earth.](https://doi.org/10.1016/j.oneear.2020.09.007)
@@ -32,14 +34,6 @@
 * [Lawler, A. (2014). In search of Green Arabia. Science, 345(6200), 994-997.](https://doi.org/10.1126/science.345.6200.994)
 * [Swisher ME, Jenkins DL, Jackson Jr. LE, Phillips FM (2013) A Reassessment of the Role of the Canadian Ice-free Corridor in Light of New Geological Evidence. Current Archaeological Happenings in Oregon. 38(4): 9-14.](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence) &mdash; Good conceptualizations of the range of the glacial ice sheets.
 * [Robinson A, Calov A, Ganopolski A (2012) Multistability and critical thresholds of the Greenland ice sheet. Nature Climate Change. (2): 429–432.](https://doi.org/10.1038/nclimate1449) &mdash; [PDF](https://www.researchgate.net/publication/230662041_Multistability_and_critical_thresholds_of_the_Greenland_Ice_Sheet)
-
-### Genocide Induced Climate Change
-
-* [Alexander Kocha, Chris Brierley, Mark M. Maslin, Simon L. Lewis (2019) Earth system impacts of the European arrival and Great Dying in the Americas after 1492. Quarternery Science Reviews. 207: 13-36.](https://doi.org/10.1016/j.quascirev.2018.12.004)
-* [Matthew J. Liebmann, Joshua Farella, Christopher I. Roos, Adam Stack, Sarah Martini, and Thomas W. Swetnam. Native American depopulation, reforestation, and fire regimes in the Southwest United States, 1492–1900 CE. PNAS. 9 February. 2016 113(6): E696-E704.](https://doi.org/10.1073/pnas.1521744113)
-* [R.J. Nevle, D.K. Bird, W.F. Ruddiman and R.A. Dull (2011) Neotropical human–landscape interactions, fire, and atmospheric CO2 during European conquest. The Holocene. Sage. DOI: 10.1177/0959683611404578](https://www.researchgate.net/profile/Robert_Dull/publication/254097445_Neotropical_human-landscape_interactions_fire_and_atmospheric_CO2_during_European_conquest/links/54de2fc40cf2814662ee17af.pdf)
-* [Robert A. Dull , Richard J. Nevle , William I. Woods , Dennis K. Bird , Shiri Avnery & William M. Denevan (2010) The Columbian Encounter and the Little Ice Age: Abrupt Land Use Change, Fire, and Greenhouse Forcing, Annals of the Association of American Geographers,100:4, 755-771, DOI: 10.1080/00045608.2010.502432](https://doi.org/10.1080/00045608.2010.502432) &mdash; [PDF](https://www.bushdoctor.com.au/imagesDB/documents/Dull.EtAl_ColumbianEncounterAndLittleIceAge.AbruptLandUseChangeFireGreenhouseForcing.pdf)
-* [Richard J. Nevle, Dennis K. Bird (2008) Effects of Syn-Pandemic Reforestation on Atmospheric Carbon Dioxide From 1500 to 1700 A.D. Palaeogeography, Palaeoclimatology, Palaeoecology. 264(1-2): 25-38.](https://doi.org/10.1016/j.palaeo.2008.03.008) &mdash; [PDF](https://www.researchgate.net/publication/252077825_Effects_of_Syn-Pandemic_Reforestation_on_Atmospheric_Carbon_Dioxide_From_1500_to_1700_AD)
 
 
 ## Drainage of Glaciers to Ocean
@@ -134,6 +128,11 @@
 
 ### Megafuana Extinction
 
+* [Bradshaw, C. J., Johnson, C. N., Llewelyn, J., Weisbecker, V., Strona, G., & Saltré, F. (2021). Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna. Elife, 10, e63870.](https://doi.org/10.7554/eLife.63870)
+  * > We can therefore reject the hypothesis that the continent-wide extinction chronology is explained by species’ relative demographic susceptibility and non-selective hunting by humans. If demographic susceptibility coupled with non-selective hunting were the primary causes of these extinctions, we would expect a relationship between vulnerability and extinction date whereby the more vulnerable species went extinct earlier — but we found no such relationship (Figure 7d). However, the comparison of susceptibility under increasing intensities of egg harvesting revealed the highest demographic risk from this type of activity for the extinct Genyornis compared to the extant Dromaius and Alectura birds, supporting the notion that egg harvesting (and not hunting of adults) might have been at least partially responsible for the demise of Genyornis (Miller et al., 2016). We can also reject the hypothesis that the largest, and therefore the most physiologically buffered and mobile species, were the most resilient given the lack of relationship with the inferred extinction chronology (Figures 2 and 7d). Neither did the species with the highest sensitivities to reductions arising from the various perturbation scenarios succumb earlier (Figures 5 and 6d).
+  * > This lack of relationship to the chronology, combined with the result that many of the extant species had some of the highest extinction susceptibilities, suggest that no obvious demographic properties can explain the taxon-specific timing within the Sahul extinction event of the Late Pleistocene. This opens the possibility that the chronology instead reflects either a random set of circumstances — that species succumbed to circumstantial combinations of stressors depending on the local perturbations experienced by particular populations (Saltré et al., 2019) — or even that the chronology is still insufficiently resolved. However, this conclusion does not accord well with the notion that Late Pleistocene megafauna extinctions were non-random and occurred at a much higher pace than background extinction rates (Johnson, 2006; Koch and Barnosky, 2006).
+  * > Another possibility is that in the case of human hunting, preferences for selecting or avoiding particular species, such as targeting larger species for more efficient returns (Broughton et al., 2011), could have overridden or interacted with intrinsic demographic susceptibility. Indeed, Lyons et al., 2016 concluded that either large-bodied mammals were selectively targeted by humans during the Late Quaternary, or that these species were relatively more vulnerable to human hunting than smaller-bodied species, or both. In addition, specific behavioural adaptations could potentially have rendered demographically high-risk species in fact less vulnerable to human hunting, such as the behavior of Vombatus to dig and defend burrows that were difficult to access by humans (Garvey et al., 2016) compared to larger burrowing or non-burrowing vombatiformes. In the case of the macropodiformes, interspecific variation in the type of locomotion — a trait not captured by our demographic models — could have contributed more to their relative susceptibility to human hunters. For example, the ability to hop at high velocities as in Osphranter rufus could have given it an escape advantage over the relatively slower sthenurine macropodiformes that likely employed more bipedal striding than hopping (Janis et al., 2020). Similar hypotheses regarding risk-persistence mismatches in multispecies simulations have been proposed for the Late Pleistocene megafauna extinction event in North America (Alroy, 2001).
+  * https://phys.org/news/2021-04-megafauna-extinction-mystery.html
 * [Lord, E., Dussex, N., Kierczak, M., Díez-del-Molino, D., Ryder, O. A., Stanton, D. W., ... & Lorenzen, E. D. (2020). Pre-extinction Demographic Stability and Genomic Signatures of Adaptation in the Woolly Rhinoceros. Current Biology.](https://doi.org/10.1016/j.cub.2020.07.046)
 * [Graham RW, et al. (2016) Timing and causes of mid-Holocene mammoth extinction on St. Paul Island, Alaska. PNAS. 113(33): 9310-9314.](https://doi.org/10.1073/pnas.1604903113)
 * [Malhi Y, Doughty CE, Galetti M, Smith FA, Svenning J-C, Terbough JW (2016) Megafauna and ecosystem function from the Pleistocene to the Anthropocene. PNAS. 113(4): 838-846.](https://doi.org/10.1073/pnas.1502540113)
@@ -158,6 +157,8 @@
 
 ## Land Use/Forrest Management
 
+* [Bush, M. B., Nascimento, M. N., Åkesson, C. M., Cárdenes-Sandí, G. M., Maezumi, S. Y., Behling, H., ... & McMichael, C. N. H. (2021). Widespread reforestation before European influence on Amazonia. Science, 372(6541), 484-487.](https://doi.org/10.1126/science.abf3870)
+* [Duncan, N. A., Loughlin, N. J., Walker, J. H., Hocking, E. P., & Whitney, B. S. (2021). Pre-Columbian fire management and control of climate-driven floodwaters over 3,500 years in southwestern Amazonia. Proceedings of the National Academy of Sciences.](https://doi.org/10.1073/pnas.2022206118)
 * [Thompson, J. C., Wright, D. K., Ivory, S. J., Choi, J. H., Nightingale, S., Mackay, A., ... & Gomani-Chindebvu, E. (2021). Early human impacts and ecosystem reorganization in southern-central Africa. Science Advances, 7(19), eabf9776.](https://doi.org/10.1126/sciadv.abf9776)
 * [Armstrong, C. G., Miller, J. E., McAlvay, A. C., Ritchie, P. M., & Lepofsky, D. (2021). Historical Indigenous Land-Use Explains Plant Functional Trait Diversity.](https://doi.org/10.5751/ES-12322-260206)
 * [Carter, V. A., Brunelle, A., Power, M. J., DeRose, R. J., Bekker, M. F., Hart, I., ... & Codding, B. F. (2021). Legacies of Indigenous land use shaped past wildfire regimes in the Basin-Plateau Region, USA. Communications Earth & Environment, 2(1), 1-9.](https://doi.org/10.1038/s43247-021-00137-3)
@@ -206,9 +207,24 @@
 
 * [Santana-Sagredo, F., Schulting, R. J., Méndez-Quiros, P., Vidal-Elgueta, A., Uribe, M., Loyola, R., ... & Lee-Thorp, J. (2021). ‘White gold’guano fertilizer drove agricultural intensification in the Atacama Desert from ad 1000. Nature Plants, 7(2), 152-158.](https://doi.org/10.1038/s41477-020-00835-4)
 
+### Bees
+
+* [Roffet-Salque, M., Regert, M., Evershed, R. P., Outram, A. K., Cramp, L. J., Decavallas, O., ... & Zoughlami, J. (2015). Widespread exploitation of the honeybee by early Neolithic farmers. Nature, 527(7577), 226-230.](https://doi.org/10.1038/nature15757)
+
+### Genocide Induced Climate Change
+
+* [Alexander Kocha, Chris Brierley, Mark M. Maslin, Simon L. Lewis (2019) Earth system impacts of the European arrival and Great Dying in the Americas after 1492. Quarternery Science Reviews. 207: 13-36.](https://doi.org/10.1016/j.quascirev.2018.12.004)
+* [Matthew J. Liebmann, Joshua Farella, Christopher I. Roos, Adam Stack, Sarah Martini, and Thomas W. Swetnam. Native American depopulation, reforestation, and fire regimes in the Southwest United States, 1492–1900 CE. PNAS. 9 February. 2016 113(6): E696-E704.](https://doi.org/10.1073/pnas.1521744113)
+* [R.J. Nevle, D.K. Bird, W.F. Ruddiman and R.A. Dull (2011) Neotropical human–landscape interactions, fire, and atmospheric CO2 during European conquest. The Holocene. Sage. DOI: 10.1177/0959683611404578](https://www.researchgate.net/profile/Robert_Dull/publication/254097445_Neotropical_human-landscape_interactions_fire_and_atmospheric_CO2_during_European_conquest/links/54de2fc40cf2814662ee17af.pdf)
+* [Robert A. Dull , Richard J. Nevle , William I. Woods , Dennis K. Bird , Shiri Avnery & William M. Denevan (2010) The Columbian Encounter and the Little Ice Age: Abrupt Land Use Change, Fire, and Greenhouse Forcing, Annals of the Association of American Geographers,100:4, 755-771, DOI: 10.1080/00045608.2010.502432](https://doi.org/10.1080/00045608.2010.502432) &mdash; [PDF](https://www.bushdoctor.com.au/imagesDB/documents/Dull.EtAl_ColumbianEncounterAndLittleIceAge.AbruptLandUseChangeFireGreenhouseForcing.pdf)
+* [Richard J. Nevle, Dennis K. Bird (2008) Effects of Syn-Pandemic Reforestation on Atmospheric Carbon Dioxide From 1500 to 1700 A.D. Palaeogeography, Palaeoclimatology, Palaeoecology. 264(1-2): 25-38.](https://doi.org/10.1016/j.palaeo.2008.03.008) &mdash; [PDF](https://www.researchgate.net/publication/252077825_Effects_of_Syn-Pandemic_Reforestation_on_Atmospheric_Carbon_Dioxide_From_1500_to_1700_AD)
+
 
 ## Horse like animals existed for millions of years until 11000 BCE (possibly later)
 
+* [Vershinina, A. O., Heintzman, P. D., Froese, D. G., Zazula, G., Cassatt‐Johnstone, M., Dalén, L., ... & Shapiro, B. (2021). Ancient horse genomes reveal the timing and extent of dispersals across the Bering Land Bridge. Molecular Ecology.](https://doi.org/10.1111/mec.15977)
+  * https://phys.org/news/2021-05-ancient-horse-dna-reveals-gene.html
+* [Kelly, A., Miller, J. H., Wooller, M. J., Seaton, C. T., Druckenmiller, P., & DeSantis, L. (2021). Dietary paleoecology of bison and horses on the mammoth steppe of eastern Beringia based on dental microwear and mesowear analyses. Palaeogeography, Palaeoclimatology, Palaeoecology, 572, 110394.](https://doi.org/10.1016/j.palaeo.2021.110394)
 * [Barrón-Ortiz CI, Rodrigues AT, Theodor JM, Kooyman BP, Yang DY, Speller CF (2017) Cheek tooth morphology and ancient mitochondrial DNA of late Pleistocene horses from the western interior of North America: Implications for the taxonomy of North American Late Pleistocene Equus. PLoS ONE 12(8): e0183045.](https://doi.org/10.1371/journal.pone.0183045)
 * [Heintzman PD et al. (2017) A new genus of horse from Pleistocene North America. eLife. 6: e29944.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5705217/)
 * [Waters MR, Stafford TW Jr., Kooyman B, Hills LV (2015) Late Pleistocene horse and camel hunting at the southern margin of the ice-free corridor: Reassessing the age of Wally’s Beach, Canada. PNAS 112(14): 4263-4267.](https://doi.org/10.1073/pnas.1420650112)
@@ -253,5 +269,6 @@
 
 ### Change through human activity
 
+* [Spalding, C., & Hull, P. M. (2021). Towards quantifying the mass extinction debt of the Anthropocene. Proceedings of the Royal Society B, 288(1949), 20202332.](https://doi.org/10.1098/rspb.2020.2332)
 * [Raven, P. H., & Wagner, D. L. (2021). Agricultural intensification and climate change are rapidly decreasing insect biodiversity. Proceedings of the National Academy of Sciences, 118(2).](https://doi.org/10.1073/pnas.2002548117)
 * [Boivin, N. L., Zeder, M. A., Fuller, D. Q., Crowther, A., Larson, G., Erlandson, J. M., ... & Petraglia, M. D. (2016). Ecological consequences of human niche construction: Examining long-term anthropogenic shaping of global species distributions. Proceedings of the National Academy of Sciences, 113(23), 6388-6396.](https://doi.org/10.1073/pnas.1525200113)
