@@ -455,7 +455,7 @@ Scholarly Research:
 * [Dietrich L, Meister J, Dietrich O, Notroff J, Kiep J, Heeb J, et al. (2019) Cereal processing at Early Neolithic Göbekli Tepe, southeastern Turkey. PLoS ONE 14(5): e0215214.](https://doi.org/10.1371/journal.pone.0215214)
 * Comparison to Maya architecture:
   * [Inomata T, Triadan D, Pinzón F, Aoyama K (2019) Artificial plateau construction during the Preclassic period at the Maya site of Ceibal, Guatemala. PLoS ONE 14(8): e0221943.](https://doi.org/10.1371/journal.pone.0221943)
-    * > The construction of the Ceibal plateau may be comparable to early monumental constructions in other parts of the world, which emerged before or during the transition to agriculture or sedentism. Examples include: Göbekli Tepe and related Neolithic sites in the Near East; Watson Brake, Poverty Point, and other mound complexes in the Archaic lower Mississippi area; Sechín Bajo, Caral, and other monumental constructions in the Andes; and large shell mounds in the southeastern US and Brazil [81,86–91]. Although archaeologists traditionally associated monumental architecture with societies with pronounced political centralization and social hierarchy [51], these examples force us to reconsider this assumption [92,93].
+    * > The construction of the Ceibal plateau may be comparable to early monumental constructions in other parts of the world, which emerged before or during the transition to agriculture or sedentism. Examples include: Göbekli Tepe and related Neolithic sites in the Near East; Watson Brake, Poverty Point, and other mound complexes in the Archaic lower Mississippi area; Sechín Bajo, Caral/, and other monumental constructions in the Andes; and large shell mounds in the southeastern US and Brazil [81,86–91]. Although archaeologists traditionally associated monumental architecture with societies with pronounced political centralization and social hierarchy [51], these examples force us to reconsider this assumption [92,93].
 * Comparison to other complex societies:
   * [Whitehouse H, François P, Savage PE, et al. (2019) Complex societies precede moralizing gods throughout world history. Nature. 568: 226–229. doi:10.1038/s41586-019-1043-4](https://doi.org/10.1038/s41586-019-1043-4)
   * [Botero CA, et al. (2014) The ecology of religious beliefs. PNAS. 111(47): 16784-16789.](https://doi.org/10.1073/pnas.1408701111)
@@ -697,17 +697,12 @@ Trade between here and the south east:
 
 * [Mayo-Chinchipe](https://en.wikipedia.org/wiki/Mayo-Chinchipe)
 * [Mayo Chinchipe - Marañón archaeological landscape. UNESCO.](https://whc.unesco.org/en/tentativelists/6091/)
-* [Zarrillo, S., Gaikwad, N., Lanaud, C., Powis, T., Viot, C., Lesur, I., ... & Valdez, F. (2018). The use and domestication of Theobroma cacao during the mid-Holocene in the upper Amazon. Nature ecology & evolution, 2(12), 1879-1888.](https://www.academia.edu/39637452/The_use_and_domestication_of_Theobroma_cacao_during_the_mid_Holocene_in_the_upper_Amazon_Main_Text)
-
-### Santa Ana (La Florida) - Palanda Canton, Zamora-Chinchipe Province, Ecuador ( 3500 BCE)
-
-* [Santa Ana (La Florida)](https://en.wikipedia.org/wiki/Santa_Ana_(La_Florida))
-
-### Montegrande, Jaen, Cajamarca, Peru (~1000 BCE)
-
- * [Atwood, R. (2017) Connecting Two Realms. Archeology. July/August.](https://www.archaeology.org/issues/266-1707/letter-from/5653-letter-from-peru-spiral-temples)
- * [Staff. Peru: Get to know ceremonial temple Montegrande in Jaen. Andina. October 5.](https://andina.pe/ingles/noticia-peru-get-to-know-ceremonial-temple-montegrande-in-jaen-727614.aspx)
-   * [Gallery](https://andina.pe/agencia/galeria.aspx?GaleriaId=4796&FotoId=536374)
+* [Zarrillo, S., Gaikwad, N., Lanaud, C., Powis, T., Viot, C., Lesur, I., ... & Valdez, F. (2018). The use and domestication of Theobroma cacao during the mid-Holocene in the upper Amazon. Nature ecology & evolution, 2(12), 1879-1888.](https://www.academia.edu/39637452/The_use_and_domestication_of_Theobroma_cacao_during_the_mid_Holocene_in_the_upper_Amazon_Main_Text) &mdash; Lays out an interesting connection between the cacao cultivated by the "Olmec" and the cacao of this region.
+  * `This long-held idea that T. cacao was first domesticated in Mesoamerica, where it was isolated from its wild relatives, has been buoyed by archaeological, ethnohistoric and iconographic evidence10,13. However, recent genomic research on T. cacao shows that its greatest genetic diversity occurs in the humid forests of the upper Amazon tributaries region, suggesting that its earliest use and initial domestication originated there (Fig.1)14–17. Here we report that T. cacao was used in Ecuador by 5,450–5,300 cal. yr BP, predating its earliest known use in Central America and Mexico by approximately 1.5 millennia.`
+  * `Theobroma cacao diversity has recently been classified into ten genetic groups, with three main ‘old domesticated’ varieties. The geographic locale and the approximate dates of their originare: the Criollo variety, cultivated in Mexico for approximately 3,900 years2,14; the Nacional variety, cultivated in Ecuador for at least 500 years16 and the Amelonado variety, originating from Brazil and cultivated for nearly 300 years37. The Zamora-Chinchipe province has already been shown as the centre of domestication of the fine flavour cacao Nacional variety of Ecuador16. However, the origin of the aDNA from ceramic residues seems closer to the Purus and Curaray groups than to the Nacional variety, suggesting that the Nacional variety was domesticated more recently than the Theobroma trees used between approximately 5,300 and 3,700 cal. yr BP in the SALF region.`
+  * `Representatives of the ancestral Criollo variety introducedin Central America, and cultivated by Olmec and Maya people,can be identified in the current cacao population cultivated in Central America14. These trees, highly homozygous, constitute one of the ancestors of the present hybrid Criollo population (named Trinitario) and are also closer to the Purus or Curaray genetic groups16, as is the aDNA from SALF. Modern T. cacao trees belonging to both genetic groups are presently found in the Zamora-Chinchipe region where SALF is located, and these trees extend north to the Colombian Amazon region. These findings highlight the important role the Curaray/Purus cacao groups inthe upper Amazon may have played in cacao domestication events occurring at different times, but also raise questions regarding their dispersal from Amazonia to both the Pacific coast of Ecuador and to Central America.`
+  * `In this regard, artefacts from SALF also reveal linkages to the Pacific coast. Funeral offerings from Tomb 2 included a stirrup-spout bottle (Fig.2, Supplementary Note 1, Supplementary Fig. 1 and Supplementary Table 2), from which interior residue sample PLD-001 was obtained. Strikingly, the human effigy stirrup-spout bottle (Fig.2) shows a human face emerging from a Spondylus bivalve (Spondylus crassisquama Lamark, 1819, formerly known as S. princeps Broderip, 1833), found only along the far northwest coast of Peru to Baja California38. Moreover, other artefacts found in tombs at SALF included shell fragments and beads made of Strombus spp. shell, which also originates along the Pacific coast18 (Supplementary Note 1). It is evident then that the people of the Mayo-Chinchipe culture were in contact with groups on the Pacific coast, either through direct or indirect trade of goods18,22. These exchanges undoubtedly also involved culturally important plants22,39.`
+  * Hmmm, that does correspond with several trade routes of a few cultures, including the Olmec/Mokaya.
 
 ## San Andrés, Tabasco, MX - Olmec (5300 BCE - 350 BCE)
 
@@ -759,11 +754,15 @@ Area later ocupied by Manteño civilization in 850 CE.
 
 * [Hofmann R, Müller J, Shatilo L, Videiko M, Ohlrau R, Rud V, et al. (2019) Governing Tripolye: Integrative architecture in Tripolye settlements. PLoS ONE 14(9): e0222243.](https://doi.org/10.1371/journal.pone.0222243)
 
-## Áspero - Norte Chico/Caral Culture, Peru (4100 BCE - 2000 BCE)
+## Bandurria - Huacho, Huaura, Lima, Perú (4100 BCE - 2000 BCE) - Norte Chico/Caral Culture
 
 This complex contains what would be the first stepped pyramid in the Americas, and possibly the world.
 
+Contains a circular plaza area.
+
+* [Bandurria, Peru](https://es.wikipedia.org/wiki/Bandurria_(sitio_arqueol%C3%B3gico))
 * [Chu A (2008) Bandurria: Arena, mar y humedal en el surgimiento de la Civilización Andina. Hualmay, Huaura, Perú. Servicios Gráficos Jackeline.](https://www.academia.edu/11124090/Bandurria._Arena_Mar_y_Humedal_en_el_Surgimiento_de_la_Civilizaci%C3%B3n_Andina)
+* Photos: [Bandurria](https://www.arqueologiadelperu.com.ar/bandurria.htm)
 
 ## Vichama, Huaura, Peru (4100 BCE - 2000 BCE) - Norte Chico/Caral Culture
 
@@ -779,6 +778,10 @@ Called copena because of their use of copper and galena. Became part of the Hope
 
 * [Abejas Phase](https://en.wikipedia.org/wiki/Abejas_Phase)
 
+## cultura sechín
+
+* [cultura sechín](https://es.wikipedia.org/wiki/Cultura_sech%C3%ADn)
+
 ## Huaricanga, Peru - Norte Chico/Cala Culture (3570 BCE - 1800 BCE)
 
 * [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga)
@@ -786,9 +789,26 @@ Called copena because of their use of copper and galena. Became part of the Hope
 
 ## Mesoamerican Paleo Indian Period Ends (3500 BCE)
 
-## Sechin Bajo - Supe Valley, Barranca Province, Peru (3500 BCE)
+## Santa Ana (La Florida) - Palanda Canton, Zamora-Chinchipe Province, Ecuador (3500 BCE) - Mayo-Chinchipe Culture
 
+Contains lots of stone circles.
+
+* [Santa Ana (La Florida)](https://en.wikipedia.org/wiki/Santa_Ana_(La_Florida))
+* [Mayo-Chinchipe](https://web.archive.org/web/20181030171850/https://palanda.arqueo-ecuatoriana.ec/complejo-cultural-mayo-chinchipe)
+* Traded with the [Valdivia Culture](https://www.wikiwand.com/en/Valdivia#/Pre-Hispanic_times_(12,000_BC-1543)).
+
+## Sechín Bajo - Supe Valley, Barranca Province, Peru (3500 BCE) - cultura sechín
+
+Has circular components.
+
+* [Sechín Bajo](https://es.wikipedia.org/wiki/Sech%C3%ADn_Bajo)
 * [McDonnel PJ (2008) A new find is the Americas' oldest known urban site. Los Angeles Times. February 26.](https://www.latimes.com/archives/la-xpm-2008-feb-26-fg-peru26-story.html)
+* [Aquino, M. (2008) Archeologists find 5,500-year-old plaza in Peru. Reuters. February 26.](https://www.reuters.com/article/us-peru-archeology/archeologists-find-5500-year-old-plaza-in-peru-idUSN2524245020080226)
+
+## El Paraíso - San Martin de Porres, Chillon River Valley, Peru (3500 BCE - 1800 BCE)
+
+* [El Paraíso, Peru](https://en.wikipedia.org/wiki/El_Para%C3%ADso,_Peru)
+* [Huaca El Paraíso](https://es.wikipedia.org/wiki/Huaca_El_Para%C3%ADso)
 
 ## Watson Brake - Ouachita Parish, Louisiana, USA (3500 BCE - 2800 BCE)
 
@@ -824,12 +844,6 @@ Superseded by the [Susquehannock](https://en.wikipedia.org/wiki/Susquehannock), 
 Occupation was carbon dated to at least 3000 BCE.
 
 * [La Galgada](https://en.wikipedia.org/wiki/La_Galgada_(archaeological_site))
-
-## Chavín de Hauntar - Ancash Region, Peru (3000 BCE - 300 BCE)
-
-Occupation was carbon dated to at least 3000 BCE. Main Chavín culture articfacts are dated to about 1200 BCE. Social upheaval around 500 BCE - 300 BCE.
-
-* [Chavín de Hauntar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
 
 ## Piruro - Huánuco Region, Huamalíes Province, Tantamayo District (3000 BCE - ?)
 
@@ -871,10 +885,13 @@ This island in the Savannah River was occupied over two time periods: 2600 BCE -
 
 * [Stallings Island](https://en.wikipedia.org/wiki/Stallings_Island)
 
-## Caral, Supe Valley, Barranca Province, Peru (2600 BCE)
+## Caral/Áspero, Supe Valley, Barranca Province, Peru (2600 BCE)
 
 This is one of the first modern cities in the Americas including irrigation agriculture. It is contemporaneous with cities across the pond. Recently, it has been discovered that Bandurria, Peru is older.
 
+Contains a circular arena.
+
+* [Áspero (Caral)](https://es.wikipedia.org/wiki/%C3%81spero_(Caral))
 * [Belsie L (2002) Civilization lost? The Christian Science Monitor. January 3.](https://www.csmonitor.com/2002/0103/p11s1-woam.html)
   * > A civilization arises because it controls something important. Mesopotamia prospered once it irrigated the desert and produced an abundance of food. Caral diverted water from the Supe River to irrigate fields, growing staples such as squash and beans. But its secret weapon may have been cotton. By growing cotton, used to make fishing nets, the people of Caral could trade for fish with the communities on the Pacific coast 12 miles away. Archaeologists have unearthed thousands of fish bones.
   * > "There's a problem of self-identification in the country," Shady answers when locals ask her why Peru is so backward today. When Caral flourished, "the society was organized with a population that worked to do things collectively for the collective good. But with the rupture from the arrival of the Spaniards [3,500 years later], there was no more interest in the country except as a source of minerals to be exported to Spain."
@@ -882,7 +899,7 @@ This is one of the first modern cities in the Americas including irrigation agri
 * [Soli RS, Haas J, Creamer W (2001) Dating Caral, a Preceramic Site in the Supe Valley on the Central Coast of Peru. Science. 292(5517): 723-726.](https://science.sciencemag.org/content/292/5517/723)
 * [Smithsonian Staff (2002) First City in the New World? Smithsonian Magazine. August 2002.](https://www.smithsonianmag.com/history/first-city-in-the-new-world-66643778/)
   * > It was evidence of another crop in the excavations that gave Shady the best clue to the mystery of Caral’s success. In nearly every excavated building, her team discovered great quantities of cotton seeds, fibers and textiles. Her theory fell into place when a large fishing net, unearthed at an unrelated dig on Peru’s coast, turned out to be as old as Caral. “The farmers of Caral grew the cotton that the fishermen needed to make the nets,” Shady speculates. “And the fishermen gave them shellfish and dried fish in exchange for these nets.” In essence, the people of Caral enabled fishermen to work with larger and more effective nets, which made the resources of the sea more readily available. The Caral people probably used dried squash as flotation devices for nets and also as containers, thus obviating any need for ceramics.
-  * > Eventually Caral would spawn 17 other pyramid complexes scattered across the 35-square-mile area of the SupeValley. Then, around 1600 B.C., for reasons that may never be answered, the Caral civilization toppled, though it didn’t disappear overnight. “They had time to protect some of their architectural structures, burying them discreetly,” says Shady. Other nearby areas, such as Chupacigarro, Lurihuasi and Miraya, became centers of power. But based on Caral’s size and scope, Shady believes that it is indeed the mother city of the Incan civilization.
+  * > Eventually Caral would spawn 17 other pyramid complexes scattered across the 35-square-mile area of the Supe Valley. Then, around 1600 B.C., for reasons that may never be answered, the Caral civilization toppled, though it didn’t disappear overnight. “They had time to protect some of their architectural structures, burying them discreetly,” says Shady. Other nearby areas, such as Chupacigarro, Lurihuasi and Miraya, became centers of power. But based on Caral’s size and scope, Shady believes that it is indeed the mother city of the Incan civilization.
 * [Chu A (2008) Bandurria: Arena, mar y humedal en el surgimiento de la Civilización Andina. Hualmay, Huaura, Perú. Servicios Gráficos Jackeline.](https://www.academia.edu/11124090/Bandurria._Arena_Mar_y_Humedal_en_el_Surgimiento_de_la_Civilizaci%C3%B3n_Andina)
 * [Gallery: Sacred City of Caral-Supe](https://whc.unesco.org/en/list/1269/gallery/)
 
@@ -907,6 +924,7 @@ Occupied by Mokaya culture until around 1250 BCE when everything shifts to [Olme
 ## Huaca El Paraíso/Chuquitanta - Chillón River Valley, Peru (2300 BCE - 1400 BCE)
 
 * [Huaca El Paraíso](https://es.wikipedia.org/wiki/Huaca_El_Para%C3%ADso) &mdash; this looks really interesting.
+  * `Se ha dado a conocer 16 muestras procesadas por datación por radiocarbono, que ubican al sitio en una antigüedad entre el 2.300 a.C. y el 1.400 a.C. es decir, en el final del período Arcaico Tardío.[6]​ Es contemporáneo con el célebre Templo de las Manos Cruzadas de Kotosh, en Huánuco, y con la fase final de Caral.`
 
 ## Purron Phase - Tehuacán Valley, MX (2300 BCE - 1500 BCE)
 
@@ -943,6 +961,8 @@ The fox pouch is interesting, but it could just be a coincidence that the place 
 * [VanPool, C. (2019). Ancient medicinal plants of South America. Proceedings of the National Academy of Sciences, 116(23), 11087-11089.](https://doi.org/10.1073/pnas.1906805116)
 
 ## Caballo Muerto, Peru - Moche Valley - Cupisnique culture (2100 BCE - 200 BCE)
+
+`It is believed that the site was occupied from 1500 to 400 BC and belongs to the Middle Formative period. Among the contemporary sites in the other valleys of the northern coast of Peru are Limoncarro in Jequetepeque, Cerro Blanco in Nepeña District of Ancash Region, Pallka in Casma Valley, Santa Lucia in Lambayeque Region, and Ñañañique in Piura Region. In the northern highlands, the related sites are Huacaloma, Kuntur Wasi (both near Cajamarca), and Pacopampa.`
 
 * [Caballo Muerto](https://en.wikipedia.org/wiki/Caballo_Muerto)
 
@@ -1017,9 +1037,17 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 * [Monte Alto Culture](https://en.wikipedia.org/wiki/Monte_Alto_culture)
   * > Many of the Monte Alto sculptures are magnetic as well. Since there are distinctive patterns of magnetism, it would appear that the sculptures were executed by artisans who were aware of these properties. If this is true, the Monte Alto sculptures no doubt deserve recognition as the oldest known magnetic artifacts in the world.
 
-## Pukara -  Puno Region, Lampa Province, Pucará District, Peru (1800 BCE)
+## Pampa de las Llamas-Moxeke - Casma, Ancash, Peru (1800 BCE - 900 BCE)
+
+* [Pampa de las Llamas-Moxeke](https://es.wikipedia.org/wiki/Pampa_de_las_Llamas-Moxeke)
+
+## Pukara Culture - Puno Region, Lampa Province, Pucará District, Peru (1800 CE)
+
+Absorbed parts of the Chiripa culture in 200 BCE.
 
 * [Pukara](https://en.wikipedia.org/wiki/Pukara,_Puno)
+* [Pucará (sitio arqueológico)](https://es.wikipedia.org/wiki/Pucar%C3%A1_(sitio_arqueol%C3%B3gico))
+* [Sagárnaga, J. (2017). Acerca de una escultura Boliviana recuperada en Suiza. Fuentes, Revista de la Biblioteca y Archivo Histórico de la Asamblea Legislativa Plurinacional, 11, 7.](http://www.revistasbolivianas.org.bo/scielo.php?pid=S1997-44852017000600003&script=sci_arttext&tlng=es)
 
 ## Chillón & Casma Valley Effigy Mounds - Peru (1750 BCE - 2200 BCE)
 
@@ -1055,7 +1083,7 @@ They also had large stone heads along with the [Olmec](#height-of-the-olmec-1500
 
 ## Height of the Olmec (1500 BCE - 400 BCE)
 
-* [Olmecs](https://en.wikipedia.org/wiki/Olmecs) - I've noticed similarities between this culture and Adena, Hopewell, and Missippian cultures in the style of their jewelry. Were there trade routes to the "Midwest"?
+* [Olmecs](https://en.wikipedia.org/wiki/Olmecs) - I've noticed similarities between this culture and Adena, Hopewell, and Missippian cultures in the style of their jewelry. Were there trade routes to the "Midwest"? Turns out, there was. They likely sailed across the gulf to the Mississippi. Several linguistic connections have been demonstrated like Chiki being in both Tutunaku and Hichiti.
 
 ## Chalcatzingo - Valley of Morelos, MX - Olmec and many others (1500 BCE - 500 BCE)
 
@@ -1116,9 +1144,68 @@ Terraces with mud walls. See later development in 300 BCE.
 
 ## Cupisnique - Peru (1500 BCE - 500 BCE)
 
-Considered a possible predescessor of the Moche culture. There is shared inconography with the Chavin. However, it also appears the Chavin came later to the area. I've also noticed art similarities with the Adena, Hopewell, and Mississippi cultures.
+Considered a possible predescessor of the Moche culture. There is shared inconography with the Chavin. However, it also appears the Chavin came later to the area.
 
 * [Cupisnique](https://en.wikipedia.org/wiki/Cupisnique)
+
+### Mirrors (900 BCE - 200 BCE)
+
+* [On Precolumbian Optics From Peru (Optica Precolombina del Peru)](https://arxiv.org/pdf/physics/0702024.pdf)
+
+#### Connections to other cultures
+
+* The "Olmec" and "Mokaya" also had mirrors circa 1150 BCE – 900 BCE (Cantón Corralito Cuadros Phase, Mazatán, Chiapas) and they seem to have been traded through Ecuador. This means there's a span of related culture and manufacturing techniques spanning through, Peru, Ecuador, Colombia, El Salvador, Guatamala, Chiapas, and Oaxaca.
+  * [Calligaro, T., Chiappero, P. J., Gendron, F., & Poupeau, G. (2019). New Clues on the Origin of the “Inca Mirror” at the Museum National d'Histoire Naturelle in Paris. Latin American Antiquity, 30(2), 422-428.](https://doi.org/10.1017/laq.2019.3)
+    * `The archaeological artifacts collected by the astronomers in Ecuador were sent to various destinations. La Condamine reports that the shipments of June 1737 and October 1740 were lost, but that two others reached their French recipients: Charles Cisternay du Fay (1698–1739), intendant of the Jardin du Roy, and Jean Frédéric Phélypeaux, Count de Maurepas (1701–1781), navy minister under Louis XV: “The cabinet of the Jardin du Roy houses our first shipments, sent together from our islands and from Portobelo [sic: Portobello, Panama] in 1735, and another shipment made from Quito in 1737, by Mr. Godin, in which I was much involved” (de La Condamine 1751:104, footnote). Excerpts from a letter by Godin confirm this shipment: “I sent to my lord the Count de Maurepas, in the month of May 1737 from Quito… a crate containing various curiosities to the address of my lord the Count de Maurepas: it was received by M. du Fay, and apparently distributed in the cabinet of the King” (Godin 1802 [1752]:214, 217). The lens arrived in Paris in 1737 and was later mounted in its bronze frame.`
+    * `PIXE analyses indicate that the obsidian of the lens No. 176.101 from the MNHN mineralogy collections in Paris originate from the Mullumica deposit located in the Sierra of Guamaní, Ecuador.`
+    * Better picture (photo 2 shows how reflective the mirror actually is): [Anderson, D. S. (2019) Origins of Aztecs And Inca Obsidian Mirrors Revealed Through Scientific Analyses](https://www.forbes.com/sites/davidanderson/2019/07/26/origins-of-aztec-and-inca-obsidian-mirrors-revealed-through-scientific-analyses/)
+    * My own notes is that the margin of error on this is pretty high. There would need to be more samples of obsidian to compare it with.
+  * [Bellacero, C. M. (2010). Subsistence patterns, social identity and symbolism at the Early Formative Period site of Cantón Corralito, Chiapas, Mexico. The Florida State University.](https://fsu.digital.flvc.org/islandora/object/fsu:175846/datastream/PDF/view)
+  * [Mollenhauer, J. L. (2010). Olmec monuments as agents of social memory. University of California, San Diego.](https://escholarship.org/uc/item/5sb9w6gd)
+  * [Lunazzi, J. J. (2007). On the quality of the Olmec mirrors and its utilization. arXiv preprint physics/0701327.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.876.6345&rep=rep1&type=pdf)
+  * [Lunazzi, J. J. (1996). Olmec mirrors: an example of archaeological American mirrors. Trends in Optics, 411-421.](https://doi.org/10.1016/B978-012186030-1/50024-2) &mdash; [PDF](https://arxiv.org/ftp/physics/papers/0701/0701328.pdf)
+    * `The quality of Olmec mirrors, although variable, can be very high, as it can be seen from the images they generate at the short distance of a few millimeters12 or even at the large distance of some meters5. Observation at the microscope showed good quality because no scratches were visible, although smoothness, roughness, reflectivity or aberration coefficients of the surfaces were not reported.`
+  * [Mirrors in Mesoamerican culture](https://www.wikiwand.com/en/Mirrors_in_Mesoamerican_culture)
+  * [[1992]2018 In Studies in Ancient Mesoamerican Art and Architecture: Selected Works by Karl Andreas Taube, pp. 204–225. Precolumbia Mesoweb Press, San Francisco. Electronic version available: www.mesoweb.com/publications/Works](http://www.mesoweb.com/publications/Works/Taube[1992]2018a.pdf)
+  * [Olson, V. F. (1984). Olmec magnetite mirror: optical, physical, and chemical characteristics. Applied optics, 23(24), 4471-4476.](https://doi.org/10.1364/AO.23.004471) &mdash [PDF](https://www.academia.edu/6268729/Olmec_magnetite_mirror_optical_physical_and_chemical_characteristics_by_Valerie_F_Olson_)
+* Other things to consider: Oceanic trade routes that would bypass Honduras, Nicaragua, Costa Rica & Panama.
+* Fun article: If the loadstone (similar enough to other iron hemetite used by the "Olmec") found in San Lorenzo, is indeed a compass pointing in a certain orientation (which it appears to be), then it predate the compass in Asia by a millenium: [Carlson, J. B. (1975). Lodestone compass: Chinese or olmec primacy?: Multidisciplinary analysis of an olmec hematite artifact from san lorenzo, veracruz, mexico. Science, 189(4205), 753-760.](https://doi.org/10.1126/science.189.4205.753)
+
+### Arte de las arañas (spiders)
+
+The carbon dating from where the plate was found indicates it was likely from anywhere between 1100 BCE - 800 BCE.
+
+* [Plato con representación de araña bicéfala con cabezas de felino y cabezas de ave. (1250 BCE - 1CE or 800 BCE - 200 BCE)](http://www.museolarco.org/catalogo/ficha.php?id=11893)
+* [Excavaciones en el Templete de Limoncarro,
+valle bajo de Jequetepeque](http://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/viewFile/965/932)
+* [3,000-Year-Old “Spider God” Temple Discovered in Peru](http://www.kimmacquarrie.com/3000-year-old-spider-god-temple-discovered-in-peru/)
+* [Cántaro con representación de arañas. Cuerpo con diseños geométricos de líneas horizontales, puntos y líneas onduladas.](http://www.museolarco.org/catalogo/ficha.php?id=17919) - from the Virú-Gallinazo culture.
+
+Honestly looks a lot like the spider shell gorgets in Mississipian Culture, but it is quite stylistically different. On the other hand, the Moche Spiders are closer:
+
+* [Huaca de la Luna](https://www.researchgate.net/figure/Figura-5-Fotogramas-mph1tvp1ec03-31-mph1tvp1ec03-30-y-mph1tvp1ec03-29-del-E3-en-el_fig3_328103086)
+* [Loma Negra Copper Spider](https://www.metmuseum.org/art/collection/search/314478)
+* [Loma Negra Earflare Frontal Spider](https://www.metmuseum.org/art/collection/search/312506)
+
+### Cullud
+
+See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
+
+### Zarpan
+
+See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
+
+### Ventarron
+
+See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
+
+## Chavín de Huántar - Ancash Region, Peru (1500 BCE - 300 BCE)
+
+Main [Chavín culture](https://es.wikipedia.org/wiki/Cultura_chav%C3%ADn) articfacts are dated to about 1200 BCE. Social upheaval around 500 BCE - 300 BCE.
+
+Circular arena.
+
+* [Chavín de Huántar](https://es.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar)
 
 ## Wankarani - Near Lake Poopo, Oruro Department, Peru (1500 BCE - 400 CE)
 
@@ -1136,37 +1223,13 @@ Proceeded Jisk'a Iru Muqu. Preceeded Tiwanaku.
 
 * [Chiripa](https://en.wikipedia.org/wiki/Chiripa)
 
-## Pukara Culture - Puno Region, Lampa Province, Pucará District, Peru (200 CE)
+## Las Haldas - Casma, Ancash, Perú (1947+/- 168 BCE - 1412+/-102 BCE)
 
-Absorbed parts of the Chiripa culture.
+Has a circular arena.
 
-* [Pukara](https://en.wikipedia.org/wiki/Pukara,_Puno)
-
-### Mirrors (900 BCE - 200 BCE)
-
-* [On Precolumbian Optics From Peru (Optica Precolombina del Peru)](https://arxiv.org/pdf/physics/0702024.pdf)
-
-### Arte de las arañas (spiders)
-
-The carbon dating from where the plate was found indicates it was likely from anywhere between 1100 BCE - 800 BCE.
-
-* [Plato con representación de araña bicéfala con cabezas de felino y cabezas de ave. (1250 BCE - 1CE or 800 BCE - 200 BCE)](http://www.museolarco.org/catalogo/ficha.php?id=11893)
-* [Excavaciones en el Templete de Limoncarro,
-valle bajo de Jequetepeque](http://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/viewFile/965/932)
-* [3,000-Year-Old “Spider God” Temple Discovered in Peru](http://www.kimmacquarrie.com/3000-year-old-spider-god-temple-discovered-in-peru/)
-* [Cántaro con representación de arañas. Cuerpo con diseños geométricos de líneas horizontales, puntos y líneas onduladas.](http://www.museolarco.org/catalogo/ficha.php?id=17919) - from the Virú-Gallinazo culture.
-
-### Cullud
-
-See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
-
-### Zarpan
-
-See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
-
-### Ventarron
-
-See above under [Ventarron, Peru](#ventarron-peru-2000-bce)
+* [Las Haldas](https://es.wikipedia.org/wiki/Las_Haldas)
+* [Bischof, H. (2009). Los periodos Arcaico Tardío, Arcaico Final y Formativo Temprano en el valle de Casma: evidencias e hipótesis. Boletín de Arqueología PUCP, (13), 9-54.](https://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/view/977)
+* [Grieder, T. (1975). A dated sequence of building and pottery at Las Haldas. Ñawpa pacha, 13(1), 99-111.](https://doi.org/10.1179/naw.1975.13.1.008)
 
 ## El Mesón - Papaloapn Basin, Veracruz, MX - Olmec, Epi-Olmec, Classic Veracruz (1450 BCE - 1520 CE)
 
@@ -1258,7 +1321,7 @@ Just south of Xunantunich.
 
 * [Ujuxte](https://en.wikipedia.org/wiki/Ujuxte)
 
-## El Trapiche -  Chalchuapa, El Salvador (1200 BCE - 250 CE)
+## El Trapiche -  Chalchuapa, El Salvador (1200 BCE - 250 CE) - Olmec, Maya
 
 This was a Mayan site which started declining in 200 BCE and was aboandoned when Ilopango errupted. There are sign of Olmec Influence and trade with both Olmeca and Kaminaljuyú.
 
@@ -1268,19 +1331,37 @@ This was a Mayan site which started declining in 200 BCE and was aboandoned when
 
 ### [Bolinas](https://es.wikipedia.org/wiki/Bolinas_(El_Salvador))
 
-## Kuntur Wasi - Cajamarca Region, Peru (1200 BCE - 50 BCE)
+## Pacopampa - Querocoto, Chota, Cajamarca, Peru (1200 BCE - 500 BCE) - Cuspinique, Chavín
+
+Has cinnabar. Also the friso de Pacopampa has motifs on it which look almost "Olmecoid".
+
+* [Pacopampa](https://es.wikipedia.org/wiki/Pacopampa)
+
+## Kuntur Wasi - Cajamarca Region, Peru (1200 BCE - 50 BCE) - Cuspinique, Chavín
 
 * [Kuntur Wasi (Condor House)](https://en.wikipedia.org/wiki/Kuntur_Wasi)
 
-## Chavín de Huantar - Chavín de Huantar, Peru - Chavín (1200 BCE - 500 CE)
+I'm just gonna put this out there, but some of the stylistic elements look downright "Olmecoid":
 
-* [Chavín de Huantar](https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar)
+  * Compare [the plaza statue](https://en.wikipedia.org/wiki/File:Kunturwasi_Monolito_lou.jpg) with [this](https://fr.wikipedia.org/wiki/Fichier:Olmecfigurine.JPG);
+
+Additionally, [this crown](https://en.wikipedia.org/wiki/File:Krone_kuntur_wasi.JPG) really harkens back to the serpent friezes in Ventarrón.
+
+## Chavín de Huantar - Chavín de Huantar, Peru (1200 BCE - 500 CE) - Cuspinique, Chavín 
+
+* [Chavín de Huantar](https://es.wikipedia.org/wiki/Chavín_de_Huántar)
 
 ## Izapa - Chiapas, MX - Olmec, Maya (1100 BCE - 1200 CE)
 
 -1100 is a guess, it's heyday was between -850 and -100.
 
 * [Izapa](https://en.wikipedia.org/wiki/Izapa)
+
+## Montegrande, Jaen, Cajamarca, Peru (~1000 BCE) - Mayo Chinchipe Culture
+
+ * [Atwood, R. (2017) Connecting Two Realms. Archeology. July/August.](https://www.archaeology.org/issues/266-1707/letter-from/5653-letter-from-peru-spiral-temples)
+ * [Staff. Peru: Get to know ceremonial temple Montegrande in Jaen. Andina. October 5.](https://andina.pe/ingles/noticia-peru-get-to-know-ceremonial-temple-montegrande-in-jaen-727614.aspx)
+   * [Gallery](https://andina.pe/agencia/galeria.aspx?GaleriaId=4796&FotoId=536374)
 
 ## Post-archaic (1000 BCE - Present)
 
@@ -1339,7 +1420,26 @@ This was a Mayan site which started declining in 200 BCE and was aboandoned when
 
 ## Chavín culture (900 BCE - 200 BCE)
 
-* [Chavín culture](https://en.wikipedia.org/wiki/Chav%C3%ADn_culture) - Also see Chavín de Huantar above. I've noticed similarities between this culture and Adena, Hopewell, and Missippian cultures.
+* [Chavín culture](https://en.wikipedia.org/wiki/Chav%C3%ADn_culture) - Also see Chavín de Huantar above. 
+
+This seems to be an outgrowth of the Cuspineque culture. This crown has a design of the hexagonal snakes that can be seen as far back as [the Labayeque Ventarrón site](https://www.peruviantimes.com/13/fire-destroys-years-of-research-at-4500-year-old-ventarron-site/30250/).
+
+Also [had mirrors](https://commons.wikimedia.org/wiki/Category:Chavin_metalwork#/media/File:Miroir_Anthracite_Precolombien.jpg).
+
+There are stylistic similarities between it and the Olmec cultures and even some art features found as far away as the Adena, Hopewell, and Missippian cultures. Compare:
+* Shells:
+  * [this Chavín conch shell art](https://en.wikipedia.org/wiki/File:Incised_Strombus-Shell_Trumpet,_400-200_B.C.E,_L52.1.jpg)
+  * [this Fairfield Mound gorget/etched shell](http://users.stlcc.edu/mfuller/fairfieldMound.html)
+  * [this Spiro Mound conch shell](https://www.nationalgeographic.com/travel/article/spiro-and-the-art-of-the-mississippian-world-in-oklahoma#Spiro%20Mounds%20Oklahoma%20-%20artifact%20diptych2_0)
+  * [this Huastec engraved shell](https://www.researchgate.net/figure/The-interlaced-two-headed-cosmic-serpent-Huastec-Engraved-and-pierced-shell_fig3_229529627)
+  * [Dickason mounds shell gorget reporduction](http://www.museum.state.il.us/RiverWeb/landings/Ambot/prehistory/archives/images/art/pages/shellgorgetpop2.html)
+  * ["Mixtec" engraved shell of unknown provenance](http://web.archive.org/web/20210827073213/https://www.artemisgallery.com/product/trio-of-mixtec-carved-shell-pendants-lot-233-auction-8-31-2017/)
+  * [Spiro Mounds spinder gorget](https://en.wikipedia.org/wiki/File:Woolaroc_Spiro_Mounds_spider_shell_gorget.jpg)
+* Bracelets:
+  * [Chavín gold](https://commons.wikimedia.org/wiki/File:Ande_centrali,_alture_del_nord,_chavin_di_huantar_(attr.),_oggetti_in_oro,_900-550_ac_ca._02_collana.jpg)
+  * [Olmec beads](https://mnch.uoregon.edu/collections-galleries/beads) - 3rd over, 3rd down
+  * [Copper bead necklace, Hannah site, Peoria County.](http://www.museum.state.il.us/muslink/nat_amer/pre/htmls/w_clothing.html) - last image on page
+  * [Hopewell shell beads photograph](https://ohiomemory.org/digital/collection/p267401coll32/id/28038/)
 
 ## Mesoamerican Middle Formative (950 BCE - 400 BCE)
 
@@ -1403,9 +1503,23 @@ Also occupied by a few other cultures:
 
 * [Xunantunich](https://en.wikipedia.org/wiki/Xunantunich)
 
-## Cuicuilco - Mexico City, Mexico, MX - Toltec, Mexica? (800 BCE - 250 CE)
+## Cuicuilco - Mexico City, Mexico, MX - Olmec (800 BCE - 250 CE)
 
+This round structure is in someways similar to the round pyramids nearby in Mexico, but the recessed area at the top seems more similar to South American constructions:
+* [Guachimontones](https://en.wikipedia.org/wiki/Guachimontones) - Teuchitlán culture
+* [Tzintzuntzan (Mesoamerican site)](https://en.wikipedia.org/wiki/Tzintzuntzan_(Mesoamerican_site)) - Purépecha
+* [Pirámide Circular de Mairana](https://es.wikipedia.org/wiki/Pir%C3%A1mide_Circular_de_Mairana) and [Descubrieron en la selva de Bolivia una pirámide de más de dos mil años](https://tn.com.ar/internacional/descubrieron-en-la-selva-de-bolivia-una-piramide-de-mas-de-dos-mil-anos_544470/)
+* Caral/Áspero, Supe Valley, Barranca Province, Peru (2600 BCE)
+* Montegrande, Jaen, Cajamarca, Peru (~1000 BCE)
+* Chavín de Huántar - Ancash Region, Peru (1500 BCE - 300 BCE)
+
+Links
 * [Cuicuilco](https://es.wikipedia.org/wiki/Cuicuilco)
+* Photo: [(2021) Cuicuilco – The Mesoamerican city destroyed by a volcano. Heritage Daily. August 20.](https://www.heritagedaily.com/2021/08/cuicuilco-the-mesoamerican-city-destroyed-by-a-volcano/139951)
+* Photos: [Category:Cuicuilco](https://commons.wikimedia.org/wiki/Category:Cuicuilco)
+* Photos: [Google Maps](https://www.google.com/maps/place/Cuicuilco+Pyramid/@19.3016156,-99.181588,3a,77.1y,90t/data=!3m8!1e2!3m6!1sAF1QipO7TtfsnyIwhMobzzTcUQuHIblX8jLRP0gl6_sF!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO7TtfsnyIwhMobzzTcUQuHIblX8jLRP0gl6_sF%3Dw441-h298-k-no!7i1200!8i810!4m15!1m7!3m6!1s0x0:0x0!2zMTnCsDE4JzA2LjAiTiA5OcKwMTAnNTQuMCJX!3b1!8m2!3d19.301667!4d-99.181667!3m6!1s0x85ce00707e21201d:0x7dc129fb50890c49!8m2!3d19.3016156!4d-99.181588!14m1!1BCgIgAQ?hl=en)
+
+Related to [Cerro de la Estrella (archaeological site)](https://en.wikipedia.org/wiki/Cerro_de_la_Estrella_(archaeological_site))
 
 ## Zazacatla - Ceurnavaca, Morelos, MX - Olmec (800 BCE - 500 BCE)
 
@@ -2042,10 +2156,32 @@ Possible Oto-manguean connections.
 
 * [Teotenango](https://en.wikipedia.org/wiki/Teotenango)
 
+## Tollan-Xicocotitlan (Tula) - Tula de Allende, Hildago, MX (650 CE - 1350 CE) - Chingu, Coyotlatelco, Toltec, Otomi
+
+This became the economic epicenter after Teotihuacan lost that title. They aparently were able to procure ceramics from as far away as [El Reino de Nicoya in Costa Rica](https://es.wikipedia.org/wiki/Reino_de_Nicoya). They imported Tohil Plomiza ceramics (Guatemala and Coconusco), Anaranjado Fino (Southern Veracruz), cacao (Chiapa and Guatemala), turqoise (Oasisamerica), and onyx (Puebla). Lime deposits found in the south of their area powered most of their economic exchanges.
+
+Apparently, part of why so much history is lost is because Izcoatl, first huey tlatoani of the Excan Tlatolloyan burned the history books.
+
+Around the decline of the "Toltec" state (~1500 CE), many of the ruling lineages left and went to other places in Mesoamerica. Some settled in Culhuacán.
+
+* [Tollan-Xicocotitlan](https://es.wikipedia.org/wiki/Tollan-Xicocotitlan)
+* [Tula (Mesoamerican site)](https://en.wikipedia.org/wiki/Tula_(Mesoamerican_site))
+* [Kristan-Graham, C., & Amrhein, L. M. (Eds.). (2015). "Building Memories at Tula: Sacred Landscapes and Architectural Veneration", Memory traces: analyzing sacred space at five Mesoamerican sites. University Press of Colorado.](https://www.academia.edu/15255658/Building_Memories_at_Tula_Sacred_Landscapes_and_Architectural_Veneration)
+
 ## Huapalcalco (~650 CE)
 
 * [Huapalclaco](https://es.wikipedia.org/wiki/Huapalcalco)
 * [González MA (2009) Huapalcalco, un santuario-mercado del Epiclásico en la región de Tulancingo. Caminos y mercados de México. 185-220.](http://www.historicas.unam.mx/publicaciones/publicadigital/libros/caminosymercados/cm011.pdf)
+
+## Culhuacán - Valley of Mexico (670 CE)
+
+* [Colhuacan](https://es.wikipedia.org/wiki/Colhuacan)
+* [Pueblo Culhuacán](https://es.wikipedia.org/wiki/Pueblo_Culhuac%C3%A1n)
+
+Also see:
+* https://en.wikipedia.org/wiki/Cuahilama
+* https://en.wikipedia.org/wiki/Xochimilco
+* https://en.wikipedia.org/wiki/Tlatilco
 
 ## Xaltocan - Valley of Mexico, Mexico, MX - Otomies until 1395, Chichimeca, Tepaneca, Mexica (700 CE - 1521 CE)
 
@@ -2129,19 +2265,24 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 
 * [Saturno WA, Stuart D, Aveni AF, Rossi F (2012) Ancient Maya Astronomical Tables from Xultun, Guatemala. Nature. 336(6082): 714-717.](https://science.sciencemag.org/content/336/6082/714.full)
 
-## Tollan-Xicocotitlan (Tula) - Tula de Allende, Hildago, MX - Toltec, Otomi (800 CE - 1350 CE)
-
-Apparently, part of why so much history is lost is because Izcoatl, first huey tlatoani of the Excan Tlatolloyan burned the history books.
-
-* [Tollan-Xicocotitlan](https://es.wikipedia.org/wiki/Tollan-Xicocotitlan)
-* [Tula (Mesoamerican site)](https://en.wikipedia.org/wiki/Tula_(Mesoamerican_site))
-* [Kristan-Graham, C., & Amrhein, L. M. (Eds.). (2015). "Building Memories at Tula: Sacred Landscapes and Architectural Veneration", Memory traces: analyzing sacred space at five Mesoamerican sites. University Press of Colorado.](https://www.academia.edu/15255658/Building_Memories_at_Tula_Sacred_Landscapes_and_Architectural_Veneration)
-
 ## Sayil - (800 CE - 1000 CE)
 
 Puuc Region/Style. Possibly Chontal.
 
 * [Sayil](https://en.wikipedia.org/wiki/Sayil)
+
+## El Reino de Nicoya - Guanacaste, Costa Rica (800 CE - 1524 CE) - Chibcan, Nawa/Pipil, Nawa/Nicarao, Mague/Chorotega (also in Nicaragua)
+
+This is really remarkable!
+
+* [Reino de Nicoya](https://es.wikipedia.org/wiki/Reino_de_Nicoya)
+* [Cerámica nicoyana](https://es.wikipedia.org/wiki/Cer%C3%A1mica_nicoyana)
+
+Prior to the immigration of multiple societies, the area was likely inhabited by Chibchan speakers. Around 500 BCE they produced bichrome ceramica and metates and engaged in trade with the Maya for Jade. After the year 300, rocks in the shape of Llamas are found - indicating influence from the Andes.
+
+Around the year 800 CE, a group of Mangue speaking people let Soconusco and migrated south. Part of the group settled in Nequepio (El Salvador), part of the group settled in the Gulf of Fonseca (Honduras), part settled in Nicaragua (near Lake Cocibolca or Quauhcapolca in Nawa), and some continued down into the gulf of Nicayo. These people were fleeing the conquest of Cholula by a group of Nahuas from Central Mexico.
+
+Around the year 400 CE - 500 CE, a group of Nahua Teotihuacanos started a migration. First towards El Tajín and Cerro de las Mesas [where they became my ancestors]. [They would have intermingled a little and were likely responsible for some of the change in culture and art in that region.] Apparently, Nicoyan Jade Celts have been found there in Veracruz. Then about 700 CE - 900 CE, some of those groups left and settled in Guatamala and El Salvador. Then again in 1000 CE - 1100 CE another wave of Nahua Teotihuacanos left their homeland fleeing a four-year-long drought [and maybe "Olmec" rule?]. Some of each of these groups ended up migrating all the way to Nicaragua where they displaced the Mangue speaking Chorotega. The Chorotega ending up migrating more and more into Nicoya as they were displaced by the Nahua/Nawa.
 
 ## Humans arrive in Northern Bahamas (~830 CE)
 
@@ -2347,6 +2488,12 @@ See [Alcohua](https://en.wikipedia.org/wiki/Acolhua).
 ## Chutixtiox/Chu'Taxtyoox (Sakapultek) (possibly Kumatz) - Sacapulas, Quiché Department, Guatemala (1200 CE - 1524 CE)
 
 * [Chutixtiox](https://en.wikipedia.org/wiki/Chutixtiox)
+
+## Paramonga - Pativilca, Lima, Peru (1200 CE - 1400 CE) - Chimu
+
+Related to Chan Chan. Similar to [Pachacamac](https://en.wikipedia.org/wiki/Pachacamac)/[Pachacámac (sitio arqueológico)](https://es.wikipedia.org/wiki/Pachac%C3%A1mac_(sitio_arqueol%C3%B3gico)).
+
+* [Paramonga](https://en.wikipedia.org/wiki/Paramonga)
 
 ## Tlaxcallan - Tlaxcala, MX (1250 CE - 1550 CE)
 

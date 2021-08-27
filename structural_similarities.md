@@ -229,7 +229,7 @@ Other cultures have similar structures:
     * xamitl calli (Nahautl), xamitl means adobe, calli means house/dwelling — https://en.wikipedia.org/wiki/Jacal
     * yi hakan (Powhatan) - https://www.marinersmuseum.org/sites/micro/cbhf/native/nam003.html, https://www.flickr.com/photos/jungle_mama/3218380488
     * chiki (Tachiwin/Totonac) — https://www.flickr.com/photos/30148421@N06/3379436503, https://books.google.com/books?id=pOIzkg4t0bIC&pg=PA759&lpg=PA759&dq=tachiwin+house&source=bl&ots=vsvC9PR6cd&sig=ACfU3U2ssqFzTHuWQhl5ZdVq2WQ3cslq7A&hl=en&sa=X&ved=2ahUKEwjqgp6j3YDnAhUFCs0KHQ3SCXMQ6AEwAnoECAoQAQ#v=onepage&q=tachiwin%20house&f=false
-    * chickee (Seminole/Miccosukee) — https://www.semtribe.com/STOF/culture/chickee
+    * chickee (Seminole/Miccosukee/Tutunaku) — https://www.semtribe.com/STOF/culture/chickee
     * ruka (Mapuche) — https://es.wikipedia.org/wiki/Ruca
     * oca (Tupi-Guarani) — https://en.wikipedia.org/wiki/Oca_(structure)
     * shabono (Yanomami) — https://en.wikipedia.org/wiki/Shabono
@@ -335,28 +335,33 @@ Hut/House
     * *go
         * Algonkian
             * oo-*kóó-wa (Siksiká, ᓱᖽᐧᖿ/Blackfoot)
+        * Western Apache
+            * gowąh
+        * Western Samic
+            * goahti (Northern Sámi)
+            * goahte (Lule Sámi)
+            * gåetie (Southern Sámi)
+            * gåhte (Pite Sámi)
+            * gåhtie (Ume Sámi)
     * *gu
         * Algonkian
             * wi-*ku-om (Mi'kmaq)
-    * *kuʔ
-        * Athabaskan
-            * kų́ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
-        * kug
-            * Chiricahua
-                * kuughą
-                * guughą
-            * Western Apache
-                * gowąh
-            * Western Samic
-                * goahti (Northern Sámi)
-                * goahte (Lule Sámi)
-                * gåetie (Southern Sámi)
-                * gåhte (Pite Sámi)
-                * gåhtie (Ume Sámi)
+        * Chiricahua
+            * guughą
+            * kuughą
         * Uralic
             * kunyhó (Hungarian)
         * Arabic
             * كوخ [kukh]
+    * *kue
+        * Eastern Samic
+            * kuẹʹtt (Skolt Sami)
+            * куэдтҍ [kuedtʹ] (Kildin Sami)
+            * kuáti (Inari Sami)
+        * Athabaskan
+            * kų́ę́ (ᑌᓀ ᒐ Dene-thah/Slavey)
+
+    * *kut
         * *kutą (Proto-Germanic)
             * High German (Does everything below here actually derrive from *χot? Or maybe or *χut?)
                 * hutta
@@ -372,11 +377,6 @@ Hut/House
                     * hytte
                 * Swedish
                     * hytta
-    * *kut
-        * Eastern Samic
-            * kuáti (Inari Sami)
-            * kuẹʹtt (Skolt Sami)
-            * куэдтҍ [kuedtʹ] (Kildin Sami)
         * Tamil
             * குடி [kuṭi]
         * Hindi
@@ -452,45 +452,40 @@ Roof/Hut
     * atap (Malay, Indonesian, Javanese)
     * hateup (Sudanese)
     * atipan v. (Filipino) — to roof
-    * *tɑʰ
+    * *tɑ
         * tafo (Malagasy)
         * t'ara (Amharic)
         * tau/t'au (Lenca)
-        * *tɑx
-            * teach [tʲæːx] (Irish)
-            * taigh [tʰɤj] (Scots Gaelic)
-            * *tɑɣ
-                * tag (Danish)
-                * tak (Swedish, Norwegian)
-                    * þak (Icelandic)
-    * *tɜt(ʃ)
+        * տուն [tun] (Armenian) — people argue it comes from *dṓm in Proto-Indo-European, but I'm going to argue against that.
+    * *ɜtɜtʃ
+        * etxe [ɜtʃɜ] (Basque)
+        * techo [tɜtʃo] (Spanish) - roof
         * tettu (Corsican)
         * tető (Hungarian)
         * teto (Portuguese)
         * teito (Asturias)
-        * techo [tɜtʃo] (Spanish) - roof
-        * etxe [ɜtʃɜ] (Basque)
+        * toit [tʊʷa] (French)    
     * *teɣ
         * τέγος [tégos] (Proto-Hellenic)
         * στέγος [stégos] (Proto-Hellenic)
         * tectum (Latin)
-    * *tʊ
-        * toit [tʊʷa] (French)
-    * *tu
+    * *tɑɣ
+        * teach [tʲæːx] (Irish)
+        * taigh [tʰɤj] (Scots Gaelic)
+        * tag (Danish)
+        * tak (Swedish, Norwegian)
+            * þak (Icelandic)
+    * *tɨɣ
         * tukul (Ethiopia, Sudan)
-        * տուն [tun] (Armenian) — people argue it comes from *dṓm in Proto-Indo-European, but I'm going to argue against that.
-    * *tɨʰ
         * tɨʰk (Proto-Mixe-Zoquean)
-            * Mixe
-                * tɨjc (Coatlán Mixe)
-                * tʉcʉ (Oluta Popoluca)
-                * tʉjc (Sayula Popoluca)
-                * ta̱jc (Totontepec Mixe)
-            * Zoque
-                * tʌc (Copainalá Zoque)
-                * tøc (Francisco León Zoque)
-                * tɨc (Highland Popoluca)
-                * tʌjk (Rayón Zoque)
+            * tɨjc (Coatlán Mixe)
+            * tʉcʉ (Oluta Popoluca)
+            * tʉjc (Sayula Popoluca)
+            * ta̱jc (Totontepec Mixe)
+            * tʌc (Copainalá Zoque)
+            * tøc (Francisco León Zoque)
+            * tɨc (Highland/Sierra Popoluca)
+            * tʌjk (Rayón Zoque)
         * *tɨɣ (Proto-Brythonic)
             * tig [tɪɡ] (Old Welsh) — interestingly, this is a vowel change towards *tɜɣ away from *tɨɣ
                 * tŷ [tɨː] (Welsh)
