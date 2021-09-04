@@ -700,7 +700,7 @@ Trade between here and the south east:
 * [Zarrillo, S., Gaikwad, N., Lanaud, C., Powis, T., Viot, C., Lesur, I., ... & Valdez, F. (2018). The use and domestication of Theobroma cacao during the mid-Holocene in the upper Amazon. Nature ecology & evolution, 2(12), 1879-1888.](https://www.academia.edu/39637452/The_use_and_domestication_of_Theobroma_cacao_during_the_mid_Holocene_in_the_upper_Amazon_Main_Text) &mdash; Lays out an interesting connection between the cacao cultivated by the "Olmec" and the cacao of this region.
   * `This long-held idea that T. cacao was first domesticated in Mesoamerica, where it was isolated from its wild relatives, has been buoyed by archaeological, ethnohistoric and iconographic evidence10,13. However, recent genomic research on T. cacao shows that its greatest genetic diversity occurs in the humid forests of the upper Amazon tributaries region, suggesting that its earliest use and initial domestication originated there (Fig.1)14–17. Here we report that T. cacao was used in Ecuador by 5,450–5,300 cal. yr BP, predating its earliest known use in Central America and Mexico by approximately 1.5 millennia.`
   * `Theobroma cacao diversity has recently been classified into ten genetic groups, with three main ‘old domesticated’ varieties. The geographic locale and the approximate dates of their originare: the Criollo variety, cultivated in Mexico for approximately 3,900 years2,14; the Nacional variety, cultivated in Ecuador for at least 500 years16 and the Amelonado variety, originating from Brazil and cultivated for nearly 300 years37. The Zamora-Chinchipe province has already been shown as the centre of domestication of the fine flavour cacao Nacional variety of Ecuador16. However, the origin of the aDNA from ceramic residues seems closer to the Purus and Curaray groups than to the Nacional variety, suggesting that the Nacional variety was domesticated more recently than the Theobroma trees used between approximately 5,300 and 3,700 cal. yr BP in the SALF region.`
-  * `Representatives of the ancestral Criollo variety introducedin Central America, and cultivated by Olmec and Maya people,can be identified in the current cacao population cultivated in Central America14. These trees, highly homozygous, constitute one of the ancestors of the present hybrid Criollo population (named Trinitario) and are also closer to the Purus or Curaray genetic groups16, as is the aDNA from SALF. Modern T. cacao trees belonging to both genetic groups are presently found in the Zamora-Chinchipe region where SALF is located, and these trees extend north to the Colombian Amazon region. These findings highlight the important role the Curaray/Purus cacao groups inthe upper Amazon may have played in cacao domestication events occurring at different times, but also raise questions regarding their dispersal from Amazonia to both the Pacific coast of Ecuador and to Central America.`
+  * `Representatives of the ancestral Criollo variety introduced in Central America, and cultivated by Olmec and Maya people,can be identified in the current cacao population cultivated in Central America14. These trees, highly homozygous, constitute one of the ancestors of the present hybrid Criollo population (named Trinitario) and are also closer to the Purus or Curaray genetic groups16, as is the aDNA from SALF. Modern T. cacao trees belonging to both genetic groups are presently found in the Zamora-Chinchipe region where SALF is located, and these trees extend north to the Colombian Amazon region. These findings highlight the important role the Curaray/Purus cacao groups inthe upper Amazon may have played in cacao domestication events occurring at different times, but also raise questions regarding their dispersal from Amazonia to both the Pacific coast of Ecuador and to Central America.`
   * `In this regard, artefacts from SALF also reveal linkages to the Pacific coast. Funeral offerings from Tomb 2 included a stirrup-spout bottle (Fig.2, Supplementary Note 1, Supplementary Fig. 1 and Supplementary Table 2), from which interior residue sample PLD-001 was obtained. Strikingly, the human effigy stirrup-spout bottle (Fig.2) shows a human face emerging from a Spondylus bivalve (Spondylus crassisquama Lamark, 1819, formerly known as S. princeps Broderip, 1833), found only along the far northwest coast of Peru to Baja California38. Moreover, other artefacts found in tombs at SALF included shell fragments and beads made of Strombus spp. shell, which also originates along the Pacific coast18 (Supplementary Note 1). It is evident then that the people of the Mayo-Chinchipe culture were in contact with groups on the Pacific coast, either through direct or indirect trade of goods18,22. These exchanges undoubtedly also involved culturally important plants22,39.`
   * Hmmm, that does correspond with several trade routes of a few cultures, including the Olmec/Mokaya.
 
@@ -903,6 +903,32 @@ Contains a circular arena.
 * [Chu A (2008) Bandurria: Arena, mar y humedal en el surgimiento de la Civilización Andina. Hualmay, Huaura, Perú. Servicios Gráficos Jackeline.](https://www.academia.edu/11124090/Bandurria._Arena_Mar_y_Humedal_en_el_Surgimiento_de_la_Civilizaci%C3%B3n_Andina)
 * [Gallery: Sacred City of Caral-Supe](https://whc.unesco.org/en/list/1269/gallery/)
 
+### Oldest Domesticated Crescentia cujete
+
+[Moreira, P. A., Aguirre-Dugua, X., Mariac, C., Zekraoui, L., & Vigouroux, Y. (2017). Diversity of treegourd (Crescentia cujete) suggests introduction and prehistoric dispersal routes into Amazonia. Front Ecol Evol 5: 1–13.](https://doi.org/10.3389/fevo.2017.00150)
+  * > While the great phenotypic variability of cultivated treegourd is a distinctive feature among Crescentia species (Gentry, 1980), its wild populations from Mexican savannahs in the Yucatan Peninsula have smaller, elongated fruits with thinner exocarps (Aguirre-Dugua et al., 2012). The indehiscent and thicker exocarp of cultivated treegourd fruits makes the spontaneous dispersal of seeds impossible (Aguirre-Dugua et al., 2012). Its oldest remains found to date come from a Peruvian archaeological site dating to 5,000–3,800 years BP (Solis, 2006). This pattern contrasts to the bottle gourd, collected from a vine (Lagenaria siceraria), one of the ancient crops similarly used for technological purposes in the Americas (Heiser, 1993). Bottle gourd has been managed at least since the Late Pleistocene (Kistler et al., 2014) and was found in Colombian Amazon by 8,000 BP (Piperno, 2011). The wild progenitor of the cultivated Crescentia cujete remains elusive (Gentry, 1980; Arango-Ulloa et al., 2009; Aguirre-Dugua et al., 2012; Moreira et al., 2017). Gentry (1980) pointed out that C. cujete was certainly native to Mesoamerica, where putative wild populations are found in savannahs and semi-evergreen forests of southern Mexico and northern Central America (Figure 1). However, northern South America cannot be ruled out as part of the original distribution area of wild C. cujete, given the occurrence of apparently spontaneous C. cujete in grazed savannahs of Andean and Caribbean regions of Colombia (Arango-Ulloa et al., 2009).
+  * > Cultivated C. cujete are quite similar from Mexico to Brazil, suggesting a common genetic origin. But these cultivated types are strongly differentiated from wild types, both from Mexico and Amazonia, suggesting these wild populations are not the direct ancestors of cultivated C. cujete. The geographical origin of the domestication of this species is still uncertain. However, the high diversity of cultivated C. cujete from Mexico, compared to Amazonia, suggests that its origin may be in Central America. Diversity analyses allowed discussion of the different routes of introduction into Amazonia and subsequent dispersal. More than one route may have been used: a northwestern introduction into the Negro and Solimões Rivers; and an eastern introduction fromthe coastal Guianas into the Amazonas River. Finally, fruit shape diversity suggests distinct selection pressures across the crop’s distribution.
+  * > Nevertheless, our results provide evidence that introduction of domesticated C. cujete in Mexico and Amazonia originated from the same source, given the Mexican relationship with Amazonian samples (Figure 3A, yellow and green clusters) and occurrence of wild Mesoamerican alleles in cultivated Amazonian C. cujete samples.
+  * > The patterns of treegourd genetic diversity across the Amazon Basin allow two, not mutually exclusive, hypotheses of introduction: a Northwestern route and an Eastern route. A Northwestern route into the upper Negro River is supported by the relatively high levels of heterozygosity and fruit shape diversity (Table 2), higher proportions of Mexican ancestry (Figure 3A, green cluster) and higher frequency of the most common haplotype in Mexico (Figure 4B, haplotype H2). This route into Negro River is possible from the Orinoco River, given the fluvial connections via de Cassiquiare canal. This route was part of an extensive social trading network (Hornborg, 2005), based at least in part on the Arawak network (Eriksen and Danielsen, 2014). This route has also been suggested for various crop dispersals (Schultes, 1984), such as cocona (Solanum sessiliflorum), whose populations were domesticated in the upper Orinoco River (Volpato et al., 2004) and which was widely cultivated in Northwestern Amazonia (Schultes, 1957). Similarly, people from the upper Negro River reported intentional collection of treegourd propagules from the Cassiquiare, where treegourd is considered a spontaneous tree in the floodplains, while along the Negro River cultivation demands more effort (P.A.M., personal observation).
+  * > A possible Western route into the upper Solimões River is partially supported by heterozygosity and fruit diversity (Table 2); the presence of all fruit shapes described enhances the possibility (Figure 5B). Moderately high nucleotide diversity with the highest number of haplotypes are the strongest evidence (Table 2), especially because hybridization with wild populations was not reported (Moreira et al., 2017), suggesting that this is C. cujete diversity. This route might reflect introduction from the Pacific coast and crossing of the Andes mountains via the Napo and Putumayo rivers (Schultes, 1984), as might be the case of cacao (Theobroma cacao) (Thomas et al., 2012) and peach palm (Bactris gasipaes) (Rodrigues et al., 2005) demonstrated by molecular evidence. However, it is also possible that this is a continuation of the Negro River route across interfluvial areas, as suggested by the distribution of abundant haplotype H2 and the rare haplotype H13 (Figure 4B).
+  * > The Eastern route into the Amazonas River is supported by high heterozygosity and fruit diversity (Table 2), with high Mexican ancestry not found in Western Amazonia (Figure 3A, yellow cluster). The highest levels of nucleotide diversity (Table 2) and the particular distribution of haplotypes not found in Western Amazonia (Figure 4B, haplotype H5), which include one of the Mexican haplotypes (Figure 4B, H3), agree with the nuclear pattern. This route is linked to the coastal Guianas, an ancient area of exchange of Amazonian crops with Mesoamerica (Schultes, 1984). Molecular data of early maize (Zea mays) introduction into South America support dispersal from Mesoamerica through the Caribbean, spreading along the lowlands of the northeastern coast of South America to finally reach Amazon Basin through river systems (Freitas et al., 2003; Bedoya et al., 2017), although the oldest archaeological remains of maize are western (Bush et al., 2016). This route also agrees with pineapple dispersal from the Guianas, where it was domesticated and introduced into Mexico (Coppens D’Eeckenbrugge and Duval, 2009).
+  * > Domesticated varieties often present greater fruit shape diversity than their wild relatives, as observed in bottle gourd (L. siceraria), whose fruits have similar technological uses (Heiser, 1993; Morimoto et al., 2005). Across its distribution, the pattern of treegourd fruit shape diversity (Figure 5) suggests different cultural preferences affecting diversification. The highest shape diversity was found along the Negro and Solimões rivers (Figure 5B, Table 2). Similar high diversity was also observed in the Orinoco and Caribbean regions of Colombia (ArangoUlloa et al., 2009), suggesting northwestern South America is an area of treegourd diversification. This pattern of diversity agrees with Amazonian ethnographies that underscore the cultural value of morphotype diversity cultivated for its own sake, such as in manioc (Rival and McKey, 2008) and pequi (Caryocar brasiliense) (Smith and Fausto, 2016). Nevertheless, the greater local frequency of the spherical type in Mexico and rounded-drop shape along the Negro River (Figure 5) suggests distinct selection pressures, as also described for popcorn in Peru (Grobman et al., 2012) and the differential selection of bitter and sweet manioc between Amazonia and the Atlantic Forest in Brazil (Emperaire and Peroni, 2007). Modern Maya people in Mexico and Guatemala have a long history of strong selection of spherical fruits of C. cujete for bowls (jícaras) to use with traditional beverages in rituals and also daily life situations (Ventura, 1996; Aguirre-Dugua et al., 2012, 2013). In Amazonia, the spherical and drop-shaped fruits of C. cujete have different symbolic importance and are recognized with distinct names by Tukano Oriental speakers (Pieter van der Veld, pers. communication), a linguistic family found in Northwestern Amazonia. The spherical fruit is called wahatowê, and is used as bowls to prepare ipadu powder (Erythroxylum coca var. ipadu) in rituals. In contrast, the rounded-drop, called ñahsãwaha, is common in daily life as a spoon and cup for collective food consumption (xibé, a meal of water and manioc flour, and açaí, the juice from Euterpe precatoria). Local people along the upper Negro River reported that the spherical type was also used as an ashtray by healers (pajé) in blessing rituals with tobacco smoke. Ethnographies also reported different treegourd fruits for each type of use, such as cuia-de-tapioca and cuia-de-ipadu (Ribeiro, 1995), although shape differences were not mentioned. In Northwestern South America, these bowls are cultural markers for the traditional use of coca introduced from the Andean foothills (Plowman, 1984). Interestingly, the spherical fruit shape selected in Mexico was the same as the one used in special rituals in Negro River Basin. This suggests that the wide dispersal of plants between South America and Mesoamerica in pre-Columbian times was motivated not essentially by food consumption, as would be expected for agrarian societies, but mainly for recreative and religious purposes (Neves, 2016). Indeed, archaeological remains of C. cujete in Central America and the Antilles were found in ritualistic contexts, such as offerings in funerary rituals (Beaubien, 1993; Conrad et al., 2001). This hypothesis of recreative and religious exchanges is also supported by the ancient dispersal of maize (Zea spp.) for beer preparation and tobacco (Nicotiana spp.) for magic and therapeutic uses, both widely exchanged between these continents (Heiser, 1965; Smalley and Blake, 2003), possibly as sacred gifts (Norton, 2008).
+
+[Solis, R. S. (2006). America’s first city? The case of Late Archaic Caral. In Andean archaeology III (pp. 28-66). Springer, Boston, MA.](https://doi.org/10.1007/0-387-28940-2_3) &mdash [PDF](https://www.semanticscholar.org/paper/America%E2%80%99s-First-City-The-Case-of-Late-Archaic-Caral-Sol%C3%ADs/cd99c99e1ba545a2b55ca01160237ce7f345b064)
+  * > Consistent with this, the abundant presence of cotton seeds (Gossypium barbadense) at Caral may be due to a special emphasis that the inhabitants of the valley placed on this cultigen, whose fibers would have been required by the coastal settlers for the manufacture of fishing nets and clothing. In the valley gourds (Lagenaria siceraria) were also cultivated, with which floats for fishing nets, bowls and cups were manufactured and, fundamentally, plants destined for food, such as squashes (Cucurbita sp.), beans {Phaseolus vulgaris), achira (Canna edulis), sweet potato (Ipomoea batatas), avocado (Persea americana), guava (Psidium guajava), pacay (Ingafeuillei), liicuma (Pouteria lucuma) and chili peppers (Capsicum frutescens). Likewise, in Caral plants were recovered that probably came from other zones, such as palillo (Campomanesia lineatifolia), achiote (Bixa orellana), huairuro (Ormosia sp.) (a type of red bean used as an ornament), tutumo (Crescentia cujete) and lloque (Kageneckia lanceolata). Bulrushes (Schoenoplectus sp.) and other species were gathered from marshy zones within the valley (Shady 1999b: 2-A; 2000b: 49-66). Maize (Zea maiz) appears only at the end of the occupation, and in small quantities (see Tables 2.4, 2.5, 2.6; Figure 2.7).
+  * > Internal exchange was supplemented by an external exchange, which extended to other coastal areas as well as highlands and tropical forests of the north-central region, from which the inhabitants of Caral acquired goods such as Spondylus, wood, snails, medicinal plants, semiprecious stones, pigments, etc. The connections extended to groups in distant locations, such as the extreme north coast of Peru, and even Ecuador, for the acquisition of highly valued Spondylus, from which objects of symbolic value were manufactured.
+  * > All these activities favored the accumulation of wealth, promoting differences in prestige and the formation of social classes. They allowed Caral-Supe society to channel the benefits of surpluses production throughout the area into strengthening the power of local authorities who had initiated a process of political integration under a centralized government.
+  * > The residents of Caral worked beads of bone, wood, shell, quartz and semiprecious stones as indicators of status for the living and the dead. A workshop with objects, debitage and tools has been excavated. Raw material such as Spondylus was imported from tropical Ecuadorian waters; other materials came from the adjacent coast, highlands and the Andean forests. Objects which indicated differences in access to manufactured goods were found in burials, many of which were items obtained by means of trade (Figure 2.8e-h).
+  * Cotton was important.
+  * > Numerous architectural features found among the settlements of Supe, including subterranean circular courts, stepped pyramids and sequential platforms, as well as material remains and their cultural implications, excavated at Aspero and the valley sites we are digging (Caral, Chupacigarro, Lurihuasi, Miraya), are shared with other settlements of the area that participated in what is known as the Kotosh Religious Tradition (Burger and Salazar-Burger 1980, 1985). Most specific among these features are rooms with benches and hearths with subterranean ventilation ducts, wall niches, biconvex beads, musical flutes, etc.
+  * > The 18 settlements or urban centers identified in the Supe Valley contain public buildings of various types next to groups of domestic units and, as occurs in Caral, associated with contexts containing evidence of diverse functions and activities. If we contrast the information on settlement pattern from colonial documents about the area with the archaeological data (Shady 2000a), it may be proposed that the people of Supe were organized into urban centers or pachacas of diverse size and complexity, maintained by a self-sufficient economy, run by their own authorities, each with its chief and its gods and religious practices through which they sustained their identity.
+  * > Circular courts with public functions were constructed in nearly all urban centers, and a huge amount of labor was invested in monumental construction.
+  * > Other human burials, particularly of children, were found underneath walls or the floor of a dwelling, related to the belief that this class of offering would contribute to the long life of the building. This custom is still rooted in the cultural tradition of Andean communities, although human beings have been replaced by animals or special objects.
+    - This kind of practice was still potentially in effect through to the construction of Teotihuacan. It morphed a little bit.
+  * > A group of 32 flutes was recovered from a corner of the Temple of the Amphitheater (see above). The flutes are decorated with incised designs and painted with figures of monkeys, serpents, condors, eagles and human images (Shady 1999b, d). Another group of 38 instruments, probable bugles (see above), was recently recovered from another sector of the Temple of the Amphitheater. These instruments provide evidence for elaborate musical performance and the role of this musical expression in the public aspects of Caral-Supe society. The instruments help confirm the emphasis on collective musical performance in Caral-Supe society, and the early role of participatory artistic performance in Andean cultural heritage (Figure 2.9, lower half).
+    - This is echoed in the name of an Olmec place with circular construction in Mesoamerica built before Teotihuacan: Cuicuilco, "Place of songs."
+    - These same styles of culcular areas became more common as people dispersed from Teotihuacan.
+
 ## Aleutian Tradtion, Aleutian Islands, Alaska, USA (2500 BCE - 1800 BCE)
 
 * [Aleutian tradtion](https://en.wikipedia.org/wiki/Aleutian_tradition)
@@ -1004,7 +1030,7 @@ The fox pouch is interesting, but it could just be a coincidence that the place 
 
 ## Altica - Basin of Mexico, Mexico, MX (?)
 
-* [Nichols DL, Stoner WD. (2019) Before Teotihuacan&mdash;Altica, Exchange, Interactions, and the Origins of Complex Society in the North East Basin of Mexico. Ancient Mesoamerica. 30. doi:10.1017/S0956536118000305](http://www.academia.edu/download/61710120/9_before_teotihuacanaltica_exchange_interactions_and_the_origins_of_complex_society_in_the_northeast_basin_of_mexico.pdf)
+* [Nichols DL, Stoner WD. (2019) Before Teotihuacan &mdash; Altica, Exchange, Interactions, and the Origins of Complex Society in the North East Basin of Mexico. Ancient Mesoamerica. 30. doi:10.1017/S0956536118000305](http://www.academia.edu/download/61710120/9_before_teotihuacanaltica_exchange_interactions_and_the_origins_of_complex_society_in_the_northeast_basin_of_mexico.pdf)
 
 ## Chocolate Domesticated by Mokaya Culture (1900 BCE)
 
@@ -1132,11 +1158,25 @@ Terraces with mud walls. See later development in 300 BCE.
 
 ## Cultural Contact Between Ecuador and West Mexico (1500 BCE - 400 BCE)
 
-* [Anawalt, Patricia Rieff. “Ancient Cultural Contacts between Ecuador, West Mexico, and the American Southwest: Clothing Similarities.” Latin American Antiquity, vol. 3, no. 2, 1992, pp. 114–129. JSTOR.](www.jstor.org/stable/971939)
+* [Anawalt, Patricia Rieff. “Ancient Cultural Contacts between Ecuador, West Mexico, and the American Southwest: Clothing Similarities.” Latin American Antiquity, vol. 3, no. 2, 1992, pp. 114–129. JSTOR.](https://www.jstor.org/stable/971939)
+  * There are two isolated birds that are related to each other, Cyanocorax dickeyi (introduced into west Mexico) and Cyanocorax mystacalis (coastal regions of Ecuador and N. Peru)
+  * Similarities exits between the Manabi province of Ecuador and Rio de Ixtlan. These styles appear again 1000 years later with the Purapecha.
+  * Purapecha clothing is most similar to that of Hauri shirts 500 CE. 
+  * The same styles of patterns are present in clothing found in the Purapecha region and some tunics found in Tonto National Monument. The technique of weaving these peices is called "sprang". It's a non-loom method involving manipulating a set of parallel yarns. In it's earliest stage, it was found in Peru dating back to 1100 BCE. Today, the sprang technique can be found in Venezuela, Guiana, Colombia, Guatemala, today Mexico.
+  * "The archeological presence of this non-mesoamerican apparel (Kent 1983:221-233) suggests that the backstrap loom arrived in the American Southwest by way of West Mexico."
+  * > The mutual reinforcement of dress modes and weaving technology suggests the possibility of a pathway of cultural exchange between South America and the American Southwest with Mexico the interlinking channel. Riley (1987:86-87) described evidence for Prehispanic trade routes to the north from coastal West Mexico. He based his argument on evidence of Indian Traders from Culiacan being found in the Yaqui area as well as the archeological discovery of southwestern goods in Jalisco and Sinaloa. A memory of this trade &mdash; in operation when the Spanish arrived &mdash; was still extant in the 1880s when Lumholtz traveled through the Michoacan highlands. He reported that in "former times" [Purapecha] merchants journeyed as far north as the state of New Mexico (Lumholtz 1973:II:368).
+* [Bellamy, K. R. (2018). On the external relations of Purepecha: an investigation into classification, contact and patterns of word formation. Leiden University.](https://scholarlypublications.universiteitleiden.nl/handle/1887/61624)
+  * > Long-distance interaction within Mesoamerica and further afield can also be traced back to the earliest period (Weigand, 2001). Exchange is documented with the Hohokam culture of the southwest USA in the form of similarities in iconography, ceramic designs and architectural features (e.g. Carot & Hers, 2008; Braniff, 1995; see also Chapter 2 for an overview of possible linguistic relations in the southwest USA).
+  * > The SantiagoLerma river in the north and the Balsas-Tepelcatepec in the south acted as important routes of exchange, leading some scholars to also postulate long-distance maritime contact with South America from around 650 CE onwards (e.g. Hosler, 1994; Anawalt, 1992; see also Chapter 3).
+  * > A complex tribute system, including forced labour, military assistance and payment of goods, functioned within the Tarascan State. Sumptuary goods were acquired through long-distance trade with North America, South America (see Chapter 3) and other parts of Mesoamerica, as well as through local acquisition. The Tarascans were also great artisans, known throughout Mesoamerica for their intricate sculpture, ceramics, feather work and metallurgy (see, e.g., Arriaga, 1938: 10-11). Indeed some of the earliest extractive metalworking in Mesoamerica took place in the Tarascan region. Copper was particularly important for the Tarascans in the early part of their rule, having been used for both tools and ornamental pieces. Later techniques utilised alloying processes, although during both metalworking periods emphasis was placed on the visual (i.e. colour) and sonic properties of the metal (Chapter 3; see Hosler, 1994).
+  * > In Chapter 2 I used basic vocabulary as a means of testing relatedness proposals to show Purepecha is unique, isolated. However, no language exists in a vacuum; its speakers interact with groups speaking other languages through, inter alia, trade, warfare and marriage. In Chapter 3, then, I focus on the supposed transfer of a technology – metallurgy – that has been claimed to connect the Purepecha prehistorically to other metalworking cultures in South America. The motivation for this study lies predominantly in archaeology (Hosler, 1994; Anawalt, 1992) which suggests long-distance contact occurred between the Andean region of South America and West Mexico from 1500 BCE onwards. Moreover, in genetics, Brucato et al. (2015) identify the presence of a small but significant Andean component in certain Mesoamerican populations, whose correlation with proximity to an archaeological site with evidence of metalworking is highly suggestive of contact mediated by metalworking.
+
 
 ## Machalilla culture - southern Manabí & Santa Elena Peninsula, Ecuador (1500 BCE - 1100 BCE)
 
 * [Machalilla culture](https://en.wikipedia.org/wiki/Machalilla_culture)
+
+Eventually blended into the Chorrera culture (1300 BCE and 300 BCE).
 
 ## Herrera Period - Altiplano Cundiboyacense, Colombia (1500 BCE - 1000 CE)
 
@@ -1426,7 +1466,7 @@ This seems to be an outgrowth of the Cuspineque culture. This crown has a design
 
 Also [had mirrors](https://commons.wikimedia.org/wiki/Category:Chavin_metalwork#/media/File:Miroir_Anthracite_Precolombien.jpg).
 
-There are stylistic similarities between it and the Olmec cultures and even some art features found as far away as the Adena, Hopewell, and Missippian cultures. Compare:
+There are stylistic similarities between it and the Olmec cultures and even some art features found as far away as the Adena, Hopewell, and Missippian cultures. Granted, some of this just comes from the environment and what's found in it, but if trade networks played a role, we should let them have that role instead fo writing them out completely. Compare:
 * Shells:
   * [this Chavín conch shell art](https://en.wikipedia.org/wiki/File:Incised_Strombus-Shell_Trumpet,_400-200_B.C.E,_L52.1.jpg)
   * [this Fairfield Mound gorget/etched shell](http://users.stlcc.edu/mfuller/fairfieldMound.html)
@@ -1436,7 +1476,7 @@ There are stylistic similarities between it and the Olmec cultures and even some
   * ["Mixtec" engraved shell of unknown provenance](http://web.archive.org/web/20210827073213/https://www.artemisgallery.com/product/trio-of-mixtec-carved-shell-pendants-lot-233-auction-8-31-2017/)
   * [Spiro Mounds spinder gorget](https://en.wikipedia.org/wiki/File:Woolaroc_Spiro_Mounds_spider_shell_gorget.jpg)
 * Bracelets:
-  * [Chavín gold](https://commons.wikimedia.org/wiki/File:Ande_centrali,_alture_del_nord,_chavin_di_huantar_(attr.),_oggetti_in_oro,_900-550_ac_ca._02_collana.jpg)
+  * [Chavín gold "beads"](https://commons.wikimedia.org/wiki/File:Ande_centrali,_alture_del_nord,_chavin_di_huantar_(attr.),_oggetti_in_oro,_900-550_ac_ca._02_collana.jpg)
   * [Olmec beads](https://mnch.uoregon.edu/collections-galleries/beads) - 3rd over, 3rd down
   * [Copper bead necklace, Hannah site, Peoria County.](http://www.museum.state.il.us/muslink/nat_amer/pre/htmls/w_clothing.html) - last image on page
   * [Hopewell shell beads photograph](https://ohiomemory.org/digital/collection/p267401coll32/id/28038/)
@@ -1492,6 +1532,8 @@ Also occupied by a few other cultures:
 
 ## Xochitecatl - Tlaxcala, MC (800 BCE - 150 CE, 600 CE - 950 CE)
 
+Circular stepped pyramid, like Guachimontones Teuchitlán culture.
+
 * [Xochitecatl](https://en.wikipedia.org/wiki/Xochitecatl)
 * 800 BCE Main structures are built.
 * 350 BCE - 100 AD capital of region.
@@ -1505,21 +1547,20 @@ Also occupied by a few other cultures:
 
 ## Cuicuilco - Mexico City, Mexico, MX - Olmec (800 BCE - 250 CE)
 
-This round structure is in someways similar to the round pyramids nearby in Mexico, but the recessed area at the top seems more similar to South American constructions:
-* [Guachimontones](https://en.wikipedia.org/wiki/Guachimontones) - Teuchitlán culture
-* [Tzintzuntzan (Mesoamerican site)](https://en.wikipedia.org/wiki/Tzintzuntzan_(Mesoamerican_site)) - Purépecha
-* [Pirámide Circular de Mairana](https://es.wikipedia.org/wiki/Pir%C3%A1mide_Circular_de_Mairana) and [Descubrieron en la selva de Bolivia una pirámide de más de dos mil años](https://tn.com.ar/internacional/descubrieron-en-la-selva-de-bolivia-una-piramide-de-mas-de-dos-mil-anos_544470/)
-* Caral/Áspero, Supe Valley, Barranca Province, Peru (2600 BCE)
-* Montegrande, Jaen, Cajamarca, Peru (~1000 BCE)
-* Chavín de Huántar - Ancash Region, Peru (1500 BCE - 300 BCE)
-
-Links
 * [Cuicuilco](https://es.wikipedia.org/wiki/Cuicuilco)
 * Photo: [(2021) Cuicuilco – The Mesoamerican city destroyed by a volcano. Heritage Daily. August 20.](https://www.heritagedaily.com/2021/08/cuicuilco-the-mesoamerican-city-destroyed-by-a-volcano/139951)
 * Photos: [Category:Cuicuilco](https://commons.wikimedia.org/wiki/Category:Cuicuilco)
 * Photos: [Google Maps](https://www.google.com/maps/place/Cuicuilco+Pyramid/@19.3016156,-99.181588,3a,77.1y,90t/data=!3m8!1e2!3m6!1sAF1QipO7TtfsnyIwhMobzzTcUQuHIblX8jLRP0gl6_sF!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO7TtfsnyIwhMobzzTcUQuHIblX8jLRP0gl6_sF%3Dw441-h298-k-no!7i1200!8i810!4m15!1m7!3m6!1s0x0:0x0!2zMTnCsDE4JzA2LjAiTiA5OcKwMTAnNTQuMCJX!3b1!8m2!3d19.301667!4d-99.181667!3m6!1s0x85ce00707e21201d:0x7dc129fb50890c49!8m2!3d19.3016156!4d-99.181588!14m1!1BCgIgAQ?hl=en)
 
 Related to [Cerro de la Estrella (archaeological site)](https://en.wikipedia.org/wiki/Cerro_de_la_Estrella_(archaeological_site))
+
+This circular structure is in someways similar to the circular pyramids nearby in Mexico, but the recessed area at the top seems more similar to South American constructions:
+* [Guachimontones](https://en.wikipedia.org/wiki/Guachimontones) - Teuchitlán culture
+* [Tzintzuntzan (Mesoamerican site)](https://en.wikipedia.org/wiki/Tzintzuntzan_(Mesoamerican_site)) - Purépecha
+* [Pirámide Circular de Mairana](https://es.wikipedia.org/wiki/Pir%C3%A1mide_Circular_de_Mairana) and [Descubrieron en la selva de Bolivia una pirámide de más de dos mil años](https://tn.com.ar/internacional/descubrieron-en-la-selva-de-bolivia-una-piramide-de-mas-de-dos-mil-anos_544470/)
+* Caral/Áspero, Supe Valley, Barranca Province, Peru (2600 BCE)
+* Montegrande, Jaen, Cajamarca, Peru (~1000 BCE)
+* Chavín de Huántar - Ancash Region, Peru (1500 BCE - 300 BCE)
 
 ## Zazacatla - Ceurnavaca, Morelos, MX - Olmec (800 BCE - 500 BCE)
 
@@ -1672,7 +1713,6 @@ Became a part of Chichen Itza in 950.
 
 * [Tantaleán H, Stanish C, Rodríguez A, Pérez K (2016) The Final Days of Paracas in Cerro del Gentil, Chincha Valley, Peru. PLoS ONE 11(5): e0153465. https://doi.org/10.1371/journal.pone.0153465](https://doi.org/10.1371/journal.pone.0153465)
 
-
 ## Tiwananku/Tiahuanacu - Tiwanaku Municipality, Bolivia (400 BCE - 1200 CE)
 
 So maybe it was actually started in 1500 BCE: `Si bien Tiahuanaco se fundó en el año 1500 a. C. el gran período de construcción y expansión ocurrió a partir del 45 d. C.11​ Esta fase fue creada a través de las unidades de parentesco, que al alcanzar la sociedad un nivel estatal, hizo que el estado se expandiera para crear excedentes que sustenten a la administración y a las élites.`
@@ -1712,9 +1752,21 @@ This is really ill-defined culturally, so this needs to be broken up into multip
 * [Saturno WA, Urquizú M (2008) Proyecto Arqueológico Reg. San Bartolo, Informe No. 7. Instituto de Antropología e Historia. Guatemala.](http://www.mesoweb.com/resources/informes/SanBartolo-Xultun_2008.pdf)
 * https://www.world-archaeology.com/issues/issue-47/early-maya-sistine-chapel/
 
+## Zona arqueológica de Ixtlán -  Ixtlán del Río, Nayarit, MX (300 BCE - 1525 CE)
+
+There's a circular platform here, but it's different from anything else in Mexico. Also, has ceramics depicting clothing like in Ecuador.
+
+* [Zona arqueológica de Ixtlán](https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Ixtl%C3%A1n)
+* [Ixtlán del Rio (archaeological site)](https://en.wikipedia.org/wiki/Ixtl%C3%A1n_del_Rio_(archaeological_site))
+  * 2000 BCE, Los Concheros (initial occupation?)
+  * 300 BCE - 600 CE, Tombshaft tradition
+  * 500/600 CE, Tombshaft tradition disappears
+  * 750 CE - 1110 CE, Aztatlán tradition, mid-Ixtlán period
+  * 1110 CE - 1525 CE, late Ixtlán - "red smooth ceramics household items and cajetes and tripod molcajetes with white decor on Red."
+
 ## Teotihuacán - Valley of Mexico, Mexico, MX (300 BCE - 535 CE)
 
-This is not the original name. It is possible that the original name is lost forever. This name was given by the Mexica as they discovered it abandoned and slightly deteriorated.
+This is not the original name. This name was given by the Mexica as they discovered it almost 900 years after people left the center. It was abandoned and slightly deteriorated.
 
 * | teotl | &mdash; god, deity, divinity, creator, something blessed, something devine, a sacred force. pl. teteoh
 * | teotl | + | ti | => | teoti | &mdash; to become teotl ['divine' or 'divinity'].
@@ -1722,6 +1774,8 @@ This is not the original name. It is possible that the original name is lost for
 * |-can| &mdash; either locative suffix or optative ending depending on the vowel length. The optative ending, shorter 'a', would require the phrase 'xiteotican': "May you all become divinities"; logically, this is the locative ending.
 * |teoti| + |-hua-| => "Divinities/the divine come into being" or "it becomes divine/they become divinities" 
 * | teotihua | + | can | => | teotihuacan | &mdash; "Place where divinities/the divine come into being." or "Place where people/things become divine/divinities."
+
+From the various lines evidence I've come upon (linguistic, trade networks, patterns of people moving, and shifting aliances), I believe the ancient name of this would have been the Tutunakú word "Tamawánchan" which translates into "at the place of buying".
 
 Articles
 
@@ -1792,8 +1846,14 @@ This is the largest pyramid by volume in the world.
 
 * [Cholula](https://en.wikipedia.org/wiki/Cholula_(Mesoamerican_site))
   * > The earliest pyramid exhibits the talud-tablero motif style and is painted with insects resembling a Teotihuacan style. When the pyramid was originally built in 300 BCE, there were insects painted in black, red, and yellow on it.[7] The second pyramid, which was built over the first one, no longer resembles Teotihuacan architectural style. Instead it is a pyramid with stairs covering all four sides, so the top could be approached from every direction. It measures 590 ft (180 m) on a side.[6] The exposed slopes of the pyramid are earth- and adobe-filled and represent the last construction phase between CE 750 and 950.[2] During the Early Postclassic period, the pyramid was expanded to its final form. It covered 16 hectares (400 meters on the side) and reached a height of 66 meters. The orientation of the Great Pyramid, and the whole site’s urban grid, is about 26 degrees north of west, a deviation from Teotihuacan’s orientation. This orientation is aligned with the summer solstice, and it may relate to the worship of a solar deity related to the Mixtec 7 Flower, or Aztec Tonacatecuhtli.[1]
-* Tlachihualtepetl ("they made a stone hill") phase (CE 700–1200): used by Olmeca-Xicallanca as a capital.
-* Cholollan ("the place they fled") phase (1200 CE - onward): Tolteca-Chichimeca take over.
+  * Tlachihualtepetl ("they made a stone hill") phase (CE 700–1200): used by Olmeca-Xicallanca as a capital.
+  * Cholollan ("the place they fled") phase (1200 CE - onward): Tolteca-Chichimeca take over.
+
+The construction phases of the pyramid seem to relate to the various peoples who lived there and at what time they lived there. It definitely correlates with stories of the different people who fled the area at different times due to various local volcanoes, droughts, and conflicts. It was first occupied by an Manguean speaking group, then they fled the Olmeca-Xicallanca (this is said to be a Nahua group in the history of Nicoya, where some of the original Manguean speaking people fled). Later, in the history of the Nicoya Kingdom, a wave of Nahua Teotihuacanos fled the area to head south in order to leave a 4 year long drought and to flee the Olmeca.
+
+In the research for my dictionary, I discovered that the original form of "Olmeca-Xicallanca" is "yn nolmeca yn xicallanca" which could be a Nahuatl difrasismo meaning "this people from the place of rubber, this people from the place near tree gourds". Despite being a non-specific name, it does clearly define an area along the gulf coast of Vercruz where both resources are found cultivated.
+  - [Castilla elastica](https://enciclovida.mx/especies/165695-castilla-elastica)
+  - Crescentia cujete &mdash; [Moreira, P. A., Aguirre-Dugua, X., Mariac, C., Zekraoui, L., & Vigouroux, Y. (2017). Diversity of treegourd (Crescentia cujete) suggests introduction and prehistoric dispersal routes into Amazonia. Front Ecol Evol 5: 1–13.](https://doi.org/10.3389/fevo.2017.00150)
 
 ## Kabah - (250 BCE - 1000 CE)
 
@@ -2032,6 +2092,13 @@ Replaced by the Las Ánimas culture.
 
 * [Copan](https://en.wikipedia.org/wiki/Cop%C3%A1n)
 
+## Zultepec/Tecoaque - San Felipe Sultepec, Capulalpan, Tlaxcala, MX (450 CE - 1521 CE) - Alcohau
+
+Round platform.
+
+* [INAH. (2018) Zona Arqueológica de Tecoaque. INAH. Enero 15.](https://www.inah.gob.mx/zonas/173-zona-arqueologica-de-tecoaque)
+* [Tecoaque](https://en.wikipedia.org/wiki/Tecoaque)
+
 ## Toltec Empire - Most of southern Mexico and the Tip of the Yucatan (496 CE - 1122 CE)
 
 * [Toltec Empire](https://en.wikipedia.org/wiki/Toltec_Empire)
@@ -2195,6 +2262,11 @@ This is a Tairona Culture site. The Arhuaco (Ijka, Ifca), Kogui, Wiwa, and Kanku
 
 * [Tairona](https://en.wikipedia.org/wiki/Tairona)
 
+## Cultura Casma - Áncash, Perú (700 CE - 1400 CE)
+
+* [Cultura casma](https://es.wikipedia.org/wiki/Cultura_casma)
+* [Vogel, M. A. (2018). New Research on the Late Prehistoric Coastal Polities of Northern Peru. Journal of Archaeological Research, 26(2), 165-195.](https://doi.org/10.1007/s10814-017-9108-0)
+
 ## Las Ánimas culture - Norte Chico, Chile (700 CE - 1000 CE)
 
 Preceeded by El Molle Complex. Evolved into Diaguita Culture.
@@ -2353,6 +2425,13 @@ Believed to develop from the Weeden Island Culture. Developed into the Leon-Jeff
 ## Ilhuatzio, Pátzcuaro Basin, Michoacán, Mexico (900 CE - 1530 CE) - P'urepecha
 
 * [Ilhuatzio](https://en.wikipedia.org/wiki/Ihuatzio_(archaeological_site))
+
+## Ndachjian/Tehuacán - Puebla, MX (900 CE - 1456 CE)
+
+Occupied by two peoples and given different names in those occupations. Ndachjian phase 900 CE - 1260 CE. Tehuacán phase 1260 CE - 1456 CE.
+
+* [INAH. (2019) Descubren el primer templo dedicado a Xipe Tótec en la Zona Arqueológica de Ndachjian–Tehuacán. INAH. Enero 2.](https://www.inah.gob.mx/boletines/7883-descubren-el-primer-templo-dedicado-a-xipe-totec-en-la-zona-arqueologica-de-ndachjian-tehuacan)
+* [Katz, B. (2019) Archaeologists Find First-Known Temple of ‘Flayed Lord’ in Mexico. Smithsonian. January 3.](https://www.smithsonianmag.com/smart-news/temple-flayed-lord-found-mexico-180971165/)
 
 ## Mesa de Cacahuatenco - Ixhuatlán de Madero, Veracruz, MX (900 CE - 1500 CE)
 
