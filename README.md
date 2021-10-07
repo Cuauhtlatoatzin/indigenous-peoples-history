@@ -80,24 +80,10 @@ In addition to this list, there's the [Earth Science, Megafuana, Horses, Populat
 * [Waters MR, Stafford TW Jr. (2007) Redefining the Age of Clovis: Implications for the Peopling of the Americas. Science. 315(5815): 1122-1126](https://science.sciencemag.org/content/315/5815/1122.long) &mdash; Has lots of dates for sites.
 * [Fiedel SJ (2000) The peopling of the New World: present evidence, new theories, and future directions. Journal of Archaeological Research, 8(1), 39-103.](http://www.academia.edu/download/32369033/peopling2000.pdf)
 * [Torroni A, Schurr TG, Yang CC, Szathmary EJ, Williams RC, Schanfield MS, Troup GA, Knowler WC, Lawrence DN, Weiss KM (1992) Native American mitochondrial DNA analysis indicates that the Amerind and the Nadene populations were founded by two independent migrations. Genetics. 130(1): 153-162.](http://www.genetics.org/content/130/1/153.long)
-  * > The similarity of the sequence divergences of the Amerind clusters A, C, and D suggest that those were the founding linages of the Paleoindians. Using the weighted mean value of 0.084%, the Amerind mtDNA lineages are estimated to have begun radiating between 21,000 - 42,000 YBP. If most of this radiation occurred after entry into the Americas, this time range would suggest that the Americas were colonized before the dates associated with the oldest Paleoindian skeletal remains (14,00 YBP) and Clovis lithic artifacts (11,500 YBP), and would be consistent with the estimated ages of the oldest American archeological sites.
+  * > The similarity of the sequence divergences of the Amerind clusters A, C, and D suggest that those were the founding linages of the Paleoindians. Using the weighted mean value of 0.084%, the Amerind mtDNA lineages are estimated to have begun radiating between 21,000 - 42,000 YBP. If most of this radiation occurred after entry into the Americas, this time range would suggest that the Americas were colonized before the dates associated with the oldest Paleoindian skeletal remains (14,000 YBP) and Clovis lithic artifacts (11,500 YBP), and would be consistent with the estimated ages of the oldest American archeological sites.
 * [Bonnichsen, R. (1979). Pleistocene bone technology in the Beringian Refugium. University of Ottawa Press.](https://press.uottawa.ca/pleistocene-bone-technology-in-the-beringian-refugium-pdf.html)
 * [Fladmark KR (1979) Routes: Alternate Migration Corridors for Early Man in North America. American Antiquity. 44(1): 55-69.](https://doi.org/10.2307/279189) &mdash; [JSTOR](https://www.jstor.org/stable/279189?read-now=1&refreqid=excelsior%3Abcbb65353a76778de6decc3781de16e0&seq=8#page_scan_tab_contents)
 
-
-## Denisova Cave, Southern Siberia, Altai Krai, Russia (334000 - 222000 BCE)
-
-Not as close to the land bridge (it's 5000 km hike to Diring Yuriakh), but shows the span of the Denisovans.
-
-See [Genetics: Early Hominid through Modern Human](genetics.md#early-hominid-through-modern-human).
-
-## Diring Yuriakh, Yakutsk, Russia (260 KA, ~ 258000 BCE)
-
-This is close to the land bridge. In fact, crossing the land bridge would be just as far away as traveling to Denisova Cave. If these Denisovans made trips across the ocean at that time or one of the times when the land bridge emerged since 500000 BCE, that could explain the earliest and highly contested sites: Hueyatlaco, Calico, and Cerutti.
-
-See [Genetics: Early Hominid through Modern Human](genetics.md#early-hominid-through-modern-human).
-
-## Pre Clovis (before 11000 BCE)
 
 ## Great American Biotic Interchange (2500000 BCE - 10000 BCE)
 
@@ -118,9 +104,31 @@ Jaguars have a interesting culture and the House of the Jaguar followed from wha
 * [Rincon, S., Bardales, R. (2020) Why Indigenous Culture is Key to Jaguar Conservation. Field Notes. Panthera. August 3.](https://www.panthera.org/blog/2020/07/29/why-indigenous-culture-key-jaguar-conservation)
 * [Huggins, L., Hansen, O., Harrison, N. (2021) Cameras for Conservation: Direct Compensation as Motivation for Living with Wildlife. The Center for Growth and Opportunity at Utah State University. February 11.](https://www.thecgo.org/research/cameras-for-conservation-direct-compensation-as-motivation-for-living-with-wildlife/)
 
+## Eurasian Context
+
+## Castel di Guido, Latium, Italy (449000 BCE - 386000 BCE)
+
+* [Villa P, Boschian G, Pollarolo L, Saccà D, Marra F, Nomade S, et al. (2021) Elephant bones for the Middle Pleistocene toolmaker. PLoS ONE 16(8): e0256090.](https://doi.org/10.1371/journal.pone.0256090)
+* [Kindy, D. (2021) Hand-Carved, 400,000-Year-Old Bone Tool Used for Smoothing Leather Found in Italy. Smithsonian. 10 Sept.](https://www.smithsonianmag.com/smart-news/discovery-hand-carved-bone-tool-upends-historical-timeline-180978617/)
+
+## Denisova Cave, Southern Siberia, Altai Krai, Russia (334000 - 222000 BCE)
+
+Not as close to the land bridge (it's 5000 km hike to Diring Yuriakh), but shows the span of the Denisovans.
+
+See [Genetics: Early Hominid through Modern Human](genetics.md#early-hominid-through-modern-human).
+
+## Diring Yuriakh, Yakutsk, Russia (260 KA, ~ 258000 BCE)
+
+This is close to the land bridge. In fact, crossing the land bridge would be just as far away as traveling to Denisova Cave. If these Denisovans made trips across the ocean at that time or one of the times when the land bridge emerged since 500000 BCE, that could explain the earliest and highly contested sites: Hueyatlaco, Calico, and Cerutti.
+
+See [Genetics: Early Hominid through Modern Human](genetics.md#early-hominid-through-modern-human).
+
+
+## Pre Clovis (before 11000 BCE)
+
 ## Hueyatlaco, Puebla, Mexico (250 KA BP, ~248000 BCE)
 
-This coincides with another glacial maximum, the last in the middle pleistoncene, according to Miller KG et al. (2005) and Kominz (2001). This means there was likely a land brige the Denisovans could have crossed over to enter North America from Diring Yuriakh.
+This coincides with another glacial maximum, the last in the middle pleistoncene, according to Miller KG et al. (2005) and Kominz (2001). This means there was likely a land brige the Denisovans (or other hominid) could have crossed over or raft technology the could use to enter North America from Diring Yuriakh.
 
 * [Hueyatlaco](https://en.wikipedia.org/wiki/Hueyatlaco#Aftermath)
 * [VanLandingham, SL. 2006. Diatom evidence for autochthonous artifact deposition in the Valsequillo region, Puebla, Mexico during the Sangamonian (sensu lato = 80,000 to ca. 220,000 yr BP and Illinoian (220,000 to 430,000 yr BP)). Journal of Paleolimnology 36: 101– 116 [DOI: 10.1007/s10933‐006‐0008‐4]](https://doi.org/10.1007/s10933-006-0008-4)
@@ -139,7 +147,7 @@ This coincides with another glacial maximum, the first in the late pleistoncene,
 
 There was a rock ring discovered beneath a 100000 year old soil profile -- but there is controversy over potential contamination. There are potentially some tools from then, too. However, most of the tools discovered here come from later times 30 KA BP and 14.4 KA BP.
 
-This coincides with a glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001).
+This coincides with a glacial maximum, the first in the late pleistocene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001). As we can see, in modern day Italy, there were ~400000 year old tools discovered. It seems there are plenty of examples in the "old world" of items that date to the pleistocene, so why is it so unbelievable that hominids could have already been present in the "Americas"?
 
 * [Calico Early Man Site](https://en.wikipedia.org/wiki/Calico_Early_Man_Site)
 * [Lake Manix](https://en.wikipedia.org/wiki/Lake_Manix)
@@ -148,7 +156,7 @@ This coincides with a glacial maximum, the first in the late pleistoncene, accor
 
 ## Cerutti Mastodon, San Diego County, California, USA (130 KA BP, ~128000 BCE)
 
-Again, this coincides with a glacial maximum, the first in the late pleistoncene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001).
+Again, this coincides with a glacial maximum, the first in the late pleistocene, according to Miller et al. (2011, Miller et al. (2005), and Kominz (2001). As we can see, in modern day Italy, there were ~400000 year old tools discovered. It seems there are plenty of examples in the "old world" of items that date to the pleistocene, so why is it so unbelievable that hominids could have already been present in the "Americas"?
 
 * [Magnani M, Grindle D, Loomis S, Kim AM (2019) Evaluating claims for an early peopling of the Americas: experimental design and the Cerutti Mastodon site. Antiquity. 93(369): 789-795.](https://doi.org/10.15184/aqy.2019.14)
 * [Holen, Steven R. et al. A 130,000-year-old archaeological site in southern California, USA. Nature. 544. 479–483 27 Apr. 2017.](https://www.nature.com/articles/nature22065)
@@ -185,9 +193,15 @@ See the [Earth Science: Drainage of Glaciers to Ocean](earth_science.md#drainage
 
 * [Ardelean, C. F., Becerra-Valdivia, L., Pedersen, M. W., Schwenninger, J. L., Oviatt, C. G., Macías-Quintero, J. I., ... & Watling, J. G. (2020). Evidence of human occupation in Mexico around the Last Glacial Maximum. Nature, 584(7819), 87-92.](https://doi.org/10.1038/s41586-020-2509-0) &mdash; [PDF](https://www.researchgate.net/publication/343140622_Evidence_of_human_occupation_in_Mexico_around_the_Last_Glacial_Maximum)
 
+## Cueva Coxcatlan, Valle de Tehuacan, Puebla, MX (31498 BCE - 26329 BCE)
+
+* [Somerville, A. D., Casar, I., & Arroyo-Cabrales, J. (2021). New AMS Radiocarbon Ages from the Preceramic Levels of Coxcatlan Cave, Puebla, Mexico: A Pleistocene Occupation of the Tehuacan Valley?. Latin American Antiquity, 1-15.](https://doi.org/10.1017/laq.2021.26)
+   * > The traditional model for the peopling of the Americas contends that the first Americans crossed Beringia and the Ice-Free Corridor around 13,500 cal BP and that these populations utilized Clovis chipped-stone tool technology known for its fluted spear points (e.g., Kelly 2003; Meltzer 2015). However, growing evidence demonstrates the presence of pre-Clovis people in both North and South America who used less elaborate chipped-stone tool technology (Bourgeon et al. 2017; Davis et al. 2019; Dillehay et al. 2015; Erlandson 2013; Jenkins et al. 2013; Waters et al. 2011). Within Mexico, researchers have argued for Pleistocene ocupations at several locations (González et al. 2006; Irwin-Williams and Martin 1967; Lorenzo and Mirambell 1986a), but because of the early period in which these sites were excavated, there are ambiguities in their dating methods or the documented stratigraphy (Meltzer 2009:105–107; Sánchez 2001). Currently, the best—though still contested—evidence for pre-Clovis occupations in Mexico comes from three sites: (1) the Rancho La Amapola site at Cedral, San Luis Potosí; (2) the Santa Isabel Iztapan II mammoth kill site near Mexico City; and (3) Chiquihuite Cave in northern Zacatecas. Research at the Rancho La Amapola site produced radiocarbon ages from charcoal sampled from hearths ranging from approximately 45,000–25,000 calibrated radiocarbon years BP (Mirambell 1994:239). These were found associated with a chipped-stone discoidal scraper and Pleistocene faunal bones, including a broken and utilized horse tibia (Lorenzo and Mirambell 1986b; Mirambell 1994). The Santa Isabel Iztapan II mammoth kill site contained the remains of a disarticulated mammoth (Mammuthus sp.) skeleton associated with three bifacial stone projectile points: Scottbluff, Lerma, and Angostura points. Cut marks on the bones demonstrated that humans had butchered the carcass (Aveleyra Arroyo de Anda 1956). González and colleagues (2015) estimated the mammoth to date to 14,500–10,800 BP based on tephra ages. Finally, chipped-stone artifacts from recent excavations at Chiquihuite Cave site in Zacatecas were associated with optically stimulated luminescence and radiocarbon ages ranging from approximately 33,000 to 31,400 cal BP (Ardelean et al. 2020). Although our new radiocarbon ages from the Late Ajuereado zones of Coxcatlan Cave remain only tentatively associated with human activities, they join this list of potential pre-Clovis sites from Mexico.
+   * > This article presented 14 new AMS radiocarbon ages from faunal remains excavated from the Preceramic levels of Coxcatlan Cave in the Tehuacan Valley. Our results refine the timing of the Archaic period chronological phases (El Riego, Coxcatlan, and Abejas) by using radiocarbon data to construct a Bayesian multiphase model. Although the Archaic period chronology presented here is generally similar to that originally proposed by the TABP (Johnson and MacNeish 1972), the AMS radiocarbon ages from the Early Ajuereado zones date to a period just before the Last Glacial Maximum (33,448–28,279 cal BP) and are similar to those produced from the early occupation of Chiquihuite Cave in north-central Mexico (Ardelean et al. 2020). Because many of the stone tools associated with these early levels are only minimally worked and the antiquity of the ages places these stratigraphic layers many thousands of years before traditional hypotheses posit the arrival of humans in North America, the identity of these objects as tools remains questionable. Nevertheless, the observations that the faunal remains appear to have been processed by humans, that the stone tools are made from flint, and that several stone tools exhibit retouching provide support for the notion of a pre-LGM occupation of Coxcatlan Cave during the Early Ajuereado phase. The radiocarbon ages produced from this study mandate a careful reconsideration of the materials recovered from these zones, including a close inspection of the chipped-stone tools and an analysis of faunal material to document breakage patterns, cut marks, and thermal alterations. The results of this study and those of future reanalyses have important implications for our understanding of several important issues in the archaeology of the New World, including the peopling of the Americas, the timing and causes of the megafaunal extinctions, and the origins of agriculture.
+
 ## Yana RHS, Siberia (28000 BCE)
 
-This is technically not "North America", but it's connected and may demonstrate part of the path some of our ancestors took to get here.
+This is technically not "North America", but it's connected and may demonstrate part of the path only some of our ancestors took to get here.
 
 * [Pringle, H. (2014) Welcome to Beringia. Science. 343(6174): 961-963.](https://science.sciencemag.org/content/343/6174/961)
 * [By V. V. Pitulko, P. A. Nikolsky, E. Yu. Girya, A. E. Basilyan, V. E. Tumskoy, S. A. Koulakov, S. N. Astakhov, E. Yu. Pavlova, M. A. Anisimov (2004) The Yana RHS Site: Humans in the Arctic Before the Last Glacial Maximum. Science. 303(5654): 52-56.](https://science.sciencemag.org/content/303/5654/52.full?_ga=2.223773532.61086061.1566785266-478062606.1565127902) &mdash; [PDF](https://www.academia.edu/17919797/The_Yana_RHS_Site_Humans_in_the_Arctic_Before_the_Last_Glacial_Maximum) &mdash; Clovis like tools. Would be considered western Beringia (the name of the land bridge).
@@ -196,6 +210,15 @@ This is technically not "North America", but it's connected and may demonstrate 
 
 * [Wikipedia contributors. (2019, June 6). Serra da Capivara National Park. In Wikipedia, The Free Encyclopedia. Retrieved 08:06, August 25, 2019.](https://en.wikipedia.org/w/index.php?title=Serra_da_Capivara_National_Park&oldid=900595553)
 * [Boëda, E., Rocca, R., Da Costa, A., Fontugne, M., Hatté, C., Clemente-Conte, I., ... & Villagran, X. (2016). New data on a pleistocene archaeological sequence in South America: Toca do Sítio do Meio, Piauí, Brazil. PaleoAmerica, 2(4), 286-302.](https://doi.org/10.1080/20555563.2016.1237828) &mdash; [PDF](https://edisciplinas.usp.br/pluginfile.php/4109865/mod_resource/content/1/New%20data%20on%20a%20Pleistocene%20archaeological%20sequence%20in%20South%20America%20Toca%20do%20S%C3%ADtio%20do%20Meio,%20Piau%C3%AD,%20Brazil%20(Boeda%20et%20al.%202016).pdf)
+
+## Lake Otero, White Sands National Park, New Mexico, USA (21050 BCE - 19050 BCE)
+
+* [Bennett, M. R., Bustos, D., Pigati, J. S., Springer, K. B., Urban, T. M., Holliday, V. T., ... & Odess, D. (2021). Evidence of humans in North America during the Last Glacial Maximum. Science, 373(6562), 1528-1531.](https://doi.org/10.1126/science.abg7586)
+  * > The late Pleistocene expansion of human populations into the Americas is the latest chapter in the “Out of Africa” migration of modern humans (1). The earliest evidence for dispersal and occupation remains controversial (2). Hypotheses range from those that favor Clovis as the earliest occupation [~13 thousand years ago (ka)] (3) to those that favor older (“pre-Clovis”) sites dating to ~16.5 ka [i.e., post–Last Glacial Maximum (LGM); 26.5 to 19 or 20 ka (4)] or even older (5). Viable migration routes from Asia were dependent on timing and associated environmental conditions and could have occurred via an inland route through the Ice-Free Corridor (6, 7), the Pacific Coastal Route (8, 9), or both; however, these routes would have been closed or at least unlikely during the LGM (10).
+  * > Most early sites in North America, defined here as early post–LGM or older, are questioned because of either their dating (3) or uncertainty about the association of humans and purported artifacts (11). Fossil human footprints provide an alternative source of evidence for human presence when excavated from an in situ sedimentary sequence with good chronological control [e.g., (12–14)]. Unlike cultural artifacts, modified bones, or other more conventional fossils, footprints have a primary depositional context and are fixed on the imprinted surface.
+  * > In this context, we report the discovery of a series of human footprints from White Sands National Park (WHSA Locality 2; Fig. 1A) in south-central New Mexico that occur on multiple stratigraphic horizons interbedded with seed layers. Our results indicate that humans were present on the landscape by at least ~23 ka, with evidence of occupation spanning approximately two millennia. These data provide definitive evidence of human occupation of North America south of the Laurentide Ice Sheet during the LGM.
+  * These look so much like my foot prints!
+  * More pictures: [Cascone, S. (2021) The Oldest Human Footprints in North America Could Redefine Prehistory as We Know It—and It’s All Thanks to These Tiny Seeds. Artnet. 24 September.](https://news.artnet.com/art-world/oldest-human-footprints-north-america-2013058)
 
 ## Bluefish Caves, Yukon, Canada (22000 BCE)
 
@@ -366,6 +389,10 @@ This is technically not "North America", but it's connected and may demonstrate 
 ## Clovis (11100 BCE)
 
 * [Michael R. Waters, Thomas W. Stafford Jr (2007) Redefining the Age of Clovis: Implications for the Peopling of the Americas. Science. 315(5815): 1122-1126.](https://science.sciencemag.org/content/315/5815/1122.long)
+
+## Belson Site, Outwash Plains of Central Great Lakes, USA (~11050 BCE)
+
+* [Talbot, T., Wright, H. T., & Nash, B. (2021). The Belson Site: A Paleoindian Campsite on the Outwash Plains of the Central Great Lakes. PaleoAmerica, 7(1), 76-84.](https://doi.org/10.1080/20555563.2020.1848105)
 
 ## Ållerød–Younger Dryas boundary (11000 BCE - 10900 BCE)
 
@@ -1708,6 +1735,7 @@ Inhabited before 600 BCE, but not developed into a major city until 200 CE. Was 
 Became a part of Chichen Itza in 950.
 
 * [Yaxuná](https://en.wikipedia.org/wiki/Yaxun%C3%A1)
+* [Collins, R. H. (2021). SELECTIVE MEMORY: MONUMENTAL POLITICS OF THE YAXUNÁ E GROUP IN THE FIRST MILLENNIUM BC. Ancient Mesoamerica, 1-20.](https://doi.org/10.1017/S0956536121000304)
 
 ## Paracas, Cerro del Gentil, Chincha Valley, Peru (400 BCE - 100 CE)
 
@@ -1790,6 +1818,7 @@ Articles
 * [Nielsen, J., & Helmke, C. (2018). 'Where the sun came into being': Rites of Pyrolatry, Transition, and Transformation in Early Classic Teotihuacan. In Smoke, Flames, and the Human Body in Mesoamerican Ritual Practice (pp. 77-107). Dumbarton Oaks Research Library and Collection.](https://www.academia.edu/36426579/_Where_the_Sun_Came_into_Being_Rites_of_Pyrolatry_Transition_and_Transformation_in_Early_Classic_Teotihuacan)
 * [Mendoza, R. G., & Lucido, J. A. (2017). TOLLAN TEOTIHUACAN Multiethnic Mosaics, Corporate Interaction, and Social Complexity in Mesoamerica. In Feast, Famine or Fighting? (pp. 337-392). Springer, Cham.](https://www.academia.edu/30373041/Chapter_13_TOLLAN_TEOTIHUACAN_Multiethnic_Mosaics_Corporate_Interaction_and_Social_Complexity_in_Mesoamerica_2017_)
 * [Somerville, A. D., Sugiyama, N., Manzanilla, L. R., & Schoeninger, M. J. (2017). Leporid management and specialized food production at Teotihuacan: stable isotope data from cottontail and jackrabbit bone collagen. Archaeological and Anthropological Sciences, 9(1), 83-97.](https://www.academia.edu/30680083/Somerville_Manzanilla_et_al._2016_Leporid_management_and_specialized_food_production_at_Teotihuacan_stable_isotope_data_from_cottontail_and_jackrabbit_bone_collagen)
+* [Somerville AD, Sugiyama N, Manzanilla LR, Schoeninger MJ (2016) Animal Management at the Ancient Metropolis of Teotihuacan, Mexico: Stable Isotope Analysis of Leporid (Cottontail and Jackrabbit) Bone Mineral. PLoS ONE 11(8): e0159982.](https://doi.org/10.1371/journal.pone.0159982)
 * [Faugère, B., Lefèbvre, K., & Cuenot, J. F. (2016). Circulation of goods and communication routes between the Acambaro Valley and Central Mexico: from Chupicuaro to Teotihuacan. Cultural Dynamics and Production Activities in Ancient Western Mexico. BAR International series. Archaeopress, Oxford, 187-200.](https://www.academia.edu/34205914/Circulation_of_goods_and_communication_routes_between_the_Ac%C3%A1mbaro_valley_and_central_Mexico_from_Chup%C3%ADcuaro_to_Teotihuacan)
 * [Manzanilla LR (2015) Cooperation and tensions in multiethnic corporate societies using Teotihuacan, Central Mexico, as a case study. PNAS. 112(30): 9210-9215.](https://doi.org/10.1073/pnas.1419881112)
 * [Álvarez-Sandoval BA, Manzanilla LR, González-Ruiz M, Malgosa A, Montiel R (2015) Genetic Evidence Supports the Multiethnic Character of Teopancazco, a Neighborhood Center of Teotihuacan, Mexico (AD 200-600). PLoS ONE 10(7): e0132371.](https://doi.org/10.1371/journal.pone.0132371)
@@ -1942,6 +1971,10 @@ This grew out of the Deptford Culture. It became part fo the larger Hopewell exc
 
 * [Morales GT, Gagnon C, Prieto G (2018) Violence among the Gallinazo: New Insights from Pampa la Cruz, Moche Valley. Presented at The 82nd Annual Meeting of the Society for American Archaeology, Washington, DC. tDAR id: 442597](https://core.tdar.org/document/442597/violence-among-the-gallinazo-new-insights-from-pampa-la-cruz-moche-valley)
 
+## Cahuachi, Nazca Valley, Peru (1 CE - 500 CE)
+
+* [Cahuachi](https://en.wikipedia.org/wiki/Cahuachi)
+
 ## Tambo Viejo, Acari Valley, Peru (50 CE - 1540 CE)
 
 * [Valdez, L. M., Huamaní, M. N., Bettcher, K. J., Liza, M. A., Aylas, K., & Alarcón, W. (2020). Recent Archaeological Research at Tambo Viejo, Acari Valley, Peru. Latin American Antiquity, 31(1), 202-208.](https://www.researchgate.net/publication/338700945_Recent_Archaeological_Research_at_Tambo_Viejo_Acari_Valley_Peru)
@@ -2092,6 +2125,10 @@ Replaced by the Las Ánimas culture.
 
 * [Copan](https://en.wikipedia.org/wiki/Cop%C3%A1n)
 
+## Tierra Blanca Joven eruption of Ilopango, El Salvador (431 CE)
+
+* [Smith, V. C., Costa, A., Aguirre-Díaz, G., Pedrazzi, D., Scifo, A., Plunkett, G., ... & Gutiérrez, E. (2020). The magnitude and impact of the 431 CE Tierra Blanca Joven eruption of Ilopango, El Salvador. Proceedings of the National Academy of Sciences, 117(42), 26061-26068.](https://doi.org/10.1073/pnas.2003008117)
+
 ## Zultepec/Tecoaque - San Felipe Sultepec, Capulalpan, Tlaxcala, MX (450 CE - 1521 CE) - Alcohau
 
 Round platform.
@@ -2184,11 +2221,28 @@ And it wasn't the only time either:
 * [Kornei, K. (2019), Eruption in El Salvador was one of the Holocene’s largest, Eos, 100, https://doi.org/10.1029/2019EO125733. Published on 05 June 2019.](https://eos.org/articles/eruption-in-el-salvador-was-one-of-the-holocenes-largest)
 * [Pedrazzi D, et al. (2019) The Ilopango Tierra Blanca Joven (TBJ) eruption, El Salvador: Volcano-stratigraphy and physical characterization of the major Holocene event of Central America. Journal of Volcanology and Geothermal Research. 377: 81-102.](https://doi.org/10.1016/j.jvolgeores.2019.03.006) &mdash; [PDF](https://www.researchgate.net/publication/331807519_The_Ilopango_Tierra_Blanca_Joven_TBJ_eruption_El_Salvador_Volcano-stratigraphy_and_physical_characterization_of_the_major_Holocene_event_of_Central_America)
 
+## "Maya Hiatus"
+
+* [Ichikawa, A. (2021). Human responses to the Ilopango Tierra Blanca Joven eruption: excavations at San Andrés, El Salvador. Antiquity, 1-15.](https://doi.org/10.15184/aqy.2021.21)
+  * > In Maya archaeology, the date and impact of the TBJ eruption have long been the subject of controversy. Although the widely distributed TBJ tephra serves as a temporal horizon maker, to pinpoint the date of the eruption through radiocarbon dating is challenging due to the calibration curve plateau at around cal AD 420–540, leading to large uncertainties in calibrated dates (Dull et al. 2001, 2019). The latest research argues that the eruption probably occurred in AD 539/540, a date estimated using 100 new radiocarbon dates and Bayesian modelling techniques performed on three tree trunks completely buried by TBJ tephra (Dull et al. 2019: 12). Although other research suggests that the eruption may fall within the range cal AD 270–400, based on data from Lake Amatitlán in Guatemala (Lohse et al. 2018: 390), this article uses AD 539/540 as the eruption date because of the compelling case presented by Dull et al. (2019).
+  * > This study seeks to clarify the social impact of this catastrophe on the south-eastern Maya area, as well as on the broader Maya civilisation (Sharer 1978; Demarest 1988; Dull et al. 2001, 2019). Previous studies have resulted in two different interpretations of the impact. Some scholars have argued that Late/Terminal Preclassic (400 BC–AD 250) societies suffered population decline and societal collapse due to the immediate and long-term effects of the TBJ event. These scholars rely on an earlier date for the eruption, and cite the lack of Early Classic (AD 250–600) material in western El Salvador, the south-eastern Pacific coast and the Piedmont zone of Guatemala (e.g. Kosakowsky et al. 2000; Dull et al. 2001). They conclude that the region was largely abandoned, with settlers only re-inhabiting it one or two centuries after the eruption (Sharer 1978; Demarest 1988; Dull et al. 2001). If the eruption dates to AD 539/540, however, this suggests a shorter period of societal reorganisation than previously imagined, with most of western El Salvador fully resettled by the middle of the seventh century, as well as the completion of some monumental construction projects (Dull et al. 2019: 12).
+  * > Growing archaeological evidence indicates that the monumental public building project at San Andrés was probably initiated within 5–30 years after the TBJ eruption, or within 80 years at the latest—that is, by the late sixth or early seventh century AD. This evidence supports the hypothesis of rapid recovery following the TBJ eruption (Dull et al. 2019), and is important, as it demonstrates that, counter to previous hypotheses, monumental architecture was constructed earlier than the mid-seventh century AD. Although the eruption rendered a large area uninhabitable (Dull et al. 2019: 14), evidence shows that people quickly returned to construct and renovate monumental architecture in an area entirely covered by TBJ tephra.
+  * > Two hypothetical scenarios could explain this rapid recovery process. The first is that certain populations in the valley—where agricultural fields were destroyed by the eruption—survived and moved to less-affected areas, such as the surrounding mountains. Following the eruption and the loss of agricultural fields, food-production strategies may have altered (Dull et al. 2019). Notably, ethnographic data reveal that, following the 1943 Parícutin eruption in Mexico, farmers planted maize and fruit trees on the previously unused, steeper slopes (Scarth 1999: 209). Moreover, the continuity of ceramic types across the region before and after the TBJ eruption may also support this hypothesis (Demarest 1988), with pre-existing populations maintaining a strong sense of place and commitment to a homeland (Sheets 2016: 153).
+  * > Another possibility is that following the eruption, the valley became depopulated and lost its cultural tradition, and was thereafter repopulated by immigrants from the Copán area of Honduras, such as the Ch'orti’, rather than descendants of the local pre-eruption population. This may have resulted in similarities in architectural features and materials between Cerén and Copán (Sheets 2009: 67). Although it is difficult to verify this hypothesis archaeologically, the motivation behind the society's migration from the less-affected area (Copán) to the devastated and unfamiliar area (Cerén) must be considered. Alternatively, a mixed model can be considered, in which survivors took refuge in other less-affected, yet familiar regions beyond the valley, and were accompanied by immigrants upon their return. This scenario emphasises that social networks play an important role in the mitigation and recovery after a disaster (Sheets & Cooper 2012: 14).
+  * > The TBJ tephra may have been used for religious and functional purposes. In the Mesoamerican worldview, volcanos and mountains were recognised as sacred places (Fash & López Luján 2009). As Sheets et al. (2015: 355) propose with the example of the sacbe (white road), which was created in Cerén using pure TBJ tephra, white ash emitted by the eruption may have been perceived to have powerful religious or cosmological significance. Thus, the use of TBJ tephra in the monumental buildings at San Andrés may have been an important symbol of shared religious veneration. Additionally, modern civil engineers recognise the excellent compaction properties of TBJ tephra (Sheets et al. 2015: 354). Ancient builders were also probably familiar with these properties, and it may have been an important factor in their decision to use the material in the monumental building at San Andrés.
+  * > The estimated labour costs for the Campana structure provide useful information about the nature of the human response to the TBJ eruption. The stone-faced platform accounts for 75 per cent of the total volume of the Campana structure. Radiocarbon dates and stratigraphic data indicate that the initial construction, renovations and completion of the stone-faced structure occurred within a maximum of 80 years of the TBJ eruption. Although estimating the pre-/post-TBJ event population of the valley remains challenging due to limited data, the labour investment required for the stone-faced structure is impressive. As Dull et al. (2019: 12) suggest, the populations around the volcano may have declined substantially following the eruption. If the size of the workforce was 500–1500 people, the per-capita labour cost, surprisingly, is similar to that of the Sun Pyramid at Teotihuacan (351.33 for the Miccaotli phase and 109.59 for the Early Xolalpan phase; Murakami 2019: 273). The societies in the Zapotitán Valley, including at San Andrés, however, were probably less complex than at Teotihuacan, and there is little evidence to suggest state-oriented or elite control of labour through coercion in the valley. Rather, I believe that survivors and/or re-settlers in the Zapotitán Valley may have constructed the monumental public building at San Andrés in response to the massive TBJ eruption. As others have argued (e.g. Joyce et al. 2013), this work might have had a religious purpose, enabling social integration, as well as creating a sense of community among participants during the difficult times following the eruption. Furthermore, local leaders or rulers may have emerged and reinforced their own power through this construction process. The devastating first-century AD eruption of Popocatépetl in Puebla, Mexico forced a population movement; these refugees contributed to developing the largest urban centre of Mesoamerica: Teotihuacan (Plunket & Uruñuela 2005: 100). But whereas Teotihuacan was developed by displaced migrants in an area unaffected by the eruption, San Andrés was transformed into the valley's primary centre by returning survivors and/or re-settlers
+
 ## Pumapunku - Tiwanaku, Bolivia (536 CE)
 
 * [Pumapunku](https://en.wikipedia.org/wiki/Pumapunku)
 
 ## Mesoamerican Late Classic (600 CE - 900 CE)
+
+## Definite Evidence of Tobacco in the Maya Region (600 CE - 900 CE)
+
+* [Zagorevski, D. V., & Loughmiller‐Newman, J. A. (2012). The detection of nicotine in a Late Mayan period flask by gas chromatography and liquid chromatography mass spectrometry methods. Rapid Communications in Mass Spectrometry, 26(4), 403-411.
+](https://doi.org/10.1002/rcm.5339)
+  * > Several ancient Mayan vessels from the Kislak Collection of the US Library of Congress were examined for the presence of alkaloids. One of them, a codex-style flask, bears a text that appears to read yo-'OTOT-ti 'u-MAY, spelling y-otoot 'u-may 'the home of its/his/her tobacco'. Samples extracted from this Late Classic period (600 to 900 AD) container were analyzed by gas chromatography/mass spectrometry (GC/MS) and liquid chromatography/mass spectrometry (LC/MS) methods. Nicotine was identified as the major component of the extracts. LC/MS analyses also yielded signals due to nicotine mono-oxides. The identities of the compounds were determined by comparison of the chromatographic and/or mass spectral characteristics with those from standards and literature data. High-resolution high mass accuracy tandem mass spectrometry (MS/MS) spectra of protonated nicotine and nicotine mono-oxides were measured to verify and to correct previous product ion assignments. These analyses provided positive evidence for nicotine from a Mayan vessel, indicating it as a likely holder of tobacco leafs. The result of this investigation is the first physical evidence of tobacco from a Mayan container, and only the second example where the vessel content recorded in a Mayan hieroglyphic text has been confirmed directly by chromatography/mass spectrometry trace analysis.
 
 ## Human versus climatic influences on late-Holocene fire regimes in southwestern Nicaragua (600 BCE - 2000 CE)
 
@@ -2261,6 +2315,8 @@ Also see:
 This is a Tairona Culture site. The Arhuaco (Ijka, Ifca), Kogui, Wiwa, and Kankuamo hold that their forebarers built the city. This makes sense, considering they are the descendents of the Tayrona. The name means "sons of the jaguar" in all of the four remaining linguistic groups. Kogi also means jaguar. Interestingly enough, there is a proposal that some linguist don't see too far fetched of a group which would unify the Chibcan, Lencan, and Misumalpan in [proto-lenmichí](https://es.wikipedia.org/wiki/Lenguas_lenmich%C3%ADes) before 8000 BCE. Hoever, it is unsubstantiated and could very easily be from a sprachbund due to trade.
 
 * [Tairona](https://en.wikipedia.org/wiki/Tairona)
+* [Ciudad Perdida, Colombia. Global Heritage Fund.](https://globalheritagefund.org/places/ciudad-perdida/)
+* [History. La Ciudad Perdida (the Lost City).](http://laciudadperdida.com/about-ciudad-perdida/history-of-the-lost-city/)
 
 ## Cultura Casma - Áncash, Perú (700 CE - 1400 CE)
 
@@ -2309,7 +2365,7 @@ A varient of holly (ilex vomitoria) was imported from the SE tribes by 750 CE (a
 * [Crown PL, Hurst WJ (2009) Evidence of cacao use in the Prehispanic American Southwest. PNAS. 106(7): 2110–2113. DOI: 10.1073/pnas.0812817106](https://dx.doi.org/10.1073%2Fpnas.0812817106)
 * [Dakin, K., & Wichmann, S. (2000). CACAO AND CHOCOLATE: A Uto-Aztecan perspective. Ancient Mesoamerica, 11(1), 55-75. Retrieved from http://www.jstor.org/stable/26308030](https://www.academia.edu/3093787/Cacao_and_chocolate_A_Uto-Aztecan_perspective)
 * [The Utah Chocolate Story. Natural History Museum of Utah. Published August 03, 2016.](https://nhmu.utah.edu/chocolate) - Has a great [map of Chocolate trade routes](https://nhmu.utah.edu/sites/default/files/Route%20Map-web.jpg).
-* [Cacao in Chaco Canyon. Natural History Museum of Utah. Published August 4, 2016.](Natural History Museum of Utah. Published) &mdash; Some of the patterns on these cups mirror patterns from South America and also patterns at Mita, Oaxaca.
+* [Cacao in Chaco Canyon. Natural History Museum of Utah. Published August 4, 2016.](https://nhmu.utah.edu/blog/2016/08/04/cacao-chaco-canyon) &mdash; Some of the patterns on these cups mirror patterns from South America and also patterns at Mita, Oaxaca.
 
 ### Speaking of trade
 
@@ -2471,7 +2527,10 @@ Shows Huastec, Otomi, Totonac, & Olmec influence. Indications the area was occup
 
 ## Early Mississippian (1000 CE - 1200 CE)
 
-* [Ancient mound builders carefully timed their occupation of coastal Louisiana site](https://www.heritagedaily.com/2018/05/ancient-mound-builders-carefully-timed-their-occupation-of-coastal-louisiana-site/119826)
+
+## Grand Caillou Mound, Lafourche sub-delta, Mississippi River Delta, New Orleans, USA (1000 CE - 1400 CE)
+
+* [Mehta, J. M., & Chamberlain, E. L. (2019). Mound construction and site selection in the Lafourche Subdelta of the Mississippi River Delta, Louisiana, USA. The Journal of Island and Coastal Archaeology, 14(4), 453-478.](https://doi.org/10.1080/15564894.2018.1458764)
 
 ## Caddoan Mississippian (1000 CE - 1400+ CE)
 
@@ -2643,6 +2702,14 @@ Late Woodland Iroquoian village
 
 * [Gibbons, A. (2012). The ultimate sacrifice. Science, 336(6083), 834-837. DOI: 10.1126/science.336.6083.834](https://doi.org/10.1126/science.336.6083.834)
 
+## Chibcha "ofrendatarios" (1400 CE)
+
+* [Jarus, O. (2021) Ceramic jars full of emeralds found in temple tied to El Dorado, a mythical city of gold. Live Science. 22 September.](https://www.livescience.com/ceramic-jars-emeralds-found-temple-el-dorado)
+
+## Qʼumqaraqʼaj/qʼumarˈkah/Utatlán - Santa Cruz del Quiché, Quiché Department, Guatemala (1400 CE - 1524 CE)
+
+* [Qʼumarkaj](https://en.wikipedia.org/wiki/Q%CA%BCumarkaj)
+
 ## Late Mississippian (1400 CE - 1500 CE or Euro contact)
 
 ### Etzanoa - Kansas, USA (1450 CE - 1700 CE)
@@ -2672,10 +2739,6 @@ This is the [Apalachee](https://en.wikipedia.org/wiki/Apalachee) growing out of 
 ## Mesoamerican Colonial (1521 CE - 1821 CE)
 
 * [Lightfoot KG (2015) Dynamics of change in multiethnic societies: An archaeological perspective from colonial North America. PNAS. 112(30): 9216-9223.](https://doi.org/10.1073/pnas.1422190112)
-
-## Qʼumqaraqʼaj/qʼumarˈkah/Utatlán - Santa Cruz del Quiché, Quiché Department, Guatemala (1400 CE - 1524 CE)
-
-* [Qʼumarkaj](https://en.wikipedia.org/wiki/Q%CA%BCumarkaj)
 
 ## North American Colonial
 
