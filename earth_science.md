@@ -2,6 +2,9 @@
 
 ## Glaciers and Climate Change
 
+* [Bova, S., Rosenthal, Y., Liu, Z., Godad, S. P., & Yan, M. (2021). Seasonal origin of the thermal maxima at the Holocene and the last interglacial. nature, 589(7843), 548-553.](https://doi.org/10.1038/s41586-020-03155-x)
+* [Osman, M. B., Tierney, J. E., Zhu, J., Tardif, R., Hakim, G. J., King, J., & Poulsen, C. J. (2021). Globally resolved surface temperatures since the Last Glacial Maximum.](https://doi.org/10.1038/s41586-021-03984-4)
+  * [Marcott, S. A., & Shakun, J. D. (2021). Global temperature changes mapped across the past 24,000 years.](https://doi.org/10.1038/d41586-021-03011-6)
 * [Li, S., Ding, K., Ding, A., He, L., Huang, X., Ge, Q., & Fu, C. (2021). Change of extreme snow events shaped the roof of traditional Chinese architecture in the past millennium. Science Advances, 7(37), eabh2601.](https://doi.org/10.1126/sciadv.abh2601)
 * [Pederzani, S., Britton, K., Aldeias, V., Bourgon, N., Fewlass, H., Lauer, T., ... & Hublin, J. J. (2021). Subarctic climate for the earliest Homo sapiens in Europe. Science Advances, 7(39), eabi4642.](https://doi.org/10.1126/sciadv.abi4642)
 * [Raja, M., & Rosell-Melé, A. (2021). Appraisal of sedimentary alkenones for the quantitative reconstruction of phytoplankton biomass. Proceedings of the National Academy of Sciences, 118(2).](https://doi.org/10.1073/pnas.2014787118)
@@ -38,6 +41,8 @@
 * [Lawler, A. (2014). In search of Green Arabia. Science, 345(6200), 994-997.](https://doi.org/10.1126/science.345.6200.994)
 * [Swisher ME, Jenkins DL, Jackson Jr. LE, Phillips FM (2013) A Reassessment of the Role of the Canadian Ice-free Corridor in Light of New Geological Evidence. Current Archaeological Happenings in Oregon. 38(4): 9-14.](https://www.researchgate.net/publication/272942734_A_Reassessment_of_the_Role_of_the_Canadian_Ice_Free_Corridor_in_Light_of_New_Geological_Evidence) &mdash; Good conceptualizations of the range of the glacial ice sheets.
 * [Robinson A, Calov A, Ganopolski A (2012) Multistability and critical thresholds of the Greenland ice sheet. Nature Climate Change. (2): 429–432.](https://doi.org/10.1038/nclimate1449) &mdash; [PDF](https://www.researchgate.net/publication/230662041_Multistability_and_critical_thresholds_of_the_Greenland_Ice_Sheet)
+* [Sachs, J. P., & Lehman, S. J. (1999). Subtropical North Atlantic temperatures 60,000 to 30,000 years ago. Science, 286(5440), 756-759.](https://doi.org/10.1126/science.286.5440.756)
+* [Oppo, D. W., McManus, J. F., & Cullen, J. L. (1998). Abrupt climate events 500,000 to 340,000 years ago: Evidence from subpolar North Atlantic sediments. Science, 279(5355), 1335-1338.](https://doi.org/10.1126/science.279.5355.1335)
 
 
 ## Drainage of Glaciers to Ocean
@@ -46,6 +51,10 @@
 * [Fildani A, Hessler AM, Mason CC, McKay MP, Stockli DF (2018) Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. (8) 13839.](https://doi.org/10.1038/s41598-018-32268-7)
   * > Here we integrate data from the deepest sediment core drilled by the Deep Sea Drilling Program (DSDP) Leg 96 on the Mississippi fan (Fig. 1) to reveal major modifications to the Mississippi–Missouri drainage by the southern LIS over the past ~70 ka. Growth of the LIS began over the eastern Canadian Arctic ~116 ka (MIS 5d), and experienced punctuated episodes of expansion (~65 ka: MIS 4) and retreat (~50–40 ka: MIS 3) until reaching its maximum extent during the LGM approximately 26–25 ka (MIS 2). Mountain glaciers were near or at their maximum extent by ~30 ka, which is broadly contemporaneous with the interval when global ice sheets first reached their maxima.
 * [Allen PA (2008) From landscapes into geological history. Nature. (451): 274–276.](https://doi.org/10.1038/nature06586)
+
+## 42000 BCE - Geomagnetic Reversal
+
+* [Cooper, A., Turney, C. S., Palmer, J., Hogg, A., McGlone, M., Wilmshurst, J., ... & Zech, R. (2021). A global environmental crisis 42,000 years ago. Science, 371(6531), 811-818.](https://doi.org/10.1126/science.abb8677)
 
 ## 13000 BCE - Glacial Lake Missoula Pop articles
 
@@ -79,6 +88,7 @@
 * [Miller KG et al. (2011) A 180-Million-Year Record of Sea Level and Ice Volume Variations from Continental Margin and Deep-Sea Isotopic Records. Oceanography. 24(2): 40-53.](https://www.jstor.org/stable/24861267?read-now=1&seq=5#page_scan_tab_contents)
 * [Clark PU et al. (2009) The Last Glacial Maximum. Science. 325(5941): 710-714.](https://science.sciencemag.org/content/325/5941/710.full)
 * [Miller KG et al. (2005) The Phanerozoic Record of Global Sea-Level Change. Science. 310(5752): 1293-1298](https://science.sciencemag.org/content/310/5752/1293.long)
+* [Clark, P. U., McCabe, A. M., Mix, A. C., & Weaver, A. J. (2004). Rapid rise of sea level 19,000 years ago and its global implications. Science, 304(5674), 1141-1144.](https://doi.org/10.1126/science.1094449)
 * [Kominz MA (2001) "Sea Level Variations Over Geologic Time." Encyclopedia of Ocean Sciences. Academic Press. 2605-2613.](http://dx.doi.org/10.1006/rwos.2001.0255) &mdash; [PDF](http://www.curry.eas.gatech.edu/Courses/6140/ency/Chapter10/Ency_Oceans/Sea_Level_Variations.pdf)
 
 
@@ -146,13 +156,23 @@
 * [Richard A. Kerr. Did the Mammoth Slayer Leave a Diamond Calling Card? Science. 2 January. 2009. 323(5910): 26.](https://science.sciencemag.org/content/323/5910/26)
 * [Briggs Buchanan, Mark Collard, and Kevan Edinborough. Paleoindian demography and the extraterrestrial impact hypothesis. Proc Natl Acad Sci USA. 19 August. 2008. 105(33): 11651-11654.](https://dx.doi.org/10.1073%2Fpnas.0803762105)
 
-### Megafuana Extinction
+### Relation to current fire dynamics with climate change
+  * [Ryan Kelly, Melissa L. Chipman, Philip E. Higuera, Ivanka Stefanova, Linda B. Brubaker, and Feng Sheng Hua (2013). Recent burning of boreal forests exceeds fire regime limits of the past 10,000 years. 110(32): 13055–13060.](https://dx.doi.org/10.1073%2Fpnas.1305069110)
 
+
+## Megafuana Extinction
+* [Poinar, H. (2021) Ancient DNA found in soil samples reveals mammoths, Yukon wild horses survived thousands of years longer than believed. 8 December.](https://brighterworld.mcmaster.ca/articles/ancient-dna-found-in-soil-samples-reveals-mammoths-yukon-wild-horses-survived-thousands-of-years-longer-than-believed/)
+* [Murchie, T. J., Monteath, A. J., Mahony, M. E., Long, G. S., Cocker, S., Sadoway, T., ... & Poinar, H. N. (2021). Collapse of the mammoth-steppe in central Yukon as revealed by ancient environmental DNA. Nature communications, 12(1), 1-18.](https://doi.org/10.1038/s41467-021-27439-6)
+  * [Murchie, T. (2022) Analysis: Ancient DNA suggests woolly mammoths roamed the Earth more recently than previously thought. Brighter World. McMaster University. 24 January.](https://brighterworld.mcmaster.ca/articles/analysis-ancient-dna-suggests-woolly-mammoths-roamed-the-earth-more-recently-than-previously-thought/)
+* [Wang, Y., Pedersen, M. W., Alsos, I. G., De Sanctis, B., Racimo, F., Prohaska, A., ... & Willerslev, E. (2021). Late Quaternary dynamics of Arctic biota from ancient environmental genomics. Nature, 1-7.](https://doi.org/10.1038/s41586-021-04016-x)
+  * > By contrast, the distribution of humans over time was almost entirely unrelated to the presence of most herbivores (apart from hares) (Fig. 3). Given that the model purposefully overestimated the presence of humans (Methods), their largely independent distributions from megafauna, their sparseness in the high Arctic before 4 ka (Supplementary Data 7) and the scarcity of kill sites in archaeological records, **the notion of human overkill as the cause of Arctic megafaunal extinction is highly improbable**6,8. Interestingly, the only predator–prey relationship of note in the model is the significant positive effect of caribou on the distribution of wolves (Fig. 3), probably reflecting that the wolf is well-adapted to hunt caribou.
+  * > The timing of Arctic megafaunal extinction is a matter of debate, not least because last appearance dates (LADs) are repeatedly revised as younger fossils are reported5,6, and also because discovering the remains of the last surviving individuals of a species is extremely unlikely22. As a result, LADs systematically underestimate when a species disappeared, raising the possibility that populations persisted longer than is now evident4,23. The extinction timing can be better gauged with eDNA; an animal leaves behind only a single skeleton, which is much less likely to be preserved, recovered and dated, when compared with the amount of DNA it continuously spread into the environment while it was alive.<br/><br/>Our data indicate that mammoths survived into the Early Holocene in present-day continental northeast Siberia until 7.3 ± 0.2 ka (seven samples younger than 10 ka) and North America until 8.6 ± 0.3 ka. Notably, we recovered mammoth DNA from a series of samples from the Taimyr Peninsula that indicate the presence of mammoths in north central Siberia as late as 3.9 ± 0.2 ka (site LUR10) (Fig. 4 and Supplementary Information 3.3). The survival of mammoths into the Holocene in these regions is probably attributable to the persistence of the steppe–tundra vegetation of dry- and cold-adapted herbaceous plants that was present during the Pleistocene (Fig. 2d). This vegetation would have provided a suitable habitat for mammoths and possibly other dryland grazers such as horses (Extended Data Fig. 5), which are known to have survived in the region until at least 5 ka (ref. 24). Together, these eDNA results indicate that mammoths survived much longer than previously thought—which, on the basis of skeletal remains, was around 10.7 ka on continental Eurasia25 and around 13.8 ka in Alaska8. Given that humans occupied northern Eurasia sporadically from at least 40 ka and continuously after 16 ka (refs. 26,27), the late-surviving Taimyr mammoths potentially encountered and co-existed with humans over at least a 20-kyr interval, therefore giving no support to the human overkill (blitzkrieg) model that postulates the mammoth extinction occurred within centuries after the first human contact6.
 * [Bradshaw, C. J., Johnson, C. N., Llewelyn, J., Weisbecker, V., Strona, G., & Saltré, F. (2021). Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna. Elife, 10, e63870.](https://doi.org/10.7554/eLife.63870)
   * > We can therefore reject the hypothesis that the continent-wide extinction chronology is explained by species’ relative demographic susceptibility and non-selective hunting by humans. If demographic susceptibility coupled with non-selective hunting were the primary causes of these extinctions, we would expect a relationship between vulnerability and extinction date whereby the more vulnerable species went extinct earlier — but we found no such relationship (Figure 7d). However, the comparison of susceptibility under increasing intensities of egg harvesting revealed the highest demographic risk from this type of activity for the extinct Genyornis compared to the extant Dromaius and Alectura birds, supporting the notion that egg harvesting (and not hunting of adults) might have been at least partially responsible for the demise of Genyornis (Miller et al., 2016). We can also reject the hypothesis that the largest, and therefore the most physiologically buffered and mobile species, were the most resilient given the lack of relationship with the inferred extinction chronology (Figures 2 and 7d). Neither did the species with the highest sensitivities to reductions arising from the various perturbation scenarios succumb earlier (Figures 5 and 6d).
   * > This lack of relationship to the chronology, combined with the result that many of the extant species had some of the highest extinction susceptibilities, suggest that no obvious demographic properties can explain the taxon-specific timing within the Sahul extinction event of the Late Pleistocene. This opens the possibility that the chronology instead reflects either a random set of circumstances — that species succumbed to circumstantial combinations of stressors depending on the local perturbations experienced by particular populations (Saltré et al., 2019) — or even that the chronology is still insufficiently resolved. However, this conclusion does not accord well with the notion that Late Pleistocene megafauna extinctions were non-random and occurred at a much higher pace than background extinction rates (Johnson, 2006; Koch and Barnosky, 2006).
   * > Another possibility is that in the case of human hunting, preferences for selecting or avoiding particular species, such as targeting larger species for more efficient returns (Broughton et al., 2011), could have overridden or interacted with intrinsic demographic susceptibility. Indeed, Lyons et al., 2016 concluded that either large-bodied mammals were selectively targeted by humans during the Late Quaternary, or that these species were relatively more vulnerable to human hunting than smaller-bodied species, or both. In addition, specific behavioural adaptations could potentially have rendered demographically high-risk species in fact less vulnerable to human hunting, such as the behavior of Vombatus to dig and defend burrows that were difficult to access by humans (Garvey et al., 2016) compared to larger burrowing or non-burrowing vombatiformes. In the case of the macropodiformes, interspecific variation in the type of locomotion — a trait not captured by our demographic models — could have contributed more to their relative susceptibility to human hunters. For example, the ability to hop at high velocities as in Osphranter rufus could have given it an escape advantage over the relatively slower sthenurine macropodiformes that likely employed more bipedal striding than hopping (Janis et al., 2020). Similar hypotheses regarding risk-persistence mismatches in multispecies simulations have been proposed for the Late Pleistocene megafauna extinction event in North America (Alroy, 2001).
   * https://phys.org/news/2021-04-megafauna-extinction-mystery.html
+* [Stewart, M., Carleton, W. C., & Groucutt, H. S. (2021). Climate change, not human population growth, correlates with Late Quaternary megafauna declines in North America. Nature communications, 12(1), 1-15.](https://doi.org/10.1038/s41467-021-21201-8)
 * [Lord, E., Dussex, N., Kierczak, M., Díez-del-Molino, D., Ryder, O. A., Stanton, D. W., ... & Lorenzen, E. D. (2020). Pre-extinction Demographic Stability and Genomic Signatures of Adaptation in the Woolly Rhinoceros. Current Biology.](https://doi.org/10.1016/j.cub.2020.07.046)
 * [Graham RW, et al. (2016) Timing and causes of mid-Holocene mammoth extinction on St. Paul Island, Alaska. PNAS. 113(33): 9310-9314.](https://doi.org/10.1073/pnas.1604903113)
 * [Malhi Y, Doughty CE, Galetti M, Smith FA, Svenning J-C, Terbough JW (2016) Megafauna and ecosystem function from the Pleistocene to the Anthropocene. PNAS. 113(4): 838-846.](https://doi.org/10.1073/pnas.1502540113)
@@ -172,12 +192,10 @@
 * [A. Hubbe, M. Hubbe, W. Neves (2007). Early Holocene survival of megafauna in South America. Journal of Biogeography. 34(9): 1642-1646.](https://doi.org/10.1111/j.1365-2699.2007.01744.x)
 * [A. J. Stuart, P. A. Kosintsev, T. F. G. Higham & A. M. Lister (2004). Pleistocene to Holocene extinction dynamics in giant deer and woolly mammoth. Nature. 431: 684–689](https://www.nature.com/articles/nature02890)
 
-### Relation to current fire dynamics with climate change
-  * [Ryan Kelly, Melissa L. Chipman, Philip E. Higuera, Ivanka Stefanova, Linda B. Brubaker, and Feng Sheng Hua (2013). Recent burning of boreal forests exceeds fire regime limits of the past 10,000 years. 110(32): 13055–13060.](https://dx.doi.org/10.1073%2Fpnas.1305069110)
-
 
 ## Land Use/Forrest Management
 
+* [Roebroeks, W., MacDonald, K., Scherjon, F., Bakels, C., Kindler, L., Nikulina, A., ... & Gaudzinski-Windheuser, S. (2021). Landscape modification by Last Interglacial Neanderthals. Science advances, 7(51), eabj5567.](https://doi.org/10.1126/sciadv.abj5567)
 * [Bush, M. B., Nascimento, M. N., Åkesson, C. M., Cárdenes-Sandí, G. M., Maezumi, S. Y., Behling, H., ... & McMichael, C. N. H. (2021). Widespread reforestation before European influence on Amazonia. Science, 372(6541), 484-487.](https://doi.org/10.1126/science.abf3870)
 * [Duncan, N. A., Loughlin, N. J., Walker, J. H., Hocking, E. P., & Whitney, B. S. (2021). Pre-Columbian fire management and control of climate-driven floodwaters over 3,500 years in southwestern Amazonia. Proceedings of the National Academy of Sciences.](https://doi.org/10.1073/pnas.2022206118)
 * [Thompson, J. C., Wright, D. K., Ivory, S. J., Choi, J. H., Nightingale, S., Mackay, A., ... & Gomani-Chindebvu, E. (2021). Early human impacts and ecosystem reorganization in southern-central Africa. Science Advances, 7(19), eabf9776.](https://doi.org/10.1126/sciadv.abf9776)
@@ -270,6 +288,7 @@
 
 ### Farming vs. hunting/gathering
 
+* [Kraft, T. S., Venkataraman, V. V., Wallace, I. J., Crittenden, A. N., Holowka, N. B., Stieglitz, J., ... & Pontzer, H. (2021). The energetics of uniquely human subsistence strategies. Science, 374(6575), eabf0130.](https://doi.org/10.1126/science.abf0130)
 * [Bowels S, Choi J-K (2019) The Neolithic Agricultural Revolution and the Origins of Private Property. Journal of Political Economy. 127(5): 2186-2228.](https://doi.org/10.1086/701789)
 * [Zahid HJ, Ronbinson E, Kelly RL (2016) Agriculture, population growth, and statistical analysis of the radiocarbon record. PNAS. 113(4): 931-935.](https://doi.org/10.1073/pnas.1517650112)
 * [Bettinger RL (2016) Prehistoric hunter–gatherer population growth rates rival those of agriculturalists. PNAS. 113(4): 812-814.](https://doi.org/10.1073/pnas.1523806113)
@@ -278,6 +297,45 @@
 * [Gross M (2013) The paradoxical evolution of agriculture. Current Biology. 23(16): PR667-R670.](https://doi.org/10.1016/j.cub.2013.08.001)
 * [Bowles S (2011) Cultivation of cereals by the first farmers was not more productive than foraging. PNAS. 108(12): 4760-4765.](https://doi.org/10.1073/pnas.1010733108)
 * [Gignoux CR, Henn BM, Mountain JL (2011) Rapid, global demographic expansions after the origins of agriculture. PNAS. 108(15): 6044-6049.](https://doi.org/10.1073/pnas.0914274108) &mdash; for comparison with the other hemisphere.
+
+### Was farming a mistake?
+
+Certain people have notice that in industrialized societies our jaw is getting smaller (and so are certain other features of our skulls). This is an extention of the process seen historically through evolution starting with our jaws becoming less pronounced and our skulls bigger. But since the adoption of farming it has accelerated. This is thought to be due to not using our jaw muscles and not having to work to eat processed food. However the mechanism, it poses existential risks for humanity.
+
+* [Antrosio J (2011) Agriculture as ‘Worst Mistake in the History of the Human Race’? Living Anthropologically. June 1.](https://www.livinganthropologically.com/archaeology/agriculture-worst-mistake/)
+* [Antrosio J (2011) Many Ways of Gathering and Hunting. Living Anthropologically. June 9.](https://www.livinganthropologically.com/archaeology/gathering-and-hunting/)
+* [Diamond J (1987) The Worst Mistake in the History of the Human Race. Discover Magazine. May. Published online May 1999.](http://discovermagazine.com/1987/may/02-the-worst-mistake-in-the-history-of-the-human-race) &mdash; please read the last two articles first for proper context.
+* [Pennisi E (2004) Weak Jaw, Big Brain. Sicence News. March 24.](https://www.sciencemag.org/news/2004/03/weak-jaw-big-brain)
+* [Hopkin M (2004) Jaw-dropping theory of human evolution. Nature News. March 25.](https://www.nature.com/news/2004/040322/full/news040322-9.html)
+* [Stedman H et al. (2004) Myosin gene mutation correlates with anatomical changes in the human lineage. Nature. 428: 415-418.](https://www.nature.com/articles/nature02358)
+* [Ungar P (2017) It's not that your teeth are too big: your jaw is too small. Aeon. Marina Benjamin, editor. June 30.](https://aeon.co/ideas/its-not-that-your-teeth-are-too-big-your-jaw-is-too-small)
+* [von Cramon-Taubadel N (2011) Global human mandibular variation reflects differences in agricultural and hunter-gatherer subsistence strategies. PNAS. 108(49) 19546-19551.](https://doi.org/10.1073/pnas.1113050108)
+* [Crompton AW (1963) The Evolution of the Mammalian Jaw. Evolution. 17(4): 431-439.](http://www.jstor.org/stable/2407093) &mdash; [PDF](https://crompton.oeb.harvard.edu/files/crompton/files/crompt1963_evolmammjaw.pdf)
+* [Alex B (2019) The Human Brain Has been Getting Smaller Since the Stone Age. The Crux Blog. Discover Magazine. April 8.](blogs.discovermagazine.com/crux/2019/04/08/human-brains-have-shrunk-since-the-stone-age/)
+* [McAuliffe K (2010) If Modern Humans Are So Smart, Why Are Our Brains Shrinking? Discover Magazine. September.](http://discovermagazine.com/2010/sep/25-modern-humans-smart-why-brain-shrinking)
+* [Henneberg M, Steyn M (1993) Trends in cranial capacity and cranial index in Subsaharan Africa during the Holocene. American Journal of Human Biology. 5(4): 473-479.](https://doi.org/10.1002/ajhb.1310050411)
+* [Brown P, Maeda T (2004) Post-Pleistocene diachronic change in East Asian facial skeletons: the size, shape and volume of the orbits. Anthropological Science. 112(1): 29-40.](https://doi.org/10.1537/ase.00072)
+* [Brown P (1987) Pleistocene Homogeneity and Holocene Size Reduction: The Australian Human Skeletal Evidence. Archeology in Oceania. 22(2): 41-67.](https://www.jstor.org/stable/40386774)
+* [Stringer, C (2014) Why Have Our Brains Started to Shrink? Scientific American Mind. November 1.](https://www.scientificamerican.com/article/why-have-our-brains-started-to-shrink/)
+* [Henneberg M (1988) Decrease of Human Skull Size in the Holocene. Human Biology. 60(3): 395-405.](https://www.jstor.org/stable/41464021)
+* [Thompson H (2014) Switching to Farming Made Human Joint Bones Lighter. Smithsonian. December 22.](https://www.smithsonianmag.com/science-nature/switching-farming-made-human-joint-bones-lighter-180953711/#rzByrssq22fhuOva.99)
+* [Pinhasi R, Eshed V, von Cramon-Taubadel N (2015) Incongruity between Affinity Patterns Based on Mandibular and Lower Dental Dimensions following the Transition to Agriculture in the Near East, Anatolia and Europe. PLoS ONE 10(2): e0117301.](https://doi.org/10.1371/journal.pone.0117301)
+* [Carpenter J (2011) Jawbones are 'shaped by diet', a study finds. BBC News November 23.](https://www.bbc.com/news/science-environment-15823276)
+* [University of Kent. (2011, November 23). Jaw size linked to diet: Could too soft a diet cause lower jaw to stay too short and cause orthodontic problems?. ScienceDaily. Retrieved October 2, 2019 from www.sciencedaily.com/releases/2011/11/111122112032.htm](www.sciencedaily.com/releases/2011/11/111122112032.htm)
+* [Lewis KR (2019) Our Skulls Are Out-Evolving Us. OneZero. September 19.](https://onezero.medium.com/our-skulls-are-out-evolving-us-and-that-could-mean-a-public-health-crisis-f950faed696d) &mdash; This seems to conflate many issues. It is the articles that made me look up the rest of this.
+* [Hidaka BH (2012) Depression as a disease of modernity: explanations for increasing prevalence. J Affect Disord. 140(3): 205-214.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330161/)
+* [Sadeh A, Gruber R, Raviv A (2003) The Effects of Sleep Restriction and Extension on School‐Age Children: What a Difference an Hour Makes. Child Development. 74(2): 444-455.](https://doi.org/10.1111/1467-8624.7402008)
+* [Galland B et al. (2015) Sleep Disordered Breathing and Academic Performance: A Meta-analysis. Pediatrics. 136(4): e934-e946.](http://pediatrics.aappublications.org/cgi/pmidlookup?view=long&pmid=26347434)
+
+
+Does this have anything to do with farming, or just general stress induced by modernity?
+* [Berreby, D (2013) The obesity era. Aeon. June 19.](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong)
+* [Shell ER (2019) A New Theory of Obesity. Scientific American. October.](https://www.scientificamerican.com/article/a-new-theory-of-obesity/)
+
+
+### Crops
+
+* [Laugier, E. J., Casana, J., & Cabanes, D. (2022). Phytolith evidence for the pastoral origins of multi-cropping in Mesopotamia (ancient Iraq). Scientific reports, 12(1), 1-14.](https://doi.org/10.1038/s41598-021-03552-w)
 
 ### Economics
 
