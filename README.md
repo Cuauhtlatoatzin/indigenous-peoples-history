@@ -60,6 +60,12 @@ In addition to this list, there's the [Earth Science, Megafuana, Horses, Populat
 * [Erlandson et al. (2007) The Kelp Highway Hypothesis: Marine Ecology, the Coastal Migration Theory, and the Peopling of the Americas. The Journal of Island and Coastal Archaeology. 30 Oct.](http://natural-history.uoregon.edu/sites/default/files/mnch/Erlandson_et_al_2007.pdf) &mdash; This is the most likely possibility for most migrations. However, there may have been land based coastal routes during periods of glaciation. I'd like to know of Indigenous stories of migrating on boats.
 * [Fladmark KR (1979) Routes: Alternate Migration Corridors for Early Man in North America. American Antiquity. 44(1): 55-69.](https://doi.org/10.2307/279189) &mdash; [JSTOR](https://www.jstor.org/stable/279189?read-now=1&refreqid=excelsior%3Abcbb65353a76778de6decc3781de16e0&seq=8#page_scan_tab_contents)
 
+## Additional Resources
+
+* I found out about this on 24 May, 2022: [The Indigenous Paleolithic Database of the Americas](https://tipdba.com/)
+  * Read more: [Killian, C. (2022) Indigenous People Have Been Here Forever. Why Won’t Archeologists Believe It? The Tyee. 24 May.](https://thetyee.ca/Analysis/2022/05/24/Conservatism-In-Archeology/)
+  * This is a very welcome addition to the sources.
+
 ## Great American Biotic Interchange (2500000 BCE - 10000 BCE)
 
 * [Carrillo, J. D., Faurby, S., Silvestro, D., Zizka, A., Jaramillo, C., Bacon, C. D., & Antonelli, A. (2020). Disproportionate extinction of South American mammals drove the asymmetry of the Great American Biotic Interchange. Proceedings of the National Academy of Sciences, 117(42), 26281-26287.](https://doi.org/10.1073/pnas.2009397117)
@@ -144,12 +150,12 @@ See [Genetics: Early Hominid through Modern Human](genetics.md#early-hominid-thr
 This coincides with another glacial maximum, the last in the middle pleistoncene, according to Miller KG et al. (2005) and Kominz (2001). This means there was likely a land brige the Denisovans (or other hominid) could have crossed over or raft technology the could use to enter North America from Diring Yuriakh.
 
 * [Hueyatlaco](https://en.wikipedia.org/wiki/Hueyatlaco#Aftermath)
-* [VanLandingham, SL. 2006. Diatom evidence for autochthonous artifact deposition in the Valsequillo region, Puebla, Mexico during the Sangamonian (sensu lato = 80,000 to ca. 220,000 yr BP and Illinoian (220,000 to 430,000 yr BP)). Journal of Paleolimnology 36: 101– 116 [DOI: 10.1007/s10933‐006‐0008‐4]](https://doi.org/10.1007/s10933-006-0008-4)
-* [Sam L. VanLandingham "Corroboration of Sangamonian age of artifacts from the Valsequillo region, Puebla, Mexico by means of diatom biostratigraphy," Micropaleontology 50(4), (1 December 2004).](https://doi.org/10.1661/0026-2803(2004)050[0313:COSAOA]2.0.CO;2)
 * [Metcalfe, S. E., Leng, M. J., Kirby, J. R., Huddart, D. , Vane, C. H. and Gonzalez, S. (2016), Early–Mid Pleistocene environments in the Valsequillo Basin, Central Mexico: a reassessment. J. Quaternary Sci., 31: 325-336. doi:10.1002/jqs.2851](https://doi.org/10.1002/jqs.2851)
 * [Malde, H. E., Steen-McIntyre, V., Naeser, C. W., & VanLandingham, S. L. (2011). The stratigraphic debate at Hueyatlaco, Valsequillo, Mexico. Palaeontologia electronica, 3, 44A.](https://www.uv.es/~pardomv/pe/2011_3/27_malde/27_malde.pdf)
   * > Diatom correlations, isotopic dates (U-series, fission track, and U-Th/He), stratigraphy, tephra hydration rates, mineral weathering, and vertebrate paleontology all suggest that the sediments exposed at the Hueyatlaco archaeological site, as well as bones from butchered animals found both at Hueyatlaco and at the nearby El Horno site are at least 250,000.
 * [Gonzalez, S., Huddart, D., & Bennett, M. (2006). Valsequillo Pleistocene archaeology and dating: Ongoing controversy in Central Mexico. World Archaeology, 38(4), 611-627.](https://www.jstor.org/stable/40024059)
+* [VanLandingham, SL. 2006. Diatom evidence for autochthonous artifact deposition in the Valsequillo region, Puebla, Mexico during the Sangamonian (sensu lato = 80,000 to ca. 220,000 yr BP and Illinoian (220,000 to 430,000 yr BP)). Journal of Paleolimnology 36: 101– 116 [DOI: 10.1007/s10933‐006‐0008‐4]](https://doi.org/10.1007/s10933-006-0008-4)
+* [Sam L. VanLandingham "Corroboration of Sangamonian age of artifacts from the Valsequillo region, Puebla, Mexico by means of diatom biostratigraphy," Micropaleontology 50(4), (1 December 2004).](https://doi.org/10.1661/0026-2803(2004)050[0313:COSAOA]2.0.CO;2)
 
 ## Bison Enter America (195000 BCE - 135000 BCE)
 
