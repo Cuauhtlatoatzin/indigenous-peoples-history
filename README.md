@@ -1080,6 +1080,9 @@ Superseded by the [Susquehannock](https://en.wikipedia.org/wiki/Susquehannock), 
 Occupation was carbon dated to at least 3000 BCE.
 
 * [La Galgada](https://en.wikipedia.org/wiki/La_Galgada_(archaeological_site))
+* [La Galgada](http://llaqtayku-art.blogspot.com/2010/06/la-galgada.html)
+* [Early Ceremonial Architecture of Peru: La Galgada](https://lagalgada.weebly.com/la-galgada.html)
+* [La Galgada](https://www.arqueologiadelperu.com.ar/lagalgada.htm)
 
 ## Piruro - Huánuco Region, Huamalíes Province, Tantamayo District (3000 BCE - ?)
 
@@ -1266,10 +1269,12 @@ The fox pouch is interesting, but it could just be a coincidence that the place 
 ## Matanchén - San Blas, Nayarit, MX (2100 BCE - 2000 BCE)
 
 * [Matanchén](https://en.wikipedia.org/wiki/Matanch%C3%A9n)
+* [Mountjoy, J. B., Taylor, R. E., & Feldman, L. H. (1972). Matanchén complex: new radiocarbon dates on early coastal adaptation in west Mexico. Science, 175(4027), 1242-1243.](https://doi.org/10.1126/science.175.4027.1242)
 
 ## Capacha - Colima, MX (2000 BCE - 1000 BCE)
 
 * [Capacha](https://en.wikipedia.org/wiki/Capacha)
+  * > There are similarities between western Mexico and South America, including the building of shaft tombs in regions of both places. Recent studies have found common elements with countries as far away as Colombia, Ecuador and Peru, it is inferred that there was some type of contact perhaps by ocean navigation. Evidence was found in Treasure Beach (200-700 CE), on the Colima coast.[10]<br/><br/>The nahual included in tombs, various animal shapes are very similar to those of the Mochica culture in Peru.[10]<br/><br/>Others made links with the Machalilla culture in Ecuador.[17]<br/><br/>According to Isabel Kelly,[18] virtually all of Capacha's defining characteristics are also found in northern South American pottery assemblages.[19]
 * [La Campana](https://en.wikipedia.org/wiki/La_Campana_(archaeological_site))
 * [El Chanal](https://en.wikipedia.org/wiki/El_Chanal)
 * [Piedra Mapa, Comala, Colima (200 BCE - 200 CE)](https://www.inah.gob.mx/boletines/9193-en-colima-inah-registra-petroglifo-usado-como-piedra-mapa-hace-alrededor-de-dos-mil-anos) &mdash; [Photos](https://www.inah.gob.mx/images/boletines/2020_193/demo/#img/foto1.jpg)
@@ -1361,7 +1366,23 @@ Absorbed parts of the Chiripa culture in 200 BCE.
 
 * [Chalcatzingo](https://en.wikipedia.org/wiki/Chalcatzingo)
 
-  Olmec influence isn't dated until 900 BCE.
+Olmec influence isn't dated until 900 BCE.
+
+Not sure if this means anything, but there's an amazing similarity in the shape of the pyramid (rounded rectangular) to:
+
+* Zona Arqueológica Tamohi (El Consuelo), San Luis Potosi
+* Pyramid B of Tula
+* Kukulkan of Chichen Itza
+* Uxmal
+* Kukulkan of Mayapan
+* Becan in Compeche
+* Ake in Yucatan
+* Yaxha in Guatemala
+* La Blanca in Guatemala
+* Mixco Viejo in Guatemala
+* Lubaantun in Belize
+* Caracol in Belize
+* Reconstructions of La Galgada in Peru (the oldest example)
 
 ## San José Mogote - Valley of Oaxaca, MX - Zapotec (1500 BCE - 500 BCE)
 
