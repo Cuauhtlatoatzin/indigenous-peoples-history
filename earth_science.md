@@ -2,6 +2,7 @@
 
 ## Glaciers and Climate Change
 
+* [Dallmeyer, A., Kleinen, T., Claussen, M., Weitzel, N., Cao, X., & Herzschuh, U. (2022). The deglacial forest conundrum. Nature Communications, 13(1), 1-10.](https://doi.org/10.1038/s41467-022-33646-6)
 * [Lapointe, F., & Bradley, R. S. (2021). Little Ice Age abruptly triggered by intrusion of Atlantic waters into the Nordic Seas. Science advances, 7(51), eabi8230.](https://doi.org/10.1126/sciadv.abi8230)
 * [Lapointe, F., Bradley, R. S., Francus, P., Balascio, N. L., Abbott, M. B., Stoner, J. S., ... & Labarre, T. (2020). Annually resolved Atlantic sea surface temperature variability over the past 2,900 y. Proceedings of the National Academy of Sciences, 117(44), 27171-27178.](https://doi.org/10.1073/pnas.2014166117)
 * [McDannell, K. T., Keller, C. B., Guenthner, W. R., Zeitler, P. K., & Shuster, D. L. (2021). Thermochronologic constraints on the origin of the Great Unconformity.](https://doi.org/10.1073/pnas.2118682119)
@@ -48,15 +49,18 @@
 * [Rasmussen, S. O., Andersen, K. K., Svensson, A. M., Steffensen, J. P., Vinther, B. M., Clausen, H. B., ... & Ruth, U. (2006). A new Greenland ice core chronology for the last glacial termination. Journal of Geophysical Research: Atmospheres, 111(D6).](https://doi.org/10.1029/2005JD006079)
 * [Sachs, J. P., & Lehman, S. J. (1999). Subtropical North Atlantic temperatures 60,000 to 30,000 years ago. Science, 286(5440), 756-759.](https://doi.org/10.1126/science.286.5440.756)
 * [Oppo, D. W., McManus, J. F., & Cullen, J. L. (1998). Abrupt climate events 500,000 to 340,000 years ago: Evidence from subpolar North Atlantic sediments. Science, 279(5355), 1335-1338.](https://doi.org/10.1126/science.279.5355.1335)
+* [Dyke, A., & Prest, V. (1987). Late Wisconsinan and Holocene history of the Laurentide ice sheet. Géographie physique et Quaternaire, 41(2), 237-263.](https://doi.org/10.7202/032681ar)
 
 
 ## Drainage of Glaciers to Ocean
 
+* [Süfke, F., Gutjahr, M., Keigwin, L. D., Reilly, B., Giosan, L., & Lippold, J. (2022). Arctic drainage of Laurentide Ice Sheet meltwater throughout the past 14,700 years. Communications Earth & Environment, 3(1), 1-11.](https://doi.org/10.1038/s43247-022-00428-3)
 * [Pico, T., David, S. R., Larsen, I. J., Mix, A. C., Lehnigk, K., & Lamb, M. P. (2022). Glacial isostatic adjustment directed incision of the Channeled Scabland by Ice Age megafloods. Proceedings of the National Academy of Sciences, 119(8).](https://doi.org/10.1073/pnas.2109502119)
   * > The glacial Lake Missoula outburst floods are among the largest known floods on Earth. Dozens of these floods scoured the landscapes of eastern Washington during the last Ice Age, from 18 to 15.5 thousand years ago, forming what is known as the Channeled Scabland. We explored how changes in topography due to the solid Earth’s response to ice sheet loading and unloading influenced the history of megaflood routing over the Channeled Scabland. We found that deformation of Earth’s crust played an important role in directing the erosion of the Channeled Scabland.
 * [Cornelius, S. (2018). Volume Fractions of Lithologic units deposited per geologic epoch in the Cenozoic, Keathley Canyon and Walker Ridge, Deepwater Gulf of Mexico: Part 1--Sand, Shale, and Siltstone. GCAGS Journal.](https://www.academia.edu/38053365/Volume_Fractions_of_Lithologic_units_deposited_per_geologic_epoch_in_the_Cenozoic_Keathley_Canyon_and_Walker_Ridge_Deepwater_Gulf_of_Mexico_Part_1--Sand_Shale_and_Siltstone)
 * [Fildani A, Hessler AM, Mason CC, McKay MP, Stockli DF (2018) Late Pleistocene glacial transitions in North America altered major river drainages, as revealed by deep-sea sediment. Scientific Reports. (8) 13839.](https://doi.org/10.1038/s41598-018-32268-7)
   * > Here we integrate data from the deepest sediment core drilled by the Deep Sea Drilling Program (DSDP) Leg 96 on the Mississippi fan (Fig. 1) to reveal major modifications to the Mississippi–Missouri drainage by the southern LIS over the past ~70 ka. Growth of the LIS began over the eastern Canadian Arctic ~116 ka (MIS 5d), and experienced punctuated episodes of expansion (~65 ka: MIS 4) and retreat (~50–40 ka: MIS 3) until reaching its maximum extent during the LGM approximately 26–25 ka (MIS 2). Mountain glaciers were near or at their maximum extent by ~30 ka, which is broadly contemporaneous with the interval when global ice sheets first reached their maxima.
+* [Murton, J. B., Bateman, M. D., Dallimore, S. R., Teller, J. T., & Yang, Z. (2010). Identification of Younger Dryas outburst flood path from Lake Agassiz to the Arctic Ocean. Nature, 464(7289), 740-743.](https://doi.org/10.1038/nature08954)
 * [Allen PA (2008) From landscapes into geological history. Nature. (451): 274–276.](https://doi.org/10.1038/nature06586)
 
 ## 42000 BCE - Geomagnetic Reversal
