@@ -2,6 +2,7 @@
 
 ## Glaciers and Climate Change
 
+* [Kielhofer, J. R., Tierney, J. E., Reuther, J. D., Potter, B. A., Holmes, C. E., Lanoë, F. B., ... & Bigelow, N. H. (2023). BrGDGT temperature reconstruction from interior Alaska: Assessing 14,000 years of deglacial to Holocene temperature variability and potential effects on early human settlement. Quaternary Science Reviews, 303, 107979.](https://doi.org/10.1016/j.quascirev.2023.107979)
 * [Dallmeyer, A., Kleinen, T., Claussen, M., Weitzel, N., Cao, X., & Herzschuh, U. (2022). The deglacial forest conundrum. Nature Communications, 13(1), 1-10.](https://doi.org/10.1038/s41467-022-33646-6)
 * [Lapointe, F., & Bradley, R. S. (2021). Little Ice Age abruptly triggered by intrusion of Atlantic waters into the Nordic Seas. Science advances, 7(51), eabi8230.](https://doi.org/10.1126/sciadv.abi8230)
 * [Lapointe, F., Bradley, R. S., Francus, P., Balascio, N. L., Abbott, M. B., Stoner, J. S., ... & Labarre, T. (2020). Annually resolved Atlantic sea surface temperature variability over the past 2,900 y. Proceedings of the National Academy of Sciences, 117(44), 27171-27178.](https://doi.org/10.1073/pnas.2014166117)

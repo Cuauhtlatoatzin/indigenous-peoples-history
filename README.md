@@ -1342,10 +1342,18 @@ Absorbed parts of the Chiripa culture in 200 BCE.
 * [Saunders, N. J. (2005) El Icono Felino en Mexico: Fauces, Garras, y Unas. Arqueologico Mexicana. 72, pp. 20-27.](https://web.archive.org/web/20091007115738/http://www.arqueomex.com/PDFs/S8N5FELINO.pdf)
 * [Loma del Zapote Jaguar](https://www.flickr.com/photos/ilhuicamina/383928688)
 
+## Rubber, palo de hule (Español), olicuáhuitl (Nahuatl), juunyi (Nuntajɨɨyi), ch'ich' (Chol Mayan), kꞌikꞌ (Lacandon Mayan), peem (Teenek) - Olmec (1600BCE)
+
+* [Tarkanian, M. J., & Hosler, D. (2011). America’s first polymer scientists: Rubber processing, use and transport in Mesoamerica. Latin American Antiquity, 22(4), 469-486.](https://www.jstor.org/stable/23072570) &mdash; [PDF](http://whereareyouquetzalcoatl.com/RioHondo/humn125/readings/TarkanianandHosler2011.pdf)
+  * > Rubber is a material that was first processed in ancient Mesoamerica. The history of rubber usually begins in 1839 with Charles Goodyear’s discovery of vulcanization, a process that can increase the strength, elasticity and durability of rubber. During a period of 3,500 years before Goodyear’s discovery, the Olmec, Maya, Aztec (Mexica), and other Mesoamerican peoples were employing rubber and latex in medicines and rituals, for rubber ballsfor the Mesoamerican ballgame, and for sandal soles. Several lines of evidence indicate that ancient Mesoamericans were making rubber by mixing latex from the Castilla elastica tree with juice from the morning glory vine Ipomoea alba, as early as the second millennium B.C. (Hosler et al. 1999; Tarkanian 2000, 2003; Tarkanian and Hosler 2000, 2001). Materials associated with large rubber balls excavated from the Olmec site of Manatí, Veracruz, Mexico have been radiocarbon dated to as early as 1600 B.C. (Rodríguez and Ortiz 1994; Ortiz and Rodríguez 1994), marking the earliest known use of rubber in the world. This complements data that place the earliest known ball court, at Paso de la Amada, Chiapas, Mexico, at 1400 B.C. (uncalibrated)(Hill et al. 1998).
+* [Tarkanian, M. J. (2003). Prehistoric polymer engineering: a study of rubber technology in the Americas (Doctoral dissertation, Massachusetts Institute of Technology).](https://dspace.mit.edu/bitstream/handle/1721.1/98335/54810464-MIT.pdf?sequence=1)
+* [Hill, W. D., Blake, M., & Clark, J. E. (1998). Ball court design dates back 3,400 years. Nature, 392(6679), 878-879.](https://doi.org/10.1038/31837)
+* [Dorothy Hosler, Sandra L. Burkett, Michael J. Tarkanian. Prehistoric Polymers: Rubber Processing in Ancient Mesoamerica. Science. 18 Jun 1999 : 1988-1991](https://science.sciencemag.org/content/284/5422/1988)
+
 ## El Manatí - Hidalgotitlán, Veracruz, MX - Olmec (1600 BCE - 1200 BCE)
 
 * [El Manatí](https://en.wikipedia.org/wiki/El_Manat%C3%AD)
-* [Dorothy Hosler, Sandra L. Burkett, Michael J. Tarkanian. Prehistoric Polymers: Rubber Processing in Ancient Mesoamerica. Science. 18 Jun 1999 : 1988-1991](https://science.sciencemag.org/content/284/5422/1988)
+
 * [Associated Press (2018) Germany returns 3,000-year-old relics to Mexico. Deutsche Welle. March 12.](https://p.dw.com/p/2ufRI)
 
 ## Lamanai - Orange Walk District, Belieze - Lowland Maya (1600 BCE - 1700 CE)
